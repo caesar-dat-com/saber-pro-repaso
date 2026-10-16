@@ -1,0 +1,1357 @@
+[
+ {
+  "id": "ciudadana-01",
+  "area": "ciudadana",
+  "n": 1,
+  "contexto": 0,
+  "enunciado": "La participación ciudadana es un derecho:",
+  "opciones": {
+   "A": "económico",
+   "B": "constitucional",
+   "C": "político",
+   "D": "civil"
+  },
+  "correcta": "B",
+  "explicacion": "El texto lo dice literal: «es un derecho constitucional garantizado en Colombia»."
+ },
+ {
+  "id": "ciudadana-02",
+  "area": "ciudadana",
+  "n": 2,
+  "contexto": 0,
+  "enunciado": "La participación electoral puede manifestarse a través de:",
+  "opciones": {
+   "A": "iniciativas legislativas y voto",
+   "B": "elecciones y cabildo abierto",
+   "C": "elecciones y referendo",
+   "D": "iniciativas legislativas y plebiscitos"
+  },
+  "correcta": "C",
+  "explicacion": "El texto separa electoral (voto, referendos, plebiscitos) de NO electoral (iniciativa legislativa, cabildo abierto). Solo «elecciones y referendo» es puramente electoral."
+ },
+ {
+  "id": "ciudadana-03",
+  "area": "ciudadana",
+  "n": 3,
+  "contexto": 0,
+  "enunciado": "La democracia supone una ciudadanía que participa en términos políticos y:",
+  "opciones": {
+   "A": "sociales, porque incide en la toma de decisiones y en el sostenimiento de la organización social en favor de intereses colectivos",
+   "B": "ciudadanos, ya que decide intencionalmente sobre la vida política del país, y transforma la organización social según los intereses generales",
+   "C": "colectivos, por cuanto despliega un comportamiento intencional de incidir y transformar la organización social, y de intervención en la vida pública",
+   "D": "públicos, dado que es responsable de mantener y transformar la organización social, así como intervenir en las decisiones políticas actuales"
+  },
+  "correcta": "A",
+  "explicacion": "Las dos instancias del texto son participación política y participación en la sociedad civil → «sociales»."
+ },
+ {
+  "id": "ciudadana-04",
+  "area": "ciudadana",
+  "n": 4,
+  "contexto": 0,
+  "enunciado": "El principio de la solidaridad se materializa en acciones ciudadanas como:",
+  "opciones": {
+   "A": "la veeduría pública, que cuestiona los canales y mecanismos que la ciudadanía no ve como efectivos en términos de participación",
+   "B": "la movilización social, que exige el cumplimiento de los derechos para todos independientemente de si son grupos poblacionales más vulnerables",
+   "C": "el pago de impuestos, que favorecen el cumplimiento de derechos sociales y económicos para poblaciones vulnerables, logrando la igualdad material",
+   "D": "el voto en elecciones, que supone un uso particular del derecho a decidir quiénes nos representan en cargos de poder"
+  },
+  "correcta": "C",
+  "explicacion": "La solidaridad se liga a igualdad material (art. 13) y derechos sociales/económicos para poblaciones vulnerables; el pago de impuestos es la única opción que une esos tres elementos."
+ },
+ {
+  "id": "ciudadana-05",
+  "area": "ciudadana",
+  "n": 5,
+  "contexto": 0,
+  "enunciado": "Aunque el principio de solidaridad fundamenta en gran medida la responsabilidad que tiene la ciudadanía contra la injusticia estructural, se ve disminuido:",
+  "opciones": {
+   "A": "en la zona pacifica, porque hay menor interés en la participación política y mayor disposición al trabajo comunitario, lo que refleja más personas que no votan en las elecciones regionales",
+   "B": "en todo el territorio nacional, porque sumadas las razones por las cuales no votaron los ciudadanos los porcentajes son mayores, y la corresponsabilidad es un asunto de interés general",
+   "C": "en la capital, porque las condiciones de vida material de sus ciudadanos son mejores y aunque tienen responsabilidades frente a otras regiones con mayores vulnerabilidades no se interesan",
+   "D": "en la región central, porque la percepción de corrupción que tiene la ciudadanía y el desinterés es mayor que en otras zonas del país, alejándolos de la participación política electoral"
+  },
+  "correcta": "D",
+  "explicacion": "Lectura de la tabla 1: la región Central tiene los porcentajes más altos en desinterés (41,7) y «los políticos son corruptos» (41)."
+ },
+ {
+  "id": "ciudadana-06",
+  "area": "ciudadana",
+  "n": 6,
+  "contexto": 1,
+  "enunciado": "En una Colombia incluyente no cuentan:",
+  "opciones": {
+   "A": "campesinos",
+   "B": "latifundistas",
+   "C": "capitalistas",
+   "D": "ganaderos"
+  },
+  "correcta": "A",
+  "explicacion": "Literal: «En una Colombia incluyente no cuentan los campesinos, afrocolombianos, indígenas...»."
+ },
+ {
+  "id": "ciudadana-07",
+  "area": "ciudadana",
+  "n": 7,
+  "contexto": 1,
+  "enunciado": "Algunos mecanismos de transformación violenta de los territorios fueron:",
+  "opciones": {
+   "A": "reforma agraria y disputas",
+   "B": "desplazamiento forzado y migraciones",
+   "C": "procesos de descentralización y despojos",
+   "D": "desplazamiento forzado y despojos"
+  },
+  "correcta": "D",
+  "explicacion": "Literal del primer párrafo: «desplazamiento forzado y el despojo»."
+ },
+ {
+  "id": "ciudadana-08",
+  "area": "ciudadana",
+  "n": 8,
+  "contexto": 1,
+  "enunciado": "Se puede establecer que urbanismo a la fuerza se refiere a:",
+  "opciones": {
+   "A": "crecimiento desbordado de las ciudades, por la llegada de miles de personas desplazadas por la violencia",
+   "B": "crecimiento no planificado de las ciudades, por la llegada de habitantes del campo en busca de oportunidades",
+   "C": "toma de las ciudades en sus instituciones y recursos, por diferentes grupos y organizaciones legales e ilegales",
+   "D": "crecimiento desbordado de las ciudades, por sujetos dedicados a actividades informales o que no pueden integrarse económicamente"
+  },
+  "correcta": "A",
+  "explicacion": "El urbanismo por la fuerza es el crecimiento de ciudades receptoras por población desplazada por la violencia."
+ },
+ {
+  "id": "ciudadana-09",
+  "area": "ciudadana",
+  "n": 9,
+  "contexto": 1,
+  "enunciado": "La solución de la marginalidad y pobreza de las ciudades pasa por:",
+  "opciones": {
+   "A": "generar trabajo formal y programas de capacitación, para las personas que provienen de las áreas rurales",
+   "B": "realizar una reforma agraria, para que los desplazados regresen a sus tierras y disminuyan los asentamientos informales",
+   "C": "que los entes e instituciones estatales logren tener bajo su control estas áreas urbanas y erradiquen los grupos ilegales",
+   "D": "que el Estado haga presencia integral en estos territorios respondiendo a las necesidades de los habitantes"
+  },
+  "correcta": "D",
+  "explicacion": "El texto diagnostica ausencia estatal y falta de acceso a derechos → presencia integral del Estado."
+ },
+ {
+  "id": "ciudadana-10",
+  "area": "ciudadana",
+  "n": 10,
+  "contexto": 1,
+  "enunciado": "El proceso vivido por Colombia en las tres últimas décadas lleva a pensar que:",
+  "opciones": {
+   "A": "la Constitución de 1991 no fue la llave mágica que se esperaba, para solucionar los problemas que afectaban al país y dar un nuevo orden social y político",
+   "B": "en el territorio nacional las fuentes de corrupción pasan por actores políticos legales (partidos políticos) y grupos armados ilegales (narcotraficantes, guerrilleros y paramilitares), que parecen no tener fin",
+   "C": "mientras no haya un proceso de depuración de las prácticas políticas y de control institucional del Estado del territorio, de su población y sus recursos, se mantendrán los problemas",
+   "D": "este es un país sin porvenir, pues todo está dado para que grupos políticos legales y actores armados se apropien de las riquezas de la nación y sometan a la población"
+  },
+  "correcta": "C",
+  "explicacion": "El texto muestra que la corrupción se profundizó DESPUÉS de 1991 → sin depuración política y control institucional los problemas siguen."
+ },
+ {
+  "id": "ciudadana-11",
+  "area": "ciudadana",
+  "n": 11,
+  "contexto": 2,
+  "enunciado": "La noviolencia reside en la construcción de:",
+  "opciones": {
+   "A": "conceptos",
+   "B": "principios",
+   "C": "realidades",
+   "D": "conflictos"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «el aporte de la noviolencia reside en la construcción de principios, argumentos y métodos»."
+ },
+ {
+  "id": "ciudadana-12",
+  "area": "ciudadana",
+  "n": 12,
+  "contexto": 2,
+  "enunciado": "La noviolencia acontece en un mundo pluralizado entre:",
+  "opciones": {
+   "A": "justicia y libertad",
+   "B": "ingenuidad e indiferencia",
+   "C": "pasividad y utopía",
+   "D": "saberes y conocimientos"
+  },
+  "correcta": "D",
+  "explicacion": "Literal: «mundo pluralizado epistemológicamente — entre saberes y conocimientos»."
+ },
+ {
+  "id": "ciudadana-13",
+  "area": "ciudadana",
+  "n": 13,
+  "contexto": 2,
+  "enunciado": "La noviolencia expresa su sentido pacificador, en la consecución de sociedades que:",
+  "opciones": {
+   "A": "se responsabilizan por la construcción de sentidos para desinstalar el paradigma de la violencia, ya que exigen la regulación de conflictos",
+   "B": "gestionan los conflictos y cuando se presentan luchas entre comunidades apelan a medios pacíficos para resolver sus disputas y diferencias",
+   "C": "replican las aquiescencias políticas, por la importancia que implica observar acríticamente el ejercicio del poder por parte de los gobernantes",
+   "D": "afirman la impracticabilidad de la gestión pacífica del conflicto, debido a que resulta inalcanzable la desinstalación del paradigma de la violencia"
+  },
+  "correcta": "A",
+  "explicacion": "Literal: «sociedades más pacíficas, en las que sea posible la regulación de los conflictos»."
+ },
+ {
+  "id": "ciudadana-14",
+  "area": "ciudadana",
+  "n": 14,
+  "contexto": 2,
+  "enunciado": "Referenciar el liderazgo de Mahatma Ghandi como experiencia relevante de la noviolencia permite:",
+  "opciones": {
+   "A": "interpretar esta concepción de manera instrumental, porque sus fundamentos fortalecen el empeño de las luchas sociales de las comunidades",
+   "B": "desestimar la búsqueda de la verdad y de la justicia, debido a la incapacidad para transformar el conflicto violento",
+   "C": "visibilizar su cosmovisión y espiritualidad en las luchas de las comunidades, porque puso en práctica principios y argumentos noviolentos",
+   "D": "concebirla como una experiencia distante de las luchas sociales, pues la transformación del conflicto violento acontece en la trascendencia"
+  },
+  "correcta": "C",
+  "explicacion": "Gandhi aparece como quien puso en práctica ahimsa y satyagraha en luchas sociales → visibiliza su cosmovisión."
+ },
+ {
+  "id": "ciudadana-15",
+  "area": "ciudadana",
+  "n": 15,
+  "contexto": 2,
+  "enunciado": "Las continuas guerras entre pueblos con sus impactos en el número de víctimas y destrucción, demuestran:",
+  "opciones": {
+   "A": "la degradación de derechos frente a una sociedad que se reconoce dividida en medio de la reproducción sistemática de problemáticas asociadas a la discriminación, la exclusión social y la desigualdad",
+   "B": "el fracaso que han tenido muchos pueblos y sociedades en la transformación de los conflictos, dadas las condiciones estructurales y culturales para dimensionar y construir la paz como desarrollo humano",
+   "C": "que el principal obstáculo para la gestión y transformación del conflicto es no aceptar la mediación de organizaciones internacionales que puedan intervenir para lograr el entendimiento entre las partes enfrentadas",
+   "D": "la raíz profunda del conflicto, puesto que hay objetivos e intereses irreconciliables, que hacen imposible que las soluciones se basen en principios y valores propios de un Estado de derecho"
+  },
+  "correcta": "B",
+  "explicacion": "El texto cierra con la paz como desarrollo humano (Galtung, Curle) → el fracaso está en la transformación de los conflictos."
+ },
+ {
+  "id": "ciudadana-16",
+  "area": "ciudadana",
+  "n": 16,
+  "contexto": 3,
+  "enunciado": "En el sector primario se destaca:",
+  "opciones": {
+   "A": "industria",
+   "B": "finanzas",
+   "C": "agricultura",
+   "D": "información"
+  },
+  "correcta": "C",
+  "explicacion": "El texto da agricultura 6,1 % del PIB y minería 5,4 %: agricultura es la que se destaca."
+ },
+ {
+  "id": "ciudadana-17",
+  "area": "ciudadana",
+  "n": 17,
+  "contexto": 3,
+  "enunciado": "Colombia basa su crecimiento en factores como:",
+  "opciones": {
+   "A": "la innovación y la inversión",
+   "B": "el trabajo y el capital",
+   "C": "las exportaciones y el comercio",
+   "D": "la agricultura y la minería"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «ha basado su crecimiento en la acumulación de factores de producción (trabajo y capital)»."
+ },
+ {
+  "id": "ciudadana-18",
+  "area": "ciudadana",
+  "n": 18,
+  "contexto": 3,
+  "enunciado": "Un análisis de la composición de la economía colombiana nos permite establecer que:",
+  "opciones": {
+   "A": "la generación de empleo depende mayoritariamente del petróleo y el carbón, dado que son los principales productos de exportación",
+   "B": "el comercio exterior colombiano se basa en una reducida cantidad de productos, concentrados en la exportación de petróleo y carbón",
+   "C": "el sector industrial genera la mayor oferta de empleos, ya que emplea a un 18% de la población laboral",
+   "D": "el sector primario (agricultura, ganadería, minería) es el que más empleos genera, puesto que el país tiene una tradición agropecuaria"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: exportaciones «fuertemente concentradas en las industrias extractivas»; petróleo y minería son la principal fuente de divisas."
+ },
+ {
+  "id": "ciudadana-19",
+  "area": "ciudadana",
+  "n": 19,
+  "contexto": 3,
+  "enunciado": "En Colombia reducir la pobreza y la desigualdad social es difícil porque:",
+  "opciones": {
+   "A": "Muy pocas personas y grupos empresariales concentran la propiedad y los recursos financieros y la productividad agropecuaria es baja",
+   "B": "El sector industrial que es fuente de bastante empleo se encuentra estancado e incluso cada vez se cierran más empresas",
+   "C": "El sector terciario debería generar más empleo de alto valor agregado, pero para ello se debería industrializar más el país",
+   "D": "La actividad minera precisa de la utilización de maquinaria de alta tecnología y los empleos que genera son muy pocos"
+  },
+  "correcta": "A",
+  "explicacion": "El texto enumera gran concentración de la tierra, productividad baja y un sector financiero controlado por muy pocos."
+ },
+ {
+  "id": "ciudadana-20",
+  "area": "ciudadana",
+  "n": 20,
+  "contexto": 3,
+  "enunciado": "Para que Colombia alcance los niveles de crecimiento económico de los países más desarrollados se necesitaría:",
+  "opciones": {
+   "A": "Fomentar la reactivación de establecimientos industriales, incrementar la producción del sector primario (agricultura, pesca, ganadería, silvicultura y minería), lo cual permitiría una mayor generación de empleo, alimentos y recursos económicos",
+   "B": "Aumentar las exportaciones de minerales como el petróleo y carbón que tradicionalmente han sido la base económica del país y fortalecer el sector primario (agricultura, ganadería, pesca y silvicultura)",
+   "C": "Consolidar un sector de servicios de alto valor agregado (robótica, software, chips, telefonía celular), mejorar la infraestructura hotelera, potenciar el turismo y disminuir el peso porcentual del sector primario",
+   "D": "Mejorar la infraestructura de carreteras, aeropuertos y puertos marítimos con el fin de disminuir los costos de los fletes que son un factor adverso para el comercio interno y externo"
+  },
+  "correcta": "C",
+  "explicacion": "El texto pide más empleo en secundario y terciario y critica los servicios de bajo valor agregado → consolidar servicios de alto valor agregado."
+ },
+ {
+  "id": "ciudadana-21",
+  "area": "ciudadana",
+  "n": 21,
+  "contexto": 4,
+  "enunciado": "La Constitución Política de Colombia vigente se redactó en:",
+  "opciones": {
+   "A": "1886",
+   "B": "1990",
+   "C": "1991",
+   "D": "1986"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: «se redactó en 1991»."
+ },
+ {
+  "id": "ciudadana-22",
+  "area": "ciudadana",
+  "n": 22,
+  "contexto": 4,
+  "enunciado": "La Constitución afronta problemas heredados desde la colonia como la:",
+  "opciones": {
+   "A": "discriminación étnica e intolerancia religiosa",
+   "B": "intolerancia religiosa y participación política",
+   "C": "participación política e inequidad económica",
+   "D": "inequidad económica y garantías de derechos"
+  },
+  "correcta": "A",
+  "explicacion": "El texto lista en ese orden: discriminación por origen étnico e intolerancia frente a credos religiosos."
+ },
+ {
+  "id": "ciudadana-23",
+  "area": "ciudadana",
+  "n": 23,
+  "contexto": 4,
+  "enunciado": "La nueva Constitución Política de Colombia de 1991 es una revolución porque:",
+  "opciones": {
+   "A": "cambió el paradigma de protección de derechos, al adoptar medidas para garantizar los derechos fundamentales como la acción de tutela",
+   "B": "amplió un mayor reconocimiento de derechos, incluyendo derechos fundamentales, económicos, sociales y culturales, y los colectivos y del medio ambiente",
+   "C": "disminuyó derechos económicos, sociales y culturales, al no reconocer un aspecto ampliado de las garantías constitucionales desde el interés común",
+   "D": "reconoció derechos colectivos y del ambiente, como un conjunto complementario a las medidas de protección como la acción de grupo"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «amplió el reconocimiento de derechos... fundamentales, económicos, sociales y culturales, y los colectivos y del medio ambiente»."
+ },
+ {
+  "id": "ciudadana-24",
+  "area": "ciudadana",
+  "n": 24,
+  "contexto": 4,
+  "enunciado": "En términos de garantías de derecho, la Constitución de 1991 ha implicado que el Estado:",
+  "opciones": {
+   "A": "adopte medidas que favorecen grupos discriminados, como garantizar mayor representación en el Congreso y promover condiciones para la igualdad material",
+   "B": "castigue las violaciones a los derechos fundamentales, a través de medidas judiciales implementadas para disminuir las situaciones de discriminación",
+   "C": "proteja a los grupos históricamente discriminados, mediante leyes que erradican las expresiones de discriminación social y promueven la igualdad material",
+   "D": "implemente regulaciones de los comportamientos individuales y sociales, como las leyes que prohíben la discriminación y protejan los derechos sociales"
+  },
+  "correcta": "A",
+  "explicacion": "El texto cita representación mínima en el Congreso (arts. 171 y 176) y el art. 13 (promover condiciones para la igualdad efectiva)."
+ },
+ {
+  "id": "ciudadana-25",
+  "area": "ciudadana",
+  "n": 25,
+  "contexto": 4,
+  "enunciado": "Aunque la Constitución de 1991 es innovadora y representa formalmente un entramado de justicia robusto:",
+  "opciones": {
+   "A": "existen situaciones en las que comunidades indígenas y afrodescendientes siguen siendo discriminadas, por cuanto no tienen voz en las decisiones legislativas del Congreso aun cuando crean leyes que les afectan",
+   "B": "los casos de discriminación por sexo u orientación sexual han disminuido, porque hoy en día existen normativas que obligan a un trato igualitario frente a la ley y la protección de derechos",
+   "C": "se siguen presentando numerosos casos en los que existe la discriminación y vulneración de derechos, tales como la omisión de la consulta previa para la intervención minera en territorios colectivos",
+   "D": "el Congreso crea leyes y la Corte Constitucional toma decisiones jurídicas en situaciones concretas para afrontar los diferentes conflictos y actos discriminatorios que vulneran los derechos de personas y grupos"
+  },
+  "correcta": "C",
+  "explicacion": "La única opción que reconoce que la discriminación persiste pese al marco formal, con caso concreto (consulta previa)."
+ },
+ {
+  "id": "ciudadana-26",
+  "area": "ciudadana",
+  "n": 26,
+  "contexto": 5,
+  "enunciado": "Los sobrevivientes atemorizados se abalanzaron sobre:",
+  "opciones": {
+   "A": "civiles",
+   "B": "sacerdotes",
+   "C": "guerrilleros",
+   "D": "embarcaciones"
+  },
+  "correcta": "D",
+  "explicacion": "Literal: «se abalanzaron sobre embarcaciones»."
+ },
+ {
+  "id": "ciudadana-27",
+  "area": "ciudadana",
+  "n": 27,
+  "contexto": 5,
+  "enunciado": "Le quitaron la vida al 10% del pueblo:",
+  "opciones": {
+   "A": "desprotegido e inocente",
+   "B": "humilde y olvidado",
+   "C": "civil y desarmado",
+   "D": "herido y refugiado"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «el 10 % de un pueblo humilde y olvidado»."
+ },
+ {
+  "id": "ciudadana-28",
+  "area": "ciudadana",
+  "n": 28,
+  "contexto": 5,
+  "enunciado": "En relación con la responsabilidad del Estado colombiano, los derechos:",
+  "opciones": {
+   "A": "constituyen el reconocimiento de un conjunto de valores éticos e ideales democráticos fundados en los principios del pluralismo",
+   "B": "identifican incompatibilidades con la guerra y cualquier conflicto armado que asegure la expresión de la violencia directa, estructural y cultural",
+   "C": "significan una acción garante del Estado colombiano, trayendo como consecuencia el aseguramiento de condiciones para su realización",
+   "D": "intervienen en la relación del Estado con la industrialización de la cultura, reconociendo la dignidad como principio fundamental e integrador"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: «el lugar del Estado como garante de derechos y de condiciones para su materialización»."
+ },
+ {
+  "id": "ciudadana-29",
+  "area": "ciudadana",
+  "n": 29,
+  "contexto": 5,
+  "enunciado": "El reconocimiento del derecho y deber a la paz en Colombia permite:",
+  "opciones": {
+   "A": "replantear la suficiencia del reconocimiento jurídico frente a las problemáticas de discriminación, exclusión social y violencia que obstaculizan su materialización",
+   "B": "generar una cultura de paz que integre el reconocimiento, la inclusión y la sostenibilidad como principios fundantes y orientadores de la ciudadanía",
+   "C": "identificar un propósito fundamental del Derecho Internacional, y un fin fundamental del Estado colombiano que corresponda el deber ser de la ciudadanía",
+   "D": "Generar mecanismos que permitan la externalización de su plenitud, estableciendo un diálogo con las desigualdades manifiestas en los grupos sociales"
+  },
+  "correcta": "B",
+  "explicacion": "El texto reconoce que lo jurídico no basta (por eso A tienta), pero la pregunta es qué PERMITE ese reconocimiento: orientar un concepto de paz que promueva una cultura de paz basada en reconocimiento, inclusión y sostenibilidad."
+ },
+ {
+  "id": "ciudadana-30",
+  "area": "ciudadana",
+  "n": 30,
+  "contexto": 5,
+  "enunciado": "la concreción del derecho a la paz justifica la promoción de un empoderamiento pacifista que:",
+  "opciones": {
+   "A": "desintegre la capacidad del ser humano para formular proyectos que signifiquen la existencia del conflicto determinado por el paradigma de la violencia y la expresión sistemática de contradicciones irreconciliables",
+   "B": "dé cuenta de la complejidad manifiesta del ser humano en convivencias conflictivas, tensionadas y contradictorias, aunque a su vez altruistas y solidarias, para reclamar la perspectiva imperfecta de la paz",
+   "C": "considere la inherencia del conflicto a la naturaleza humana para generar dependencias sobre una idea de paz en donde el conflicto sea inexistente, y por tanto la paz sea irrealizable",
+   "D": "facilite el mantenimiento del orden, la tranquilidad del espíritu, así como la realización de la justicia y la igualdad, caracterizados por la ausencia de violencia directa y estructural"
+  },
+  "correcta": "D",
+  "explicacion": "El empoderamiento pacifista se define con los rasgos de la paz: orden, tranquilidad, justicia e igualdad, y ausencia de violencia directa y estructural. B describe la antropología de la paz positiva, no la definición que se pide."
+ },
+ {
+  "id": "lectura-01",
+  "area": "lectura",
+  "n": 1,
+  "contexto": 0,
+  "enunciado": "¿Qué acariciaba el piso encerado?",
+  "opciones": {
+   "A": "El mueble",
+   "B": "El sillón",
+   "C": "El sol",
+   "D": "El vestíbulo"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: «El sol acariciaba el piso encerado»."
+ },
+ {
+  "id": "lectura-02",
+  "area": "lectura",
+  "n": 2,
+  "contexto": 0,
+  "enunciado": "Por la mañana, la autora:",
+  "opciones": {
+   "A": "sabía y buscaba",
+   "B": "enroscaba y miraba",
+   "C": "buscaba y miraba",
+   "D": "sabía y enroscaba"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «Por la mañana enroscaba mi pelo... y miraba con satisfacción en el espejo»."
+ },
+ {
+  "id": "lectura-03",
+  "area": "lectura",
+  "n": 3,
+  "contexto": 0,
+  "enunciado": "De la expresión “no podré sentarme en sus rodillas”, se infiere:",
+  "opciones": {
+   "A": "El tamaño del personaje al crecer superará el de su madre",
+   "B": "El trato reflejado entre madre e hija evidencia cercanía",
+   "C": "El sentimiento de nostalgia que anticipa la adultez",
+   "D": "El inmenso desconsuelo por el fin de los juegos pueriles"
+  },
+  "correcta": "C",
+  "explicacion": "La frase anticipa el crecer y perder la infancia: nostalgia que anticipa la adultez."
+ },
+ {
+  "id": "lectura-04",
+  "area": "lectura",
+  "n": 4,
+  "contexto": 0,
+  "enunciado": "¿Cómo se sentía la protagonista consigo misma en relación con los demás?",
+  "opciones": {
+   "A": "Requería la validación permanente de los amigos de sus padres, pues solía sentir despecho cuando no la obtenía",
+   "B": "Disfrutaba de las alabanzas de los amigos de sus padres, en tanto se sentía única debido a su apariencia física",
+   "C": "Prescindía de la atención de los amigos de sus padres, ya que estos la veían como una persona corriente",
+   "D": "Intentaba alejarse de los comentarios malintencionados de los amigos de sus padres debido a que deseaba sentirse auténtica"
+  },
+  "correcta": "B",
+  "explicacion": "«Me gustaba a mí misma y me gustaba gustar»: se cree singular por su apariencia (morena de ojos claros)."
+ },
+ {
+  "id": "lectura-05",
+  "area": "lectura",
+  "n": 5,
+  "contexto": 0,
+  "enunciado": "¿De qué manera el tiempo cambia la autopercepción de la narradora y su relación con el mundo?",
+  "opciones": {
+   "A": "Percibe una evolución constante en sí misma y siente que, mientras algunas fracturas con el mundo son ineludibles, ella cambia, dejando atrás distintos momentos, recuerdos y etapas vitales de su niñez",
+   "B": "Interpreta los momentos como un espejo introspectivo que refleja su transformación personal, sintiendo nostalgia por las etapas pasadas y una curiosidad cautelosa ante las incertidumbres del futuro que la aguarda",
+   "C": "Experimenta una encrucijada emocional, a menudo sintiéndose aislada y distante, y aunque busca conexiones auténticas, piensa que solo unos pocos pueden realmente comprender la profundidad de su perspectiva única",
+   "D": "Piensa la vida como una serie de desafíos y revelaciones, donde cada momento es una búsqueda de validación, sentido y reconocimiento en su interacción con el mundo y las personas que la rodean"
+  },
+  "correcta": "A",
+  "explicacion": "«Presentí todos los rompimientos, los renunciamientos, los abandonos»: la narradora cambia y asume fracturas ineludibles con el mundo."
+ },
+ {
+  "id": "lectura-06",
+  "area": "lectura",
+  "n": 6,
+  "contexto": 1,
+  "enunciado": "Cuando se trata de imaginar la felicidad, comenzamos a inventar:",
+  "opciones": {
+   "A": "Pobreza",
+   "B": "Impotencia",
+   "C": "Metas",
+   "D": "Paraísos"
+  },
+  "correcta": "D",
+  "explicacion": "Literal: «comenzamos a inventar paraísos, islas afortunadas»."
+ },
+ {
+  "id": "lectura-07",
+  "area": "lectura",
+  "n": 7,
+  "contexto": 1,
+  "enunciado": "¿Qué nunca se manifiesta cuando se trata de imaginar la felicidad?",
+  "opciones": {
+   "A": "La pobreza y la búsqueda de superación",
+   "B": "La pobreza y la impotencia de la imaginación",
+   "C": "La impotencia de la imaginación y los riesgos",
+   "D": "La búsqueda de superación y los riesgos"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «La pobreza y la impotencia de la imaginación nunca se manifiestan... como cuando se trata de imaginar la felicidad»."
+ },
+ {
+  "id": "lectura-08",
+  "area": "lectura",
+  "n": 8,
+  "contexto": 1,
+  "enunciado": "El “retorno al huevo” simboliza:",
+  "opciones": {
+   "A": "la cómoda pasividad individual y sobrecogedora protección que representa el útero materno",
+   "B": "la arraigada dependencia hacia la madre, la cual hace que el hombre desee relaciones fáciles y maternales",
+   "C": "la calidez de la primera infancia que llena de amor y por eso carece de dificultades para el individuo",
+   "D": "la vida segura del bebé que está a cargo de unos padres quienes asumen todas las responsabilidades"
+  },
+  "correcta": "A",
+  "explicacion": "«un nido de amor y, por lo tanto, un retorno al huevo» + «salacuna de abundancia pasivamente recibida»: pasividad cómoda y protección uterina."
+ },
+ {
+  "id": "lectura-09",
+  "area": "lectura",
+  "n": 9,
+  "contexto": 1,
+  "enunciado": "¿Cómo se relacionan el idealizado anhelo de retorno y las visiones totalitarias de verdad?",
+  "opciones": {
+   "A": "El deseo de regresar a un estado de simplicidad lleva a las personas a buscar verdades absolutas que justifiquen este anhelo",
+   "B": "La idealización del \"retorno al huevo\" refleja la tendencia humana a simplificar la realidad y buscar conformidad en verdades irrefutables",
+   "C": "La aversión a la complejidad y el deseo de retorno llevan a las personas a adherirse a verdades simplificadas",
+   "D": "Las visiones totalitarias de la verdad son el resultado directo del deseo humano de regresar a un estado de inocencia y simplicidad"
+  },
+  "correcta": "B",
+  "explicacion": "B y C dicen casi lo mismo, pero B usa el concepto del texto (idealización del «retorno al huevo» → simplificar la realidad y buscar verdades irrefutables). C introduce una causa («aversión») que el texto no nombra."
+ },
+ {
+  "id": "lectura-10",
+  "area": "lectura",
+  "n": 10,
+  "contexto": 1,
+  "enunciado": "El texto desarrolla una reflexión crítica en torno a actitudes evidenciables en la sociedad que retrata debido a que:",
+  "opciones": {
+   "A": "reconstruye una problemática real y narra situaciones que, conectadas, hacen coherente su representación de realidad",
+   "B": "reconstruye una problemática real y describe de distintas maneras por qué su retrato es fiel a aquello que refleja",
+   "C": "contextualiza una problemática real ante la cual propone una visión particular y justifica por qué dicha visión es acertada",
+   "D": "contextualiza una problemática real y expone diferentes informaciones que la explican de manera global"
+  },
+  "correcta": "C",
+  "explicacion": "Es un ensayo: contextualiza una problemática real, propone una visión propia y la justifica."
+ },
+ {
+  "id": "lectura-11",
+  "area": "lectura",
+  "n": 11,
+  "contexto": 2,
+  "enunciado": "Moe, Curly y Larry deben presentar pruebas de:",
+  "opciones": {
+   "A": "aptitud",
+   "B": "conocimiento",
+   "C": "competencia",
+   "D": "desempeño"
+  },
+  "correcta": "A",
+  "explicacion": "Literal: «deben presentar una prueba de aptitud, diferente a la de conocimiento, competencia o desempeño»."
+ },
+ {
+  "id": "lectura-12",
+  "area": "lectura",
+  "n": 12,
+  "contexto": 2,
+  "enunciado": "Larry ya casi obtuvo la aceptación anticipada de:",
+  "opciones": {
+   "A": "Princeton y MIT",
+   "B": "Princeton y Harvard",
+   "C": "Harvard y Berkeley",
+   "D": "MIT y Berkely"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «aceptación anticipada tanto a Princeton como a Harvard»."
+ },
+ {
+  "id": "lectura-13",
+  "area": "lectura",
+  "n": 13,
+  "contexto": 2,
+  "enunciado": "¿Qué se espera del resultado de Moe durante la presentación del SAT en comparación con Larry y Curly?",
+  "opciones": {
+   "A": "Superará a sus pares, Larry y Curly, en su desempeño, debido a que sufre de ansiedad o estrés moderado",
+   "B": "Tendrá, posiblemente, un buen desempeño, al igual que Larry, pero rendirá mejor que Curly, porque su estrés es moderado",
+   "C": "Podrá tener un desempeño inferior a Larry, ya que presenta altos niveles de epinefrina y glucocorticoides como Curly",
+   "D": "Será superado por Larry, como también por Curly, debido a que tiene bajos niveles de epinefrina y glucocorticoides"
+  },
+  "correcta": "B",
+  "explicacion": "Moe rendirá bien AL IGUAL QUE Larry, y mejor que Curly. Que Larry esté «en desventaja» no significa que vaya a rendir mal: no conviertas una desventaja relativa en mal desempeño."
+ },
+ {
+  "id": "lectura-14",
+  "area": "lectura",
+  "n": 14,
+  "contexto": 2,
+  "enunciado": "¿Qué efecto se espera en una persona que se exponga a un ambiente estresante a largo plazo?",
+  "opciones": {
+   "A": "un mejoramiento de la formación de recuerdos y de la memoria debido a un aumento constante en el crecimiento dendrítico",
+   "B": "un deterioro del recuerdo por la presencia de altos niveles de estrés, lo que genera un funcionamiento deficiente de la memoria",
+   "C": "una afectación significativa de la memoria y el recuerdo como resultado de una disfunción crítica o definitiva del hipocampo",
+   "D": "una respuesta moderada del desempeño de la memoria a causa de los niveles bajos de receptores de glucocorticoides"
+  },
+  "correcta": "C",
+  "explicacion": "A LARGO plazo el estrés produce muerte neuronal en el hipocampo y el daño puede ser permanente: disfunción crítica o definitiva. Aquí la opción fuerte es la correcta; la «prudente» (deterioro del recuerdo) se queda corta."
+ },
+ {
+  "id": "lectura-15",
+  "area": "lectura",
+  "n": 15,
+  "contexto": 2,
+  "enunciado": "Si diferentes individuos fueran sometidos a distintos grados de estrés antes de una tarea cognitiva, ¿cuál sería su desempeño esperado?",
+  "opciones": {
+   "A": "Algunos, considerando la permanente concentración alta de glucocorticoides en el hipocampo, tendrían un rendimiento óptimo con cualquier nivel de estrés, ya que estos receptores favorecen el control emocional a largo plazo",
+   "B": "Algunos, debido a posibles desniveles en la concentración de glucocorticoides en su hipocampo, sufrirán daños irreparables en la memoria frente a cualquier tipo de estrés y por ende su rendimiento será deficiente",
+   "C": "La mayoría, a causa de una alta liberación de epinefrina y glucocorticoides, obtendrá resultados desfavorables, a menos que tengan el hábito de manejar sus niveles de estrés mediante estrategias de meditación como el yoga",
+   "D": "La mayoría, teniendo en cuenta la curva de Yerkes-Dodson y la liberación hormonal del estrés, mostraría un buen rendimiento en situaciones que le generen estrés moderado, siempre y cuando logre mantener ese nivel de ansiedad"
+  },
+  "correcta": "D",
+  "explicacion": "Curva de Yerkes-Dodson en U invertida: la mayoría rinde mejor con estrés moderado."
+ },
+ {
+  "id": "lectura-16",
+  "area": "lectura",
+  "n": 16,
+  "contexto": 3,
+  "enunciado": "Sobre el escritorio:",
+  "opciones": {
+   "A": "están los libros",
+   "B": "está el reloj",
+   "C": "están los cuadernos",
+   "D": "está el diario"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: sobre el escritorio estaban «el reloj, la billetera, el iPod, el teléfono móvil»."
+ },
+ {
+  "id": "lectura-17",
+  "area": "lectura",
+  "n": 17,
+  "contexto": 3,
+  "enunciado": "¿Quién oyó correr a Daniel y quienes entregaron flores?",
+  "opciones": {
+   "A": "El niño y la pareja",
+   "B": "El niño y los ancianos",
+   "C": "La mujer jóven y los ancianos"
+  },
+  "correcta": "C",
+  "explicacion": "La mujer joven del último piso lo oyó correr; los dos ancianos vecinos dieron el ramo de flores. (En el cuadernillo original esta pregunta trae solo tres opciones)."
+ },
+ {
+  "id": "lectura-18",
+  "area": "lectura",
+  "n": 18,
+  "contexto": 3,
+  "enunciado": "En el texto, la expresión “También ellos lo sienten mucho” hace referencia al dolor de",
+  "opciones": {
+   "A": "los padres del estudiante",
+   "B": "los vecinos del fallecido",
+   "C": "los familiares de Daniel",
+   "D": "los padres del niño"
+  },
+  "correcta": "D",
+  "explicacion": "La frase va justo después de «aparece en el descanso de la escalera una pareja con un niño»: «ellos» son esa pareja, los padres del niño, no los vecinos en general."
+ },
+ {
+  "id": "lectura-19",
+  "area": "lectura",
+  "n": 19,
+  "contexto": 3,
+  "enunciado": "Del texto se puede inferir que",
+  "opciones": {
+   "A": "la pérdida de un ser querido devela la realidad implacable de la muerte",
+   "B": "la muerte es un suceso que cambia radicalmente la vida de una familia",
+   "C": "la pérdida de un ser querido impulsa la búsqueda ineludible de respuestas",
+   "D": "la muerte es un momento que causa aflicción a quienes sufren la pérdida"
+  },
+  "correcta": "C",
+  "explicacion": "Todo el texto es una búsqueda de respuestas tras la pérdida: la madre revisa libros y cuadernos «suplicando porque aparezca un diario». A (la muerte como realidad implacable) es un tema, no lo que el texto desarrolla."
+ },
+ {
+  "id": "lectura-20",
+  "area": "lectura",
+  "n": 20,
+  "contexto": 3,
+  "enunciado": "A juzgar por el contexto y los hechos que rodearon el suicidio del cual trata el texto, se puede establecer que,",
+  "opciones": {
+   "A": "al considerar el testimonio de la vecina del último piso, el método elegido por Daniel para lograr su fin fue poco discreto. Por lo tanto, su muerte fue el resultado de una decisión desesperada",
+   "B": "de acuerdo con los hallazgos de la narradora que lo esclarecieron todo, Daniel planeó la forma para ponerle fin a su vida. Por lo tanto, su muerte fue el resultado de una decisión razonada",
+   "C": "al considerar la búsqueda infructuosa de la narradora en el inicio, se revela la poca lucidez de Daniel para explicar su determinación. Por lo tanto, su muerte fue el resultado de una decisión impulsiva",
+   "D": "de acuerdo con la reacción que produjo el descubrimiento de Rafael, la disposición de los objetos personales de Daniel reveló su intención. Por lo tanto, su muerte fue el resultado de una decisión premeditada"
+  },
+  "correcta": "D",
+  "explicacion": "Los objetos personales alineados con cuidado sobre el escritorio revelan premeditación; la reacción de Rafael al descubrirlos lo hace evidente."
+ },
+ {
+  "id": "lectura-21",
+  "area": "lectura",
+  "n": 21,
+  "contexto": 4,
+  "enunciado": "La guerra es",
+  "opciones": {
+   "A": "testimonio",
+   "B": "fiesta",
+   "C": "destrucción",
+   "D": "reconocimiento"
+  },
+  "correcta": "B",
+  "explicacion": "Literal: «la guerra es fiesta»."
+ },
+ {
+  "id": "lectura-22",
+  "area": "lectura",
+  "n": 22,
+  "contexto": 4,
+  "enunciado": "Según el texto, la sociedad es mejor si",
+  "opciones": {
+   "A": "reconoce los conflictos y los contiene",
+   "B": "persigue el valor y se sacrifica",
+   "C": "vive inteligentemente y racionaliza",
+   "D": "combate por una causa y da testimonio"
+  },
+  "correcta": "A",
+  "explicacion": "Literal: «una sociedad mejor es una sociedad capaz de tener mejores conflictos. De reconocerlos y de contenerlos»."
+ },
+ {
+  "id": "lectura-23",
+  "area": "lectura",
+  "n": 23,
+  "contexto": 4,
+  "enunciado": "Según lo planteado en el texto, el autor considera que la guerra",
+  "opciones": {
+   "A": "es aceptar la existencia del adversario, reconocerlo hace posible resolver la confrontación",
+   "B": "es la convicción de tener la razón, reconsiderarla hace posible tener mejores conflictos",
+   "C": "es la posibilidad de comprender el pasado, revaluarlo posibilita superar las diferencias",
+   "D": "es encauzar los enfrentamientos, aprender de ellos mejora la convivencia social"
+  },
+  "correcta": "D",
+  "explicacion": "La tesis del autor es propositiva: encauzar los enfrentamientos y aprender de ellos mejora la convivencia. B describe el fenómeno, no lo que el autor propone."
+ },
+ {
+  "id": "lectura-24",
+  "area": "lectura",
+  "n": 24,
+  "contexto": 4,
+  "enunciado": "En el primer párrafo el autor pretende",
+  "opciones": {
+   "A": "Develar un aspecto poco discutido sobre la guerra, cuya comprensión permitiría superarla",
+   "B": "Explicar cómo se manifiesta la guerra, para plantear un problema alrededor de ella",
+   "C": "Ejemplificar los aspectos positivos de la guerra, cuya naturaleza es más benigna de lo que parece",
+   "D": "Definir en qué consiste la guerra, para establecer posteriormente su punto de vista"
+  },
+  "correcta": "D",
+  "explicacion": "La pregunta es por la función del párrafo, no por su contenido: el autor DEFINE qué es la guerra («la guerra es fiesta») para luego sentar su punto de vista."
+ },
+ {
+  "id": "lectura-25",
+  "area": "lectura",
+  "n": 25,
+  "contexto": 4,
+  "enunciado": "Respecto a la realidad de la sociedad colombiana, la faceta festiva de la guerra que supone “poderse aprobar sin sombras y sin dudas frente al perverso enemigo” y “creer tontamente tener la razón”, se puede comparar con:",
+  "opciones": {
+   "A": "las redes sociales, porque son entornos virtuales para los ataques grupales o personales, donde la violencia se enmascara y se normaliza mediante el uso de estrategias humorísticas",
+   "B": "las protestas ciudadanas, porque crean espacios para la reivindicación de derechos, donde el desafío al establecimiento suele matizarse con el carácter festivo de las manifestaciones populares",
+   "C": "los enfrentamientos deportivos, donde el clímax de la celebración ocurre cuando uno de los contendientes logra derrotar a su rival y los seguidores del vencedor proclaman su alegría",
+   "D": "las contiendas electorales, porque generan escenarios de lucha por el poder, donde los políticos tradicionales camuflan sus prácticas corruptas en la denominada “fiesta democrática”"
+  },
+  "correcta": "B",
+  "explicacion": "Se pide la faceta festiva en la REALIDAD COLOMBIANA: comunidad unida frente a un enemigo, desafío al establecimiento con tono de fiesta popular → protestas ciudadanas. «Fiesta» no basta para elegir los deportes."
+ },
+ {
+  "id": "lectura-26",
+  "area": "lectura",
+  "n": 26,
+  "contexto": 5,
+  "enunciado": "Al principio de distribución desigual se le suele llamar Ley de",
+  "opciones": {
+   "A": "Pareto",
+   "B": "Derek",
+   "C": "Price",
+   "D": "Peterson"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: «se le suele llamar Ley de Price, en honor a Derek J. De Solla Price»."
+ },
+ {
+  "id": "lectura-27",
+  "area": "lectura",
+  "n": 27,
+  "contexto": 5,
+  "enunciado": "Una langosta ganadora tendrá más probabilidades de",
+  "opciones": {
+   "A": "ser superior y dominar",
+   "B": "tener estatus y mandar",
+   "C": "ser estable y tantear",
+   "D": "tener riqueza y pelear"
+  },
+  "correcta": "A",
+  "explicacion": "«la ganadora tiene más probabilidades de ganar» y «se jactará de su dominación sobre el territorio»."
+ },
+ {
+  "id": "lectura-28",
+  "area": "lectura",
+  "n": 28,
+  "contexto": 5,
+  "enunciado": "Al relacionar el principio de distribución desigual con los ejemplos propuestos en el texto, se infiere que siempre habrá",
+  "opciones": {
+   "A": "superiores e inferiores, porque los primeros tienen un estatus que los segundos no podrán alcanzar",
+   "B": "ricos y pobres, porque los primeros tienen capacidades para producir riquezas y los segundos no",
+   "C": "vencedores y vencidos, porque los primeros tienen una fuerza que los segundos no pueden equiparar",
+   "D": "ganadores y perdedores, porque los primeros poseen ventajas para salir adelante y los segundos no"
+  },
+  "correcta": "D",
+  "explicacion": "El principio se extiende a ciencia, música y riqueza: siempre habrá ganadores y perdedores por ventajas acumuladas."
+ },
+ {
+  "id": "lectura-29",
+  "area": "lectura",
+  "n": 29,
+  "contexto": 5,
+  "enunciado": "El texto titulado “El Principio de la distribución desigual” es",
+  "opciones": {
+   "A": "un tratado, porque justifica los factores que determinan que haya desigualdades tanto en la naturaleza como en las capacidades humanas",
+   "B": "un artículo de opinión, porque sustenta las causas por las que hay una distribución desigual de la riqueza y de las capacidades",
+   "C": "un ensayo, porque muestra la existencia de una constante que explica la distribución desigual en el mundo natural y en el socio económico",
+   "D": "un editorial, porque comenta una regla de la vida para evitar el caos: la distribución desigual de las capacidades y las oportunidades es un principio natural"
+  },
+  "correcta": "C",
+  "explicacion": "Es un ensayo: muestra una constante que explica la distribución desigual en lo natural y lo socioeconómico."
+ },
+ {
+  "id": "lectura-30",
+  "area": "lectura",
+  "n": 30,
+  "contexto": 5,
+  "enunciado": "En el texto, al contrastar los razonamientos con los ejemplos a través de los cuáles se explica qué es y cómo funciona el principio de distribución desigual, tal teoría se puede evaluar como",
+  "opciones": {
+   "A": "práctica, porque sugiere que aceptar el impacto personal de este principio hace fácil encontrar un lugar en la sociedad; por lo tanto, el éxito radica en conocer los límites del potencial propio",
+   "B": "útil, porque señala que es posible extrapolar el modelo que propone a otros escenarios que no se mencionan en el texto; en consecuencia, esta óptica sirve para hacer predicciones en diversos campos",
+   "C": "realista, porque estima que las posibilidades que tiene un individuo de revertir este principio, cuando no le favorece, son casi nulas; en vista de ello, su postura racionaliza lo que es el esfuerzo del ser humano",
+   "D": "progresista, porque tiene en cuenta factores novedosos para el entendimiento de hechos culturales; debido a ello, sus conclusiones pueden darnos nuevos elementos para valorar e interpretar la realidad social"
+  },
+  "correcta": "B",
+  "explicacion": "El texto extiende el modelo a ciudades, cuerpos celestes y frecuencia de palabras: sirve para hacer predicciones en campos diversos."
+ },
+ {
+  "id": "razonamiento-01",
+  "area": "razonamiento",
+  "n": 1,
+  "contexto": 0,
+  "enunciado": "La biomasa del planeta presente en las plantas es:",
+  "opciones": {
+   "A": "80%",
+   "B": "15%",
+   "C": "1,0%",
+   "D": "0,3%"
+  },
+  "correcta": "A",
+  "explicacion": "Literal de la tabla: las plantas son el 80 % de la biomasa del planeta."
+ },
+ {
+  "id": "razonamiento-02",
+  "area": "razonamiento",
+  "n": 2,
+  "contexto": 0,
+  "enunciado": "La biomasa total (Kg) y el promedio de carbono (Kg) de la familia cycadaceae, respectivamente, son:",
+  "opciones": {
+   "A": "463 y 192,1",
+   "B": "1.154 y 112,7",
+   "C": "192,1 y 463",
+   "D": "1.12,7 y 1154"
+  },
+  "correcta": "B",
+  "explicacion": "Cycadaceae: biomasa total 1.154 kg (tabla 1); el carbono promedio es ~la mitad por planta."
+ },
+ {
+  "id": "razonamiento-03",
+  "area": "razonamiento",
+  "n": 3,
+  "contexto": 0,
+  "enunciado": "De acuerdo al gráfico 1, el 87,59% de la variabilidad de la biomasa total, en la UAO, es explicada por:",
+  "opciones": {
+   "A": "Únicamente la biomasa aérea y el DAP",
+   "B": "Solamente el DAP (diámetro la altura del pecho)",
+   "C": "La biomasa aérea y la biomasa de las raíces",
+   "D": "La cantidad de carbono contenida en las especies arbóreas"
+  },
+  "correcta": "B",
+  "explicacion": "El 87,59 % es el R2 de la curva de ajuste biomasa total vs DAP: lo explica el DAP."
+ },
+ {
+  "id": "razonamiento-04",
+  "area": "razonamiento",
+  "n": 4,
+  "contexto": 0,
+  "enunciado": "Según la información del gráfico 1 puede afirmarse que:",
+  "opciones": {
+   "A": "No existe relación entre la biomasa total y el DAP, dado que los datos al inicio están acumulados y al final, dispersos",
+   "B": "El valor del DAP se estima mediante una función cuadrática donde la variable de predicción es la biomasa",
+   "C": "Existe una relación lineal, dado que el valor de la biomasa total varía en la misma proporción con respecto al DAP",
+   "D": "El valor de la biomasa total se estima mediante una función cuadrática donde la variable de predicción es el DAP"
+  },
+  "correcta": "D",
+  "explicacion": "La curva de ajuste es cuadrática y predice la biomasa a partir del DAP."
+ },
+ {
+  "id": "razonamiento-05",
+  "area": "razonamiento",
+  "n": 5,
+  "contexto": 0,
+  "enunciado": "El enfoque principal de la investigación, en relación con la biomasa y la absorción de carbono en árboles y palmas:",
+  "opciones": {
+   "A": "Analiza la relación entre la biomasa aérea y de raíces en árboles y palmas, utilizando ecuaciones alométricas determinando la cantidad de carbono retenido, y los métodos utilizados incluyen inventarios forestales y modelos matemáticos",
+   "B": "El enfoque se centra en medir la densidad de la madera y su relación con la biomasa total en árboles y palmas, y los métodos empleados son muestreo destructivo y tecnología de imágenes",
+   "C": "Aborda la captura de carbono de árboles y palmas mediante la medición de biomasa aérea y de raíces, utilizando métodos de muestreo no destructivo, ecuaciones alométricas y análisis de imágenes de satélite",
+   "D": "Analiza la relación entre la absorción de carbono por especies arbóreas y monocotiledóneas y los métodos aplicados para hallar la biomasa aérea y de raíces en árboles y palmas son ecuaciones alométricas y muestreo destructivo"
+  },
+  "correcta": "A",
+  "explicacion": "El estudio usó la información de inventario de la CVC-DAGMA y modelos matemáticos (ecuaciones alométricas) para estimar el carbono a partir de la biomasa aérea y de raíces. El muestreo destructivo/no destructivo y las imágenes satelitales solo se mencionan como métodos posibles."
+ },
+ {
+  "id": "razonamiento-06",
+  "area": "razonamiento",
+  "n": 6,
+  "contexto": 1,
+  "enunciado": "Entre 2018 y 2022, el número de feminicidios en Antioquia es:",
+  "opciones": {
+   "A": "349",
+   "B": "195",
+   "C": "420",
+   "D": "127"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: Antioquia 420, el mayor del pais."
+ },
+ {
+  "id": "razonamiento-07",
+  "area": "razonamiento",
+  "n": 7,
+  "contexto": 1,
+  "enunciado": "En 2023, los casos de violencia intrafamiliar y exámenes medicolegales, respectivamente, son:",
+  "opciones": {
+   "A": "3.483 y 1.516",
+   "B": "7.713 y 3.650",
+   "C": "1.516 y 3.483",
+   "D": "3.650 y 7.713"
+  },
+  "correcta": "A",
+  "explicacion": "Literal de 2023: 3.483 casos de violencia intrafamiliar y 1.516 exámenes medicolegales."
+ },
+ {
+  "id": "razonamiento-08",
+  "area": "razonamiento",
+  "n": 8,
+  "contexto": 1,
+  "enunciado": "Del gráfico 2, suponiendo linealidad entre julio y septiembre, el número de feminicidios/mes es:",
+  "opciones": {
+   "A": "11,7 casos, al considerar un tercio de la resta del número de casos",
+   "B": "17,5 casos, si se calcula la mitad de la resta del número de casos",
+   "C": "45,0 casos, al suponer un tercio de la suma del número de casos",
+   "D": "67,5 casos, si se calcula la mitad de la suma del número de casos"
+  },
+  "correcta": "B",
+  "explicacion": "Del gráfico 2: julio 50 y septiembre 85. Suponiendo linealidad, (85 − 50) / 2 = 17,5 casos/mes."
+ },
+ {
+  "id": "razonamiento-09",
+  "area": "razonamiento",
+  "n": 9,
+  "contexto": 1,
+  "enunciado": "Del Gráfico 3, es correcto afirmar que:",
+  "opciones": {
+   "A": "El número de feminicidios para edades entre 15 y 39 años fue menor en el año 2019 en comparación con los otros años",
+   "B": "En el grupo etario de 25 a 29 años, se presentó mayor cantidad de feminicidios en el 2022",
+   "C": "El número de feminicidios para edades entre 15 y 39 años fue mayor en el año 2022 en comparación con los otros años",
+   "D": "En el grupo etario de 25 a 29 años, se presentó menor cantidad de feminicidios en el 2022"
+  },
+  "correcta": "A",
+  "explicacion": "Suma el gráfico 3 por año para 15–39 años: 2019 = 251, 2020 = 311, 2021 = 362, 2022 = 362. 2019 es el menor."
+ },
+ {
+  "id": "razonamiento-10",
+  "area": "razonamiento",
+  "n": 10,
+  "contexto": 1,
+  "enunciado": "La persistencia del feminicidio en Colombia se explica:",
+  "opciones": {
+   "A": "La falta de coordinación entre las agencias gubernamentales y organizaciones dedicadas a abordarlo no permiten recopilar datos precisos, impidiendo comprender exhaustivamente el fenómeno que inciden en la poca sensibilización",
+   "B": "El aumento de casos de violencia intrafamiliar y delitos sexuales dada la falta de educación en derechos humanos y la poca sensibilización de los actores que intervienen en esta problemática",
+   "C": "La falta de apoyo adecuado para las mujeres víctimas de violencia de género y la escasez de información sobre los centros de apoyo, conlleva a la poca atención en situaciones de violencia intrafamiliar",
+   "D": "La baja tasa de condenas, la falta de atención a denuncias de las víctimas sobre violencia intrafamiliar y de género, y el incumplimiento de las restricciones impuestas por las autoridades competentes"
+  },
+  "correcta": "C",
+  "explicacion": "El contexto sostiene como causa la falta de apoyo a las víctimas y la escasez de información sobre centros de apoyo. La baja tasa de condenas suena «de fondo», pero no es lo que dice el texto."
+ },
+ {
+  "id": "razonamiento-11",
+  "area": "razonamiento",
+  "n": 11,
+  "contexto": 2,
+  "enunciado": "La población de África sufriendo hambre en 2022 es:",
+  "opciones": {
+   "A": "20 %",
+   "B": "8,5 %",
+   "C": "6,5 %",
+   "D": "7 %"
+  },
+  "correcta": "A",
+  "explicacion": "Literal: casi el 20 % de la población africana sufre hambre."
+ },
+ {
+  "id": "razonamiento-12",
+  "area": "razonamiento",
+  "n": 12,
+  "contexto": 2,
+  "enunciado": "La PSM en 2012 y 2022 respectivamente, fue:",
+  "opciones": {
+   "A": "8% y 9,2%",
+   "B": "7,9% y 9,2%",
+   "C": "8% y 9,3%",
+   "D": "8,1% y 9,3%"
+  },
+  "correcta": "A",
+  "explicacion": "Gráfico 4: 8 % en 2012 y 9,2 % en 2022."
+ },
+ {
+  "id": "razonamiento-13",
+  "area": "razonamiento",
+  "n": 13,
+  "contexto": 2,
+  "enunciado": "Según el gráfico 5, el costo de una dieta sana por persona y día, suponiendo linealidad:",
+  "opciones": {
+   "A": "Presentó, entre los años 2020 y 2022, un mayor crecimiento a nivel mundial en contraste con las tasas de crecimiento registradas en África y América del Sur",
+   "B": "Registró, entre los años 2020 y 2022, mayor crecimiento en el continente africano en comparación con las tasas de crecimiento observadas tanto a nivel global como en el continente sudamericano",
+   "C": "Mostró, entre los años 2018 y 2020, un menor crecimiento a nivel mundial en contraste con las tasas de crecimiento registradas en África y América del sur",
+   "D": "Registró, entre los años 2018 y 2020, un menor crecimiento en América del sur en comparación con las tasas de crecimiento observadas tanto a nivel global como en África"
+  },
+  "correcta": "B",
+  "explicacion": "En el gráfico 5 el mayor crecimiento de 2020 a 2022 es el de África. Hay que leer el gráfico: no se puede responder por intuición."
+ },
+ {
+  "id": "razonamiento-14",
+  "area": "razonamiento",
+  "n": 14,
+  "contexto": 2,
+  "enunciado": "Según los gráficos 5 y 6, los indicadores muestran que:",
+  "opciones": {
+   "A": "A pesar de que el costo por persona diario de una dieta saludable en África ha sido inferior en comparación con las cifras globales y las de América de sur, el porcentaje de personas incapaces de costear una dieta saludable en África durante el período de 2017 a 2021 supera a las tasas observadas a nivel mundial y en América del Sur",
+   "B": "A causa de que el costo por persona diario de una dieta saludable en América del Sur ha sido superior en comparación con las cifras globales y las de África, el porcentaje de personas incapaces de costear una dieta saludable en América del Sur durante el período de 2017 a 2021 supera las tasas observadas a nivel mundial y en África",
+   "C": "Durante el período comprendido entre los años 2017 y 2021, aunque el costo per cápita diario de una dieta saludable en América del Sur siempre ha sido superior al observado a nivel mundial y en África, el porcentaje de la población que no puede costear una dieta saludable en América del sur ha permanecido constante",
+   "D": "En el período que abarca desde 2017 hasta 2021, a pesar de que el costo per cápita diario de una dieta saludable a nivel global ha mantenido una posición intermedia entre las regiones de África y América del Sur, el porcentaje de la población mundial que no puede permitirse el gasto de una dieta saludable ha aumentado"
+  },
+  "correcta": "A",
+  "explicacion": "África tiene el costo más bajo y aun así la peor asequibilidad: el 78 % no puede pagar la dieta."
+ },
+ {
+  "id": "razonamiento-15",
+  "area": "razonamiento",
+  "n": 15,
+  "contexto": 2,
+  "enunciado": "La información suministrada en el contexto permite inferir lo siguiente:",
+  "opciones": {
+   "A": "La disponibilidad de recursos económicos no siempre está directamente relacionada con la capacidad de acceder a una dieta saludable, ya que factores socioeconómicos y geográficos pueden influir significativamente",
+   "B": "La variabilidad en la correlación entre recursos económicos y acceso a una dieta saludable se atribuye a variables independientes como ingresos, educación, geolocalización y políticas alimentarias locales, pues cada comunidad es un caso singular",
+   "C": "La evolución de la relación entre los recursos económicos y la accesibilidad a una dieta saludable no es relevante para comprender los desafíos nutricionales en las comunidades",
+   "D": "La relación entre recursos económicos y accesibilidad a una dieta saludable es estacionaria, sin experimentar variación temporal en ninguna comunidad, según análisis a lo largo del tiempo"
+  },
+  "correcta": "B",
+  "explicacion": "El texto atribuye la variabilidad a variables independientes como ingresos y educación. A niega la relación que la clave explica."
+ },
+ {
+  "id": "razonamiento-16",
+  "area": "razonamiento",
+  "n": 16,
+  "contexto": 3,
+  "enunciado": "El área aproximada de los glaciares de montaña (〖km〗^2) es:",
+  "opciones": {
+   "A": "170.000",
+   "B": "335.000",
+   "C": "706.000",
+   "D": "227.000"
+  },
+  "correcta": "C",
+  "explicacion": "706.000 km² es el área de los glaciares de montaña; 170.000 km³ es el volumen, que aparece como distractor."
+ },
+ {
+  "id": "razonamiento-17",
+  "area": "razonamiento",
+  "n": 17,
+  "contexto": 3,
+  "enunciado": "La mayor y menor pérdidas de masa glaciar ocurren en:",
+  "opciones": {
+   "A": "Alaska y Medio Oriente respectivamente",
+   "B": "Alaska y Norte de Asia respectivamente",
+   "C": "Alaska y Suroeste Asiático respectivamente",
+   "D": "Alaska y Groenlandia respectivamente"
+  },
+  "correcta": "B",
+  "explicacion": "Ojo con la figura: tiene 18 series sin etiquetas directas, así que no asumas que el orden de la leyenda es el de las barras. Suroeste Asiático aparece con +119 (gana masa); la menor pérdida es la de Norte de Asia."
+ },
+ {
+  "id": "razonamiento-18",
+  "area": "razonamiento",
+  "n": 18,
+  "contexto": 3,
+  "enunciado": "La proporción de aumento del nivel del mar en (mm) en Alaska es aproximadamente:",
+  "opciones": {
+   "A": "8.47 mm teniendo en cuenta que nuestro planeta ha perdido más de 9.625 gigatoneladas de hielo lo que ha provocado un aumento de nivel del mar de 27 mm",
+   "B": "3.18 considerando que en Alaska se han perdido 3019 gigatoneladas de hielo y que nuestro planeta ha perdido más de 9.625 gigatoneladas de hielo",
+   "C": "2.44 considerando que en Alaska se han perdido 3019 gigatoneladas de hielo y que en Groenlandia se han perdido 1237 gigatoneladas de hielo",
+   "D": "86.07 mm teniendo en cuenta que nuestro planeta ha perdido más de 9.625 gigatoneladas de hielo lo que ha provocado un aumento de nivel del mar de 27 mm"
+  },
+  "correcta": "A",
+  "explicacion": "Alaska perdió 3.019 de las 9.625 Gt que elevaron el mar 27 mm: 3.019 / 9.625 × 27 ≈ 8,47 mm."
+ },
+ {
+  "id": "razonamiento-19",
+  "area": "razonamiento",
+  "n": 19,
+  "contexto": 3,
+  "enunciado": "La pérdida de masa glaciar entre el Ártico Sur Canadiense y Groenlandia:",
+  "opciones": {
+   "A": "Ha aumentado tres veces aproximadamente más rápido en el Ártico Sur Canadiense que en Groenlandia",
+   "B": "Ha aumentado 2.5 veces aproximadamente más rápido en Groenlandia que en el Ártico Sur Canadiense",
+   "C": "Ha aumentado tres veces aproximadamente más rápido en Groenlandia que en el Ártico Sur Canadiense",
+   "D": "Ha aumentado 2.5 veces aproximadamente más rápido en el Ártico Sur Canadiense que en Groenlandia"
+  },
+  "correcta": "C",
+  "explicacion": "Groenlandia −1.237 Gt frente a Ártico Sur Canadiense −416 Gt: 1.237 / 416 ≈ 2,97, es decir, unas 3 veces más rápido en Groenlandia."
+ },
+ {
+  "id": "razonamiento-20",
+  "area": "razonamiento",
+  "n": 20,
+  "contexto": 3,
+  "enunciado": "El cambio climático, es decir, los cambios a largo plazo de las temperaturas y los patrones climáticos es función del deshielo de los glaciares porque:",
+  "opciones": {
+   "A": "La revolución industrial, el dióxido de carbono y otras emisiones de gases de efecto invernadero han aumentado las temperaturas, provocando elevaciones de temperatura aún mucho mayores en los polos, y como resultado, los glaciares se han estado derritiendo, fraccionándose en el mar",
+   "B": "Las actividades del ser humano aumentan la emisión de gases de efecto invernadero a la atmósfera y ésta retiene más calor del necesario, provocando que la temperatura media del planeta aumente",
+   "C": "El cambio climático, causado principalmente por las emisiones de gases de efecto invernadero, ha afectado a muchos ecosistemas. El deshielo de los polos se acelera. Hay evidencias de que la temperatura de los océanos ha aumentado, lo que podría ser el detonante original del adelgazamiento del casquete de hielo",
+   "D": "El retroceso de los glaciares en el mundo obedece a un aumento de temperatura ambiente que se da naturalmente con el cambio climático"
+  },
+  "correcta": "A",
+  "explicacion": "A y B son ciertas, pero A cubre la cadena completa que plantea el texto: revolución industrial → emisiones → aumento de temperatura → deshielo → elevación del nivel del mar."
+ },
+ {
+  "id": "razonamiento-21",
+  "area": "razonamiento",
+  "n": 21,
+  "contexto": 4,
+  "enunciado": "Los Afroestadounidenses han mejorado su situación económica desde:",
+  "opciones": {
+   "A": "1962",
+   "B": "1983",
+   "C": "1960",
+   "D": "1966"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: han mejorado su situación económica desde 1960."
+ },
+ {
+  "id": "razonamiento-22",
+  "area": "razonamiento",
+  "n": 22,
+  "contexto": 4,
+  "enunciado": "En 2019 el número de Afroestadounidenses en Cámara y Senado fue",
+  "opciones": {
+   "A": "43 y 5 respectivamente",
+   "B": "52 y 3 respectivamente",
+   "C": "3 y 52 respectivamente",
+   "D": "5 y 43 respectivamente"
+  },
+  "correcta": "B",
+  "explicacion": "Congreso 116 (2019): 52 representantes y 3 senadores afroestadounidenses."
+ },
+ {
+  "id": "razonamiento-23",
+  "area": "razonamiento",
+  "n": 23,
+  "contexto": 4,
+  "enunciado": "Los logros universitarios obtenidos por la población Blanca y Afroestadounidense entre 1962 y 2019:",
+  "opciones": {
+   "A": "Han aumentado más rápidamente para los Afroestadounidenses, en 6.5 veces aproximadamente, mientras que los Blancos han aumentado en 3.6 aproximadamente",
+   "B": "Han aumentado más rápidamente para los Blancos, en 6.5 veces aproximadamente, mientras que los Afroestadounidenses han aumentado en 3.6 aproximadamente",
+   "C": "Han aumentado más rápidamente para los Afroestadounidenses, en 2.5 veces aproximadamente, mientras que los Blancos han aumentado en 1.4 aproximadamente",
+   "D": "Han aumentado más rápidamente para los Blancos, en 2.5 veces aproximadamente, mientras que los Afroestadounidenses han aumentado en 1.4 aproximadamente"
+  },
+  "correcta": "A",
+  "explicacion": "Afroestadounidenses: del 4 % (1962) al 26 % (2019) = 6,5 veces; los blancos crecieron a menos de la mitad de ese ritmo."
+ },
+ {
+  "id": "razonamiento-24",
+  "area": "razonamiento",
+  "n": 24,
+  "contexto": 4,
+  "enunciado": "Los gráficos que mejor describen la evolución de la diversidad en la Cámara de Representantes de EEUU son:",
+  "opciones": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "correcta": "C",
+  "explicacion": "Hay que comparar las cuatro gráficas de las opciones con los datos de los congresos del texto: la C es la que muestra la evolución de la diversidad en la Cámara.",
+  "imagenes": {
+   "A": "rc_q29_o0_0.png",
+   "B": "rc_q29_o1_0.png",
+   "C": "rc_q29_o2_0.png",
+   "D": "rc_q29_o3_0.png"
+  }
+ },
+ {
+  "id": "razonamiento-25",
+  "area": "razonamiento",
+  "n": 25,
+  "contexto": 4,
+  "enunciado": "El bienestar socio económico, la participación activa en los entes gubernamentales, el ascenso en los niveles de estudio es función de la inclusión en la sociedad americana de los Afroestadounidenses porque:",
+  "opciones": {
+   "A": "A mayor aceptación social de los Afroestadounidenses, se logrará una mayor equidad, mejorando la calidad de vida de estos individuos en la sociedad americana",
+   "B": "A menor conocimiento de las condiciones de vida de los afroestadounidenses, éstos pueden llegar a ser excluidos o rechazados por parte de algunos miembros de su entorno",
+   "C": "La raza de los Afroestadounidenses y su cultura, incita al rechazo y a la discriminación por parte de los demás miembros de la sociedad americana",
+   "D": "La sociedad americana no incluye a los Afroestadounidenses porque su cultura y costumbres no se acoplan a sus estereotipos"
+  },
+  "correcta": "A",
+  "explicacion": "A mayor aceptación social, mayor equidad: es la única opción que plantea la inclusión como causa y no como consecuencia."
+ },
+ {
+  "id": "razonamiento-26",
+  "area": "razonamiento",
+  "n": 26,
+  "contexto": 5,
+  "enunciado": "En denuncias a hurto a personas aumentó:",
+  "opciones": {
+   "A": "14.6%",
+   "B": "31.4%",
+   "C": "19.7%",
+   "D": "33.6%"
+  },
+  "correcta": "C",
+  "explicacion": "Literal: 4.693 denuncias en 2022 frente a 3.920 en 2021, un 19,7 % mas."
+ },
+ {
+  "id": "razonamiento-27",
+  "area": "razonamiento",
+  "n": 27,
+  "contexto": 5,
+  "enunciado": "En Cali (2022) las denuncias de homicidios y hurtos en marzo son:",
+  "opciones": {
+   "A": "74 y 1377 respectivamente",
+   "B": "88 y 1673 respectivamente",
+   "C": "1673 y 88 respectivamente",
+   "D": "1377 y 74 respectivamente"
+  },
+  "correcta": "B",
+  "explicacion": "Marzo 2022: homicidios 249 - 74 (enero) - 87 (febrero) = 88; hurtos a personas 1.673."
+ },
+ {
+  "id": "razonamiento-28",
+  "area": "razonamiento",
+  "n": 28,
+  "contexto": 5,
+  "enunciado": "Las denuncias por homicidios con respecto a los hurtos a personas en marzo (2022):",
+  "opciones": {
+   "A": "El número de denuncias por hurtos a personas es aproximadamente 19 veces el número de denuncias por homicidio",
+   "B": "El número de denuncias por hurtos a personas es aproximadamente 16.7 veces el número de denuncias por homicidios",
+   "C": "El número de denuncias por homicidios es aproximadamente 19 veces el número de denuncias por hurtos a personas",
+   "D": "El número de denuncias por homicidios es aproximadamente 16.7 veces el número de denuncias por hurtos a personas"
+  },
+  "correcta": "A",
+  "explicacion": "1.673 / 88 = 19,0 veces."
+ },
+ {
+  "id": "razonamiento-29",
+  "area": "razonamiento",
+  "n": 29,
+  "contexto": 5,
+  "enunciado": "El porcentaje del total de denuncias de hurtos a motocicletas con respecto al de automóviles, años 2021 a 2022 (enero-marzo):",
+  "opciones": {
+   "A": "En 2021, aumentó en 14.61% y en 2022, aumentó en 17.6% respectivamente",
+   "B": "En 2021, disminuyó en 36.81% y en 2022, disminuyó en 38.42% respectivamente",
+   "C": "En 2021, disminuyó en 38.42% y en 2022, disminuyó en 36.81% respectivamente",
+   "D": "En 2021, aumentó en 17.6% y en 2022, disminuyó en 14.61% respectivamente"
+  },
+  "correcta": "C",
+  "explicacion": "En 2021 el hurto de automóviles disminuyó 38,42 % y en 2022, 36,81 %. B tiene las mismas cifras en orden inverso: lee la gráfica antes de elegir."
+ },
+ {
+  "id": "razonamiento-30",
+  "area": "razonamiento",
+  "n": 30,
+  "contexto": 5,
+  "enunciado": "Homicidios, hurtos es función de la inseguridad en Cali porque:",
+  "opciones": {
+   "A": "A más delitos contra el patrimonio y atentados contra la vida, se acrecienta el temor del ciudadano en transitar libre y tranquilamente por la ciudad",
+   "B": "Los ciudadanos caleños no prevén los peligros a los que se exponen diariamente",
+   "C": "A mayor cantidad de hurtos de celulares, motocicletas y automóviles, mayor es el temor del ciudadano en transitar libre y tranquilamente por la ciudad",
+   "D": "Los ciudadanos caleños al salir están expuestos a que alguien atente contra su vida"
+  },
+  "correcta": "A",
+  "explicacion": "A más delitos contra el patrimonio y contra la vida, mayor temor del ciudadano: relaciona ambas categorías del texto."
+ }
+]
