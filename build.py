@@ -67,6 +67,12 @@ def markdown(texto):
     return '\n'.join(salida)
 
 
+def marca(nombre):
+    """«César Reyes» → <span class="text-orbital">CÉSAR</span> REYES, como la barra del portafolio."""
+    primera, _, resto = html.escape(nombre.upper()).partition(' ')
+    return f'<span class="text-orbital">{primera}</span>' + (f' {resto}' if resto else '')
+
+
 def validar(preguntas, contextos, areas):
     errores, ids = [], set()
     for p in preguntas:
@@ -117,8 +123,10 @@ def main():
     datos = dict(config=config, areas=areas, contextos=contextos, preguntas=preguntas, guia=guia)
     js = json.dumps(datos, ensure_ascii=False).replace('</', '<\\/')
     plantilla = open(os.path.join(RAIZ, 'src', 'plantilla.html')).read()
-    out = (plantilla.replace('__INICIO__', html.escape(config.get('inicio', '#')))
-                    .replace('__MARCA__', html.escape(config.get('marca', 'Saber Pro')))
+    css = open(os.path.join(RAIZ, 'src', 'portafolio.css')).read()
+    out = (plantilla.replace('__CSS_PORTAFOLIO__', css)
+                    .replace('__INICIO__', html.escape(config.get('inicio', '#')))
+                    .replace('__MARCA__', marca(config.get('marca', 'Saber Pro')))
                     .replace('__DATOS__', js))
     os.makedirs(os.path.dirname(os.path.abspath(a.salida)), exist_ok=True)
     open(a.salida, 'w').write(out)

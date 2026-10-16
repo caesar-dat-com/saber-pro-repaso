@@ -12,7 +12,7 @@ Funciona en el celular y sin conexión: `docs/index.html` es un solo archivo. De
 - **Modo examen:** reloj de 2 min por pregunta, las preguntas del mismo texto van juntas, como en la prueba, y no ves explicaciones hasta el final. Al terminar te muestra cada fallo con la respuesta correcta y la explicación.
 - Filtros por módulo y por «solo las que he fallado».
 - **Guía:** una pestaña por módulo con las trampas, conceptos y operaciones que hay que dominar, más autoevaluación con respuesta oculta y fechas del calendario 2026-2.
-- Tema oscuro y claro (botón arriba a la derecha).
+- Misma línea visual que [caesar-dat-com.github.io](https://caesar-dat-com.github.io/): campo de estrellas con meteoros, retícula, cursor HUD, tarjetas con inclinación 3D y tema oscuro / lunar compartido. `src/portafolio.css` es la hoja de estilos del portafolio copiada tal cual; las animaciones están reescritas sin dependencias en `src/plantilla.html`.
 - Puedes responder con las teclas `A`–`D` y pasar con `Enter`.
 - Tu progreso se guarda solo en tu navegador; no hay cuentas ni se envía nada.
 
