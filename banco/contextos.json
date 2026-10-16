@@ -2,7 +2,9 @@
  "areas": {
   "ciudadana": "Competencias Ciudadanas",
   "lectura": "Lectura Crítica",
-  "razonamiento": "Razonamiento Cuantitativo"
+  "razonamiento": "Razonamiento Cuantitativo",
+  "ingles": "Inglés",
+  "formar": "Formar (licenciaturas)"
  },
  "contextos": {
   "ciudadana": [

@@ -53,8 +53,11 @@ body.lunar .theme-toggle-btn{border-color:#00000026;background:#0000000a}
 .gsap-reveal.is-in{opacity:1;transform:none}
 
 /* módulos como parches de misión */
-.sp-mods{display:grid;gap:16px;grid-template-columns:1fr}
-@media(min-width:720px){.sp-mods{grid-template-columns:repeat(3,1fr)}}
+.sp-mods{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr))}
+.sp-fuentes{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:18px 0 0}
+.sp-fuentes .skill-orbit{cursor:pointer;gap:8px}
+.sp-fuentes .skill-orbit.off{opacity:.4;text-decoration:line-through}
+.sp-fuentes .n{opacity:.6}
 .mission-patch.sp-mod{cursor:pointer;padding:1.5rem 1.25rem;user-select:none;transform-style:preserve-3d}
 .sp-mod .sheen{position:absolute;inset:0;border-radius:inherit;pointer-events:none;opacity:0;transition:opacity .3s}
 .sp-mod:hover .sheen{opacity:1}
@@ -92,7 +95,29 @@ body.lunar .theme-toggle-btn{border-color:#00000026;background:#0000000a}
 .sp-meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
 .sp-tag{font-family:var(--font-mono);font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;padding:4px 10px;border-radius:999px;border:1px solid var(--color-glass-border);color:var(--color-text-tertiary)}
 .sp-tag.warn{color:var(--color-sls);border-color:color-mix(in srgb,var(--color-sls) 50%,transparent)}
-.sp-enun{font-family:var(--font-heading);font-size:clamp(1.3rem,3.6vw,1.65rem);line-height:1.28;font-weight:600;color:var(--color-lunar);margin:0 0 18px}
+.sp-enun{white-space:pre-line;font-family:var(--font-heading);font-size:clamp(1.3rem,3.6vw,1.65rem);line-height:1.28;font-weight:600;color:var(--color-lunar);margin:0 0 18px}
+.sp-enimg{display:block;max-width:100%;height:auto;margin:-4px 0 18px;border-radius:10px;background:#fff}
+.sp-eval{margin-top:10px;font-family:var(--font-mono);font-size:.72rem;letter-spacing:.04em;color:var(--color-text-tertiary)}
+.sp-eval b{color:var(--color-text-secondary);font-weight:600}
+/* ---- stickers de Hades ---- */
+.fb.con-stk{display:none;grid-template-columns:76px 1fr;gap:14px;align-items:start}
+.fb.con-stk[style*="block"]{display:grid!important}
+.stk-in{width:76px;height:76px;object-fit:contain;filter:drop-shadow(0 6px 14px #0007)}
+.stk-in.pop{animation:stk-pop .55s var(--ease-spring) both}
+@keyframes stk-pop{0%{transform:scale(.4) rotate(-12deg);opacity:0}70%{transform:scale(1.08) rotate(3deg);opacity:1}100%{transform:none}}
+.stk-fin{width:150px;height:150px;object-fit:contain;display:block;margin:0 auto 6px;filter:drop-shadow(0 10px 24px #0008)}
+.masc{position:fixed;left:14px;bottom:14px;z-index:1000;display:flex;align-items:flex-end;gap:8px;pointer-events:none;
+  transform:translateY(140%);opacity:0;transition:transform .55s var(--ease-spring),opacity .35s}
+.masc.on{transform:none;opacity:1}
+.masc img{width:92px;height:92px;object-fit:contain;filter:drop-shadow(0 8px 18px #0009);pointer-events:auto;cursor:pointer}
+.masc.on img{animation:masc-bob 3.2s ease-in-out infinite}
+@keyframes masc-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+.masc .burbuja{max-width:min(240px,62vw);margin-bottom:46px;padding:10px 14px;border-radius:16px 16px 16px 4px;font-size:.88rem;line-height:1.45;
+  background:var(--color-glass-bg);border:1px solid var(--color-glass-border);color:var(--color-lunar);backdrop-filter:var(--fx-blur-20);-webkit-backdrop-filter:var(--fx-blur-20);
+  box-shadow:0 8px 24px #0006;pointer-events:auto}
+body.lunar .masc .burbuja{background:#fff;box-shadow:var(--lift-2)}
+@media(max-width:640px){.masc img{width:70px;height:70px}.masc .burbuja{margin-bottom:34px;font-size:.82rem}}
+@media(prefers-reduced-motion:reduce){.masc,.masc.on img,.stk-in.pop{animation:none!important;transition:none}}
 details.ctx{margin:0 0 18px;border:1px solid var(--color-glass-border);border-radius:16px;overflow:hidden;background:var(--glow-1)}
 details.ctx summary{cursor:pointer;padding:13px 16px;font-size:.9rem;color:var(--color-text-secondary);list-style:none;display:flex;gap:12px;align-items:baseline}
 details.ctx summary::-webkit-details-marker{display:none}
@@ -226,7 +251,7 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
       <span class="line text-shimmer" data-stagger="Saber Pro"></span>
       <span class="line text-shimmer" data-stagger="repaso" data-delay="0.25"></span>
     </h1>
-    <p class="sp-sub">Lectura · Razonamiento · Ciudadanas</p>
+    <p class="sp-sub">Lectura · Razonamiento · Ciudadanas · Inglés</p>
     <p class="sp-lead" id="sub"></p>
     <div class="sp-telem font-mono text-xs tracking-widest text-text-muted"><span class="text-orbital/60">// </span><span id="telem"></span><span class="typewriter-cursor"></span></div>
     <div class="sp-cta">
@@ -244,11 +269,14 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
     <div class="section-rule mx-auto mt-8 max-w-[220px]"></div>
   </div>
   <div class="sp-mods" id="areas"></div>
+  <div class="sp-fuentes" id="fuentes"></div>
 
   <div class="glass-card fijo gsap-reveal" style="padding:22px;margin-top:20px">
     <span class="trace-border" aria-hidden="true"></span>
     <div class="relative z-10">
       <div class="sp-opts" style="margin-top:0">
+        <label class="sp-chk skill-orbit"><input type="checkbox" id="stickersOn" onchange="Mascota.activar(this.checked)">
+          Stickers de Hades: reacciones al responder <span class="n">32</span></label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="soloFallos">
           Solo las que he fallado <span class="n" id="nFallos">0</span></label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="modoExamen">
@@ -274,6 +302,7 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
       <div class="sp-meta" id="meta"></div>
       <div id="ctxHolder"></div>
       <p class="sp-enun" id="enunciado"></p>
+      <div id="enImg"></div>
       <div class="sp-alts" id="opts"></div>
       <div class="fb" id="fb"></div>
       <div class="sp-navq" id="nav" style="display:none">
@@ -326,6 +355,7 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
 </main>
 
 <footer class="sp-foot" id="foot"></footer>
+<div class="masc" id="masc" aria-live="polite"><img alt="" id="mascImg" onclick="Mascota.callar()"><div class="burbuja" id="mascTxt"></div></div>
 <div class="sp-toast btn-orbital" id="toast"></div>
 
 <script>
@@ -335,7 +365,7 @@ const SEG_POR_PREGUNTA = DATA.config.segundos_por_pregunta || 120;
 let prog = {q:{}, rondas:0, mejorRacha:0};
 try { prog = Object.assign(prog, JSON.parse(localStorage.getItem(LS) || '{}')); } catch(e) {}
 let cola = [], idx = 0, actual = null, racha = 0, examen = false, reloj = null, fin = 0;
-let sesion = null, areaGuia = 'general', areasOff = new Set();
+let sesion = null, areaGuia = 'general', areasOff = new Set(), fuentesOff = new Set();
 const $ = s => document.querySelector(s);
 const guardar = () => { try { localStorage.setItem(LS, JSON.stringify(prog)); } catch(e) {} };
 const esc = s => String(s ?? '').replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
@@ -605,6 +635,78 @@ function animar(raiz = document){
   raiz.querySelectorAll('[data-hud]').forEach(hud);
 }
 
+/* ======================= stickers de Hades =======================
+   Reacciona a lo que pasa en la ronda. Bolsa barajada por estado para no repetir
+   variante; en modo examen solo habla al empezar, a 5 minutos y al final. */
+const Mascota = (() => {
+  const S = DATA.stickers || {}, LSK = 'saberpro-stickers';
+  let on = true; try { on = localStorage.getItem(LSK) !== 'off'; } catch(e) {}
+  if (!Object.keys(S).length) on = false;
+  const bolsa = {}, el = $('#masc'), img = $('#mascImg'), txt = $('#mascTxt');
+  let tOcultar = 0, tPensar = 0, tBuscar = 0, ultimo = '';
+  const FRASES = {
+    inicio:      [['coding', '¡A estudiar! Lee con calma y busca el respaldo en el texto.'], ['coding_relajado', 'Vamos con todo. Las que falles vuelven a salir.']],
+    inicioExamen:[['coding', 'Modo examen: concentración. Te cuento cómo te fue al final.']],
+    cincoMin:    [['searching_intenso', '¡Quedan 5 minutos! Responde las que tengas claras.']],
+    leerTexto:   [['searching', 'Eso, a buscar en el texto 🔍'], ['searching', 'Subraya mentalmente lo que pide la pregunta.']],
+    pensar:      [['thinking', 'Tómate tu tiempo… descarta primero las que seguro no son.'], ['thinking', '¿Qué pide exactamente la pregunta: describir, inferir o proponer?']],
+    buscar:      [['searching_intenso', 'Vuelve al texto: la respuesta suele estar ahí.'], ['searching_intenso', 'Si dudas entre dos, gana la que puedes señalar en el texto.']],
+    noche:       [['sleepy', '¿Estudiando de noche? Una ronda corta y a dormir 🌙'], ['saludo_buenas_noches', 'Buenas noches. Repasa lo que fallaste y descansa.']],
+    hola:        [['coding_relajado', '¿Repasamos un rato? Elige los módulos y dale a Empezar.'], ['happy', '¡Hola! Hoy toca sumar aciertos.']],
+  };
+  const BIEN = ['¡Eso!', '¡Bien leído!', 'Exacto 💜', '¡Así se hace!', 'Lo tenías claro.', '¡Correcta! Sigue así.'];
+  const MAL = ['Casi. Mira la explicación.', 'Tranquilo, esta vuelve a salir.', 'Ups. Revisa qué pide la pregunta.', 'Del error también se aprende.'];
+  const MAL_RACHA = ['Respira. Una pregunta no define tu prueba.', 'Pausa de 10 segundos y seguimos.', 'Bajemos el ritmo: lee la pregunta dos veces.'];
+  const azar = a => a[Math.random()*a.length|0];
+  function sticker(estado){
+    const arr = S[estado] || S.happy || Object.values(S)[0]; if (!arr) return '';
+    if (!bolsa[estado] || !bolsa[estado].length) bolsa[estado] = barajar(arr.map((_, i) => i));
+    return arr[bolsa[estado].pop()];
+  }
+  function decir(estado, texto, ms = 4800){
+    if (!on || !S[estado] && !S.happy) return;
+    clearTimeout(tOcultar);
+    img.src = sticker(estado); txt.textContent = texto;
+    el.classList.remove('on'); void el.offsetWidth; el.classList.add('on');
+    tOcultar = setTimeout(() => el.classList.remove('on'), ms);
+  }
+  function evento(nombre){
+    if (!on || !FRASES[nombre]) return;
+    let op = FRASES[nombre].filter(([, t]) => t !== ultimo); if (!op.length) op = FRASES[nombre];
+    const [e, t] = azar(op); ultimo = t; decir(e, t);
+  }
+  return {
+    activo: () => on,
+    activar(v){ on = !!v && !!Object.keys(S).length; try { localStorage.setItem(LSK, on ? 'on' : 'off'); } catch(e) {}
+      if (on) decir('happy', '¡Aquí estoy! Te acompaño mientras repasas.'); else this.callar(); },
+    callar(){ clearTimeout(tOcultar); el.classList.remove('on'); },
+    evento,
+    // pistas si se queda mucho tiempo en la misma pregunta (no en examen)
+    esperar(){ this.parar(); if (!on || examen) return;
+      tPensar = setTimeout(() => evento('pensar'), 35000);
+      tBuscar = setTimeout(() => evento('buscar'), 80000); },
+    parar(){ clearTimeout(tPensar); clearTimeout(tBuscar); },
+    // sticker que va dentro del recuadro de la respuesta
+    reaccion(bien, racha, errSeg, p){
+      if (!on || examen) return null;
+      this.callar();
+      if (bien && racha >= 3 && (racha === 3 || racha === 5 || racha % 5 === 0))
+        return {img: sticker('celebrando'), txt: racha >= 10 ? `¡${racha} seguidas! Imparable 🔥` : `¡Racha de ${racha}! 🔥`};
+      if (bien) return {img: sticker(Math.random() < .25 ? 'coding_relajado' : 'happy'), txt: azar(BIEN)};
+      if (p.clave_discutida) return {img: sticker('thinking'), txt: 'Esta clave es discutida: lee bien la explicación.'};
+      if (errSeg >= 2) return {img: sticker('agotado'), txt: azar(MAL_RACHA)};
+      return {img: sticker('error'), txt: azar(MAL)};
+    },
+    final(pct){
+      if (!on) return null;
+      if (pct >= 80) return {img: sticker('celebrando'), txt: '¡Excelente ronda! Así se llega al Saber Pro.'};
+      if (pct >= 60) return {img: sticker('happy'), txt: 'Buen trabajo. Repite las que fallaste y subes de nivel.'};
+      return {img: sticker(pct >= 40 ? 'coding_relajado' : 'agotado'), txt: 'Hoy costó, y está bien: las falladas salen primero en la próxima.'};
+    },
+    saludo(){ const h = new Date().getHours(); evento(h >= 22 || h < 5 ? 'noche' : 'hola'); },
+  };
+})();
+
 /* =========================== vistas =========================== */
 function vista(v){
   document.querySelectorAll('.sp-nav [data-v]').forEach(t => t.classList.toggle('on', t.dataset.v === v));
@@ -620,7 +722,7 @@ function diasAlExamen(){
   const fx = DATA.config.fecha_examen;
   return fx ? Math.ceil((new Date(fx + 'T07:00:00-05:00') - new Date())/86400000) : null;
 }
-const CODIGO = {ciudadana:'CC', lectura:'LC', razonamiento:'RC'};
+const CODIGO = {ciudadana:'CC', lectura:'LC', razonamiento:'RC', ingles:'EN', formar:'FO'};
 
 function pintarMenu(){
   const porArea = {};
@@ -642,8 +744,14 @@ function pintarMenu(){
       </div></div></div>`;
   }).join('');
   document.querySelectorAll('.sp-mod').forEach(el => { colorPatch(el); tilt(el); });
-  $('#sub').textContent = `${DATA.preguntas.length} preguntas de simulacro con la respuesta correcta y su explicación. `
+  const porFuente = {};
+  DATA.preguntas.forEach(p => porFuente[p.fuente] = (porFuente[p.fuente]||0)+1);
+  $('#fuentes').innerHTML = '<span class="sp-nota" style="width:100%;text-align:center;margin:0">Fuentes</span>'
+    + Object.entries(porFuente).map(([f, n]) =>
+      `<button class="skill-orbit ${fuentesOff.has(f)?'off':'core'}" onclick="toggleFuente('${f}')">${esc(DATA.fuentes[f].nombre)} <span class="n">${n}</span></button>`).join('');
+  $('#sub').textContent = `${DATA.preguntas.length} preguntas de simulacros y cuadernillos oficiales, con la respuesta correcta y su explicación. `
     + 'Las que fallas vuelven a salir hasta que las domines.';
+  $('#stickersOn').checked = Mascota.activo();
   const ok = Object.values(prog.q).reduce((s,q)=>s+q.ok,0), mal = Object.values(prog.q).reduce((s,q)=>s+q.mal,0);
   const dias = diasAlExamen();
   telemetria([
@@ -662,8 +770,10 @@ function toggleArea(a){
   el.classList.toggle('off', areasOff.has(a)); el.setAttribute('aria-pressed', !areasOff.has(a));
 }
 
+function toggleFuente(f){ fuentesOff.has(f) ? fuentesOff.delete(f) : fuentesOff.add(f); pintarMenu(); }
+
 function seleccion(){
-  let qs = DATA.preguntas.filter(p => !areasOff.has(p.area));
+  let qs = DATA.preguntas.filter(p => !areasOff.has(p.area) && !fuentesOff.has(p.fuente));
   if ($('#soloFallos').checked) qs = qs.filter(p => (prog.q[p.id]||{}).mal > 0);
   return qs;
 }
@@ -680,7 +790,7 @@ function ordenar(qs){
 // en examen las preguntas de un mismo texto van juntas, como en la prueba real
 function ordenExamen(qs){
   const grupos = {};
-  qs.forEach(p => (grupos[p.area+'|'+p.contexto] ||= []).push(p));
+  qs.forEach(p => (grupos[p.area+'|'+(p.contexto ?? p.fuente)] ||= []).push(p));
   return barajar(Object.values(grupos)).flatMap(g => g.sort((a,b)=>a.n-b.n));
 }
 
@@ -698,6 +808,8 @@ function empezar(){
     fin = Date.now() + cola.length * SEG_POR_PREGUNTA * 1000;
     $('#pillReloj').style.display=''; tic(); reloj = setInterval(tic, 1000);
   }
+  sesion.errSeg = 0; sesion.aviso5 = false;
+  Mascota.evento(examen ? 'inicioExamen' : 'inicio');
   pintar(); window.scrollTo(0, 0);
 }
 
@@ -707,6 +819,7 @@ function tic(){
   const e = $('#pillReloj');
   e.textContent = `T- ${m}:${String(s).padStart(2,'0')}`;
   e.classList.toggle('poco', r < 5*60000);
+  if (r < 5*60000 && r > 0 && !sesion.aviso5){ sesion.aviso5 = true; Mascota.evento('cincoMin'); }
   if (r <= 0){ toast('Se acabó el tiempo'); terminar(); }
 }
 
@@ -721,7 +834,8 @@ function pintar(){
   $('#meta').innerHTML =
     `<span class="sp-tag">${esc(nombreArea(actual.area))}</span>`
     + `<span class="sp-tag">#${String(actual.n).padStart(2,'0')}</span>`
-    + (nOpc < 4 ? `<span class="sp-tag warn">el original trae ${nOpc} opciones</span>` : '')
+    + `<span class="sp-tag">${esc(DATA.fuentes[actual.fuente].corto)}</span>`
+    + (nOpc < 4 && actual.fuente === 'uao2026' ? `<span class="sp-tag warn">el original trae ${nOpc} opciones</span>` : '')
     + (q.mal && !examen ? `<span class="sp-tag warn">fallada ${q.mal}×</span>` : '');
 
   const c = (DATA.contextos[actual.area] || [])[actual.contexto];
@@ -730,10 +844,14 @@ function pintar(){
   const abierto = prev && prev.open && prev.dataset.k === clave;
   $('#ctxHolder').innerHTML = c
     ? `<details class="ctx" data-k="${clave}" ${abierto?'open':''}>
-       <summary>${c.resumen ? 'Resumen del texto' : 'Texto'} ${actual.contexto+1}: ${esc(c.titulo)}</summary>
+       <summary>${c.resumen ? 'Resumen del texto' : 'Texto'}: ${esc(c.titulo)}</summary>
        <div class="body">${c.resumen ? '<p class="nota">El texto original no está disponible; este es un resumen con lo necesario para responder.</p>' : ''}${c.html}</div></details>` : '';
 
   $('#enunciado').textContent = actual.enunciado;
+  $('#enImg').innerHTML = actual.imagen ? `<img class="sp-enimg" src="${actual.imagen}" alt="figura de la pregunta">` : '';
+  const det = $('#ctxHolder details');
+  if (det) det.addEventListener('toggle', () => det.open && Mascota.evento('leerTexto'), {once:true});
+  Mascota.esperar();
   $('#opts').innerHTML = Object.keys(actual.opciones).sort().map(L =>
     `<button class="opt" data-k="${L}" onclick="responder('${L}')">
        <span class="k">${L}</span><span>${esc(actual.opciones[L])}
@@ -763,7 +881,9 @@ function responder(L){
   bien ? a.ok++ : a.mal++; sesion.areas[actual.area] = a;
   if (!bien && !sesion.fallos.some(f => f.p === actual)) sesion.fallos.push({p:actual, marcada:L});
   racha = bien ? racha+1 : 0;
+  sesion.errSeg = bien ? 0 : (sesion.errSeg || 0) + 1;
   if (racha > prog.mejorRacha) prog.mejorRacha = racha;
+  Mascota.parar();
   $('#pillRacha').textContent = `RACHA ${racha}`;
   guardar();
 
@@ -772,9 +892,15 @@ function responder(L){
   // en repaso, la fallada vuelve a salir unas preguntas después
   if (!bien) cola.splice(Math.min(idx+4, cola.length), 0, actual);
   const fb = $('#fb');
-  fb.className = 'fb ' + (bien ? 'ok' : 'bad');
-  fb.innerHTML = `<span class="res">${bien ? '✓ Correcta' : '✕ Era la ' + actual.correcta}</span>`
-    + (actual.explicacion ? `<div class="why">${actual.explicacion}</div>` : '');
+  const reac = Mascota.reaccion(bien, racha, sesion.errSeg, actual);
+  fb.className = 'fb ' + (bien ? 'ok' : 'bad') + (reac ? ' con-stk' : '');
+  fb.innerHTML = (reac ? `<img class="stk-in pop" src="${reac.img}" alt="">` : '') + '<div>'
+    + `<span class="res">${bien ? '✓ Correcta' : '✕ Era la ' + actual.correcta}</span>`
+    + (reac ? `<div class="why" style="margin-bottom:6px;color:var(--color-lunar)"><i>${esc(reac.txt)}</i></div>` : '')
+    + (actual.explicacion ? `<div class="why">${actual.explicacion}</div>` : '')
+    + (actual.afirmacion ? `<div class="sp-eval"><b>QUÉ EVALÚA</b> · ${actual.afirmacion}</div>` : '')
+    + (actual.clave_discutida ? `<div class="sp-eval" style="color:var(--color-sls)">Clave oficial discutible: revisa la explicación.</div>` : '')
+    + '</div>';
   fb.style.display='block';
   $('#nav').style.display='flex';
   $('#btnSig').textContent = (idx+1 >= cola.length) ? 'Ver resultado →' : 'Siguiente →';
@@ -797,8 +923,10 @@ function terminar(){
   const mins = Math.round((Date.now()-sesion.t0)/60000);
   $('#juego').style.display='none'; $('#fin').style.display='block';
   $('#finTit').textContent = pct>=80 ? 'Buena ronda' : pct>=60 ? 'Ronda terminada' : 'Hay que insistir';
-  $('#finStats').innerHTML =
-     `<div class="sp-stat"><div class="v" data-n="${pct}" data-suf="%">0%</div><div class="l">acierto</div></div>`
+  Mascota.parar();
+  const rf = Mascota.final(pct);
+  $('#finStats').innerHTML = (rf ? `<div style="grid-column:1/-1;text-align:center"><img class="stk-fin stk-in pop" src="${rf.img}" alt=""><div class="sp-fintxt" style="color:var(--color-lunar)"><i>${esc(rf.txt)}</i></div></div>` : '')
+   + `<div class="sp-stat"><div class="v" data-n="${pct}" data-suf="%">0%</div><div class="l">acierto</div></div>`
    + `<div class="sp-stat"><div class="v">${sesion.ok}/${tot}</div><div class="l">correctas</div></div>`
    + `<div class="sp-stat"><div class="v">${mins}′</div><div class="l">duración</div></div>`;
   contar($('#finStats [data-n]'));
@@ -827,7 +955,7 @@ function contar(el){
   requestAnimationFrame(f);
 }
 
-function salir(){ clearInterval(reloj); $('#pillReloj').style.display='none';
+function salir(){ clearInterval(reloj); $('#pillReloj').style.display='none'; Mascota.parar();
   $('#juego').style.display='none'; $('#fin').style.display='none';
   $('#menu').style.display='block'; pintarMenu(); window.scrollTo(0, 0); }
 
@@ -892,8 +1020,10 @@ document.addEventListener('keydown', e=>{
   if (e.key === 'Enter' && $('#nav').style.display !== 'none') siguiente();
 });
 
-$('#foot').innerHTML = DATA.config.pie;
+$('#foot').innerHTML = DATA.config.pie + '<br>' + Object.values(DATA.fuentes).map(f => f.url
+  ? `${esc(f.credito)} <a href="${f.url}" target="_blank" rel="noopener noreferrer">icfes.gov.co</a>` : esc(f.credito)).join('<br>');
 fxTema(); pintarMenu(); animar();
+setTimeout(() => Mascota.saludo(), 1600);
 if (location.hash === '#guia') vista('guia');
 </script>
 </body></html>

@@ -1,0 +1,13 @@
+{
+ "uao2026": {
+  "nombre": "Simulacro UAO 2026",
+  "corto": "UAO 2026",
+  "credito": "Cuadernillos de simulacro Saber Pro y Saber TyT 2026 de la Universidad Autónoma de Occidente."
+ },
+ "icfes2018": {
+  "nombre": "Cuadernillos ICFES 2018",
+  "corto": "ICFES 2018",
+  "credito": "© Icfes, 2018. Preguntas de exámenes anteriores publicadas por el Icfes en sus cuadernillos de preguntas de Saber Pro, reproducidas con fines exclusivamente académicos y sin ánimo de lucro.",
+  "url": "https://www.icfes.gov.co/"
+ }
+}
