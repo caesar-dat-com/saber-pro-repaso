@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera docs/index.html: un solo archivo, sin dependencias, con el banco y las imágenes embebidos.
+"""Genera docs/index.html: un solo archivo, sin dependencias, con el banco, la guía y las imágenes embebidos.
 
     python3 build.py                       # usa config.json
     python3 build.py --fecha-examen 2026-10-18 --salida /ruta/saberpro.html
@@ -106,10 +106,20 @@ def main():
         if p.get('imagenes'):
             p['imagenes'] = {L: imagen(n) for L, n in p['imagenes'].items()}
 
-    datos = dict(config=config, areas=areas, contextos=contextos, preguntas=preguntas)
+    guia = json.load(open(os.path.join(BANCO, 'guia.json')))
+    for sec in guia['general']['secciones'] + [x for ar in guia['areas'].values() for x in ar['secciones']]:
+        sec['items'] = [en_linea(i) for i in sec['items']]
+    for ar in guia['areas'].values():
+        ar['autoevaluacion'] = [[en_linea(p), en_linea(r)] for p, r in ar.get('autoevaluacion', [])]
+    if set(guia['areas']) - set(areas):
+        sys.exit(f'guia.json: áreas desconocidas {set(guia["areas"]) - set(areas)}')
+
+    datos = dict(config=config, areas=areas, contextos=contextos, preguntas=preguntas, guia=guia)
     js = json.dumps(datos, ensure_ascii=False).replace('</', '<\\/')
     plantilla = open(os.path.join(RAIZ, 'src', 'plantilla.html')).read()
-    out = plantilla.replace('__DATOS__', js)
+    out = (plantilla.replace('__INICIO__', html.escape(config.get('inicio', '#')))
+                    .replace('__MARCA__', html.escape(config.get('marca', 'Saber Pro')))
+                    .replace('__DATOS__', js))
     os.makedirs(os.path.dirname(os.path.abspath(a.salida)), exist_ok=True)
     open(a.salida, 'w').write(out)
     print(f'{a.salida}: {len(preguntas)} preguntas, {len(out) / 1024:.0f} KB')

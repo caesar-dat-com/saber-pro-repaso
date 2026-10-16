@@ -1,0 +1,163 @@
+{
+ "general": {
+  "titulo": "Antes y durante la prueba",
+  "fechas": [
+   ["Publicación de citaciones", "viernes 2 de octubre de 2026"],
+   ["Solicitudes sobre la citación", "5 al 9 de octubre de 2026"],
+   ["Aplicación de la prueba", "domingo 18 de octubre de 2026"],
+   ["Certificado digital de presentación", "lunes 9 de noviembre de 2026"],
+   ["Resultados individuales", "viernes 19 de febrero de 2027"]
+  ],
+  "fechas_nota": "Calendario Saber Pro 2026-2 según la comunicación de la universidad. Confírmalo en icfes.gov.co.",
+  "secciones": [
+   {
+    "titulo": "La citación",
+    "items": [
+     "La citación (sitio, hora y salón) **no llega por correo**: se descarga del portal **PRISMA** del ICFES con tu cuenta.",
+     "Llévala junto con el **documento de identidad original**.",
+     "Lleva lápiz, borrador y tajalápiz propios."
+    ]
+   },
+   {
+    "titulo": "Si te bloqueas: protocolo de 60 segundos",
+    "items": [
+     "**Paro.** No conviertas una pregunta en toda la prueba.",
+     "**Respiro.** Exhala lento y recupera el ritmo.",
+     "**Me hablo.** «No necesito resolver todo ahora».",
+     "**Decido.** Descarto opciones, respondo o la marco para volver.",
+     "**Continúo.** Una pregunta no define tu desempeño."
+    ]
+   },
+   {
+    "titulo": "Cambia lo que te dices",
+    "items": [
+     "«No sé nada» → «Esta pregunta no me está saliendo todavía».",
+     "«Me voy a bloquear» → «Puedo bajar el ritmo y volver a enfocarme».",
+     "«Ya dañé la prueba» → «Una respuesta no define las siguientes».",
+     "«Todos van mejor que yo» → «Mi tarea es resolver mi prueba, a mi ritmo»."
+    ]
+   },
+   {
+    "titulo": "Reglas que valen para los tres módulos",
+    "items": [
+     "Cuando dos opciones suenan bien, gana **la que puedes señalar con el dedo en el texto**.",
+     "La clave suele usar **el vocabulario del texto** y responde exactamente lo que se pide: describir, proponer, inferir o analizar la forma.",
+     "No hay una regla del tipo «elige siempre la moderada»: a veces la correcta es la opción fuerte.",
+     "**Abre siempre las gráficas.** Si las opciones son imágenes, míralas todas antes de marcar."
+    ]
+   }
+  ]
+ },
+ "areas": {
+  "ciudadana": {
+   "secciones": [
+    {
+     "titulo": "Dónde es fácil equivocarse",
+     "items": [
+      "**Electoral vs. no electoral.** El voto, el referendo y el plebiscito son electorales; el cabildo abierto y la iniciativa legislativa **no**. Los distractores mezclan uno de cada tipo.",
+      "**Tablas por región.** La columna «Total» no es una región: cuando preguntan dónde se ve más algo, compara entre regiones.",
+      "**Paz negativa vs. positiva.** Negativa = ausencia de violencia, orden y tranquilidad (antropología pesimista). Positiva = justicia social y realización de los derechos humanos (ser humano cooperador y solidario). «Orden y tranquilidad» suena positivo y es la negativa.",
+      "**1990 vs. 1991.** La Asamblea Constituyente se pidió en 1990 (Séptima Papeleta); la Constitución se redactó en 1991.",
+      "**Minería y empleo.** Genera muchas divisas pero **poco empleo**, porque usa alta tecnología.",
+      "**Literalidad.** En las preguntas de comprensión la respuesta suele estar copiada del texto: busca la palabra en vez de interpretar.",
+      "Lo que el reconocimiento jurídico **permite** construir no es lo mismo que **sus límites**: lee bien qué pide el enunciado."
+     ]
+    },
+    {
+     "titulo": "Qué repasar",
+     "items": [
+      "Paz negativa y positiva, y la antropología de cada una.",
+      "Mecanismos de participación: cuáles son electorales y cuáles no.",
+      "Constitución de 1991: las cuatro acciones (tutela, popular, de cumplimiento y de grupo) y los artículos sobre comunidades étnicas (8, 55, 171, 176, 246 y 329); art. 13 (igualdad).",
+      "Economía colombiana: agricultura 6,1 %, industria 18 % y servicios 68 % del PIB; crecimiento por acumulación de factores (trabajo y capital), no por productividad.",
+      "Conflicto armado: desplazamiento forzado, despojo, «urbanismo por la fuerza» y disputa por el poder local tras la descentralización.",
+      "Noviolencia: Gandhi (*ahimsa* y *satyagraha*), Galtung y Curle (paz como desarrollo humano)."
+     ]
+    }
+   ],
+   "autoevaluacion": [
+    ["¿Por qué el pago de impuestos materializa mejor el principio de solidaridad que el voto?", "Porque la solidaridad se liga a la igualdad material (art. 13) y a los derechos sociales y económicos de la población vulnerable. Los impuestos financian esos derechos; el voto ejerce el derecho a elegir, que es otra cosa."],
+    ["¿Por qué la Constitución de 1991 no frenó la captura del Estado en lo local?", "Con la descentralización y la elección popular de alcaldes y gobernadores, la disputa armada por el poder local se intensificó y el narcotráfico penetró territorios, élites e instituciones. El marco formal mejoró; las condiciones materiales del poder local, no."],
+    ["Diferencia paz negativa y paz positiva con un ejemplo.", "Negativa: un barrio sin balaceras porque hay toque de queda; cesó la violencia directa y nada más cambió. Positiva: ese barrio con colegio, acueducto y empleo formal, donde los conflictos se regulan sin violencia porque hay justicia social."]
+   ]
+  },
+  "lectura": {
+   "secciones": [
+    {
+     "titulo": "Literal vs. inferencia",
+     "items": [
+      "Las preguntas **literales** se resuelven ubicando la frase en el texto. Las que más se fallan son las de **inferencia** y **función retórica**.",
+      "No extiendas la conclusión más allá de lo que dice el texto: que alguien esté «en desventaja» no significa que vaya a rendir mal.",
+      "Distingue **lo que el texto describe**, **lo que el autor propone** y **la función del párrafo**: son tres preguntas distintas."
+     ]
+    },
+    {
+     "titulo": "Dónde es fácil equivocarse",
+     "items": [
+      "**«El autor pretende…»** pregunta por la función del párrafo (definir, ejemplificar, develar), no por su contenido.",
+      "**«Se puede inferir que…»** busca lo que el texto permite concluir, no la frase más profunda.",
+      "**Los referentes** («ellos», «esto», «aquello») se resuelven con lo inmediatamente anterior.",
+      "**Comparaciones de tres** personas o elementos: ordénalos antes de responder.",
+      "En textos argumentativos, separa la **tesis** (lo que el autor defiende) del **diagnóstico** (lo que describe).",
+      "«El texto es un ensayo porque…»: un ensayo contextualiza un problema, propone una visión propia y la justifica."
+     ]
+    },
+    {
+     "titulo": "Conceptos de los textos",
+     "items": [
+      "**Yerkes-Dodson:** relación en U invertida entre activación y rendimiento. El estrés moderado mejora la memoria; el crónico daña el hipocampo y puede dejar daño permanente.",
+      "**Ley de Price / Pareto:** distribución desigual; una minoría produce la mayor parte (de las langostas a la música y la riqueza). Price la formuló en 1963; Pareto la vio antes aplicada a la riqueza.",
+      "**Zuleta, *La guerra*:** la guerra es fiesta; una sociedad mejor es la capaz de tener mejores conflictos, de reconocerlos y contenerlos.",
+      "**Zuleta, *Elogio de la dificultad*:** «deseamos mal», imaginamos paraísos sin riesgo; la idealización del fin lleva al terror de los medios. Los dos textos de Zuleta comparten tesis: la dificultad y el conflicto como valores."
+     ]
+    }
+   ],
+   "autoevaluacion": [
+    ["Según Zuleta, ¿por qué la guerra resulta atractiva y qué hace mejor a una sociedad?", "Porque es fiesta: comunidad unida, el individuo disuelto en ella, aprobarse sin dudas frente al enemigo. Una sociedad es mejor si es capaz de tener mejores conflictos: reconocerlos, contenerlos y vivir productivamente en ellos."],
+    ["Explica la curva de Yerkes-Dodson con un ejemplo.", "U invertida entre activación y rendimiento: en una sustentación, cero nervios da descuido y el exceso da bloqueo; el mejor desempeño está en la tensión moderada."],
+    ["En el primer párrafo de *La guerra*, ¿qué diferencia hay entre lo que el texto dice y lo que el autor pretende?", "Dice que la guerra es fiesta (contenido). Pretende definirla así para sentar después su punto de vista sobre la paz (función)."]
+   ]
+  },
+  "razonamiento": {
+   "secciones": [
+    {
+     "titulo": "Operaciones que tienes que dominar",
+     "items": [
+      "**Proporción sobre un total:** si Alaska aportó 3.019 de 9.625 Gt que subieron el mar 27 mm → 3.019 / 9.625 × 27 ≈ **8,47 mm**.",
+      "**Tasa entre dos puntos (lineal):** de 50 en julio a 85 en septiembre → (85 − 50) / 2 = **17,5 por mes**. No es el promedio (67,5): es la pendiente. El examen ofrece ambas.",
+      "**Razón entre dos cantidades:** 1.673 hurtos / 88 homicidios ≈ **19 veces**.",
+      "**«Cuántas veces» vs. «cuántos puntos»:** de 4 % a 26 % es multiplicar por **6,5**, no «subió 22 puntos».",
+      "**Comparar dos series:** 1.237 / 416 ≈ **3 veces** más rápido.",
+      "**R² de una regresión:** un 87,59 % es la parte de la variabilidad de la variable dependiente que explica la independiente. No es una correlación ni un error."
+     ]
+    },
+    {
+     "titulo": "Dónde es fácil equivocarse",
+     "items": [
+      "**Gráficas de muchas series sin etiqueta en cada barra:** el orden de la leyenda **no** te dice el orden de las barras.",
+      "**Opciones que son gráficas:** ábrelas todas y compáralas con los datos antes de marcar.",
+      "**Opciones que solo cambian el orden** de dos cifras: vuelve a la gráfica y verifica cuál va primero.",
+      "En las preguntas de interpretación, elige la opción que **el contexto sostiene**, no la causa que te parece «más de fondo».",
+      "Si dos explicaciones son ciertas, suele ganar la que cubre **la cadena completa** que plantea el texto.",
+      "Distingue el **área** del **volumen** (km² vs. km³) y en general revisa las unidades que pide el enunciado."
+     ]
+    },
+    {
+     "titulo": "Qué repasar",
+     "items": [
+      "Lectura de gráficas de barras múltiples y de series por grupo de edad.",
+      "Pendiente vs. promedio en una serie de tiempo.",
+      "Porcentajes: «cuántas veces» vs. «puntos porcentuales».",
+      "Interpretación de R² y de ajustes cuadráticos.",
+      "Es el módulo más mecánico: con tiempo para mirar todas las gráficas, el puntaje sube."
+     ]
+    }
+   ],
+   "autoevaluacion": [
+    ["Alaska perdió 3.019 Gt de las 9.625 Gt globales que elevaron el mar 27 mm. ¿Cuánto aportó Alaska?", "3.019 / 9.625 ≈ 0,3137; × 27 mm ≈ **8,47 mm**."],
+    ["Los casos pasan de 50 en julio a 85 en septiembre. ¿Cuál es el aumento mensual si es lineal y cuál el promedio del periodo?", "Aumento: (85 − 50) / 2 = **17,5 por mes**. Promedio: (50 + 85) / 2 = **67,5**. Son cosas distintas."],
+    ["¿Qué significa que el R² de la curva biomasa-DAP sea 87,59 %?", "Que el 87,59 % de la variabilidad de la biomasa total queda explicada por el diámetro a la altura del pecho; el 12,41 % restante depende de otros factores."]
+   ]
+  }
+ }
+}

@@ -1,6 +1,6 @@
 # Saber Pro — repaso
 
-Página para practicar los módulos genéricos del **Saber Pro**: Lectura Crítica, Razonamiento Cuantitativo y Competencias Ciudadanas. Son 90 preguntas tipo examen; cada una tiene su texto o gráfica, la respuesta correcta y una explicación de por qué es esa.
+Página para practicar los módulos genéricos del **Saber Pro**: Lectura Crítica, Razonamiento Cuantitativo y Competencias Ciudadanas. Trae las 90 preguntas de los tres cuadernillos de simulacro (30 por módulo), cada una con su texto o gráfica, la respuesta correcta y la explicación. También incluye una **guía de estudio** con los errores típicos, las operaciones y los conceptos que salieron, preguntas de autoevaluación y qué hacer el día de la prueba.
 
 **Úsala aquí:** https://caesar-dat-com.github.io/saber-pro-repaso/
 
@@ -11,6 +11,8 @@ Funciona en el celular y sin conexión: `docs/index.html` es un solo archivo. De
 - **Repaso:** las preguntas que fallas vuelven a salir unas preguntas después y salen primero en la siguiente ronda.
 - **Modo examen:** reloj de 2 min por pregunta, las preguntas del mismo texto van juntas, como en la prueba, y no ves explicaciones hasta el final. Al terminar te muestra cada fallo con la respuesta correcta y la explicación.
 - Filtros por módulo y por «solo las que he fallado».
+- **Guía:** una pestaña por módulo con las trampas, conceptos y operaciones que hay que dominar, más autoevaluación con respuesta oculta y fechas del calendario 2026-2.
+- Tema oscuro y claro (botón arriba a la derecha).
 - Puedes responder con las teclas `A`–`D` y pasar con `Enter`.
 - Tu progreso se guarda solo en tu navegador; no hay cuentas ni se envía nada.
 
@@ -43,6 +45,8 @@ Para agregar preguntas, edita `banco/preguntas.json`:
 - `contexto`: posición (desde 0) del texto en `banco/contextos.json` para esa área, o `null` si la pregunta no tiene texto.
 - Los textos usan Markdown sencillo: párrafos, listas, tablas, `**negrita**` e imágenes con `{{img:archivo.png}}`. Las imágenes van en `banco/img/`.
 - Opcional: `"imagenes": {"A": "archivo.png", ...}` cuando las opciones son gráficas.
+
+La guía está en `banco/guia.json`: secciones con una lista de `items` y `autoevaluacion` como pares `[pregunta, respuesta]`.
 
 Después regenera la página:
 
