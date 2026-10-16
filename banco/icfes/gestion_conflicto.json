@@ -1,0 +1,398 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Gestión del Conflicto (cuadernillos 2021 y 2026, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-gestion_conflicto-001",
+   "area": "gestion_conflicto",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "El propietario de un vehículo logra un acuerdo con un posible comprador, en cuanto al monto del precio, por la suma de $86.000.000 y la forma de pago, así: una esmeralda por la suma de $40.000.000 y un cheque que giró a nombre del comprador la Sociedad Prima S.A. por valor de $46.000.000, el cual lo endosaría a su nombre.\n\nCon base en lo anterior, el vendedor, para evitar conflictos futuros y asegurar el pago total del precio de su vehículo, debe",
+   "opciones": {
+    "A": "verificar la fecha de exigibilidad del título y su cuantía.",
+    "B": "pedir referencias comerciales de la Sociedad Prima S.A.",
+    "C": "establecer si la Sociedad Prima S.A. existe y tiene cuenta en el banco.",
+    "D": "solicitar al posible comprador la certificación del cheque por el banco."
+   },
+   "correcta": "D",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "En el **cheque certificado** el banco garantiza que existen fondos y los reserva para su pago, lo que asegura que el cheque endosado será pagado. Verificar fecha y cuantía (A), pedir referencias (B) o confirmar que la sociedad existe y tiene cuenta (C) no garantizan que haya fondos el día del cobro.",
+   "origen": "Cuadernillo 2021 #1"
+  },
+  {
+   "id": "icfes-gestion_conflicto-002",
+   "area": "gestion_conflicto",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "María Pérez presenta una petición ante la EPS para la reducción de sus senos. La paciente argumenta que el peso excesivo de sus senos le provoca graves problemas de espalda y por ello no se le está garantizando su pleno derecho a la salud; dice tener exámenes médicos que así lo demuestran. La EPS niega la petición argumentando que la paciente no sufre de ninguna enfermedad asociada a sus senos.\n\nPara resolver el problema de manera ágil, idónea y sin tener que acudir ante un juez, María debe",
+   "opciones": {
+    "A": "citar a la EPS a una conciliación para resolver su problema.",
+    "B": "presentar una solicitud de amigable composición.",
+    "C": "acudir a la Superintendencia de Salud.",
+    "D": "interponer una acción de tutela."
+   },
+   "correcta": "A",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "La **conciliación** permite que María y la EPS, ayudadas por un tercero, lleguen a un acuerdo con valor jurídico de forma rápida y sin proceso judicial. La tutela (D) se tramita ante un juez, que es justo lo que se quiere evitar; la amigable composición (B) se usa para conflictos contractuales y patrimoniales entre particulares, y la Superintendencia de Salud (C) ejerce funciones jurisdiccionales en un trámite más formal.",
+   "origen": "Cuadernillo 2021 #2"
+  },
+  {
+   "id": "icfes-gestion_conflicto-003",
+   "area": "gestion_conflicto",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "A una estudiante del programa de Derecho de la Universidad del Futuro se le avisa que no podrá graduarse por no haber llenado el requisito de grado de suficiencia en una segunda lengua extranjera. La estudiante asegura que ella realizó los cursos solicitados en Inglaterra, que entregó los soportes de tales cursos en la universidad y que la institución omitió hacer el registro respectivo por no considerarlos válidos.\n\nSi la institución quiere evitar un conflicto judicial debe",
+   "opciones": {
+    "A": "proferir su decisión por medio de notificación escrita.",
+    "B": "esperar a que la estudiante presente un recurso.",
+    "C": "convocar a la estudiante a conciliación.",
+    "D": "declarar la nulidad del acto académico."
+   },
+   "correcta": "C",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "Para prevenir el litigio, la universidad debe abrir un espacio de **diálogo con un tercero (conciliación)**, donde se revisen los soportes y se llegue a un acuerdo. Notificar por escrito (A) solo formaliza la negativa; esperar un recurso (B) es pasivo y deja escalar el conflicto, y declarar la nulidad del acto (D) es una decisión unilateral que no resuelve la controversia de fondo.",
+   "origen": "Cuadernillo 2021 #3"
+  },
+  {
+   "id": "icfes-gestion_conflicto-004",
+   "area": "gestion_conflicto",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Carlos suscribe un acta de constitución de una sociedad anónima y paga el 50 % del valor de las acciones el mismo día, con el compromiso de cancelar el saldo seis (6) meses más tarde. Vencido el plazo, Carlos no paga el valor pertinente.\n\nEl representante legal de la sociedad busca asesoría para evitar un conflicto jurídico. En este caso, el abogado debería sugerirle",
+   "opciones": {
+    "A": "proceder a demandar judicialmente al accionista deudor.",
+    "B": "imputar el pago efectivo a las acciones respectivas que alcance.",
+    "C": "cancelar el registro del accionista deudor en el respectivo libro.",
+    "D": "convocar a un acuerdo conciliatorio a fin de obtener el pago."
+   },
+   "correcta": "D",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "Según el Icfes, la **conciliación** es la única alternativa que no genera un conflicto jurídico: la demanda (A) es un enfrentamiento judicial directo, y imputar el pago (B) o cancelar el registro (C) serían actos unilaterales que derivarían en un litigio futuro. La clave es **discutible**: el art. 397 del Código de Comercio faculta expresamente a la sociedad, ante la mora del accionista, a imputar lo pagado a la liberación de las acciones que alcance (opción B), y el propio cuadernillo da esa solución como correcta en la pregunta 20.",
+   "origen": "Cuadernillo 2021 #4",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-gestion_conflicto-005",
+   "area": "gestion_conflicto",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Pedro vive con dos perros que muestran comportamientos agresivos. Todas las tardes los saca de paseo a la zona de juegos y áreas comunes del edificio en el que reside. Recientemente, el administrador de la propiedad informó a Pedro que sus perros no podían vivir más en el edificio, argumentando que la tenencia de estos animales representa un peligro para los demás residentes; esta decisión está sustentada en el reglamento que se aprobó recientemente y obtuvo el visto bueno de todos los copropietarios.\n\nCon base en esta información, el hecho irrelevante para configurar el conflicto jurídico es",
+   "opciones": {
+    "A": "el incumplimiento del reglamento de propiedad horizontal.",
+    "B": "la inconformidad de los vecinos por eventuales ataques.",
+    "C": "la tenencia de animales considerados de alta peligrosidad.",
+    "D": "la contravención a las normas sobre tenencia de mascotas."
+   },
+   "correcta": "B",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "El conflicto jurídico se configura por hechos con relevancia normativa: el incumplimiento del **reglamento** de propiedad horizontal (A), la tenencia de **animales peligrosos** (C) y la violación de las **normas sobre mascotas** (D). La simple **inconformidad** de los vecinos por ataques eventuales es una percepción subjetiva que, por sí sola, no crea el conflicto jurídico.",
+   "origen": "Cuadernillo 2021 #5"
+  },
+  {
+   "id": "icfes-gestion_conflicto-006",
+   "area": "gestion_conflicto",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Margarita, estudiante de noveno grado y menor de edad, es sometida a matoneo electrónico por las estudiantes del grado once, quienes también son menores de edad. Esta situación atemoriza a Margarita quien no desea volver a estudiar, razón por la cual su mamá se presenta en el colegio y expone el caso ante la directora, que comisiona a un grupo de docentes para que encuentren una solución al conflicto.\n\nEl mecanismo idóneo para solucionar de forma oportuna el conflicto descrito, evitando acudir a la jurisdicción, es",
+   "opciones": {
+    "A": "la mediación.",
+    "B": "la conciliación.",
+    "C": "el arbitramento.",
+    "D": "la amigable composición."
+   },
+   "correcta": "A",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "En la convivencia escolar, la **mediación** es el mecanismo informal en el que un tercero (aquí, los docentes) facilita el diálogo para que las propias partes construyan la solución. La conciliación (B) exige un conciliador habilitado y un acta con efectos jurídicos; el arbitramento (C) y la amigable composición (D) sirven para controversias patrimoniales o contractuales, no para un caso de matoneo entre menores.",
+   "origen": "Cuadernillo 2021 #6"
+  },
+  {
+   "id": "icfes-gestion_conflicto-007",
+   "area": "gestion_conflicto",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Dentro de su jurisdicción, la ley colombiana reconoce la existencia de modelos ancestrales de justicia que forman parte de las tradiciones de algunas comunidades indígenas del país. Un indígena wayúu fue objeto de un hurto de 5 cabras por otro miembro de su etnia. El ofendido pretende una reparación material del ofensor que implique ahorro de tiempo y costo.\n\nPara defender sus derechos y así tratar de solucionar eficazmente el conflicto, el mecanismo jurídico y la jurisdicción competente, que puede utilizar el indígena wayúu ofendido, es",
+   "opciones": {
+    "A": "interponer una denuncia penal ante la Fiscalía por hurto.",
+    "B": "denunciar ante la inspección de policía de Riohacha.",
+    "C": "acudir ante la justicia autocompositiva.",
+    "D": "presentarse ante la justicia heterocompositiva."
+   },
+   "correcta": "C",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "La justicia wayúu, reconocida por el art. 246 de la Constitución, se basa en el **palabrero (pütchipü'ü)**, que facilita que las partes acuerden la reparación: es un modelo **autocompositivo**, rápido y de bajo costo. La Fiscalía y la inspección de policía (A, B) son de la jurisdicción ordinaria, y la justicia heterocompositiva (D) implica que un tercero imponga la decisión.",
+   "origen": "Cuadernillo 2021 #7"
+  },
+  {
+   "id": "icfes-gestion_conflicto-008",
+   "area": "gestion_conflicto",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Felipe es capturado en flagrancia el 26 de febrero a las 6:00 a. m., hurtando las pertenencias de Federico y ocasionándole lesiones personales. Felipe fue conducido a presencia del fiscal de reacción inmediata, para que este a su vez lo pusiera a órdenes del funcionario competente para legalizar la captura, formular imputación y solicitar la imposición de una medida de aseguramiento. El fiscal encargado pone a disposición del juez con función de control de garantías al capturado, el día 28 de febrero a las 8:00 a. m.\n\nLa situación sobre la cual puede surgir un problema jurídico es",
+   "opciones": {
+    "A": "la imposición de detención preventiva.",
+    "B": "la ilegalidad de la captura.",
+    "C": "la competencia de quien realizó la captura.",
+    "D": "la exclusión probatoria."
+   },
+   "correcta": "B",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "El art. 28 de la Constitución exige poner al capturado a disposición del juez dentro de las **36 horas** siguientes. Entre el 26 de febrero a las 6:00 a. m. y el 28 a las 8:00 a. m. pasaron **50 horas**, así que la captura se vuelve **ilegal**. La flagrancia permite que cualquier persona capture (C), y la medida de aseguramiento o la exclusión de pruebas (A, D) no son el problema que plantean los hechos.",
+   "origen": "Cuadernillo 2021 #8"
+  },
+  {
+   "id": "icfes-gestion_conflicto-009",
+   "area": "gestion_conflicto",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Rodolfo solicita a la empresa de energía eléctrica que revise el contador de luz de su casa para que se reduzca el valor mensual de la factura de pago, pues analizada esta, considera que no se está haciendo correctamente la lectura y se está reflejando un consumo muy superior al real. La empresa de energía no le da respuesta.\n\nLa acción que le evitaría a Rodolfo recurrir a un mecanismo alternativo o jurisdiccional para solucionar su problema es",
+   "opciones": {
+    "A": "arreglo directo.",
+    "B": "arbitramento.",
+    "C": "conciliación.",
+    "D": "amigable composición."
+   },
+   "correcta": "A",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "El **arreglo directo** es la negociación entre las partes, sin terceros: es la única opción que no es un mecanismo alternativo (MASC) ni jurisdiccional. Arbitramento, conciliación y amigable composición (B, C, D) son precisamente mecanismos alternativos con intervención de un tercero, que es lo que la pregunta pide evitar.",
+   "origen": "Cuadernillo 2021 #9"
+  },
+  {
+   "id": "icfes-gestion_conflicto-010",
+   "area": "gestion_conflicto",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "El Congreso de la República, por mayoría, con fundamento en el numeral 10 del artículo 150 de la Constitución política, aprueba una ley mediante la cual reviste de facultades extraordinarias al presidente de la República, por un plazo de seis meses, con el fin de que expida un nuevo Código de Recursos Naturales Renovables y del Medio Ambiente.\n\nDe estos hechos, el tema sobre el cual puede surgir un problema jurídico es",
+   "opciones": {
+    "A": "la nulidad, porque las facultades extraordinarias se otorgaron por un plazo de seis meses.",
+    "B": "la inconstitucionalidad, porque las facultades extraordinarias otorgadas al presidente no se pueden conferir para legislar sobre el medio ambiente.",
+    "C": "la nulidad, porque la ley no fue aprobada por mayoría absoluta de los miembros de una y otra cámara.",
+    "D": "la inconstitucionalidad, porque las facultades extraordinarias otorgadas al presidente no se pueden conferir para la expedición de códigos."
+   },
+   "correcta": "D",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "El numeral 10 del art. 150 permite conceder facultades extraordinarias hasta por **seis meses** (A no es problema), exige **mayoría absoluta**, pero prohíbe expresamente conferirlas para **expedir códigos**, leyes estatutarias, orgánicas o tributarias. Por eso el problema es de **inconstitucionalidad** por la expedición de un código. Además, una ley no se ataca por «nulidad» (A, C), y el medio ambiente no está entre las materias prohibidas (B).",
+   "origen": "Cuadernillo 2021 #10"
+  },
+  {
+   "id": "icfes-gestion_conflicto-011",
+   "area": "gestion_conflicto",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "María acude ante un defensor de familia y manifiesta que recientemente se separó de su esposo por problemas de convivencia y ha quedado sola con un hijo de 3 años. Además de encontrarse desempleada, ella indica que el padre de su hijo es trabajador independiente y requiere que le suministre los alimentos que por ley le corresponden al niño.\n\nEl defensor de familia debe",
+   "opciones": {
+    "A": "citar al padre y requerirlo verbalmente para que cumpla la obligación.",
+    "B": "convocar una audiencia de conciliación para fijar la cuota alimentaria.",
+    "C": "iniciar un proceso de alimentos ante el juez de familia.",
+    "D": "denunciar penalmente al padre del menor por la inasistencia alimentaria."
+   },
+   "correcta": "B",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "*(El cuadernillo omite la frase final del enunciado; se completó a partir de las opciones.)* El defensor de familia puede **conciliar la cuota alimentaria**, y en asuntos de alimentos la conciliación es requisito previo al proceso judicial: es la vía más ágil y deja un acta que presta mérito ejecutivo. Un requerimiento verbal (A) no obliga; el proceso ante juez (C) solo procede si fracasa la conciliación, y la denuncia penal (D) es desproporcionada si aún no hay incumplimiento de una cuota fijada.",
+   "origen": "Cuadernillo 2021 #11"
+  },
+  {
+   "id": "icfes-gestion_conflicto-012",
+   "area": "gestion_conflicto",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Entre Pedro, ingeniero de sistemas, y María, comerciante, se celebró un contrato de prestación de servicios profesionales de ingeniería de sistemas, cuyo objeto fue la creación de un software de contabilidad para el manejo personal de los negocios de María. La contraprestación a cargo de María y a favor de Pedro fue la cantidad de $5.000.000, pagados en su totalidad. En el citado contrato se pactó una cláusula compromisoria. María se queja de que el producto es defectuoso.\n\nEl asunto se le consulta a un abogado, quien determina que el mecanismo jurídico al cual se puede acudir para solucionar de manera eficaz el conflicto es",
+   "opciones": {
+    "A": "conciliación.",
+    "B": "tribunal de arbitramento.",
+    "C": "juez civil ordinario.",
+    "D": "amigable componedor."
+   },
+   "correcta": "B",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "La **cláusula compromisoria** obliga a las partes a someter sus diferencias contractuales a un **tribunal de arbitramento** y excluye a la justicia ordinaria (C). La conciliación (A) es voluntaria y no la impone el pacto, y la amigable composición (D) requiere un acuerdo distinto de la cláusula arbitral.",
+   "origen": "Cuadernillo 2021 #12"
+  },
+  {
+   "id": "icfes-gestion_conflicto-013",
+   "area": "gestion_conflicto",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Una persona está cansada de los altos niveles de ruido que emanan de un establecimiento de comercio cercano a su casa. Esta persona ha comunicado a la alcaldía la situación en reiteradas oportunidades, sin que la autoridad pública haya realizado algún tipo de operativo de control para verificar el nivel de ruido al que la comunidad se expone diariamente.\n\nCansada de esta situación, la persona decide interponer una acción de cumplimiento para que la jurisdicción contencioso administrativa imponga una decisión en la que se establezca el deber para la alcaldía de realizar los operativos correspondientes, se constate la situación contraria a las normas que está afectando la tranquilidad del vecindario y se impongan las sanciones administrativas a las que haya lugar.\n\nPara interponer la acción de cumplimiento, el proceso que debe seguir esta persona es",
+   "opciones": {
+    "A": "efectuar la solicitud de constitución en renuencia, interponer la acción e impugnar la decisión en caso de que esta resulte adversa a sus intereses.",
+    "B": "presentar un derecho de petición en interés general para que se respeten los derechos colectivos y del ambiente de los residentes del sector.",
+    "C": "interponer la acción, solicitar las pruebas, acudir a la audiencia de conciliación e impugnar la decisión en caso de que esta resulte adversa a sus intereses.",
+    "D": "solicitar las pruebas, impugnar la decisión en caso de que esta resulte adversa a sus intereses y solicitar su revisión, en caso de que la impugnación sea denegada."
+   },
+   "correcta": "A",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "La Ley 393 de 1997 exige como requisito de procedibilidad **constituir en renuencia** a la autoridad (reclamarle el cumplimiento del deber); luego se interpone la acción y, si el fallo es adverso, se **impugna**. El derecho de petición (B) no es la acción; en la acción de cumplimiento **no hay audiencia de conciliación** (C), y D omite el requisito de renuencia.",
+   "origen": "Cuadernillo 2021 #13"
+  },
+  {
+   "id": "icfes-gestion_conflicto-014",
+   "area": "gestion_conflicto",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Ante una demanda de restitución de inmueble arrendado, el arrendatario consulta a un abogado para que intervenga en el proceso en su nombre y representación, y retarde ilegítimamente los trámites judiciales a fin de mantener el inmueble el mayor tiempo posible. Los honorarios ofrecidos al abogado son muy bajos.\n\nEn atención a los principios de lealtad y diligencia, el abogado debe rechazar el caso porque",
+   "opciones": {
+    "A": "se interferiría con el normal desarrollo de la actuación judicial.",
+    "B": "los honorarios no son acordes con la clase de trabajo solicitado por el cliente.",
+    "C": "en este tipo de procesos no hay acciones procesales para retardar los trámites.",
+    "D": "lo adecuado sería iniciar un proceso de pertenencia."
+   },
+   "correcta": "A",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "El Código Disciplinario del Abogado (Ley 1123 de 2007) le prohíbe usar maniobras dilatorias: retardar ilegítimamente el proceso **entorpece la administración de justicia** y viola el deber de lealtad. El monto de los honorarios (B) no es la razón ética para rechazar; C es falso como fundamento, y un proceso de pertenencia (D) no tiene relación con un arrendatario, que reconoce dominio ajeno.",
+   "origen": "Cuadernillo 2021 #14"
+  },
+  {
+   "id": "icfes-gestion_conflicto-015",
+   "area": "gestion_conflicto",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Una persona tiene un contrato de suministro de papelería con una entidad pública, el cual está a punto de vencerse. Para evitar el desabastecimiento de papelería, el jefe de almacén de la entidad le solicita al proveedor que continúe suministrando los materiales, indicándole que están tramitando lo necesario para prorrogar el contrato y que le harán los pagos de los bienes entregados durante el tiempo que no haya vínculo contractual. Sin embargo, la entidad no efectúa la prórroga y, por el contrario, inicia una licitación que termina con la adjudicación del contrato a un proveedor distinto.\n\nPara solicitar el reclamo de los dineros adeudados por la entidad pública, el proveedor debería interponer una",
+   "opciones": {
+    "A": "acción popular ante la jurisdicción constitucional por violación a la moralidad administrativa.",
+    "B": "acción de nulidad y restablecimiento del derecho ante la jurisdicción contencioso administrativa.",
+    "C": "acción in rem verso ante la jurisdicción contencioso administrativa.",
+    "D": "acción de reparación directa ante la jurisdicción ordinaria."
+   },
+   "correcta": "C",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "Entregar bienes sin contrato a solicitud de la entidad genera un **enriquecimiento sin causa** de esta, que se reclama con la **actio in rem verso** ante la jurisdicción **contencioso administrativa**. No hay un acto administrativo que anular (B); la acción popular (A) protege derechos colectivos y no persigue pagos particulares, y la reparación directa (D) se tramita en lo contencioso, no en la jurisdicción ordinaria.",
+   "origen": "Cuadernillo 2021 #15"
+  },
+  {
+   "id": "icfes-gestion_conflicto-016",
+   "area": "gestion_conflicto",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Una persona fue atropellada por un vehículo oficial que transportaba al personero municipal. La persona sintió que no había sufrido ningún daño y decidió no judicializar este conflicto. Ocho meses después de ocurrido este incidente, el afectado empezó a sentir una serie de molestias en su visión. Inició consultas médicas, pero le prescribieron la realización de resonancias magnéticas y otra serie de exámenes que inicialmente no fueron autorizados por la EPS del afectado.\n\nPor este motivo, el afectado debió recurrir a la acción de tutela para lograr que los mencionados exámenes le fueran practicados. Luego de seis meses en este proceso de diagnóstico, los médicos determinaron que tenía un daño ocular irreversible producido por un golpe severo. Tan pronto conoce el diagnóstico, la persona decide judicializar el conflicto y consulta un abogado para que le asesore en la determinación de acción que le permitiría reclamar la responsabilidad extracontractual de quien ocasionó el daño.\n\nUn hecho que el abogado que atiende la consulta NO debe considerar como relevante en este caso es",
+   "opciones": {
+    "A": "que el vehículo que atropelló el afectado era oficial.",
+    "B": "que el afectado tardó 8 meses en sentir molestias en su visión.",
+    "C": "que los médicos le diagnosticaron al afectado un daño ocular irreversible.",
+    "D": "que la EPS autorizó los exámenes médicos en virtud de una acción de tutela."
+   },
+   "correcta": "D",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "Que los exámenes se lograran mediante una **tutela** es información secundaria para reclamar la responsabilidad extracontractual. Sí son relevantes: que el vehículo fuera **oficial** (A), porque define la responsabilidad del Estado y la acción de reparación directa; la **demora** en sentir los síntomas (B), que explica cuándo empieza a contarse la caducidad, y el **diagnóstico** (C), que prueba el daño y motiva la judicialización.",
+   "origen": "Cuadernillo 2021 #16"
+  },
+  {
+   "id": "icfes-gestion_conflicto-017",
+   "area": "gestion_conflicto",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Un curador urbano niega una licencia de construcción a un particular. Luego de expedida la resolución en la que el curador manifiesta su decisión, el afectado considera que el acto es contrario a las normas urbanísticas y por este motivo intenta atacar su legalidad.\n\nPara cumplir esta finalidad, el afectado deberá cumplir las siguientes etapas:",
+   "opciones": {
+    "A": "Interponer un recurso de reposición ante el curador urbano; interponer un recurso de apelación ante la oficina o secretaría de planeación del municipio, y presentar la demanda ante la jurisdicción contencioso administrativa.",
+    "B": "Interponer un recurso de reposición ante la oficina o secretaría de planeación; interponer un recurso de apelación ante la comisión de veedurías, y presentar la demanda ante la jurisdicción contencioso administrativa.",
+    "C": "Interponer un recurso de apelación ante la curaduría y presentar la demanda ante la jurisdicción contencioso administrativa.",
+    "D": "Interponer un recurso de reposición ante la curaduría y presentar la demanda ante la jurisdicción ordinaria."
+   },
+   "correcta": "A",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "Las decisiones del curador urbano se controvierten con **reposición ante el mismo curador** y **apelación ante la oficina de planeación** del municipio (Ley 388 de 1997 y Ley 810 de 2003); agotada la vía administrativa, se demanda ante lo **contencioso administrativo**. B invierte las autoridades e inventa una apelación ante veedurías; C plantea la apelación ante quien decidió, y D lleva el asunto a la jurisdicción ordinaria.",
+   "origen": "Cuadernillo 2021 #17"
+  },
+  {
+   "id": "icfes-gestion_conflicto-018",
+   "area": "gestion_conflicto",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Gabriel le dice a su abogado que Lorenzo, quien es su vecino, le debe dinero por un préstamo que le hizo hace tres años. Sin embargo, Gabriel le confiesa a su abogado que no tiene un documento escrito que le sirva para cobrar su acreencia. El abogado le recomienda a Gabriel constituir con Lorenzo un título ejecutivo mediante una conciliación. Lorenzo acepta la propuesta.\n\nPara que el acta de conciliación sirva como título ejecutivo, es necesario que Lorenzo",
+   "opciones": {
+    "A": "reconozca la ocurrencia de un asalto en la buena fe de Gabriel y lo indemnice.",
+    "B": "acceda a la creación de un contrato de préstamo entre particulares en el acta de conciliación.",
+    "C": "se comprometa a firmar una letra de cambio por valor de la acreencia más daños y perjuicios.",
+    "D": "acceda al reconocimiento de la deuda y de las condiciones de pago en el acta de conciliación."
+   },
+   "correcta": "D",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "*(El cuadernillo omite la frase final del enunciado; se completó a partir de las opciones.)* El acta de conciliación presta mérito ejecutivo si contiene una **obligación clara, expresa y exigible**: el **reconocimiento de la deuda** y las **condiciones de pago**. No se necesita crear un nuevo contrato de préstamo (B), ya que el préstamo existe; la letra de cambio (C) sería otro título distinto del acta, y el «asalto en la buena fe» (A) no tiene que ver con el caso.",
+   "origen": "Cuadernillo 2021 #18"
+  },
+  {
+   "id": "icfes-gestion_conflicto-019",
+   "area": "gestion_conflicto",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Juan quiere comprar la casa de Pedro, pero no quiere que esta quede a su nombre. Por ello, le solicita a su hijo Andrés, de estado civil casado, que figure como comprador del inmueble y el negocio jurídico se perfecciona en tales circunstancias. Al cabo de unos años, Juan le solicita a su hijo que le devuelva la casa, por lo que celebran otra escritura simulada de compraventa, ahora entre Andrés y Juan. La esposa de Andrés, molesta porque la casa forma parte de la sociedad conyugal, busca asesoría de un abogado.\n\nLa acción pertinente y ética que debería recomendar un abogado a la esposa de Andrés ante esta situación es",
+   "opciones": {
+    "A": "interponer una acción de simulación absoluta contra la escritura de compraventa entre Juan y Andrés, para que el juez declare que fue una donación y solicite además la rescisión de la misma por haberse omitido la insinuación notarial.",
+    "B": "no interponer ninguna acción, pues cada esposo posee libre administración de sus bienes y sin importar las simulaciones desplegadas, la esposa no tiene capacidad para ser parte en un litigio sobre esas escrituras.",
+    "C": "no interponer ninguna acción pues si bien es cierto la escritura fue simulada, esta no camufló una donación, sino que buscó dejar sin efectos una simulación anterior.",
+    "D": "interponer una acción para que un juez declare que Juan no pagó el precio del inmueble vendido y en consecuencia lo conmine a pagarlo junto a los perjuicios derivados."
+   },
+   "correcta": "C",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "La primera compraventa fue una **interposición de persona**: el verdadero comprador siempre fue Juan, que pagó la casa, así que el bien nunca ingresó realmente al patrimonio de Andrés ni a la sociedad conyugal. La segunda escritura solo **deshizo esa simulación**; no oculta una donación (A) ni hay precio impagado que reclamar (D). Lo ético es **no litigar** sin fundamento. B es falsa porque el cónyuge sí puede tener interés para demandar actos que afecten la sociedad conyugal.",
+   "origen": "Cuadernillo 2021 #19"
+  },
+  {
+   "id": "icfes-gestion_conflicto-020",
+   "area": "gestion_conflicto",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Al constituirse una sociedad mercantil, cada uno de los socios acuerda pagar en dinero la tercera parte del valor de sus acciones al momento de su creación y el saldo a 6 meses, también en dinero. Llegado el día del cumplimento de la obligación, uno de los socios no paga, y ofrece la entrega de una casa para cubrir el saldo restante. Ante el no pago, los demás socios acuden a un abogado para intentar solucionar el conflicto.\n\nPara evitar la judicialización del conflicto, la propuesta jurídica y eficaz que debería sugerir el abogado es",
+   "opciones": {
+    "A": "recomendar a los demás socios que acepten las condiciones del deudor, dado que el pago en especie es válido de acuerdo con lo pactado.",
+    "B": "posponer el funcionamiento de la sociedad hasta que el socio deudor venda las acciones que suscribió.",
+    "C": "imputar la suma ofrecida en especie por el socio deudor a la liberación del número de acciones que correspondan a ese valor.",
+    "D": "exigir al socio deudor que respalde el pago de las acciones insolutas con un título valor que garantice el aporte."
+   },
+   "correcta": "C",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "Ante la mora del accionista, el art. 397 del Código de Comercio permite **imputar** lo pagado (aquí, el valor del aporte ofrecido) a la **liberación de las acciones que alcance a cubrir**, sin necesidad de pleito. A es falsa porque lo pactado era pago en **dinero**, no en especie; posponer la sociedad (B) no tiene sustento, y exigir un título valor (D) prepara un cobro judicial en lugar de evitarlo.",
+   "origen": "Cuadernillo 2021 #20"
+  },
+  {
+   "id": "icfes-gestion_conflicto-021",
+   "area": "gestion_conflicto",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Un municipio suscribió, con una unión temporal, un contrato de obra en el año 2012, con cláusula compromisoria, cuyo objeto consistió en la reparación y pavimentación de la malla vial urbana. El contrato fue ejecutado en su totalidad. La unión temporal alega que queda un saldo pendiente por la suma de $300.000.000, correspondiente a unas obras adicionales que se realizaron y que el municipio no reconoce.\n\nDada la naturaleza del conflicto, el mecanismo alternativo idóneo para prevenir la judicialización de este es la",
+   "opciones": {
+    "A": "conciliación extrajudicial en equidad.",
+    "B": "jurisdicción de paz.",
+    "C": "conciliación extrajudicial ante la Procuraduría General de la Nación.",
+    "D": "convocatoria de un arbitramento."
+   },
+   "correcta": "D",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "Como el contrato tiene **cláusula compromisoria**, las partes ya pactaron que sus diferencias contractuales se resuelvan por **arbitramento**, que evita el proceso ante la jurisdicción contencioso administrativa. La conciliación en equidad y los jueces de paz (A, B) no tienen competencia para conflictos contractuales con entidades públicas; la conciliación ante la Procuraduría (C) es posible, pero no es la vía que las partes acordaron.",
+   "origen": "Cuadernillo 2021 #21"
+  },
+  {
+   "id": "icfes-gestion_conflicto-022",
+   "area": "gestion_conflicto",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Una pareja de cónyuges se acerca a una oficina de abogados y consulta sobre la viabilidad jurídica de llegar a un acuerdo en relación con la distribución de los bienes patrimoniales adquiridos en vigencia del matrimonio, antes de un eventual proceso de divorcio.\n\nLa acción que evitaría acudir a mecanismos alternativos o jurisdiccionales es",
+   "opciones": {
+    "A": "celebrar capitulaciones matrimoniales sobre los bienes propios aportados por cada uno al matrimonio.",
+    "B": "liquidar, durante la vigencia del matrimonio, la sociedad conyugal existente.",
+    "C": "disolver la sociedad conyugal sin necesidad de liquidarla.",
+    "D": "elaborar declaración extra juicio ante notario, relacionando los bienes patrimoniales aportados al matrimonio."
+   },
+   "correcta": "B",
+   "afirmacion": "Contribuye a la prevención de conflictos haciendo uso de conceptos jurídicos y principios éticos de la profesión.",
+   "explicacion": "Los cónyuges pueden, de mutuo acuerdo y por escritura pública, **disolver y liquidar la sociedad conyugal** estando vigente el matrimonio (Ley 1 de 1976), lo que reparte los bienes sin juez ni conciliador. Las capitulaciones (A) se celebran **antes** del matrimonio y sobre bienes propios; disolver sin liquidar (C) no distribuye nada, y una declaración extrajuicio (D) no tiene efecto sobre la repartición.",
+   "origen": "Cuadernillo 2021 #22"
+  },
+  {
+   "id": "icfes-gestion_conflicto-023",
+   "area": "gestion_conflicto",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Mariela vendió un carro a Jorge por 20 millones de pesos. Acordaron un pago de 10 millones a la firma de la promesa de compraventa y el saldo a la entrega del vehículo y formalización del traspaso, lo que se comprometieron realizar al siguiente mes. Mariela no cumplió pues cuando se acercó a la entidad pública para realizar el traspaso se enteró de que el vehículo era objeto de una medida de embargo en un juzgado penal por haberse comprobado que el automotor había servido como medio para la comisión de un delito. Mariela, que había recibido el carro años antes como regalo de su exnovio, decidió, por temor a no saber qué hacer con esa situación, no volver a responder las llamadas de Jorge. Jorge acude a un consultorio jurídico para saber a qué jurisdicción y la clase de proceso a los que puede acudir.\n\n¿Cuál de los siguientes mecanismos no resulta jurídicamente procedente para solucionar eficazmente el conflicto descrito?",
+   "opciones": {
+    "A": "Acudir a la Personería Distrital a fin de intentar un acuerdo conciliatorio extrajudicial.",
+    "B": "Presentar una denuncia contra Mariela por el delito de estafa.",
+    "C": "Acudir ante un juez civil a fin de presentar una demanda civil por incumplimiento contractual.",
+    "D": "Acudir a un consultorio jurídico de una universidad para que ante los estudiantes de consultorio se suscriba un acuerdo de pago."
+   },
+   "correcta": "B",
+   "afirmacion": "Gestiona y resuelve conflictos jurídicos mediante el uso de mecanismos alternativos y jurisdiccionales, desde un enfoque jurídico e interdisciplinar, con la debida fundamentación ética.",
+   "explicacion": "La estafa exige **engaño** para obtener un provecho ilícito, y Mariela no sabía del embargo cuando vendió: su incumplimiento es **contractual**, no penal, así que la denuncia es improcedente. Sí son vías idóneas la conciliación en la Personería (A), la demanda civil por incumplimiento (C) y el acuerdo en un consultorio jurídico (D).",
+   "origen": "Cuadernillo 2021 #23"
+  }
+ ]
+}

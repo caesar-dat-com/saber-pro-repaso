@@ -1,0 +1,458 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Diseño de Sistemas de Control (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Caso 1 — Planta de manufactura",
+   "texto": "En una planta de manufactura se produce una sustancia para el recubrimiento de uno de sus productos, que se obtiene por medio de la mezcla de dos materias primas, una sólida (en forma pulverizada) y una líquida. La proporción de estas materias primas en la mezcla debe ser de 40 % líquido y 60 % sólido. Para obtener las características fisicoquímicas apropiadas, durante la mezcla se debe mantener una temperatura estable de 120 °C, valor que no debe ser superado en ningún momento por razones de seguridad y de calidad. La mezcla se realiza en un tanque (que previamente debió alcanzar la temperatura indicada), que posea un agitador impulsado por un motor eléctrico acoplado por medio de un motorreductor. La velocidad del agitador no es crítica, pero se debe asegurar que no caiga por debajo de 10 rpm.\n\nDado que en este momento existen problemas de calidad en la mezcla y que el proceso es controlado por un operario en planta, la gerencia de producción ha decidido automatizar el procedimiento para garantizar la uniformidad de la mezcla. Para ello, se implementará un lazo de control de temperatura que utilice una fuente DC de alta potencia con salida variable para controlar la potencia entregada a una resistencia de calefacción. Esta última, a su vez, servirá como entrada de calor al tanque de mezcla, como se muestra en la figura.\n\n{{img:icfes_diseno_control_001_figura.png}}\n\nAdicionalmente, se utilizarán unas celdas de cargas ya instaladas en unas tolvas para la alimentación de las materias primas. Por medio de las celdas de carga se puede obtener el peso de cada material y, así, suministrar la razón correcta de mezcla al tanque. De igual manera, se usarán cuatro electroválvulas (on/off, normalmente cerradas) para controlar el paso de material hacia la tolva y de la tolva al tanque de mezcla. Las celdas de carga se programarán para que produzcan una salida digital una vez se alcance el peso apropiado y se pueda proceder a transferir el material al tanque de mezcla. El proceso de mezcla siempre se realiza con un mismo volumen, de manera que se asegure que el tanque trabaja a máxima capacidad. Una vez las válvulas de alimentación de material al tanque (V1 y V2) se abran, se activará el motor del agitador. Se ha decidido instalar un interruptor de velocidad que se activará si la velocidad del agitador cae por debajo de 10 rpm; en caso de activación, el sistema se detendrá.\n\nAdicional a lo anterior, se incluyó un tablero de control que contará con un pulsador de inicio, un pulsador de parada y un botón de parada de emergencia. El pulsador de inicio habilita e inicia el funcionamiento del sistema, el pulsador de parada detiene el proceso una vez se termine la secuencia completa de mezclado y el botón de parada de emergencia detiene inmediatamente el proceso. Se requieren también tres luces piloto que indican si el proceso está activo, si se ha activado el pulsador de parada o si está activa la parada de emergencia."
+  },
+  {
+   "titulo": "Caso 2 — Proceso Fenton",
+   "texto": "En una planta de tratamiento de aguas residuales se decide implementar un proceso fisicoquímico denominado Fenton, que utiliza el principio de óxido reducción para la depuración de componentes orgánicos. Este proceso se puede aplicar en aguas residuales que tengan una alcalinidad alta, es decir, su pH se encuentra en un rango entre 7 y 14.\n\nEl peróxido de hidrógeno ingresa en el reactor por medio de una válvula controlada por presión y reacciona con la acidez del medio, generando la liberación del agente encargado de la oxidación. Para que la oxidación se produzca se debe bajar el pH a un nivel entre 2 y 4, lo cual se logra ingresando ácido sulfúrico al reactor, en función del nivel de pH existente en el reactor en todo momento.\n\nLa reacción del peróxido con el medio es exotérmica (reacción química en la que se desprende energía, ya sea en forma de luz o de calor) y requiere un control de temperatura. El rango de temperatura recomendable para tener una reacción oxidante adecuada se encuentra entre los 40 °C y los 50 °C. Es crítico para el proceso tener una temperatura que sobrepase los 50 °C, dado que en estos niveles el peróxido de hidrógeno reacciona, convirtiéndose en agua y oxígeno.\n\nAsí mismo, se requiere desperdiciar la menor cantidad posible de peróxido de hidrógeno para reducir costos en la compra de reactivos. El proceso necesita supervisarse en todo momento, por lo cual se debe implementar una instrumentación en planta de todos los dispositivos."
+  },
+  {
+   "titulo": "Caso 3 — Cruce vehicular",
+   "texto": "Se tiene un cruce de dos vías, cada una de doble sentido. Cada sentido de entrada al cruce dispone de un semáforo y se identifica con las letras W, X, Y y Z, como se muestra en la figura.\n\n{{img:icfes_diseno_control_014_figura.png}}\n\nEn cada sentido existen dos sistemas de detección inductivos, cada uno compuesto por un lazo inductivo y un detector vehicular. Estos sistemas de detección inductivos tienen por finalidad detectar el tamaño de la fila que espera el cambio del semáforo; el lazo inductivo (sensor) más cerca del cruce se identifica con la letra P (fila pequeña) y el más lejano con la letra L (fila larga).\n\nCada sistema de detección inductivo se identifica con la letra del sentido y con subíndice del tamaño de fila; así por ejemplo, un sistema de detección inductivo en el sentido X para fila larga se denota XL y para fila pequeña XP. La autorización de paso (activación del color verde) en cada semáforo se divide en cuatro rangos de tiempo de acuerdo con dos variables booleanas (TA y TB), como se indica en la tabla, y donde un 1 lógico significa activación.\n\n| TA | TB | Tamaño de fila en sentido actual | Tamaño de fila en los demás sentidos | Tiempo asignado (segundos) |\n|---|---|---|---|---|\n| 0 | 0 | Pequeña | Mínimo dos filas son largas. | 20 |\n| 0 | 1 | Pequeña | Todas son pequeñas. | 30 |\n| 1 | 0 | Larga | Mínimo dos filas son largas. | 40 |\n| 1 | 1 | Larga | Todas son pequeñas. | 60 |\n\nA su vez, el rango de tiempo que se asigna al color verde de un sentido depende del tamaño actual de fila de ese sentido y del tamaño de fila en los demás sentidos, como se indica en la tabla anterior."
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-diseno_control-001",
+   "area": "diseno_control",
+   "n": 1,
+   "contexto": 0,
+   "enunciado": "Se ha decidido utilizar un PLC para controlar el proceso. Teniendo en cuenta la figura y la descripción del caso, para implementar el sistema se necesita como mínimo que los módulos de entrada/salida tengan",
+   "opciones": {
+    "A": "7 salidas digitales, 4 entradas digitales, 3 entradas analógicas y 2 salidas analógicas.",
+    "B": "8 salidas digitales, 4 entradas digitales, 3 entradas analógicas y 1 salida analógica.",
+    "C": "5 salidas digitales, 3 entradas digitales, 1 entrada analógica y 1 salida analógica.",
+    "D": "8 salidas digitales, 6 entradas digitales, 1 entrada analógica y 1 salida analógica."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Salidas digitales: 4 electroválvulas + motor del agitador + 3 luces piloto = **8**. Entradas digitales: 2 celdas de carga (salida digital) + interruptor de velocidad + pulsador de inicio + pulsador de parada + parada de emergencia = **6**. Analógicas: solo la temperatura entra (TT) y solo la consigna de la fuente DC sale, **1 y 1**.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-diseno_control-002",
+   "area": "diseno_control",
+   "n": 2,
+   "contexto": 0,
+   "enunciado": "Después de un día de funcionamiento del sistema de automatización del tanque de mezcla, un operario encuentra que la sustancia de salida del proceso es completamente líquida; es decir, presenta una densidad y viscosidad por debajo de la requerida. El operario asegura que verificó, al inicio del proceso, que los indicadores numéricos asociados a los módulos de las celdas de carga indicaran el peso adecuado para cada materia prima. De acuerdo con lo anterior, este resultado defectuoso en el proceso se presenta debido a una falla eléctrica o mecánica en la activación de",
+   "opciones": {
+    "A": "V1.",
+    "B": "V2.",
+    "C": "V3.",
+    "D": "V4."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Si las celdas de carga marcaban el peso correcto, ambas materias primas llegaron a sus tolvas, así que V3 y V4 funcionaron; y como el producto es líquido, V1 sí descargó. Lo que no entró al tanque fue el sólido, por lo que la falla está en **V2**. Como las válvulas son on/off, no cabe pensar en una apertura parcial de V1.",
+   "origen": "Cuadernillo 2018 #2 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-diseno_control-003",
+   "area": "diseno_control",
+   "n": 3,
+   "contexto": 0,
+   "enunciado": "Las variables para las señales lógicas se asignan de la siguiente manera:\n\nV1: control válvula 1.\nV2: control válvula 2.\nC1: celda de carga 1.\nC2: celda de carga 2.\nT1: señal que indica el momento en que finaliza la mezcla.\nON: sistema habilitado.\n\nDe acuerdo con lo anterior, las ecuaciones lógicas que se ajustarían para controlar el accionamiento de las válvulas 1 y 2 para el llenado del tanque son",
+   "opciones": {
+    "A": "V1 = ON * C1 * C2 * T̅1̅\nV2 = V̅1̅",
+    "B": "V1 = ON * (C1 * C2 + V1) * T̅1̅\nV2 = ON * (C1 * C2 + V2) * T̅1̅",
+    "C": "V1 = ON * C1 * C2 * T1\nV2 = V1",
+    "D": "V1 = ON * (C1 * C2 + V1) * T1\nV2 = ON * (C1 * C2 + V2) * T1"
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La clave oficial es A: V1 se abre con el sistema habilitado, ambas celdas listas (C1·C2) y la mezcla sin terminar (T̅1), y C y D fallan porque abren las válvulas cuando la mezcla **ya terminó** (T1 sin negar). Ojo: tal como está impresa, V2 = V̅1 abriría V2 justo cuando V1 está cerrada, en vez de abrir ambas a la vez; y sin autorretención la válvula se cerraría al bajar el peso en la tolva, algo que la opción B sí resuelve con el enclavamiento (+V1, +V2). Por eso esta clave es discutible.",
+   "origen": "Cuadernillo 2018 #3",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-diseno_control-004",
+   "area": "diseno_control",
+   "n": 4,
+   "contexto": 0,
+   "enunciado": "Para diseñar el controlador del lazo de control de temperatura, el procedimiento más adecuado es:",
+   "opciones": {
+    "A": "Determinar la función de transferencia de cada componente → Realizar el diagrama del lugar de las raíces del sistema → Construir un diagrama en bloques del sistema → Simular la respuesta del sistema → Ajustar (sintonizar) el controlador si es necesario",
+    "B": "Construir un diagrama en bloques del sistema → Realizar el diagrama del lugar de las raíces del sistema → Determinar la función de transferencia de cada componente → Simular la respuesta del sistema → Ajustar (sintonizar) el controlador si es necesario",
+    "C": "Determinar la función de transferencia de cada componente → Construir un diagrama en bloques del sistema → Realizar el diagrama del lugar de las raíces del sistema → Simular la respuesta del sistema → Ajustar (sintonizar) el controlador si es necesario",
+    "D": "Determinar la función de transferencia de cada componente → Construir un diagrama en bloques del sistema → Simular la respuesta del sistema → Ajustar (sintonizar) el controlador si es necesario → Realizar el diagrama del lugar de las raíces del sistema"
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Primero se modela cada elemento (función de transferencia) y se arma el diagrama en bloques para obtener la función de lazo abierto; solo con ese modelo completo se puede trazar el **lugar de las raíces** para elegir ganancia y verificar estabilidad. Después se simula y, si hace falta, se sintoniza. El lugar de las raíces no puede ir antes del modelo (A, B) ni al final (D).",
+   "origen": "Cuadernillo 2018 #4 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-diseno_control-005",
+   "area": "diseno_control",
+   "n": 5,
+   "contexto": 0,
+   "enunciado": "El diagrama en bloques que describe adecuadamente el lazo de control de temperatura es",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La consigna de temperatura se compara (realimentación **negativa**) con la medida del transductor, que va en la rama de realimentación; el error entra al controlador (TC), que manda al actuador (DC Power), y este calienta la planta (tanque de mezcla). B y C invierten actuador y planta (C además realimenta en positivo, lo que vuelve inestable el lazo) y D pone el transductor en la rama directa.",
+   "origen": "Cuadernillo 2018 #5 · Preguntas explicadas #2",
+   "imagenes": {
+    "A": "icfes_diseno_control_005_A.png",
+    "B": "icfes_diseno_control_005_B.png",
+    "C": "icfes_diseno_control_005_C.png",
+    "D": "icfes_diseno_control_005_D.png"
+   }
+  },
+  {
+   "id": "icfes-diseno_control-006",
+   "area": "diseno_control",
+   "n": 6,
+   "contexto": 0,
+   "enunciado": "Teniendo en cuenta que el tiempo de mezcla es fijo y se controla mediante PLC (controlador lógico programable), que se instala una electroválvula para desocupar el tanque de mezcla una vez finalizado el proceso y que esta acción también se temporiza (tiempo fijo) mediante PLC, el procedimiento de verificación más adecuado para probar la secuencia lógica del sistema una vez instalado implica, en su orden, verificar",
+   "opciones": {
+    "A": "El voltaje de alimentación → El correcto funcionamiento de cada elemento → La acción de llenado → La temperatura del tanque → El tiempo de mezcla → El tiempo en desocupar el tanque",
+    "B": "La temperatura del tanque → El voltaje de alimentación → La acción de llenado → El tiempo de mezcla → El tiempo en desocupar el tanque → El correcto funcionamiento de cada elemento",
+    "C": "El correcto funcionamiento de cada elemento → El voltaje de alimentación → La temperatura del tanque → La acción de llenado → El tiempo de mezcla → El tiempo en desocupar el tanque",
+    "D": "El voltaje de alimentación → El correcto funcionamiento de cada elemento → La temperatura del tanque → La acción de llenado → El tiempo de mezcla → El tiempo en desocupar el tanque"
+   },
+   "correcta": "D",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Sin alimentación no se puede probar nada, así que va primero; luego cada elemento por separado y después la secuencia en el orden del proceso. Como el tanque **debe estar a 120 °C antes** de recibir el material, la temperatura se verifica antes del llenado (la trampa de A), y al final vienen el tiempo de mezcla y el de vaciado.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-diseno_control-007",
+   "area": "diseno_control",
+   "n": 7,
+   "contexto": 0,
+   "enunciado": "Durante la identificación de la función de transferencia de los componentes, se obtuvo una lectura del transductor de temperatura ante una señal tipo paso unitario en la entrada de control voltaje de la fuente (DC Power), tal como se muestra en la gráfica.\n\nLa temperatura ambiente durante la prueba era 20 °C y se comprobó que el retardo del sistema es despreciable. De acuerdo con lo anterior, un tipo de controlador adecuado para usar en el lazo de control de temperatura es",
+   "opciones": {
+    "A": "proporcional integral derivativo, sintonizado para producir una respuesta críticamente amortiguada del sistema.",
+    "B": "proporcional derivativo, sintonizado para producir una respuesta subamortiguada del sistema.",
+    "C": "proporcional integral derivativo, sintonizado para producir una respuesta subamortiguada del sistema.",
+    "D": "proporcional derivativo, sintonizado para producir una respuesta críticamente amortiguada del sistema."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La curva es la de un sistema de primer orden sin retardo. Hace falta acción **integral** para que la temperatura llegue exactamente a 120 °C, sin error en estado estable, y la respuesta debe ser **críticamente amortiguada** porque esos 120 °C no se pueden superar nunca: una respuesta subamortiguada tendría sobrepico.",
+   "origen": "Cuadernillo 2018 #7",
+   "imagen": "icfes_diseno_control_007.png"
+  },
+  {
+   "id": "icfes-diseno_control-008",
+   "area": "diseno_control",
+   "n": 8,
+   "contexto": 1,
+   "enunciado": "Para la implementación del lazo de control correspondiente a la variable pH, se requiere implementar el siguiente diagrama de instrumentación.\n\nEl diagrama presenta un elemento primario de pH (XE) conectado a un transmisor de pH (XT), el cual se encarga de entregarle la señal estándar al controlador (XIC). El controlador ejecuta la acción sobre una válvula neumática (FCV) que se comporta como elemento final de control. El transductor (XY) se encarga de convertir la señal eléctrica enviada por el controlador en neumática, para que la válvula la asimile.\n\nPara el lazo presentado se remplaza el elemento final de control existente por una válvula accionada por corriente. La modificación o cambio en los instrumentos que se debe realizar para mantener inalterado el sistema es",
+   "opciones": {
+    "A": "eliminar la etapa del controlador y del transductor.",
+    "B": "adicionar un transductor de presión a corriente.",
+    "C": "eliminar el transductor de corriente a presión.",
+    "D": "adicionar otro elemento primario además del que ya se tiene."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "El transductor XY (I/P) existe solo para pasar la señal de corriente del controlador a presión para la válvula neumática. Si la nueva válvula se acciona directamente con corriente, ese convertidor sobra: se **elimina el I/P** y lo demás queda igual.",
+   "origen": "Cuadernillo 2018 #8",
+   "imagen": "icfes_diseno_control_008.png"
+  },
+  {
+   "id": "icfes-diseno_control-009",
+   "area": "diseno_control",
+   "n": 9,
+   "contexto": 1,
+   "enunciado": "Para la configuración del controlador que interviene en el lazo de control de flujo del peróxido se implementa únicamente un algoritmo de control integral únicamente. Al aplicar esta técnica, el sistema no pierde estabilidad. Teniendo en cuenta esta característica técnica, ante una entrada tipo escalón, el tipo de respuesta que se verifica en el lazo de control es",
+   "opciones": {
+    "A": "oscilatoria con tiempo de estabilización grande y error en estado estable presente.",
+    "B": "sobreamortiguada con tiempo de estabilización grande y error en estado estable eliminado.",
+    "C": "subamortiguada con tiempo de estabilización pequeño y error en estado estable eliminado.",
+    "D": "sobreamortiguada con tiempo de estabilización pequeño y error en estado estable presente."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "La acción integral acumula el error hasta anularlo, así que **elimina el error en estado estable**; pero, sin acción proporcional ni derivativa, corrige despacio y la respuesta es lenta y sobreamortiguada, con un tiempo de estabilización grande.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-diseno_control-010",
+   "area": "diseno_control",
+   "n": 10,
+   "contexto": 1,
+   "enunciado": "Se quiere rediseñar el lazo que controla el flujo del peróxido, responsable de la oxidación. El nuevo diseño, debe tener un control más efectivo de la sustancia sin afectar el lazo de control de temperatura. Para este nuevo diseño, la adaptación que se debe realizar al sistema es",
+   "opciones": {
+    "A": "disponer de un sensor de temperatura con un rango más amplio.",
+    "B": "eliminar la etapa de sensado de temperatura, pues no tiene sentido que permanezca implementada.",
+    "C": "agregar un sensor y un transmisor de pH para el reactor.",
+    "D": "modificar la programación del controlador para implementar una nueva ley de control para la variable."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "Para controlar mejor el flujo de peróxido sin tocar la instrumentación del lazo de temperatura, basta con **cambiar la ley de control** (el algoritmo) en el controlador. Cambiar o quitar sensores alteraría el lazo de temperatura, y el pH ya tiene su propio lazo.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-diseno_control-011",
+   "area": "diseno_control",
+   "n": 11,
+   "contexto": 1,
+   "enunciado": "Cuando el sistema de control excede la temperatura máxima permitida, inmediatamente se disminuye la emisión de peróxido de hidrógeno, para no desperdiciar el reactivo.\n\nUna válvula neumática controla el paso del peróxido, en función de la temperatura existente en el reactor en todo momento. Este lazo de control se puede representar mediante el siguiente diagrama de bloques:\n\nDe acuerdo con lo anterior, en el diagrama de bloques, el elemento",
+   "opciones": {
+    "A": "H corresponde al controlador del sistema.",
+    "B": "G corresponde al sensor de temperatura involucrado en el lazo de control.",
+    "C": "H corresponde al sensor de temperatura involucrado en el lazo de control.",
+    "D": "P corresponde al elemento primario del sistema."
+   },
+   "correcta": "C",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "En un lazo realimentado, el bloque de la rama de realimentación (H) es el que mide la salida y la devuelve al comparador: el **sensor de temperatura**. En la rama directa, P es el controlador y G la planta con la válvula.",
+   "origen": "Cuadernillo 2018 #11",
+   "imagen": "icfes_diseno_control_011.png"
+  },
+  {
+   "id": "icfes-diseno_control-012",
+   "area": "diseno_control",
+   "n": 12,
+   "contexto": 1,
+   "enunciado": "Se requiere definir los sensores de temperatura necesarios para la implementación del proceso. La tabla muestra las especificaciones técnicas de 4 sensores consultados para implementarse en la planta de tratamiento.\n\n| Sensor | Rango | Amplitud de trabajo | Precisión |\n|---|---|---|---|\n| 1 | -40 °C – 750 °C | 157,5 °C – 552,5 °C | ±0,5 °C |\n| 2 | -40 °C – 1000 °C | 220 °C – 740 °C | ±1,5 °C |\n| 3 | -80 °C – 400 °C | 40 °C – 280 °C | ±0,10 °C |\n| 4 | -50 °C – 250 °C | 25 °C – 175 °C | ±0,15 °C |\n\nLa amplitud de trabajo o campo de medición está comprendido por el conjunto de valores más adecuado para medir con un instrumento en particular.\n\nDe acuerdo con el caso descrito y la información de la tabla, el sensor que se debe seleccionar es:",
+   "opciones": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "La reacción debe vigilarse entre 40 °C y 50 °C, y vigilar los 50 °C es crítico. Los sensores 1 y 2 no miden bien esa zona; en el sensor 3 los 40 °C caen justo en el borde de su amplitud de trabajo, mientras que el **sensor 4** (25 °C – 175 °C) cubre la franja con holgura y con buena precisión (±0,15 °C).",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-diseno_control-013",
+   "area": "diseno_control",
+   "n": 13,
+   "contexto": 1,
+   "enunciado": "Para la selección de los sensores de pH y temperatura se evalúan distintas características físicas y técnicas. Por cuestiones de diseño, se tienen las alternativas que se muestran en la tabla para la elección de ambos sensores.\n\n| Alternativa | Sensor de temperatura | Sensor de pH |\n|---|---|---|\n| 1 | Termómetro vidrio y longitud de inmersión 300 mm | Rango: 0 hasta 8 |\n| 2 | Termopar J acero y longitud de inmersión 300 mm | Rango: 0 hasta 8 |\n| 3 | Termómetro bimetálico y longitud de inmersión 200 mm | Rango: 0 hasta 13 |\n| 4 | Termopar K acero y longitud de inmersión 200 mm | Rango: 0 hasta 13 |\n\nLas características de los materiales en medios corrosivos se presentan en la gráfica.\n\nTeniendo en cuenta que el campo de medición de los sensores generalmente está entre 25 % y 75 % del rango, para efectos de diseño la alternativa de sensores de temperatura y pH más adecuada es",
+   "opciones": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "En un medio ácido y corrosivo, el **acero** se desgasta mucho menos que el vidrio (la gráfica), así que conviene un termopar de acero. Para el pH de operación (2 a 4): con rango 0–8, el campo útil es 25 %–75 % → **2 a 6**, que lo cubre; con rango 0–13 el campo sería 3,25 a 9,75 y dejaría fuera los valores de 2 a 3,25. Solo la alternativa 2 combina ambas condiciones.",
+   "origen": "Cuadernillo 2018 #13",
+   "imagen": "icfes_diseno_control_013.png"
+  },
+  {
+   "id": "icfes-diseno_control-014",
+   "area": "diseno_control",
+   "n": 14,
+   "contexto": 2,
+   "enunciado": "De acuerdo con el caso descrito, la ecuación booleana que representa la activación de la variable TA para el sentido de entrada W es",
+   "opciones": {
+    "A": "WL{XPYPZP + XL(YL + ZL) + YLZL}",
+    "B": "WP{XPYPZP} + WL{XPYPZP}",
+    "C": "{WP + WL} {XL(YL + ZL) + YLZL}",
+    "D": "WPXPYPZP + WL{XL(YL + ZL) + YLZL}"
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "TA = 1 solo cuando la fila del sentido actual es **larga** (WL), y eso ocurre en dos filas de la tabla: cuando todas las demás son pequeñas (XPYPZP) o cuando al menos dos de las demás son largas (XL(YL + ZL) + YLZL). Al factorizar WL queda la opción A.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-diseno_control-015",
+   "area": "diseno_control",
+   "n": 15,
+   "contexto": 2,
+   "enunciado": "Cada sistema de detección vehicular entrega una señal lógica que, desde un punto de vista práctico, se comporta como un pulsador: entrega un 1 lógico cuando detecta presencia y entrega un 0 lógico en caso contrario. Sin embargo, esto no es suficiente para determinar si los vehículos están detenidos, haciendo fila o simplemente pasan momentáneamente en movimiento. Se debe incorporar por software un sistema que diferencie un 1 lógico por tránsito vehicular de un 1 lógico por tráfico detenido. De acuerdo con lo anterior, las etapas secuenciales que debe seguir el modelo de software apropiado para lograr esta diferenciación son:",
+   "opciones": {
+    "A": "Discriminar por tiempo, detectar flancos, eliminar rebotes y activar memoria.",
+    "B": "Activar memoria, detectar flancos, eliminar rebotes y discriminar por tiempo.",
+    "C": "Eliminar rebotes, discriminar por tiempo, detectar flancos y activar memoria.",
+    "D": "Detectar flancos, eliminar rebotes, discriminar por tiempo y activar memoria."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Primero se detecta el flanco (llegada del vehículo), luego se eliminan los rebotes para quedarse con una señal limpia, después se mide cuánto dura el 1 para distinguir un vehículo que pasa de uno detenido, y por último se **memoriza** que hay fila.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-diseno_control-016",
+   "area": "diseno_control",
+   "n": 16,
+   "contexto": 2,
+   "enunciado": "Se plantea la siguiente situación con el sistema en operación normal:\n\n1. El sentido actual con acceso al cruce es Y con fila corta de espera.\n2. Luego, sigue el sentido Z con fila corta de espera.\n3. Las filas de W y X son largas.\n\nDe acuerdo con lo anterior, el tiempo de espera de Z para tener acceso al cruce será de",
+   "opciones": {
+    "A": "20 segundos.",
+    "B": "30 segundos.",
+    "C": "40 segundos.",
+    "D": "60 segundos."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Z espera lo que dure el verde de Y. Y tiene fila pequeña y, entre los demás sentidos, al menos dos filas son largas (W y X): eso es TA = 0, TB = 0, es decir, **20 s**.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-diseno_control-017",
+   "area": "diseno_control",
+   "n": 17,
+   "contexto": 2,
+   "enunciado": "El esquema en bloques que representa la arquitectura para un sistema de detección vehicular inductivo, como el que se describe en el caso, que opera con señales analógicas y entrega como salida una señal lógica de presencia, es",
+   "opciones": {
+    "A": "Lazo inductivo (sensor) → Filtrado → Circuito resonante → Detección vehicular → Señal lógica de presencia",
+    "B": "Circuito resonante → Filtrado → Lazo inductivo (sensor) → Detección vehicular → Señal lógica de presencia",
+    "C": "Lazo inductivo (sensor) → Circuito resonante → Filtrado → Detección vehicular → Señal lógica de presencia",
+    "D": "Filtrado → Lazo inductivo (sensor) → Circuito resonante → Detección vehicular → Señal lógica de presencia"
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "El lazo inductivo es el sensor y forma parte de un **circuito resonante**: cuando pasa un vehículo cambia la inductancia y, con ella, la frecuencia de resonancia. Esa señal analógica se filtra y luego un detector la compara con un umbral para entregar la señal lógica de presencia. No tiene sentido filtrar antes de que exista la señal del sensor (B, D).",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-diseno_control-018",
+   "area": "diseno_control",
+   "n": 18,
+   "contexto": 2,
+   "enunciado": "Cada semáforo posee una máquina de estados que se encarga exclusivamente de su operación. Existe otra máquina de estados que se encarga de sincronizar todos los semáforos, al determinar el sentido que tiene acceso al cruce (el sentido que tiene su semáforo en verde). De lo anterior se puede concluir que la máquina encargada de sincronizar los semáforos es de",
+   "opciones": {
+    "A": "Mealy con 12 salidas, una por cada color de semáforo.",
+    "B": "Moore con una única salida.",
+    "C": "Moore con 4 salidas y solo una activa a la vez.",
+    "D": "Mealy con una única salida."
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La salida del sincronizador depende solo del estado en que está (qué sentido tiene el paso), lo que define una máquina de **Moore**. Necesita una salida por sentido (4), y solo una puede estar activa a la vez; los 12 colores los maneja la máquina propia de cada semáforo.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-diseno_control-019",
+   "area": "diseno_control",
+   "n": 19,
+   "contexto": 2,
+   "enunciado": "Con el sistema en operación normal, se ha encontrado que para todos los sentidos, algunas veces, se presentan situaciones en las que el tiempo de acceso no se corresponde con el comportamiento esperado. Esta situación se puede explicar porque la tabla de asignación de tiempos",
+   "opciones": {
+    "A": "no tiene combinaciones mutuamente excluyentes de tamaños de fila.",
+    "B": "no cubre todas las combinaciones posibles de tamaño de fila.",
+    "C": "tiene combinaciones idénticas para tamaños de fila.",
+    "D": "tiene combinaciones dependientes unas de otras."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La tabla solo contempla dos casos para los demás sentidos: «todas pequeñas» y «mínimo dos largas». Falta el caso en que **exactamente una** de las otras filas es larga, y en esa situación el tiempo asignado no está definido.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-diseno_control-020",
+   "area": "diseno_control",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "La respuesta total en el dominio del tiempo de un sistema de segundo orden a una entrada tipo escalón unitario está dada por:\n\nc(t) = 1 − 1,15e^(−0,5t) cos(√3/2 t − 30°)\n\nDonde c(t) es la salida total del sistema y t el tiempo. Con esta información, los respectivos polos de la función de transferencia son",
+   "opciones": {
+    "A": "1,15 ± j √3/2",
+    "B": "−√3/2 ± j 1,15",
+    "C": "−0,5 ± j √3/2",
+    "D": "−√3/2 ± j 0,5"
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "En la respuesta subamortiguada c(t) = 1 − Ae^(−σt)cos(ω_d t − φ), los polos son −σ ± jω_d. Aquí σ = 0,5 (el exponente) y ω_d = √3/2 (la frecuencia del coseno), así que los polos son **−0,5 ± j√3/2**. El 1,15 = 1/√(1 − ζ²) es solo la amplitud.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-diseno_control-021",
+   "area": "diseno_control",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "La figura que se presenta a continuación, muestra un sistema de posicionamiento angular con controlador proporcional integral.\n\nPara que este sistema de control en lazo cerrado sea estable, el ajuste de los parámetros del controlador se debe realizar en los intervalos",
+   "opciones": {
+    "A": "K > 0, a > 1",
+    "B": "K < 0, a < 1",
+    "C": "K > 0, 0 < a < 1",
+    "D": "0 < K < 1, a > 0"
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "La ecuación característica es s²(s + 1) + K(s + a) = s³ + s² + Ks + Ka = 0. Por Routh-Hurwitz se necesitan K > 0, Ka > 0 y 1·K > 1·Ka, es decir, **K > 0 y 0 < a < 1**.",
+   "origen": "Cuadernillo 2018 #21",
+   "imagen": "icfes_diseno_control_021.png"
+  },
+  {
+   "id": "icfes-diseno_control-022",
+   "area": "diseno_control",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "El ingeniero que tiene a cargo una planta dispone de dos controladores de nivel, uno PID y otro ON-OFF. Ante una emergencia (contingencia) se ve en la necesidad operativa de instalar uno de los dos controladores en un tanque de almacenamiento de agua, utilizada como refrigeración en un proceso de mangueras de plástico. El proceso exige que se garantice un nivel mayor al 95 % de su ajuste, porque es fundamental para la presión de agua en las válvulas que alimentan la refrigeración de la máquina inyectora del plástico. Adicionalmente, se requiere que el tiempo de estabilización no supere los 25 segundos y que el sobrepaso no exceda el 15 %. El ingeniero cuenta con esta gráfica que muestra los resultados ajustados de una prueba con cada controlador.\n\nCon base en la información demandada por el proceso y la suministrada por la gráfica, la decisión que toma el ingeniero es instalar el controlador",
+   "opciones": {
+    "A": "ON-OFF, porque cumple los requerimientos del proceso.",
+    "B": "PID, a pesar de que el tiempo de estabilización es más alto que el requerido por el proceso.",
+    "C": "PID, porque cumple los requerimientos del proceso.",
+    "D": "ON-OFF, a pesar de que el error de estado es más alto que el requerido por el proceso."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+   "explicacion": "El ON-OFF se estabiliza cerca de 0,9, por debajo del 95 % exigido, y ese requisito es el crítico del proceso. El PID llega a 1 con un sobrepaso cercano al 8 % (menos del 15 %), pero tarda más de 25 s en asentarse. Por eso se elige el **PID aunque no cumpla el tiempo de estabilización**.",
+   "origen": "Cuadernillo 2018 #22",
+   "imagen": "icfes_diseno_control_022.png"
+  },
+  {
+   "id": "icfes-diseno_control-023",
+   "area": "diseno_control",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Un sistema dinámico se representa en tiempo discreto por la siguiente función de transferencia con un tiempo de muestreo ts:\n\nH(z) = (β₁z + β₂) / (z² + α₁z + α₂)\n\nSe requiere implementar un algoritmo que permita simular el comportamiento del sistema ante una entrada u (la cual está en una base de datos que contiene N elementos), usando una tarjeta de adquisición de datos que contiene un conversor DAC; inicialmente se realiza la configuración de la tarjeta DAQ y se carga la base de datos. La metodología para complementar la implementación es:",
+   "opciones": {
+    "A": "Inicializar con ceros las condiciones iniciales e implementar ecuación recursiva y(k) = a1*y(k - 1) + a2*y(k - 2) + b1*u(k - 1) + b2*u(k - 2), el control de tiempo es (t_actual - t_anterior) > = ts, y finalmente poner el dato en la salida de la DAQ.",
+    "B": "Inicializar con datos aleatorios las condiciones iniciales e implementar ecuación recursiva y(k) = -a1*y(k - 1) - a2*y(k - 2) + b1*u(k - 1) + b2*u(k - 2), el control de tiempo es (t_actual - t_anterior) < = ts, y finalmente poner el dato en la salida de la DAQ.",
+    "C": "Inicializar con ceros las condiciones iniciales e implementar ecuación recursiva y(k) = -a1*y(k - 1) - a2*y(k - 2) + b1*u(k - 1) + b2*u(k - 2), el control de tiempo es (t_actual-t_anterior) > = ts, y finalmente poner el dato en la salida de la DAQ.",
+    "D": "Inicializar con datos aleatorios las condiciones iniciales e implementar ecuación recursiva y(k) = a1*y(k - 1) + a2*y(k - 2) + b1*u(k - 1) + b2*u(k - 2), el control de tiempo es (t_actual - t_anterior) < = ts, y finalmente poner el dato en la salida de la DAQ."
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Al dividir entre z² queda Y(1 + α₁z⁻¹ + α₂z⁻²) = U(β₁z⁻¹ + β₂z⁻²), de donde y(k) = **−a1·y(k−1) − a2·y(k−2)** + b1·u(k−1) + b2·u(k−2). Una función de transferencia supone condiciones iniciales nulas, y cada muestra se calcula cuando el tiempo transcurrido es **≥ ts**.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-diseno_control-024",
+   "area": "diseno_control",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Considérese un sistema de control de segundo orden de la forma G₀(s) = ωₙ² / (s² + 2ζωₙs + ωₙ²).\n\nPara unas especificaciones dadas, la región de diseño (donde se deben ubicar los polos del sistema para cumplir las especificaciones de diseño) está dada por la siguiente figura.\n\nDe acuerdo con lo anterior, las especificaciones de diseño están determinadas según los parámetros de",
+   "opciones": {
+    "A": "tiempo de asentamiento y tiempo de subida.",
+    "B": "sobrepico y ancho de banda.",
+    "C": "tiempo de asentamiento y sobrepico.",
+    "D": "tiempo de asentamiento y ancho de banda."
+   },
+   "correcta": "C",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "La línea vertical (parte real ≤ −σ) fija una velocidad mínima de decaimiento, es decir, el **tiempo de asentamiento** (tₛ ≈ 4/σ). Las rectas que salen del origen fijan un ángulo y, por tanto, un ζ mínimo, que limita el **sobrepico**. El tiempo de subida dependería de ωₙ, que se vería como un círculo en el plano s.",
+   "origen": "Cuadernillo 2018 #24",
+   "imagen": "icfes_diseno_control_024.png"
+  },
+  {
+   "id": "icfes-diseno_control-025",
+   "area": "diseno_control",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Un proceso térmico tiene una función de transferencia de la forma G(s) = k / ((sT₁ + 1)(sT₂ + 1)).\n\nSe quiere poner el proceso dentro de un lazo de control con retroalimentación unitaria negativa y agregarle un controlador. Las exigencias de fabricación requieren que la temperatura del sistema de control tenga error cero en estado estable, ante una orden de entrada tipo escalón (paso). El controlador más pertinente es",
+   "opciones": {
+    "A": "On-Off.",
+    "B": "proporcional, P.",
+    "C": "proporcional integral, PI.",
+    "D": "proporcional derivativo, PD."
+   },
+   "correcta": "C",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "La planta es de tipo 0 (no tiene polos en el origen), así que con P o PD siempre queda un error ante el escalón de 1/(1 + Kk). La acción **integral** añade un polo en s = 0, vuelve el sistema de tipo 1 y anula ese error.",
+   "origen": "Cuadernillo 2018 #25"
+  }
+ ]
+}

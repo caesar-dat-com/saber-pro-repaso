@@ -1,0 +1,552 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Salud y Bienestar Animal (cuadernillos 2018 y 2025, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-bienestar_animal-001",
+   "area": "bienestar_animal",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Un perro es llevado a consulta con la cabeza lateralizada, caminar compulsivo en círculos y nistagmo. La ubicación anatómica más probable de la enfermedad del animal se encuentra en",
+   "opciones": {
+    "A": "el hemisferio cerebelar.",
+    "B": "la corteza cerebral.",
+    "C": "el sistema vestibular.",
+    "D": "la médula espinal cervical."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer las características morfológicas y fisiológicas de las diferentes especies animales.",
+   "explicacion": "Inclinación de la cabeza, marcha en círculos y **nistagmo** forman el síndrome **vestibular**. Una lesión cerebelar da ataxia con dismetría y temblor de intención, la cortical produce convulsiones o cambios de conducta (y círculos sin nistagmo), y la medular cervical da paresia de los cuatro miembros sin signos de cabeza.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-bienestar_animal-002",
+   "area": "bienestar_animal",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "En el síndrome del perro braquicéfalo, la resistencia vascular pulmonar aumenta como resultado de la hipoxia alveolar.\n\nEl cambio más probable que ocurrirá en el corazón de estos animales es el aumento en la presión",
+   "opciones": {
+    "A": "del ventrículo derecho.",
+    "B": "de la aurícula derecha.",
+    "C": "del ventrículo izquierdo.",
+    "D": "de la aurícula izquierda."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "La hipoxia alveolar produce vasoconstricción pulmonar e hipertensión pulmonar; la cámara que bombea contra esa resistencia es el **ventrículo derecho**, cuya presión aumenta primero (cor pulmonale). La aurícula derecha se afecta después, y las cavidades izquierdas no reciben esa sobrecarga.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-bienestar_animal-003",
+   "area": "bienestar_animal",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Cuando un animal se desplaza desde una región localizada a nivel del mar a una de mayor altura sufre varios cambios fisiológicos. Uno de estos cambios es",
+   "opciones": {
+    "A": "policitemia.",
+    "B": "bradicardia.",
+    "C": "hipertermia.",
+    "D": "bradipnea."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "La menor presión parcial de oxígeno en altura estimula la eritropoyetina y produce **policitemia** para mejorar el transporte de O₂. La hipoxia causa taquicardia y taquipnea, no bradicardia ni bradipnea, y no genera hipertermia.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-bienestar_animal-004",
+   "area": "bienestar_animal",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "La habronemosis de los equinos es causada por nematodos del género Habronema, cuyas larvas pueden ser depositadas por las moscas sobre la piel del caballo; allí producen una dermatitis granulomatosa y ulcerativa —en especial en áreas húmedas y heridas—, como consecuencia de la migración de las larvas hacia las capas profundas de la piel.\n\nAunque existen pruebas de diagnóstico específicas de la habronemosis en caballos, un seguimiento sintomático apropiado puede ser muy útil para su diagnóstico.\n\nDos síntomas frecuentes en esta afección son",
+   "opciones": {
+    "A": "piuria y poliuria.",
+    "B": "disuria y nicturia.",
+    "C": "estranguria y hematuria.",
+    "D": "hematuria y anuria."
+   },
+   "correcta": "C",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "Las moscas depositan las larvas en zonas húmedas como el prepucio y el **proceso uretral** del pene; las lesiones granulomatosas allí obstruyen y sangran, causando **estranguria** (micción dolorosa y difícil) y **hematuria**. La anuria, la poliuria o la nicturia no son propias de una lesión cutánea-uretral.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-bienestar_animal-005",
+   "area": "bienestar_animal",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Para efectuar una operación de ovario-histerectomía por la línea ventral medial en una perra, los planos quirúrgicos deben ser suturados en el orden inverso al de la incisión. La sutura en masa de los planos abdominales NO es recomendada porque",
+   "opciones": {
+    "A": "disminuye el riesgo de eventración en caso de ruptura de la línea de sutura.",
+    "B": "aumenta la inflamación en el sitio de la incisión y mejora la cicatrización.",
+    "C": "disminuye la inflamación y garantiza el proceso normal de cicatrización.",
+    "D": "aumenta el riesgo de peritonitis en el post-operatorio, si se rompe la sutura."
+   },
+   "correcta": "D",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "Si todos los planos se cierran en una sola sutura y esta falla, la herida queda abierta hasta la cavidad, con alto riesgo de evisceración, contaminación y **peritonitis**; por eso se cierra plano por plano. Las opciones A y C describen ventajas (no razones para evitarla) y la B es contradictoria, pues más inflamación no mejora la cicatrización.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-bienestar_animal-006",
+   "area": "bienestar_animal",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "El Análisis de riesgo es una herramienta importante en salud pública y sanidad animal. Su valor cuantitativo radica en que establece",
+   "opciones": {
+    "A": "la prevalencia de la enfermedad que se quiere prevenir.",
+    "B": "la probabilidad de que la enfermedad en cuestión aparezca.",
+    "C": "el impacto de enfermedad en una población animal que ingresa.",
+    "D": "la terapéutica por seguir en caso de presentarse la enfermedad."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los fundamentos de la epizootiología y la salud pública veterinaria.",
+   "explicacion": "El análisis de riesgo cuantitativo estima la **probabilidad** de que un peligro (la enfermedad) se introduzca o aparezca, y con ello orienta las medidas sanitarias. La prevalencia es un dato de entrada, no su resultado; el impacto es solo una parte de la evaluación de consecuencias, y la terapéutica no forma parte del análisis.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-bienestar_animal-007",
+   "area": "bienestar_animal",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Las endometritis son un problema frecuente en las vacas lecheras. Varios son los factores de riesgo que han sido asociados con la incidencia de esta enfermedad, dentro de los cuales NO se deben considerar",
+   "opciones": {
+    "A": "los partos gemelares.",
+    "B": "los partos eutócicos.",
+    "C": "las retenciones de placenta.",
+    "D": "las metritis puerperales."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los factores relacionados con el funcionamiento de los sistemas de producción animal y en la condición de animales de compañía.",
+   "explicacion": "Un parto **eutócico** es un parto normal, sin asistencia ni traumatismo, por lo que no es factor de riesgo. Los partos gemelares, la retención de placenta y la metritis puerperal favorecen la contaminación y la mala involución uterina, y sí predisponen a endometritis.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-bienestar_animal-008",
+   "area": "bienestar_animal",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Una yegua que llega al parto en una condición corporal apropiada, generalmente, presenta el primer celo (calor del potro) hacia los 10 días posparto. La yegua puede inseminarse en este celo, excepto si",
+   "opciones": {
+    "A": "presenta celo y ovula después de los 10 días posparto.",
+    "B": "expulsa la placenta después de 3 horas del parto.",
+    "C": "no presenta síntomas de enfermedad reproductiva.",
+    "D": "expulsa el feto en menos de 2 horas desde el inicio del parto."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los factores relacionados con el funcionamiento de los sistemas de producción animal y en la condición de animales de compañía.",
+   "explicacion": "En la yegua la placenta debe expulsarse en las primeras 3 horas; si tarda más hay **retención de placenta**, que retrasa la involución uterina y predispone a endometritis, por lo que no se recomienda servirla en el calor del potro. Ovular después del día 10, no tener enfermedad reproductiva y un parto rápido son condiciones favorables.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-bienestar_animal-009",
+   "area": "bienestar_animal",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Con el fin de lograr una adecuada respuesta superovulatoria en una vaca donadora de embriones, se debe considerar el estatus ovárico de la vaca. Por consiguiente, el procedimiento que debe seguirse al iniciar un protocolo de superovulación es",
+   "opciones": {
+    "A": "eliminar la presencia de un folículo dominante.",
+    "B": "generar un cuerpo lúteo accesorio.",
+    "C": "inducir la regresión del cuerpo lúteo.",
+    "D": "generar la dominancia folicular."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer los factores relacionados con el funcionamiento de los sistemas de producción animal y en la condición de animales de compañía.",
+   "explicacion": "El folículo dominante suprime (vía inhibina y estradiol) el crecimiento de los demás; por eso la superovulación se inicia **eliminándolo** (ablación o con estradiol/progesterona) para sincronizar una nueva onda folicular que responda a la FSH. Generar dominancia es lo opuesto, y la luteólisis se induce más adelante en el protocolo.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-bienestar_animal-010",
+   "area": "bienestar_animal",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "En los estudios epidemiológicos, las mediciones prevalencia e incidencia están relacionadas entre sí. La prevalencia depende de la incidencia y de la duración de la enfermedad; esta aumentará si",
+   "opciones": {
+    "A": "la enfermedad es crónica y de baja incidencia.",
+    "B": "la incidencia y la letalidad son altas.",
+    "C": "hay inmigración de animales sanos.",
+    "D": "hay emigración de animales enfermos."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer los fundamentos de la epizootiología y la salud pública veterinaria.",
+   "explicacion": "Como prevalencia ≈ incidencia × duración, una enfermedad **crónica** acumula casos aunque aparezcan pocos nuevos. Una letalidad alta acorta la duración (los enfermos mueren), y la llegada de sanos o la salida de enfermos reducen la proporción de casos.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-bienestar_animal-011",
+   "area": "bienestar_animal",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Los cambios en el ambiente y el manejo de una especie pueden inducir alteraciones en el bienestar animal de curso crónico. Estas alteraciones se asocian con",
+   "opciones": {
+    "A": "el aumento en la secreción de esteroides sexuales tipo estrógenos.",
+    "B": "la disminución en la secreción de ácido clorhídrico por la mucosa gástrica.",
+    "C": "el aumento en la producción de la hormona adrenocorticotrópica.",
+    "D": "la disminución en la secreción del sistema renina-angiotensina."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los principios del Bienestar Animal, la ética profesional y la normatividad pecuaria, en función del mejoramiento de la calidad de vida de los animales.",
+   "explicacion": "El estrés crónico activa el eje hipotálamo-hipófisis-adrenal, con aumento de **ACTH** y cortisol, que se usa como indicador de bienestar comprometido. El estrés tiende a reducir (no aumentar) los esteroides sexuales, a aumentar la secreción ácida gástrica (úlceras) y a activar, no disminuir, el sistema renina-angiotensina.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-bienestar_animal-012",
+   "area": "bienestar_animal",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "A la fecha, casi todos los casos de gripe aviar en humanos —causados por la variante H5N1 del virus de la influenza— se han dado en zonas rurales o periurbanas, donde muchas familias crían pequeñas bandadas de aves de corral, a menudo al aire libre.\n\nLas aves infectadas por el virus de la influenza excretan grandes cantidades de virus en sus heces, razón por la cual las posibilidades de exposición a heces infectadas o con un entorno contaminado por el virus son abundantes.\n\nEl factor considerado menos contaminante en la relación animal/hombre en el ciclo de transmisión de la gripe aviar es",
+   "opciones": {
+    "A": "el contacto prolongado entre los humanos y las aves de traspatio.",
+    "B": "la exposición de los humanos al material contaminado proveniente de las aves.",
+    "C": "el contacto entre las aves y los humanos por condiciones de hacinamiento.",
+    "D": "el consumo de carne y huevos provenientes de las aves de traspatio."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los fundamentos de la epizootiología y la salud pública veterinaria.",
+   "explicacion": "La transmisión de H5N1 al humano ocurre por contacto directo con aves infectadas, sus heces o ambientes contaminados; el **consumo** de carne y huevos bien cocidos no se ha documentado como vía relevante porque el calor inactiva el virus. Las otras tres opciones son, precisamente, las exposiciones de mayor riesgo.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-bienestar_animal-013",
+   "area": "bienestar_animal",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Se lleva a consulta un perro mestizo macho, de dos años de edad y 9 kg de peso. En el examen clínico se determina que el estado general del animal es bueno, aunque se encuentra un poco delgado, se observa poliuria y polidipsia. Se tomaron análisis de laboratorio y se encontró tendencia a hiponatremia e hipercaliemia, niveles de glucosa normales y densidad de la orina muy baja.\n\nCon base en los resultados de los exámenes clínicos, se puede concluir que existe deficiencia de la hormona",
+   "opciones": {
+    "A": "glucagón.",
+    "B": "cortisona.",
+    "C": "insulina.",
+    "D": "antidiurética."
+   },
+   "correcta": "D",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "La clave oficial (D, diabetes insípida por falta de ADH) es **discutible**: la poliuria con orina muy diluida sí orienta a déficit de ADH, pero la diabetes insípida tiende a producir **hipernatremia**, no hiponatremia con hipercaliemia. Ese par electrolítico en un perro joven y delgado es típico del **hipoadrenocorticismo** (Addison), por déficit de mineralocorticoides y glucocorticoides, lo que haría más defendible la opción B. La glucosa normal descarta los trastornos de insulina y glucagón.",
+   "origen": "Cuadernillo 2018 #13",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-bienestar_animal-014",
+   "area": "bienestar_animal",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Un propietario de ganado bovino de una finca ubicada en el municipio de Acandí, norte del departamento del Chocó, se niega rotundamente a vacunar sus animales contra la fiebre aftosa durante el segundo ciclo de vacunación del año, pues alega que esto va en contra de la legislación sanitaria sobre esta enfermedad en Colombia (Resolución ICA 01779 de 1998). El propietario argumenta que no está obligado a vacunar porque su finca",
+   "opciones": {
+    "A": "no está registrada en la oficina del ICA de Acandí.",
+    "B": "se ubica en una zona declarada libre, con vacunación.",
+    "C": "no posee animales sintomáticos a la enfermedad.",
+    "D": "se ubica en una zona declarada libre, sin vacunación."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los fundamentos de la epizootiología y la salud pública veterinaria.",
+   "explicacion": "El norte del Chocó (Acandí, Unguía) fue declarado por la OIE/ICA **zona libre de fiebre aftosa sin vacunación**, donde está prohibido vacunar para conservar ese estatus. En una zona libre con vacunación sí es obligatorio vacunar, y no estar registrado o no tener animales enfermos no exime de la obligación.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-bienestar_animal-015",
+   "area": "bienestar_animal",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "La implementación del sistema HACCP (análisis de peligros y punto de control crítico) a la cadena cárnica bovina es fundamental para garantizar una oferta de carne inocua para el consumo humano.\n\nUno de los puntos de control crítico (PCC), en los que interviene el médico veterinario para garantizar que la carne esté libre de agentes potencialmente dañinos para la población humana, incluye el control de",
+   "opciones": {
+    "A": "la temperatura dentro de la planta de beneficio.",
+    "B": "el tiempo de reposo de los animales previo al beneficio.",
+    "C": "el tiempo de desposte del animal después del beneficio.",
+    "D": "la temperatura durante el transporte de la canal."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los fundamentos de la epizootiología y la salud pública veterinaria.",
+   "explicacion": "Para el Icfes, el control posterior al beneficio (la etapa de inspección *post mortem* y desposte) es el PCC en el que interviene el veterinario para impedir que entren peligros a la cadena; la temperatura ambiente de la planta y el reposo previo no son PCC, y la temperatura de transporte, aunque es PCC, no la vigila el veterinario. La clave es **discutible**: la propia justificación habla de inspección *post mortem* y no del «tiempo de desposte», y el reposo *ante mortem* también se considera un punto de control veterinario.",
+   "origen": "Cuadernillo 2018 #15",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-bienestar_animal-016",
+   "area": "bienestar_animal",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "En una granja de pollos de engorde, en un lote de animales de 18 días, vacunados al día 8 contra la enfermedad de Newcastle y alimentados con un alimento fabricado localmente que muestra problemas en la premezcla de vitaminas y minerales, se observan animales con convulsiones y retracción de la cabeza y una mortalidad del 5 % (baja).\n\nCon base en estos síntomas, el diagnóstico propuesto es",
+   "opciones": {
+    "A": "enfermedad de Newcastle.",
+    "B": "reacción vacunal a Newcastle.",
+    "C": "deficiencia de calcio y fósforo.",
+    "D": "deficiencia de tiamina."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los factores relacionados con el funcionamiento de los sistemas de producción animal y en la condición de animales de compañía.",
+   "explicacion": "La retracción de la cabeza (opistótonos, posición de «mirar estrellas») con convulsiones y baja mortalidad, en un lote con fallas en la premezcla vitamínica, es típica de **deficiencia de tiamina** (polineuritis). Newcastle tendría mortalidad alta y signos respiratorios o digestivos; la reacción vacunal es respiratoria y leve, y el déficit de Ca/P produce raquitismo y cojeras.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-bienestar_animal-017",
+   "area": "bienestar_animal",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Un punto crítico de control (PCC) es una actividad o un procedimiento susceptible de controlarse para prevenir peligros en la seguridad de los alimentos, en particular los de origen animal. El punto crítico en cada uno de los procesos de producción puede eliminarse o reducirse a niveles aceptables. En el procesamiento de la carne bovina NO corresponde a un punto PCC",
+   "opciones": {
+    "A": "la verificación del frío durante el almacenamiento de la canal.",
+    "B": "las características organolépticas de la canal.",
+    "C": "las buenas prácticas de manipulación directa de las canales.",
+    "D": "la esterilización del material de contacto con las canales."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los factores relacionados con el funcionamiento de los sistemas de producción animal y en la condición de animales de compañía.",
+   "explicacion": "Las **características organolépticas** (color, olor, textura) son atributos de calidad, no una etapa controlable que elimine o reduzca un peligro para la inocuidad. La cadena de frío, la manipulación higiénica y la esterilización del material sí son controles que previenen la contaminación o proliferación microbiana.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-bienestar_animal-018",
+   "area": "bienestar_animal",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Se quiere dar apertura a una clínica veterinaria en la que se ofrezcan los mejores servicios médicos veterinarios. Para la ejecución del proyecto se requieren inversiones fijas e inversiones diferidas. Una de las inversiones fijas es",
+   "opciones": {
+    "A": "el estudio técnico y jurídico.",
+    "B": "el estudio económico y ambiental.",
+    "C": "el aporte del capital de trabajo.",
+    "D": "la construcción y obra civil."
+   },
+   "correcta": "D",
+   "afirmacion": "Entender la unidad productiva pecuaria y a la de prestación de servicios veterinarios como empresa con criterios de viabilidad técnica, financiera, económica y ambiental sustentable.",
+   "explicacion": "Según el Icfes, las inversiones fijas son bienes tangibles que se usan durante la vida útil del proyecto, como la **construcción y obra civil**. Los estudios técnicos, jurídicos, económicos y ambientales son inversiones diferidas (intangibles, no recuperables si el proyecto no se hace), y el capital de trabajo son recursos de corto plazo para operar.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-bienestar_animal-019",
+   "area": "bienestar_animal",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Un paciente canino sufre un evento traumático, que genera una fractura en las vértebras lumbares 4 y 5 (L4 y L5). Lo anterior causó una compresión de la médula espinal por los fragmentos óseos en este segmento vertebral. Por la forma de su presentación, esta compresión se clasifica como de origen",
+   "opciones": {
+    "A": "extradural.",
+    "B": "intradural.",
+    "C": "intradural e intramedular.",
+    "D": "intradural y extramedular."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "Los fragmentos óseos vertebrales comprimen la médula desde **fuera de la duramadre**, por lo que la compresión es **extradural** (como las hernias discales). Las lesiones intradurales (extra o intramedulares) se originan dentro de las meninges o del propio parénquima medular, como tumores o mielitis.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-bienestar_animal-020",
+   "area": "bienestar_animal",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Para formular programas de prevención, control y erradicación de las enfermedades en los animales, se deben manejar conceptos como incidencia, prevalencia, riesgo, morbilidad, mortalidad y letalidad. En un brote de la enfermedad de Gumboro en un plantel avícola con una población de 20.000 pollas de la línea Hy Line Brown de 8 semanas de edad, en un periodo de 10 días, enfermaron 5.000 aves, de las cuales 3.500 murieron. Con base en esta información, se puede afirmar que",
+   "opciones": {
+    "A": "la prevalencia de Gumboro fue de 25 %.",
+    "B": "la letalidad del brote fue de 17,5 %.",
+    "C": "la morbilidad fue de 25 %.",
+    "D": "la mortalidad fue de 70 %."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los fundamentos de la epizootiología y la salud pública veterinaria.",
+   "explicacion": "**Morbilidad** = enfermos / población = 5.000 / 20.000 = **25 %**. La letalidad es muertos / enfermos = 3.500 / 5.000 = 70 % y la mortalidad es muertos / población = 3.500 / 20.000 = 17,5 %, así que B y D intercambian los valores; en un brote de casos nuevos se habla de incidencia (tasa de ataque), no de prevalencia.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-bienestar_animal-021",
+   "area": "bienestar_animal",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Mantener una mascota adecuadamente aseada minimiza el riesgo de enfermedades y esto forma parte del compromiso civil que adquiere un propietario o tenedor responsable de un animal.\n\nLa sugerencia de baño a un perro de pelaje corto se hace con base en su periodo de recambio epidérmico, que ocurre en un lapso de",
+   "opciones": {
+    "A": "8 días.",
+    "B": "15 días.",
+    "C": "21 días.",
+    "D": "60 días."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los principios del Bienestar Animal, la ética profesional y la normatividad pecuaria, en función del mejoramiento de la calidad de vida de los animales.",
+   "explicacion": "La epidermis del perro se renueva aproximadamente cada **21 días**, por lo que se recomienda bañar a los perros de pelo corto con esa frecuencia para no alterar el manto lipídico ni la barrera cutánea. Baños cada 8 o 15 días resecan la piel, y cada 60 días es un intervalo demasiado largo para la higiene.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-bienestar_animal-022",
+   "area": "bienestar_animal",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Los ovarios son glándulas pares, situadas detrás del riñón de cada lado, a una distancia que varía según las especies. En muchas de estas, los ovarios tienen forma almendrada, pero en la yegua poseen una particularidad anatómica que las distingue de otras hembras: la presencia de",
+   "opciones": {
+    "A": "la corteza ovárica.",
+    "B": "la bolsa ovárica.",
+    "C": "la fosa ovárica.",
+    "D": "la médula ovárica."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer las características morfológicas y fisiológicas de las diferentes especies animales.",
+   "explicacion": "El ovario de la yegua tiene forma arriñonada con la zona cortical invertida (hacia el interior) y una depresión llamada **fosa de ovulación**, único sitio por donde ovula. Corteza y médula existen en todas las especies, y la bolsa ovárica también está presente en otras hembras (perra, gata).",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-bienestar_animal-023",
+   "area": "bienestar_animal",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "En un hato lechero, una vaca de 6 años de edad amaneció muerta. El animal presentó la siguiente sintomatología 10 días antes: decaimiento, diarrea, anorexia y disminución drástica de la producción. Fue tratada con diferentes antibióticos y antidiarreicos, además de hidratación constante vía intravenosa. Sin embargo, los síntomas no cedieron. Según la necropsia, el principal cambio post mortem observado fue engrosamiento e inflamación de la pared del intestino delgado compatible con una ileocolitis granulamotosa. De acuerdo con la sintomatología descrita, el diagnóstico presuntivo sería",
+   "opciones": {
+    "A": "paratuberculosis.",
+    "B": "tuberculosis.",
+    "C": "intoxicación por molibdeno.",
+    "D": "babesiosis."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "Según el Icfes, la **paratuberculosis** (enfermedad de Johne) aparece en adultos de 4-7 años como enteritis crónica refractaria a tratamiento, con diarrea y deterioro progresivo, y en la necropsia se ve el engrosamiento granulomatoso del íleon. La tuberculosis afecta sobre todo pulmones y ganglios; la intoxicación por molibdeno se acompaña de despigmentación del pelo y responde al tratamiento, y la babesiosis da fiebre, anemia y hemoglobinuria sin diarrea.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-bienestar_animal-024",
+   "area": "bienestar_animal",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "La unidad funcional del páncreas es el Islote de Langerhans, constituido por células especializadas que producen diferentes hormonas, las cuales participan principalmente en el almacenamiento energético (carbohidratos, grasas y proteínas) proveniente de los alimentos, así como a mantener la entrega de energía durante los periodos de ayuno. Si a nivel de las células beta ocurre un fallo, como consecuencia, en la sangre",
+   "opciones": {
+    "A": "se disminuyen los niveles de glucagón.",
+    "B": "se elevan los niveles de insulina.",
+    "C": "se elevan los niveles de glucosa.",
+    "D": "se disminuyen los niveles de somatostatina."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer las características morfológicas y fisiológicas de las diferentes especies animales.",
+   "explicacion": "Las células beta producen **insulina**; si fallan, baja la insulina y la glucosa no entra a los tejidos, con lo que **sube la glucemia** (diabetes). La insulina no se eleva, y el glucagón (células alfa) tiende a aumentar, no a disminuir, al perder la inhibición de la insulina; la somatostatina proviene de las células delta.",
+   "origen": "Cuadernillo 2025 #1"
+  },
+  {
+   "id": "icfes-bienestar_animal-025",
+   "area": "bienestar_animal",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "En una finca lechera, donde se registran cargas parasitarias gastrointestinales bajas, una vaca de 5 años de edad de la raza Holstein presenta una diarrea intermitente desde hace 7 días; el animal fue tratado con sulfametazina a razón de 200 mg/kg durante tres días y un producto comercial antidiarreico por cinco días, más hidratación intravenosa permanente. Sin embargo, la diarrea no cede y el animal presenta una emaciación grave.\n\nDe acuerdo con la evolución de los síntomas, una de las enfermedades infecciosas de la cual usted podría sospechar es",
+   "opciones": {
+    "A": "coccidiosis.",
+    "B": "paratuberculosis.",
+    "C": "colibacilosis.",
+    "D": "anaplasmosis."
+   },
+   "correcta": "B",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "Diarrea intermitente con emaciación grave en una vaca adulta, sin respuesta a sulfonamidas ni antidiarreicos, sugiere **paratuberculosis**. La coccidiosis y la colibacilosis afectan sobre todo a terneros y responden a sulfas o antibióticos, y la anaplasmosis es un hemoparásito que causa anemia e ictericia, no diarrea.",
+   "origen": "Cuadernillo 2025 #2"
+  },
+  {
+   "id": "icfes-bienestar_animal-026",
+   "area": "bienestar_animal",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "En una piara cuyas cerdas gestantes han presentado un aumento de las pérdidas embrionarias del 3 % al 8 % en los dos últimos meses, se ha tomado una muestra representativa de hembras para establecer la seroprevalencia contra los seis principales serovares de leptospira presente en el medio. Si no se ha vacunado en los tres últimos meses y las pérdidas fueran ocasionadas por una infección por leptospirosis, los resultados de la serología serán los siguientes: títulos altos contra",
+   "opciones": {
+    "A": "serovares pomona y hardjo en el grupo de cerdas afectadas y títulos variables contra todos los serovares en las no afectadas.",
+    "B": "varios serovares en los dos grupos, tanto en el grupo de cerdas afectadas, como en las no afectadas.",
+    "C": "serovares pomona y hardjo en el grupo de cerdas afectadas y en el grupo de cerdas no afectadas.",
+    "D": "varios serovares en el grupo de cerdas afectadas y títulos bajos contra todos los serovares en las no afectadas."
+   },
+   "correcta": "C",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "Una infección activa por leptospira en la piara se refleja en **títulos altos contra serovares específicos** (en cerdos, típicamente Pomona; aquí Pomona y Hardjo) y, como la infección circula en todo el grupo, también las cerdas aún no afectadas muestran títulos altos contra esos mismos serovares. Títulos altos contra muchos serovares sugieren reacción cruzada o vacunación, no una infección concreta.",
+   "origen": "Cuadernillo 2025 #5"
+  },
+  {
+   "id": "icfes-bienestar_animal-027",
+   "area": "bienestar_animal",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Al ser consultado por un ganadero para que lo asesore en el control de parásitos de su ganado, usted debe considerar el control basado en la erradicación o en la reducción de la carga parasitaria. Si la mejor opción para disminuir el riesgo de resistencia a los antiparasitarios fuera mantener una “población refugio”, la recomendación más acertada para el ganadero es",
+   "opciones": {
+    "A": "usar por largo tiempo un principio activo para mantener una población parasitaria mínima que estimule las defensas del ganado.",
+    "B": "dar principios activos que estimulen las defensas del hospedador para prevenir los casos clínicos.",
+    "C": "mantener poblaciones parasitarias en el ambiente que no estén en contacto con agentes antiparasitarios.",
+    "D": "tratar solamente grupos de animales jóvenes por ser los más susceptibles a las altas cargas parasitarias del ambiente."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer el funcionamiento de los sistemas de producción animal y entender la unidad productiva pecuaria y la de prestación de servicios veterinarios, como empresa.",
+   "explicacion": "La **población refugio** son los parásitos que no se exponen al antiparasitario (en pasturas o en animales no tratados); conservan genes de susceptibilidad y diluyen a los resistentes. Usar un mismo principio activo por largo tiempo acelera la resistencia, los inmunoestimulantes no son refugio, y la D es una estrategia de tratamiento selectivo, no la definición de mantener refugio.",
+   "origen": "Cuadernillo 2025 #7"
+  },
+  {
+   "id": "icfes-bienestar_animal-028",
+   "area": "bienestar_animal",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "En una finca ganadera de los Llanos Orientales, especializada en producción de ganado de carne, cinco bovinos de 14 meses de edad presentaron los siguientes síntomas: temperatura de 41 ºC, claudicación intensa e inflamación de la parte dorsal del miembro pelviano derecho. El médico veterinario del ICA confirmó el diagnóstico de la infección por Clostridium chauovoei.\n\nDe acuerdo con el caso, para intentar salvar la vida de los animales enfermos, ¿cuál es el antibiótico que debe usarse en el tratamiento?",
+   "opciones": {
+    "A": "Penicilina.",
+    "B": "Gentamicina.",
+    "C": "Tiamulina.",
+    "D": "Tilmicosina."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar las interacciones (individuo - población y ambiente) que permiten mantener la salud o desencadenar la enfermedad en los animales.",
+   "explicacion": "El carbón sintomático (*Clostridium chauvoei*) es causado por un bacilo grampositivo anaerobio muy sensible a la **penicilina**, que es el tratamiento de elección en altas dosis y de forma temprana. Los aminoglucósidos como la gentamicina no actúan en anaerobiosis, y la tiamulina y la tilmicosina se usan sobre todo en infecciones respiratorias o entéricas de cerdos y bovinos.",
+   "origen": "Cuadernillo 2025 #8"
+  },
+  {
+   "id": "icfes-bienestar_animal-029",
+   "area": "bienestar_animal",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "En los animales de compañía es de suma importancia la alimentación balanceada. Un canino, con una condición corporal aceptable 3/5, presenta deficiencia en la cicatrización de heridas, pelaje seco sin brillo, piel escamosa y predisposición a infecciones cutáneas. Esta sintomatología se debe a una dieta baja en",
+   "opciones": {
+    "A": "proteínas.",
+    "B": "ácidos grasos esenciales.",
+    "C": "hidratos de carbono.",
+    "D": "vitaminas."
+   },
+   "correcta": "B",
+   "afirmacion": "Asociar los factores relacionados con el funcionamiento de los sistemas orgánicos en la producción animal y en los animales de compañía.",
+   "explicacion": "Los **ácidos grasos esenciales** (linoleico, omega-3) mantienen la barrera lipídica de la piel; su déficit produce pelaje opaco y seco, descamación, mala cicatrización y piodermas, con condición corporal normal. Un déficit proteico afectaría también la masa muscular y la condición corporal, y «vitaminas» es demasiado inespecífico.",
+   "origen": "Cuadernillo 2025 #9"
+  },
+  {
+   "id": "icfes-bienestar_animal-030",
+   "area": "bienestar_animal",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "La leche alterada es aquella que ha sufrido deterioro en sus características microbiológicas, fisicoquímicas y organolépticas o en su valor nutritivo, por causa de agentes fisicoquímicos o biológicos, naturales o artificiales.\n\nSe determina la restricción del uso de un lote de leche industrial, porque representa un riesgo a la salud pública al detectarse en la muestra la presencia de",
+   "opciones": {
+    "A": "almidones.",
+    "B": "antibióticos.",
+    "C": "colorantes.",
+    "D": "sal (cloruros)."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los fundamentos de la epidemiología y la salud pública veterinaria aplicando principios de bienestar animal, la ética profesional y la normatividad sanitaria, en función del mejoramiento de la calidad de vida de los animales.",
+   "explicacion": "Los **residuos de antibióticos** en la leche son un riesgo de salud pública (alergias, resistencia bacteriana) y además impiden los procesos industriales con fermentos. Almidones, colorantes o sal agregados son adulteraciones que alteran la calidad o constituyen fraude, pero no representan el mismo riesgo sanitario.",
+   "origen": "Cuadernillo 2025 #11"
+  },
+  {
+   "id": "icfes-bienestar_animal-031",
+   "area": "bienestar_animal",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "Al realizar una visita técnica a un criadero de caballos, usted encuentra que un porcentaje importante de los equinos presenta abombamiento de los huesos de la cara, por lo que sospecha de hiperparatiroidismo secundario. De acuerdo con lo anterior, la condición dietaria que puede causar estos problemas sería una dieta con:",
+   "opciones": {
+    "A": "Exceso de fósforo.",
+    "B": "Exceso de calcio.",
+    "C": "Deficiencia de magnesio.",
+    "D": "Deficiencia de potasio."
+   },
+   "correcta": "A",
+   "afirmacion": "Asociar los factores relacionados con el funcionamiento de los sistemas orgánicos en la producción animal y en los animales de compañía.",
+   "explicacion": "El hiperparatiroidismo secundario nutricional (\"cabeza grande\" o enfermedad del salvado) se debe a dietas con **exceso de fósforo** y bajo calcio (salvado, granos) o con oxalatos; la PTH moviliza calcio del hueso, que se reemplaza por tejido fibroso en los huesos faciales. El exceso de calcio haría lo contrario, y magnesio y potasio no intervienen en este mecanismo.",
+   "origen": "Cuadernillo 2025 #14"
+  },
+  {
+   "id": "icfes-bienestar_animal-032",
+   "area": "bienestar_animal",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "En una planta de beneficio de pollos, certificada en buenas prácticas de manufactura (BPM), se sacrificaron 100 pollos aparentemente sanos a la inspección ante mortem y post mortem. Después del proceso de beneficio, se determinó que el producto final desencadenó una enteritis por Escherichia coli enteropatógena en los consumidores humanos. En este caso, el agente causal de la enteritis probablemente provendría de",
+   "opciones": {
+    "A": "el agua empleada en el duchado de los pollos.",
+    "B": "los tejidos de los pollos sacrificados.",
+    "C": "las manos de los operarios de la planta.",
+    "D": "los utensilios usados para el sacrificio."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los fundamentos de la epidemiología y la salud pública veterinaria aplicando principios de bienestar animal, la ética profesional y la normatividad sanitaria, en función del mejoramiento de la calidad de vida de los animales.",
+   "explicacion": "Si la planta cumple BPM, se asume que agua, manos y utensilios están controlados; la fuente más probable es entonces el propio **tejido de las aves** (contenido intestinal y piel), ya que pollos portadores asintomáticos pasan las inspecciones ante y *post mortem*. Las demás opciones serían fallas de BPM que el enunciado descarta.",
+   "origen": "Cuadernillo 2025 #20"
+  }
+ ]
+}

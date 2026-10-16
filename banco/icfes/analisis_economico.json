@@ -1,0 +1,641 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Análisis Económico (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-analisis_economico-001",
+   "area": "analisis_economico",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "En un país con varias empresas que prestan servicio de telefonía celular, se quiere estimar un modelo econométrico que permita determinar la probabilidad de que una persona adquiera una línea de telefonía móvil, en función de características observables en el mercado. La variable dependiente que el modelo econométrico debe considerar es",
+   "opciones": {
+    "A": "dicótoma.",
+    "B": "policótoma.",
+    "C": "continua.",
+    "D": "rezagada."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "La tabla oficial da **policótoma**, presumiblemente pensando en que la persona elige entre varias empresas (modelo logit multinomial). Sin embargo, el enunciado solo pregunta por la probabilidad de **adquirir o no** una línea, lo que corresponde a una variable **dicótoma** (0/1) estimada con logit o probit; por eso la clave es discutible y la A es la lectura más directa.",
+   "origen": "Cuadernillo 2018 #1",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-analisis_economico-002",
+   "area": "analisis_economico",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "El gráfico presenta la varianza condicional de Y|X, siendo Y el consumo y X el nivel del ingreso.\n\nDe acuerdo con la gráfica, se está incumpliendo el supuesto de",
+   "opciones": {
+    "A": "no autocorrelación.",
+    "B": "normalidad.",
+    "C": "homoscedasticidad.",
+    "D": "heteroscedasticidad."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "Las campanas de la distribución del error se van **ensanchando** a medida que crece el ingreso X: la varianza condicional no es constante. Eso viola el supuesto de **homoscedasticidad** (varianza constante). La D es la trampa: la heteroscedasticidad es el problema que aparece, no el supuesto que se incumple.",
+   "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2",
+   "imagen": "icfes_analisis_economico_002_b.png"
+  },
+  {
+   "id": "icfes-analisis_economico-003",
+   "area": "analisis_economico",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Ante un fenómeno inflacionario (que afecta todas las variables nominales), la homogeneidad de grado cero en precios e ingresos de la función de utilidad indirecta implica que",
+   "opciones": {
+    "A": "las decisiones óptimas de consumo del agente representativo y la máxima utilidad que puede llegar a tener no cambian.",
+    "B": "las decisiones óptimas de consumo del agente representativo no cambian, pero la máxima utilidad que puede tener se reduce en la proporción del fenómeno.",
+    "C": "las decisiones óptimas de consumo del agente representativo se afecten en la misma proporción del fenómeno inflacionario, pero la máxima utilidad no cambia.",
+    "D": "las decisiones óptimas de consumo del agente representativo y la máxima utilidad que puede llegar a tener cambian en la misma proporción que el fenómeno."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Si V(tp, tm) = V(p, m), multiplicar todos los precios y el ingreso por el mismo factor no altera la restricción presupuestaria real: el agente elige la **misma canasta** y alcanza la **misma utilidad**. Las demás opciones suponen algún cambio real que la homogeneidad de grado cero descarta.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-analisis_economico-004",
+   "area": "analisis_economico",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Adam Smith consideraba que las políticas comerciales proteccionistas implementadas durante más de dos siglos en la época en que escribía su investigación sobre la Investigación sobre la Naturaleza y Causas de la Riqueza de las Naciones habían obstaculizado el progreso natural de la opulencia. Estas políticas impulsadas por el llamado sistema mercantil tenían como principal objetivo asegurar que el valor neto de las exportaciones fuera positivo. Para medir esto se utiliza",
+   "opciones": {
+    "A": "la inflación.",
+    "B": "la tasa de cambio.",
+    "C": "el déficit fiscal.",
+    "D": "la balanza comercial."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "El valor neto de las exportaciones (exportaciones − importaciones) es justamente la **balanza comercial**; el mercantilismo buscaba un superávit en ella. Inflación, tasa de cambio y déficit fiscal miden otras cosas (precios, precio de la divisa, finanzas del Estado).",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-analisis_economico-005",
+   "area": "analisis_economico",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Sea ≻ el símbolo de la relación binaria de preferencia dentro de un conjunto de bienes de un consumidor, y sean x₁, x₂, x₃ ∈ ℝ₊ᴸ, donde ℝ₊ᴸ es el conjunto compuesto por L bienes. El consumidor afirma que x₁ ≻ x₂ y x₂ ≻ x₃.\n\nDe acuerdo con el supuesto de transitividad de la teoría de la elección racional, esta afirmación implica que",
+   "opciones": {
+    "A": "x₁ ≻ x₃ y las preferencias no cambian bruscamente, las curvas de indiferencia se cortan entre sí.",
+    "B": "x₁ ≻ x₃ y las preferencias cambian bruscamente, las curvas de indiferencia no se cortan entre sí.",
+    "C": "x₁ ≻ x₃ y las preferencias no cambian bruscamente, las curvas de indiferencia no se cortan entre sí.",
+    "D": "x₃ ≻ x₁ y las preferencias no cambian bruscamente, las curvas de indiferencia no se cortan entre sí."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "Por transitividad, si x₁ ≻ x₂ y x₂ ≻ x₃, entonces **x₁ ≻ x₃** (descarta D). Con preferencias racionales y continuas (no cambian bruscamente), las **curvas de indiferencia no se cortan**, pues un corte violaría la transitividad (descarta A); B contradice la continuidad.",
+   "origen": "Cuadernillo 2018 #5 · Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-analisis_economico-006",
+   "area": "analisis_economico",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Como consecuencia de la crisis de 2008, los participantes en los mercados financieros notaron un incremento en la aversión al riesgo. Como consecuencia de esto,",
+   "opciones": {
+    "A": "las inversiones especulativas aumentaron.",
+    "B": "los hogares incrementaron su tasa de endeudamiento.",
+    "C": "los comisionistas de bolsa produjeron más derivados.",
+    "D": "los inversionistas prefieren portafolios con menores tasas de rendimiento."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Más aversión al riesgo significa que los inversionistas sacrifican rendimiento a cambio de seguridad: migran a **portafolios menos riesgosos y de menor rendimiento**. Más especulación, más endeudamiento o más derivados son conductas de mayor apetito por el riesgo.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-analisis_economico-007",
+   "area": "analisis_economico",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "El Ministerio de Comercio, Industria y Turismo tiene que decidir acerca de la política de comercio internacional del país. En particular, Colombia es un país abundante en recursos naturales, especialmente mineros, y, además, los precios de estos productos están creciendo en el mercado internacional, por lo que debería especializarse en la producción y exportación de éstos. Además, los países de mayor dinamismo económico en el mundo los demandan con perspectiva creciente de su consumo. Promover el sector minero con base en estas ideas alude a la teoría o modelo",
+   "opciones": {
+    "A": "estructuralista.",
+    "B": "del diamante de Porter.",
+    "C": "ciclo de vida del producto.",
+    "D": "Heckscher–Ohlin."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "El modelo **Heckscher–Ohlin** dice que cada país se especializa y exporta los bienes que usan intensivamente el factor en que es **abundante** (aquí, recursos naturales). El estructuralismo critica justamente esa especialización primaria; Porter y el ciclo de vida del producto explican competitividad e innovación, no dotaciones de factores.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-analisis_economico-008",
+   "area": "analisis_economico",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Supóngase un modelo IS-LM en el que el consumo y la inversión no dependen de la tasa de interés y la curva LM tiene pendiente positiva. Los efectos de un aumento de la propensión marginal a consumir serían:",
+   "opciones": {
+    "A": "El aumento de la renta, y la invariabilidad de la tasa de interés.",
+    "B": "El aumento de la renta y de la tasa de interés.",
+    "C": "La invariabilidad de la renta, y el aumento en la tasa de interés.",
+    "D": "La invariabilidad de la renta y de la tasa de interés."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "Si el gasto no depende de la tasa de interés, la IS es **vertical**. Un aumento de la propensión marginal a consumir eleva el multiplicador y desplaza la IS a la derecha; al cortar una LM con pendiente positiva, suben **la renta y la tasa de interés**. Como la IS es vertical, no hay desplazamiento (crowding out) que frene el aumento de la renta.",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-analisis_economico-009",
+   "area": "analisis_economico",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Un investigador económico está interesado en determinar el tipo de rendimiento del proceso productivo del sector industrial de su país en función de los factores de producción. Para ello recoge información de 26.000 empresas relacionada con las siguientes variables: la producción de las empresas (Yᵢ), el trabajo empleado (X₂ᵢ) y el capital invertido (X₃ᵢ). El modelo econométrico que debe estimar el investigador para determinar el rendimiento a escala del proceso productivo es",
+   "opciones": {
+    "A": "Yᵢ = α + β₂X₂ᵢ + β₃X₃ᵢ + uᵢ",
+    "B": "ln Yᵢ = α + β₂ ln X₂ᵢ + β₃ ln X₃ᵢ + uᵢ",
+    "C": "ln Yᵢ = α + β₂X₂ᵢ + β₃X₃ᵢ + uᵢ",
+    "D": "Yᵢ = α + β₂ ln X₂ᵢ + β₃ ln X₃ᵢ + uᵢ"
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "El modelo **log-log** es la linealización de una función Cobb-Douglas: β₂ y β₃ son elasticidades y su suma indica el rendimiento a escala (β₂ + β₃ = 1 constantes, > 1 crecientes, < 1 decrecientes). Los modelos lineal, log-lin o lin-log no permiten esa lectura directa.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-analisis_economico-010",
+   "area": "analisis_economico",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "El ministro de Economía considera pertinente utilizar la teoría neoclásica del crecimiento económico para analizar la relación entre el ahorro y la inversión de su país. De acuerdo con esta teoría, en el estado estacionario la renta y el capital per cápita se mantienen constantes y los valores que toman ambas variables corresponden a los montos que garantizan la igualdad entre la inversión y el ahorro. En este contexto, si el ahorro generado es mayor que la inversión necesaria, la teoría neoclásica del crecimiento sostendría que este país estaría por fuera del estado estacionario porque el capital y la producción por trabajador",
+   "opciones": {
+    "A": "estarían aumentando.",
+    "B": "estarían disminuyendo.",
+    "C": "permanecerían constantes.",
+    "D": "serían iguales a la inversión."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "En el modelo de Solow, Δk = s·f(k) − (n + δ)k. Si el ahorro supera la inversión necesaria para reponer depreciación y crecimiento poblacional, Δk > 0: el **capital y la producción por trabajador aumentan** hasta llegar al estado estacionario. Solo en el estado estacionario permanecen constantes.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-analisis_economico-011",
+   "area": "analisis_economico",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Suiza y España son productores de quesos y vinos. España produce un kilo de queso en 3 horas y un litro de vino en 2,4 horas, mientras que Suiza produce un kilo de queso en 1 hora y un litro de vino en 2 horas. Según el concepto de ventaja absoluta, se puede concluir que",
+   "opciones": {
+    "A": "Suiza tiene una ventaja absoluta solo en la producción de litros de vino.",
+    "B": "España tiene una ventaja absoluta en la producción de kilos de queso y litros de vino.",
+    "C": "Suiza tiene una ventaja absoluta en la producción de kilos de queso y litros de vino.",
+    "D": "España tiene una ventaja absoluta solo en la producción de kilos de queso."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Ventaja absoluta = producir con **menos horas**. Suiza necesita 1 h por queso (vs. 3 h) y 2 h por litro de vino (vs. 2,4 h): es más eficiente en **ambos bienes**. Que España pueda tener ventaja comparativa en vino es otra cuestión, no la que se pregunta.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-analisis_economico-012",
+   "area": "analisis_economico",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "El Gobierno colombiano ha decidido firmar un acuerdo de libre comercio con Brasil, país con menores salarios que Colombia. Las economías de ambos países se caracterizan por tener mercados competitivos, una producción de bienes que presenta rendimientos constantes a escala y trabajadores con productividades diferentes entre los países.\n\nLos trabajadores pueden moverse libremente entre sectores y constituyen el único factor de producción. El tratado eliminará todos los costos asociados con el comercio entre colombianos y brasileños, pero impedirá que se otorguen visas para la movilidad de trabajadores entre países, independientemente de su nivel de salario.\n\nEn términos agregados este acuerdo comercial generará ganancias",
+   "opciones": {
+    "A": "solo para los brasileños, pues sus salarios son más bajos respecto a los salarios colombianos.",
+    "B": "solo para los brasileños, pues poseen ventaja absoluta en todos los sectores incluso en el café.",
+    "C": "para los brasileños y colombianos, pues ambos países tendrán ventajas comparativas en el comercio.",
+    "D": "solo para los colombianos, pues salarios mayores significan una mayor apropiación de las ganancias del comercio."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "Es el modelo **ricardiano**: un solo factor (trabajo), productividades distintas y sin movilidad internacional del trabajo. Aunque un país tuviera ventaja absoluta en todo, cada uno tiene **ventaja comparativa** en algún bien y ambos ganan al especializarse. Los salarios bajos o altos no determinan quién gana del comercio.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-analisis_economico-013",
+   "area": "analisis_economico",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Sea V(p, m) la función de utilidad indirecta de un agente y e(p, u) la función de gasto mínimo del mismo agente, donde p corresponde al vector de precios de los bienes que consume este agente, m corresponde al ingreso del agente y u corresponde al nivel de utilidad.\n\nAnte un fenómeno inflacionario que hace que todas las variables nominales cambien en la misma proporción,",
+   "opciones": {
+    "A": "la función de gasto del agente permanecerá invariante, ya que cambian únicamente las demandas y no el gasto mínimo.",
+    "B": "la función de utilidad indirecta cambiará en la misma proporción, ya que es homogénea de grado 1 en precios e ingreso.",
+    "C": "las dos funciones permanecen invariantes, ya que son homogéneas de grado 1 en precios e ingreso.",
+    "D": "la función de utilidad indirecta no cambia, ya que es homogénea de grado cero en precios e ingreso."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "V(p, m) es **homogénea de grado cero** en (p, m): si precios e ingreso se multiplican por t, la utilidad máxima no cambia. La función de gasto, en cambio, es homogénea de grado 1 en precios (el gasto mínimo sube en la misma proporción), así que A y C fallan; B atribuye a V un grado que no tiene.",
+   "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-analisis_economico-014",
+   "area": "analisis_economico",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Para estudiar la tasa de crecimiento de una población al interior del país, se estimó el siguiente modelo:\n\nLn(P̂)ₜ = 5,25 + 0,015 T − 0,075 Dₜ + 0,011 (Dₜ * T)\n\nee: (6,23) (0,00063) (0,022) (0,0032)\n\nDonde:\n\n- P: población en millones.\n- T: variable de tendencia.\n- D: una variable binaria que toma valores de 0 y 1. D = 1 para los periodos siguientes al 1 de enero de 2008; D = 0 para los periodos anteriores al 1 de enero de 2008.\n- Ln: logaritmo natural.\n- ee: error estándar.\n- \\* Representa la operación de multiplicación.\n\nA partir de la información anterior, puede establecerse que la tasa de crecimiento",
+   "opciones": {
+    "A": "es 1,1 % en el país, durante el periodo que se muestra.",
+    "B": "difiere estadísticamente en 0,011 % antes y después de enero de 2008.",
+    "C": "para el periodo anterior a enero de 2008 es de 7,5 %.",
+    "D": "a partir de enero de 2008 es de 2,6 %."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "En un modelo log-lin, el coeficiente de T es la tasa de crecimiento. Antes de 2008 (D = 0) es 0,015 = 1,5 %; después (D = 1) es 0,015 + 0,011 = **0,026 = 2,6 %**. La diferencia es 1,1 puntos (no 0,011 %), y −0,075 es un cambio de intercepto, no una tasa.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-analisis_economico-015",
+   "area": "analisis_economico",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Considere la siguiente matriz.\n\nCon la estructura matricial de Σ⁻¹ es posible estimar los parámetros de un modelo mediante mínimos cuadrados generalizados (MCG), β̂(MCG) = (Xᵗ Σ⁻¹ X)(Xᵗ Σ⁻¹ Y), con el fin de corregir el problema de",
+   "opciones": {
+    "A": "endogeneidad.",
+    "B": "heteroscedasticidad.",
+    "C": "cambio estructural.",
+    "D": "autocorrelación."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "Esa Σ⁻¹ tridiagonal, con −ρ fuera de la diagonal y 1 + ρ² en ella, es la inversa de la matriz de varianzas de un error **AR(1)**: εₜ = ρεₜ₋₁ + uₜ. MCG con esa matriz corrige la **autocorrelación**. Para heteroscedasticidad, Σ sería diagonal con varianzas distintas.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15",
+   "imagen": "icfes_analisis_economico_015_b.png"
+  },
+  {
+   "id": "icfes-analisis_economico-016",
+   "area": "analisis_economico",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "El Ministerio del Trabajo desea implementar una política de ajuste estructural y estabilización del mercado laboral, para lo cual requiere contratar un estudio económico que le permita calcular, entre otras variables económicas, la elasticidad de oferta laboral. El contratista del estudio sabe que para realizar ese cálculo es necesario conocer el número de horas",
+   "opciones": {
+    "A": "ofrecidas de trabajo y el salario mínimo.",
+    "B": "ofrecidas de trabajo y el salario.",
+    "C": "demandadas de trabajo y el salario de reserva.",
+    "D": "demandadas de trabajo y el salario."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "La elasticidad de la **oferta** laboral mide la variación porcentual de las **horas ofrecidas** ante una variación porcentual del **salario**. Las horas demandadas corresponden a la demanda de trabajo (C, D), y el salario mínimo o el de reserva no son la variable precio relevante.",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-analisis_economico-017",
+   "area": "analisis_economico",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En la siguiente gráfica se observan las tendencias del empleo total en manufacturas, de los contratos a término indefinido y fijo.\n\n**Trabajadores con contratos a término indefinido vs. a término fijo, según la encuesta anual manufacturera, 1992-2009**\n\nSegún esta gráfica, la dinámica del empleo total entre el 2000 y el 2009 se explica principalmente por",
+   "opciones": {
+    "A": "el diferencial entre contratos a término indefinido y fijo.",
+    "B": "la tendencia de los contratos a término indefinido.",
+    "C": "los cambios estructurales en el mercado laboral.",
+    "D": "el aumento en los contratos a término fijo."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "Entre 2000 y 2009 los contratos indefinidos se mantienen casi planos (≈ 330.000–370.000), mientras los de término fijo suben de ≈ 150.000 a ≈ 300.000; el empleo total crece en paralelo a estos últimos. Por eso la dinámica la explica **el aumento de los contratos a término fijo**.",
+   "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #17",
+   "imagen": "icfes_analisis_economico_017_b.png"
+  },
+  {
+   "id": "icfes-analisis_economico-018",
+   "area": "analisis_economico",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Considere el modelo clásico lineal y = Xβ + ε, donde ε corresponde a los errores del modelo. De los métodos de estimación por Mínimos Cuadrados Ordinarios (MCO) y Mínimos Cuadrados en 2 Etapas (MC2E) con variables instrumentales, bajo la hipótesis nula que E(X′ε) = 0 en ambos métodos y una muestra grande, se puede decir que:",
+   "opciones": {
+    "A": "MCO es consistente y MC2E es consistente y eficiente.",
+    "B": "MCO es inconsistente y MC2E es consistente y eficiente.",
+    "C": "MCO es consistente y MC2E es inconsistente.",
+    "D": "MCO es consistente y MC2E es consistente."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "Bajo exogeneidad (E(X′ε) = 0) **ambos estimadores son consistentes**; es la lógica de la prueba de Hausman. Pero en ese caso el eficiente es MCO, no MC2E, por lo que A y B fallan al atribuirle eficiencia a MC2E, y C niega una consistencia que sí tiene.",
+   "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-analisis_economico-019",
+   "area": "analisis_economico",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Las asimetrías de información relacionadas con el riesgo moral se aplican cuando",
+   "opciones": {
+    "A": "los compradores no pueden distinguir entre productos usados de buena o mala calidad.",
+    "B": "los empleadores no pueden distinguir entre trabajadores hábiles o con deficiencias.",
+    "C": "los votantes votan sin saber si sus candidatos son corruptos o personas honestas.",
+    "D": "las compañías de seguros no pueden distinguir entre acciones negligentes de sus asegurados."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "La clave oficial (2018 y 2026) es C, quizá viendo al político electo como un agente cuyas acciones el votante no controla. Pero el texto habla de no saber si el candidato **es** corrupto u honesto, es decir, de un **tipo oculto** (selección adversa, como en A y B). El ejemplo de manual de riesgo moral (**acción oculta**) es D: la aseguradora no puede observar si el asegurado actúa con negligencia. Clave discutible.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-analisis_economico-020",
+   "area": "analisis_economico",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "La idea de que los trabajadores jóvenes tengan ingresos bajos que se incrementan a medida que ganan madurez y experiencia, y decrecen cuando se retiran, es compatible con el concepto de",
+   "opciones": {
+    "A": "elección intertemporal.",
+    "B": "ciclo de vida.",
+    "C": "renta permanente.",
+    "D": "paseo aleatorio."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "La hipótesis del **ciclo de vida** (Modigliani) describe un ingreso con forma de joroba: bajo en la juventud, máximo en la madurez y decreciente en el retiro, y el ahorro se usa para suavizar el consumo. La renta permanente se centra en el ingreso esperado de largo plazo, no en esas etapas.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-analisis_economico-021",
+   "area": "analisis_economico",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "En un mercado perfectamente competitivo, con una curva de demanda con pendiente negativa y con costos marginales constantes a largo plazo, la consecuencia de que el Gobierno introduzca un impuesto será que la carga impositiva se asuma",
+   "opciones": {
+    "A": "equitativamente por consumidores y productores.",
+    "B": "completamente por los consumidores.",
+    "C": "completamente por los productores.",
+    "D": "en mayor proporción por los productores."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Con costos marginales constantes, la oferta de largo plazo es **perfectamente elástica** (horizontal): el precio neto que recibe el productor no puede bajar, así que el precio al consumidor sube en todo el monto del impuesto y **los consumidores asumen toda la carga**. El cuadernillo 2018 daba D, pero el de 2026 corrigió la clave a B.",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #21"
+  },
+  {
+   "id": "icfes-analisis_economico-022",
+   "area": "analisis_economico",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "El Modelo de Regresión Lineal (MRL) supone la no multicolinealidad, la cual consiste en que en un modelo múltiple las variables exógenas no están correlacionadas. Una consecuencia de la violación de este supuesto es:",
+   "opciones": {
+    "A": "Tendencia a eliminar variables del modelo.",
+    "B": "Genera una matriz de rango incompleto.",
+    "C": "Estimar parámetros sesgados.",
+    "D": "Estimar intervalos de confianza más amplios."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "La clave piensa en la multicolinealidad **perfecta**: si una regresora es combinación lineal de otras, X′X tiene **rango incompleto** y no se puede invertir. La multicolinealidad no produce sesgo (C). Ojo: con multicolinealidad alta pero imperfecta, la consecuencia típica es la D (varianzas e intervalos más amplios), por lo que la clave es discutible.",
+   "origen": "Cuadernillo 2018 #22",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-analisis_economico-023",
+   "area": "analisis_economico",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Considere el modelo yₜ = β₀ + β₁x₁ₜ + β₂x₂ₜ + εₜ. Para probar autocorrelación en los errores εₜ, podríamos correr (donde u es un error)",
+   "opciones": {
+    "A": "|εₜ| = α₀ + α₁x₁ₜ + α₂x₂ₜ + uₜ",
+    "B": "εₜ = α₀ + α₁x₁ₜ + α₂x₂ₜ + α₃εₜ₋₁ + uₜ",
+    "C": "εₜ = α₀ + α₁x₁ₜ + α₂x₂ₜ + uₜ",
+    "D": "ε²ₜ = α₀ + α₁x₁ₜ + α₂x₂ₜ + α₃εₜ₋₁ + uₜ"
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "La prueba de autocorrelación (tipo Breusch-Godfrey) regresa el residuo sobre las regresoras y su **propio rezago εₜ₋₁**; si α₃ es significativo, hay autocorrelación. Regresar |εₜ| o ε²ₜ sobre las x (A, D) es la lógica de las pruebas de heteroscedasticidad, y C no incluye rezago.",
+   "origen": "Cuadernillo 2018 #23 · Cuadernillo 2026 #23"
+  },
+  {
+   "id": "icfes-analisis_economico-024",
+   "area": "analisis_economico",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "En el mercado de los seguros médicos, los gerentes afirman que la mayor parte de la demanda está constituida por personas que requieren tratamientos costosos.\n\nDado el problema de selección adversa, las aseguradoras deciden",
+   "opciones": {
+    "A": "asegurar únicamente a clientes sanos.",
+    "B": "cobrar mensualidades altas.",
+    "C": "transferir los clientes enfermos al Estado.",
+    "D": "ofrecer seguros de bajo costo."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "La aseguradora no puede distinguir quién está enfermo (información oculta); si la mayoría de quienes demandan son de alto riesgo, la respuesta es fijar una **prima alta** acorde con ese riesgo promedio. A supone que puede identificar a los sanos, que es justo lo que no puede hacer; C y D no corresponden a una decisión racional de la aseguradora.",
+   "origen": "Cuadernillo 2018 #24 · Cuadernillo 2026 #24"
+  },
+  {
+   "id": "icfes-analisis_economico-025",
+   "area": "analisis_economico",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Una empresa está interesada en incrementar los ingresos obtenidos por la venta de su producto. Un estudio de mercado determinó que la elasticidad precio de la demanda de esta mercancía es -0,5 y que la elasticidad de la demanda respecto al gasto en publicidad de este bien es 2. En consecuencia, esta firma debería",
+   "opciones": {
+    "A": "aumentar el precio de su producto y reducir en mayor proporción el gasto en publicidad.",
+    "B": "aumentar el precio de su producto y aumentar el gasto en publicidad.",
+    "C": "reducir el precio de su producto y mantener el mismo gasto en publicidad.",
+    "D": "reducir el precio de su producto y disminuir en mayor proporción el gasto en publicidad."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Con demanda **inelástica** (|−0,5| < 1), subir el precio aumenta el ingreso total. Como la elasticidad respecto a la publicidad es alta y positiva (2), **más publicidad** aumenta bastante la cantidad demandada. Por eso conviene subir el precio y aumentar la publicidad.",
+   "origen": "Cuadernillo 2018 #25 · Cuadernillo 2026 #25"
+  },
+  {
+   "id": "icfes-analisis_economico-026",
+   "area": "analisis_economico",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "Una economía capitalista sufre un problema de sobrerreacción del tipo de cambio. Este problema se refiere a aquella situación en la cual el tipo de cambio en el corto plazo sobrepasa su nivel de equilibrio de largo plazo. Entonces, para afirmar que el tipo de cambio sobrerreacciona ante una política monetaria expansiva, debe cumplirse que",
+   "opciones": {
+    "A": "la depreciación de corto plazo sea mayor que la depreciación de largo plazo, y que el tipo de cambio se sitúe en un nivel de equilibrio mayor que el inicial.",
+    "B": "la depreciación de corto plazo sea menor que la depreciación de largo plazo, y que el tipo de cambio se sitúe en un nivel de equilibrio menor que el inicial.",
+    "C": "la apreciación de corto plazo sea mayor que la apreciación de largo plazo, y que el tipo de cambio se sitúe en un nivel de equilibrio mayor que el inicial.",
+    "D": "la apreciación de corto plazo sea menor que la apreciación de largo plazo, y que el tipo de cambio se sitúe en un nivel de equilibrio menor que el inicial."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "En el modelo de **overshooting** de Dornbusch, una expansión monetaria **deprecia** la moneda; como los precios son rígidos, en el corto plazo la depreciación **supera** la de largo plazo, y luego el tipo de cambio converge a un nivel de equilibrio **más alto** que el inicial. Las opciones con apreciación tienen el signo equivocado.",
+   "origen": "Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-analisis_economico-027",
+   "area": "analisis_economico",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "América Latina viene presentando un fenómeno duradero de apreciación de sus monedas nacionales. En Colombia, el ciudadano común percibe este fenómeno cuando observa",
+   "opciones": {
+    "A": "un aumento en el precio de los alimentos nacionales.",
+    "B": "un aumento de los giros que vienen del exterior.",
+    "C": "una caída en el precio de los electrodomésticos importados.",
+    "D": "una caída en la compra de tiquetes aéreos al extranjero."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Si el peso se aprecia, se necesitan menos pesos por dólar y los bienes **importados se abaratan** en moneda local. La apreciación más bien reduce el valor en pesos de las remesas (B) y abarata los viajes al exterior, lo que haría subir, no caer, la compra de tiquetes (D).",
+   "origen": "Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-analisis_economico-028",
+   "area": "analisis_economico",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "En la negociación de un tratado de libre comercio entre dos países es necesario conocer los fenómenos económicos que delimitan la participación de las personas y las empresas en los mercados internacionales. Si los países están al día con sus obligaciones financieras internacionales y tienen un tipo de cambio fijo, pero las personas y las empresas tienen restricciones en la compra o venta de activos internacionales, entonces ambos países reconocen este fenómeno como",
+   "opciones": {
+    "A": "movilidad imperfecta de capitales debido a un riesgo soberano.",
+    "B": "movilidad perfecta de capitales.",
+    "C": "paridad de tasas de interés.",
+    "D": "movilidad imperfecta de capitales debido a un control de capitales."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Las **restricciones legales** a comprar o vender activos externos son un **control de capitales**, que hace imperfecta la movilidad del capital. No hay riesgo soberano, porque los países están al día con sus obligaciones (descarta A), y con restricciones no puede haber movilidad perfecta ni paridad de tasas.",
+   "origen": "Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-analisis_economico-029",
+   "area": "analisis_economico",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "El Banco Central de un país que maneja varias monedas participa en el mercado de divisas con el fin de influir en la determinación del tipo de cambio.\n\nLos analistas económicos de este organismo saben que la compra de moneda extranjera en el mercado interno, manteniendo constante la tasa de interés de referencia en una economía con tipo de cambio flexible, permite en el corto plazo",
+   "opciones": {
+    "A": "una apreciación de la moneda nacional con respecto a la extranjera.",
+    "B": "un aumento en el encaje legal.",
+    "C": "una depreciación de la moneda nacional con respecto a la extranjera.",
+    "D": "una disminución en el encaje legal."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Al **comprar divisas**, el banco central aumenta la demanda de moneda extranjera e inyecta moneda nacional: la divisa se encarece y la moneda local se **deprecia**. El encaje legal es un instrumento distinto que no cambia por esta operación.",
+   "origen": "Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-analisis_economico-030",
+   "area": "analisis_economico",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "Una de las características de los sistemas financieros de las economías globalizadas es la libre movilidad de los capitales entre países. Si un inversionista utiliza el mercado de futuros y recibe el mismo retorno por su inversión en dos países, entonces el concepto económico que define esta situación es",
+   "opciones": {
+    "A": "prima de riesgo.",
+    "B": "paridad de tasas de interés cubierta.",
+    "C": "arbitraje.",
+    "D": "paridad de tasas de interés descubierta."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Cuando el riesgo cambiario se **cubre con futuros o forwards** y el rendimiento resulta igual en ambos países, se cumple la **paridad cubierta de tasas de interés**. La descubierta (D) usa el tipo de cambio esperado sin cobertura; el arbitraje es el mecanismo que lleva a la paridad, no la situación de igualdad en sí.",
+   "origen": "Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-analisis_economico-031",
+   "area": "analisis_economico",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "Los analistas del Departamento Nacional de Planeación desean realizar un estudio sobre los determinantes del crecimiento económico del país, para lo cual utilizan como instrumento de análisis el modelo de crecimiento neoclásico propuesto por Robert Solow. Si los analistas desean determinar el comportamiento de la acumulación de capital físico per cápita en el largo plazo, ellos deben saber que la curva de depreciación adopta como supuestos:",
+   "opciones": {
+    "A": "Tasa de crecimiento de la población variable y tasa de depreciación constante.",
+    "B": "Tasa de crecimiento de la población variable y tasa de depreciación variable.",
+    "C": "Tasa de crecimiento de la población constante y tasa de depreciación variable.",
+    "D": "Tasa de crecimiento de la población constante y tasa de depreciación constante."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "En Solow la inversión de reposición es (n + δ)k, una **recta** que sale del origen, porque tanto el crecimiento de la población n como la depreciación δ son **exógenos y constantes**. Si alguno variara, la curva dejaría de ser una recta fija.",
+   "origen": "Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-analisis_economico-032",
+   "area": "analisis_economico",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "El ruido es una externalidad negativa que afecta las decisiones económicas en nuestra sociedad. El análisis económico muestra que existen múltiples razones para pensar que no existe una solución del orden privado a la existencia del ruido.\n\nDe acuerdo con el enfoque teórico de las externalidades propuesto por Kenneth Arrow, la razón por la cual no existe una solución privada al ruido es",
+   "opciones": {
+    "A": "la presencia de mercados incompletos.",
+    "B": "el desconocimiento de la información asimétrica.",
+    "C": "la prevalencia del riesgo moral.",
+    "D": "el efecto de la selección adversa."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "Para Arrow, una externalidad aparece porque **falta un mercado** donde se negocie ese efecto (no existe mercado para el «derecho a hacer ruido» o a recibirlo). Con **mercados incompletos** no hay precio que haga que el agente tenga en cuenta el daño. Riesgo moral y selección adversa son fallas de información, otro tipo de problema.",
+   "origen": "Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-analisis_economico-033",
+   "area": "analisis_economico",
+   "n": 33,
+   "contexto": null,
+   "enunciado": "Un agente consume dos bienes. Luego de un aumento en el precio de uno de estos dos bienes, el gobierno decide aumentar el ingreso para compensar al agente por su pérdida de poder adquisitivo.\n\nPara tal fin, el gobierno valora su cesta de consumo inicial a los nuevos precios y hace el ajuste correspondiente en el ingreso del agente.\n\nAl tomar esta medida se está",
+   "opciones": {
+    "A": "sobrecompensando al agente ya que se está subestimando el efecto sustitución.",
+    "B": "subcompensando al agente ya que se está sobreestimando el efecto sustitución.",
+    "C": "sobrecompensando al agente ya que se está subestimando el efecto ingreso.",
+    "D": "subcompensando al agente ya que se está sobreestimando el efecto ingreso."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Es la compensación de **Slutsky** (tipo Laspeyres): le permite al agente volver a comprar su canasta inicial, pero con los nuevos precios relativos él **sustituye** hacia el bien relativamente más barato y alcanza una utilidad mayor que la inicial. Al ignorar ese efecto sustitución, se lo **sobrecompensa**.",
+   "origen": "Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-analisis_economico-034",
+   "area": "analisis_economico",
+   "n": 34,
+   "contexto": null,
+   "enunciado": "Una empresa del sector textil decide expandir sus actividades comerciales a través de una importante inversión en moneda nacional. Sin embargo, ante las expectativas de un eventual recalentamiento de la economía, la Junta Directiva del Banco Central anuncia que pondrá en marcha una política económica orientada a la reducción de la liquidez.\n\nDe acuerdo con la teoría económica de John Maynard Keynes, el efecto de este anuncio sobre la decisión de inversión de la empresa es",
+   "opciones": {
+    "A": "un aumento de la propensión marginal a consumir.",
+    "B": "mantener constante la tasa real de inversión prevista.",
+    "C": "una reducción de las expectativas sobre el rendimiento futuro del capital.",
+    "D": "una reducción proporcional de la preferencia por liquidez."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "En Keynes la inversión depende de la **eficiencia marginal del capital** (las expectativas de rendimiento) comparada con la tasa de interés. Anunciar una política contractiva (menos liquidez, tasas más altas y menor demanda futura) **reduce las expectativas de rendimiento** y desestimula la inversión. Las demás opciones no siguen de ese anuncio.",
+   "origen": "Cuadernillo 2026 #22"
+  },
+  {
+   "id": "icfes-analisis_economico-035",
+   "area": "analisis_economico",
+   "n": 35,
+   "contexto": null,
+   "enunciado": "En un reciente estudio económico, el Gobierno nacional dio a conocer a la opinión pública que existe una deficiencia en la oferta de bienes públicos puros, razón por la cual decidió asignar más recursos financieros en la provisión de estos bienes.\n\nPara un analista económico, esto puede significar que aumentará la provisión de",
+   "opciones": {
+    "A": "televisión satelital.",
+    "B": "educación terciaria.",
+    "C": "puentes y carreteras.",
+    "D": "leyes de la nación."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los conceptos económicos asociados con un fenómeno económico.",
+   "explicacion": "Un bien público puro es **no rival** y **no excluible**. Las leyes de la nación cumplen ambas condiciones: que una persona se beneficie no impide que otra lo haga y no se puede excluir a nadie. La TV satelital es excluible (se paga suscripción); la educación terciaria y las vías tienen rivalidad (cupos, congestión).",
+   "origen": "Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-analisis_economico-036",
+   "area": "analisis_economico",
+   "n": 36,
+   "contexto": null,
+   "enunciado": "Un país exportador de materias primas se encontraba en una situación de equilibrio externo hasta hace cinco años, momento a partir del cual una devaluación real de la tasa de cambio mejoró considerablemente su balanza en cuenta corriente. Un analista económico ha concluido que la razón por la cual esta devaluación ha hecho superavitaria la cuenta corriente radica en que la cantidad demandada de exportaciones y de importaciones ha sido suficientemente sensible a la variación en la tasa de cambio real. Según lo anterior, el modelo económico más útil para entender el desequilibrio externo de este país es",
+   "opciones": {
+    "A": "el modelo clásico del comercio internacional.",
+    "B": "el modelo keynesiano de determinación del ingreso.",
+    "C": "el modelo de elasticidades de Marshall-Lerner.",
+    "D": "el modelo de switching de la balanza de pagos."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende las teorías económicas que permiten explicar un fenómeno económico.",
+   "explicacion": "La condición de **Marshall-Lerner** dice que, partiendo de una balanza equilibrada, una depreciación real mejora la cuenta corriente solo si exportaciones e importaciones son suficientemente **elásticas** al tipo de cambio real; es exactamente lo que describe el caso. El modelo clásico explica patrones de especialización, el keynesiano los agregados del ingreso, y los modelos de switching son modelos probabilísticos de ciclos.",
+   "origen": "Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-analisis_economico-037",
+   "area": "analisis_economico",
+   "n": 37,
+   "contexto": null,
+   "enunciado": "El Ministerio de Trabajo busca promover una política de creación de nuevos empleos para cuatro departamentos colombianos afectados por el conflicto interno: Bolívar, Cauca, Norte de Santander y Putumayo. La política establece que la inversión pública debe priorizar el departamento con la mayor tasa de variación porcentual en su tasa de desempleo, entre los años 2014 y 2015. La población económicamente activa (PEA) y el número de desocupados (D) para estos departamentos se recogen en la siguiente tabla:\n\n| Departamento | PEA 2014 | D 2014 | PEA 2015 | D 2015 |\n|---|---|---|---|---|\n| Bolívar | 1200 | 120 | 1500 | 180 |\n| Cauca | 800 | 200 | 850 | 255 |\n| Norte de Santander | 1000 | 300 | 1300 | 520 |\n| Putumayo | 200 | 70 | 200 | 70 |\n\nEl departamento más beneficiado y el menos beneficiado por la política social son respectivamente:",
+   "opciones": {
+    "A": "Norte de Santander y Putumayo.",
+    "B": "Bolívar y Cauca.",
+    "C": "Norte de Santander y Bolívar.",
+    "D": "Cauca y Putumayo."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende las diferentes herramientas cuantitativas que permiten el planteamiento de un problema económico y su solución.",
+   "explicacion": "TD = D/PEA. Bolívar: 10 % → 12 % (+20 %); Cauca: 25 % → 30 % (+20 %); Norte de Santander: 30 % → 40 % (**+33,3 %**); Putumayo: 35 % → 35 % (**0 %**). La mayor variación es la de Norte de Santander y la menor la de Putumayo. La trampa es fijarse en el nivel de la tasa (Putumayo tiene la más alta) en lugar de su variación.",
+   "origen": "Preguntas explicadas #3"
+  }
+ ]
+}

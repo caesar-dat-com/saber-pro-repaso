@@ -1,0 +1,466 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Diseño de Software (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "TPMENS y TENSOFT",
+   "texto": "TPMENS, una empresa estadounidense con filiales en Europa y Asia, se especializa en la producción y el suministro de partes electrónicas a la industria automotriz, aeronáutica y componentes de sonido. La dirección de la compañía, con miras a tener una mayor cobertura a nivel global y advertidas por el incremento en la demanda de productos y servicios, ve la necesidad de contratar a la empresa TENSOFT para el desarrollo e implementación de una solución informática que permita lograr ese objetivo.\n\nDespués de un diagnóstico inicial, los analistas de TENSOFT encontraron que:\n\n- Se cuenta con algunas funciones automatizadas relacionadas con las áreas de producción, mercadeo y finanzas de la compañía. Sin embargo, estas funciones no están integradas entre sí, lo que dificulta la consolidación de la información. Esto implica pérdida de tiempo en la toma de decisiones.\n- No hay un sistema integrado que proporcione en línea la información de producción, inventarios y estados financieros.\n- El manejo y la elaboración de informes y reportes financieros son básicos y planos.\n- No existen reportes gráficos unificados ni consolidados.\n- No hay buen manejo en el flujo de información ni control documental.\n- No se cuenta con aplicativos de gestión sobre la relación con los consumidores.\n\nEl nuevo sistema de información deberá contemplar:\n\n- La integración con los sistemas existentes actualmente por medio de bases de datos centralizadas.\n- Escalabilidad y transaccionalidad.\n\nPor otro lado, se debe tener en cuenta que en las fases de diseño e implementación del nuevo sistema de información, se podrán modificar los requerimientos y especificaciones de este. Además, al considerar el tiempo como un recurso primario que debe optimizarse, se deberá hacer uso de metodologías y procedimientos estándares para el análisis, diseño, programación y prueba."
+  },
+  {
+   "titulo": "WebGallery",
+   "texto": "La galería WebGallery requiere una plataforma web para ofrecer sus servicios de intermediación en la compra y venta de obras de arte en Internet. WebGallery maneja dos tipos de usuario: artistas y compradores, y cada uno debe registrarse para tener acceso a la plataforma.\n\nLos artistas pueden publicar sus obras en la colección de la galería describiendo las características físicas, estilo y valor de cada una. Los compradores acceden a las obras por Internet, para lo cual consultan la colección de obras, seleccionan la obra de arte que le interesa y validan el pago correspondiente. El valor final de compra se determina tomando el valor dado por el artista más la comisión del 2 % que gana WebGallery. Para realizar el pago se ofrecen al comprador dos opciones: usando el botón de pagos seguros en línea (PSE) o con tarjeta de crédito; esto se hace direccionando al comprador a la plataforma OnLinePayments, que se encarga de obtener la autorización de la entidad financiera a la que pertenece la cuenta o tarjeta y transfiere el dinero a una cuenta de WebGallery."
+  },
+  {
+   "titulo": "Diagramas de clases y de secuencia",
+   "texto": "Durante el proceso de diseño de un sistema, el ingeniero define un diagrama de clases UML.\n\n{{img:icfes_diseno_software_014a.png}}\n\nA continuación, el ingeniero define el diagrama de secuencias\n\n{{img:icfes_diseno_software_014b.png}}"
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-diseno_software-001",
+   "area": "diseno_software",
+   "n": 1,
+   "contexto": 0,
+   "enunciado": "Uno de los aspectos generales organizacionales es trabajar según el esquema de gestión de calidad organizacional utilizando metodologías y procedimientos estándares para el control de la calidad del software.\n\nTomando en cuenta las consideraciones anteriores, la actividad que permite un mayor control de la calidad del software en el ciclo de vida es",
+   "opciones": {
+    "A": "codificación por pares.",
+    "B": "plan de pruebas.",
+    "C": "diseño detallado.",
+    "D": "análisis de pruebas."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "El **plan de pruebas** define de forma estándar qué se verifica, cómo y cuándo a lo largo de todo el ciclo de vida, por lo que es la actividad que da mayor control sobre la calidad. La codificación por pares o el diseño detallado solo cubren una fase.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-diseno_software-002",
+   "area": "diseno_software",
+   "n": 2,
+   "contexto": 0,
+   "enunciado": "Teniendo en cuenta las necesidades de la empresa, relacionadas con la implementación del sistema de información en un menor tiempo posible, TENSOFT utiliza el mantenimiento evolutivo en una de sus fases del ciclo de vida; de esta manera se evitarán pérdidas de tiempo, atraso en las operaciones y costos tecnológicos altos, entre otros. Esta decisión permite",
+   "opciones": {
+    "A": "eliminar problemas surgidos durante la fase de operación del sistema que no se hayan detectado anteriormente.",
+    "B": "gestionar el proceso y su desarrollo basado en revisiones de los documentos generados en la funcionalidad del sistema.",
+    "C": "mejorar la funcionalidad del sistema con relación con su ejecución, optimización, uso y tiempos de respuesta.",
+    "D": "modificar y ampliar o sustituir la funcionalidad del sistema para adaptarla a las nuevas necesidades de las interfaces, del hardware, del software y del usuario."
+   },
+   "correcta": "D",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "El mantenimiento **evolutivo** consiste en modificar, ampliar o sustituir funcionalidad para adaptarla a nuevas necesidades, justo lo que pide un sistema cuyos requerimientos pueden cambiar. Eliminar errores no detectados (A) es mantenimiento correctivo y mejorar el rendimiento (C) es perfectivo.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-diseno_software-003",
+   "area": "diseno_software",
+   "n": 3,
+   "contexto": 0,
+   "enunciado": "De acuerdo con los aspectos generales de la empresa, la propuesta económica se replanteó para tener en cuenta la incorporación del sistema actual con el nuevo. Por esta razón, el principal elemento para establecer los conceptos de gestión de la configuración del software es",
+   "opciones": {
+    "A": "la información de línea base.",
+    "B": "el control de cambios.",
+    "C": "la capacidad de desempeño.",
+    "D": "la factibilidad operacional."
+   },
+   "correcta": "A",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "La gestión de la configuración parte de la **línea base**: la versión aprobada y documentada de los elementos del sistema sobre la que luego se controlan los cambios. Sin línea base no hay referencia para integrar el sistema actual con el nuevo; el control de cambios se apoya en ella.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-diseno_software-004",
+   "area": "diseno_software",
+   "n": 4,
+   "contexto": 0,
+   "enunciado": "Para la construcción del sistema de información, TENSOFT propone trabajar un modelo de ciclo de vida de software que permita evaluar cada una de sus fases y cambios de requerimientos.\n\nDe acuerdo con lo anterior, la metodología de desarrollo por utilizar y su respectiva secuencia de actividades son:",
+   "opciones": {
+    "A": "Cascada; análisis de requerimientos, diseño, codificación, pruebas, mantenimiento.",
+    "B": "Prototipos; plan rápido, modelo diseño rápido, construcción del prototipo, comunicación, desarrollo, entrega y retroalimentación.",
+    "C": "Espiral; comunicación con el cliente, planificación, análisis de riesgos, ingeniería, evaluación del cliente, construcción y adaptación.",
+    "D": "Incremental; combinación de elementos repetitivamente, secuencias lineales, construcción de prototipos, entregas incrementales al cliente."
+   },
+   "correcta": "C",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "El modelo en **espiral** repite ciclos que incluyen análisis de riesgos y evaluación del cliente, lo que permite evaluar cada fase y absorber cambios de requerimientos. La cascada es lineal y no admite bien los cambios.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-diseno_software-005",
+   "area": "diseno_software",
+   "n": 5,
+   "contexto": 0,
+   "enunciado": "Como una parte de la estrategia de aseguramiento de calidad durante el proceso de construcción de sistemas de información, se debe elaborar y aplicar un plan de pruebas que permita verificar detalles procedimentales de estos.\n\nEl método de pruebas más adecuado es el de",
+   "opciones": {
+    "A": "caja negra.",
+    "B": "caja blanca.",
+    "C": "flujo de datos.",
+    "D": "flujo de control."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "Verificar **detalles procedimentales** exige mirar la lógica interna del código (caminos, condiciones, ciclos), que es lo que hacen las pruebas de **caja blanca**. Flujo de datos y flujo de control son técnicas dentro de la caja blanca, no el método general; la caja negra solo mira entradas y salidas.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-diseno_software-006",
+   "area": "diseno_software",
+   "n": 6,
+   "contexto": 0,
+   "enunciado": "TENSOFT deberá diseñar la arquitectura del sistema de información de acuerdo con los requerimientos planteado por TPMENS. En este caso, la arquitectura más adecuada es la de",
+   "opciones": {
+    "A": "repositorio.",
+    "B": "eventos.",
+    "C": "aspectos.",
+    "D": "multiniveles."
+   },
+   "correcta": "D",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Una arquitectura **multinivel** (por capas o niveles: presentación, lógica, datos) permite integrar sistemas existentes sobre bases de datos centralizadas y escalar cada nivel por separado, lo que cubre los requerimientos de escalabilidad y transaccionalidad.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-diseno_software-007",
+   "area": "diseno_software",
+   "n": 7,
+   "contexto": 0,
+   "enunciado": "Para posibilitar la integración de los componentes del nuevo sistema de la empresa, junto a los aplicativos existentes, de manera que no afecte el traspaso de información entre los clientes, se utilizan mecanismos de coordinación para la transferencia de dicha información.\n\nLa arquitectura que debe utilizarse es",
+   "opciones": {
+    "A": "por capas.",
+    "B": "centrada en datos.",
+    "C": "orientada por eventos.",
+    "D": "orientada por objetos."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "En la arquitectura **centrada en datos** los componentes se integran alrededor de un almacén central (las bases de datos centralizadas del caso) y se coordinan a través de él para transferir información entre aplicativos nuevos y existentes.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-diseno_software-008",
+   "area": "diseno_software",
+   "n": 8,
+   "contexto": 0,
+   "enunciado": "El desarrollo del sistema de información implica que la empresa Tensoft realice una serie de etapas establecidas como el ciclo de vida, una de ellas es el estudio de factibilidad que identifica las necesidades por satisfacer con la aplicación computacional. Teniendo en cuenta lo anterior, en el desarrollo de este sistema, el aspecto principal para el desarrollo del proyecto es",
+   "opciones": {
+    "A": "técnico.",
+    "B": "económico.",
+    "C": "operacional.",
+    "D": "administrativo."
+   },
+   "correcta": "A",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "Los hallazgos del caso son sobre todo técnicos: funciones no integradas, falta de un sistema en línea y la exigencia de integración, escalabilidad y transaccionalidad. Por eso la factibilidad **técnica** es el aspecto principal del estudio.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-diseno_software-009",
+   "area": "diseno_software",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "En el contexto de la programación orientada a objetos es posible realizar operaciones de una clase sin instanciar objetos de la misma, porque",
+   "opciones": {
+    "A": "se pueden invocar métodos heredados de su superclase.",
+    "B": "se pueden invocar métodos estáticos de la misma clase.",
+    "C": "los métodos de la clase pueden haber sido redefinidos.",
+    "D": "los métodos de la clase pueden haber sido sobrecargados."
+   },
+   "correcta": "B",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Los métodos **estáticos** pertenecen a la clase y no a sus instancias, así que se invocan con el nombre de la clase (p. ej. `Math.max(a, b)`) sin crear objetos. Heredar, redefinir o sobrecargar métodos no evita la necesidad de una instancia.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-diseno_software-010",
+   "area": "diseno_software",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "El polimorfismo es una propiedad potente dentro del paradigma de orientación a objetos, el cual se implementa a menudo mediante la técnica de redefinición de métodos. Un método puede ser redefinido en una subclase si es marcado en la superclase como",
+   "opciones": {
+    "A": "abreviado.",
+    "B": "sobrecargado.",
+    "C": "estático.",
+    "D": "abstracto."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplicar los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería, para especificar de forma detallada un producto tecnológico.",
+   "explicacion": "Un método **abstracto** solo declara la firma en la superclase y obliga a cada subclase a redefinirlo, que es la base del polimorfismo. Los métodos estáticos no se redefinen (se ocultan) y la sobrecarga es otro mecanismo distinto.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-diseno_software-011",
+   "area": "diseno_software",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Un software que está desarrollándose tiene 4 módulos llamados “Comunicación”, “LeeDatos”, “DatosGeneral” y “DatosClase”. El módulo “DatosClase” es un módulo fundamental en términos de la lógica del programa, pero también tiene la complejidad más alta, al igual que una alta probabilidad de que en él se encuentren errores. La relación entre los módulos puede verse en el siguiente diagrama:\n\nEl encargado del plan de pruebas definió que, después de hacer las pruebas de unidad, se deben realizar pruebas de integración. Considerando la estructura del programa, se debe seleccionar la estrategia de integración",
+   "opciones": {
+    "A": "ascendente, para comenzar con los módulos “DatosGeneral” y “DatosClase”.",
+    "B": "descendente primero en profundidad, para integrar “DatosClase” justo antes del último módulo.",
+    "C": "descendente primero en anchura, para dejar de último el módulo “DatosClase”.",
+    "D": "no incremental, para verificar la funcionalidad completa con todos los módulos de una vez."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplicar los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería, para especificar de forma detallada un producto tecnológico.",
+   "explicacion": "Como “DatosClase” es el módulo más crítico y propenso a errores, conviene probarlo primero. La integración **ascendente** empieza por los módulos de nivel inferior (“DatosClase” y luego “DatosGeneral”), de modo que se ejercita desde el inicio; las estrategias descendentes lo dejan para el final.",
+   "origen": "Cuadernillo 2018 #11",
+   "imagen": "icfes_diseno_software_011.png"
+  },
+  {
+   "id": "icfes-diseno_software-012",
+   "area": "diseno_software",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Una cadena de tiendas de venta de productos de consumo alimenticio tiene segmentada la clasificación de estos en cinco grandes grupos: Cereales, Empaquetados, Carnes, Verduras y Frutas. Los datos capturados se almacenan usando la aplicación de ventas, pero no se tiene una interfaz gráfica que le permita al gerente general comparar de manera rápida los totales de ventas para poder tomar decisiones. El diseño de interfaz gráfica más indicado para mostrar los resultados de las ventas al gerente general es",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "C",
+   "afirmacion": "Analizar alternativas de solución y selecciona la más adecuada, teniendo en cuenta criterios técnicos, económicos, financieros, sociales, éticos y ambientales.",
+   "explicacion": "Para **comparar rápidamente** totales entre categorías lo más eficaz es un diagrama de barras con escala: la altura de cada barra se compara a simple vista (Verduras ≈ 200 frente al resto). La tabla obliga a leer cifras, la lista desplegable muestra un producto a la vez y el gráfico circular no tiene valores ni facilita comparar porciones parecidas.",
+   "origen": "Cuadernillo 2018 #12",
+   "imagenes": {
+    "A": "icfes_diseno_software_012_A.png",
+    "B": "icfes_diseno_software_012_B.png",
+    "C": "icfes_diseno_software_012_C.png",
+    "D": "icfes_diseno_software_012_D.png"
+   }
+  },
+  {
+   "id": "icfes-diseno_software-013",
+   "area": "diseno_software",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Para recorrer una colección sin depender de su implementación, se puede utilizar un patrón de diseño de tipo",
+   "opciones": {
+    "A": "prototipo, porque conviene realizar ensayos de recorridos antes de decidir una implementación definitiva.",
+    "B": "interfaz, porque de esta manera se establece un comportamiento abstracto que puede implementarse posteriormente.",
+    "C": "iterador, porque este define operaciones de avance, retroceso y detección de terminación en una colección abstracta.",
+    "D": "fachada, porque este abstrae la selección de los servicios de un sistema sin importar su implementación."
+   },
+   "correcta": "C",
+   "afirmacion": "Aplicar los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería, para especificar de forma detallada un producto tecnológico.",
+   "explicacion": "El patrón **Iterador** encapsula el recorrido de una colección (avanzar, retroceder, saber si terminó) sin exponer su estructura interna. Prototipo sirve para clonar objetos y Fachada para simplificar el acceso a un subsistema, no para recorrer colecciones.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-diseno_software-014",
+   "area": "diseno_software",
+   "n": 14,
+   "contexto": 2,
+   "enunciado": "Para garantizar que el diagrama de secuencia sea consistente con el diagrama de clases, se debe verificar que el objeto de la clase A debe invocar la",
+   "opciones": {
+    "A": "operación_X() del objeto de la clase B.",
+    "B": "operación_Y() del objeto de la clase B.",
+    "C": "operación_Z() diferente de operación_Y() y de operación_W() del objeto de la clase B.",
+    "D": "operación_W() del objeto de la clase B."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplicar los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería, para especificar de forma detallada un producto tecnológico.",
+   "explicacion": "En un diagrama de secuencia, el mensaje que A envía a B debe corresponder a una operación **visible** de B. Clase_B solo tiene una operación pública: **+operacion_Y()**; operacion_W() es privada (−) y operacion_X() pertenece a Clase_A.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-diseno_software-015",
+   "area": "diseno_software",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Se creó un software para los puntos de venta de un supermercado, el cual permitirá la automatización del pago en las cajas registradoras, y dar soporte a servicios más rápidos, baratos y mejores. Concretamente, la meta incluye: Pago rápido de los clientes, análisis rápido y exacto de las ventas y control automático del inventario. Una vez el software se comenzó a utilizar en el supermercado se encontró el siguiente defecto “No calcula en forma correcta el total de la venta actual; no incluye el impuesto”. Este error debió ser detectado en las pruebas de",
+   "opciones": {
+    "A": "caja blanca.",
+    "B": "caja negra.",
+    "C": "usabilidad.",
+    "D": "rendimiento."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplicar los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería, para especificar de forma detallada un producto tecnológico.",
+   "explicacion": "El defecto está en la **lógica interna del cálculo**: el código no incluye el impuesto en la operación del total. Las pruebas de **caja blanca** revisan las instrucciones y caminos del código, por lo que habrían detectado que falta ese término. Usabilidad y rendimiento no evalúan si un cálculo es correcto. Ojo: también podría argumentarse caja negra, pues un caso de prueba con entrada y salida esperada revelaría el total errado; la clave oficial es A.",
+   "origen": "Cuadernillo 2018 #15",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-diseno_software-016",
+   "area": "diseno_software",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "La siguiente figura ilustra el patrón de diseño orientado a objetos, Observador\n\nSe decide utilizar este patrón en el diseño en una aplicación para visualización de notas de un curso. Tres objetos gráficos presentarán la información observada, del mismo conjunto de notas, en diferentes formatos: una tabla que presenta todas las notas de los estudiantes, un gráfico de barras que expone el número de alumnos por rangos de notas y un cuadro de texto con la nota promedio del curso. Llevar a cabo esta implementación utilizando el patrón Observador implica que",
+   "opciones": {
+    "A": "las notas deberían ser datos compartidos para todas las clases gráficas y heredarse como atributos de la clase Observador.",
+    "B": "se implementen tres subclases de la clase Sujeto para representar los tres objetos gráficos observadores y una subclase de la clase Observador para representar el objeto que contiene las notas.",
+    "C": "las clases gráficas deben suscribirse como observadoras en una clase tipo Sujeto y esta subscripción se daría por terminada una vez se actualicen los datos publicados por las clases gráficas.",
+    "D": "las clases gráficas deberían heredar de la clase Observador para notificarse de los cambios de notas y desplegar de nuevo la información modificada en el formato correspondiente."
+   },
+   "correcta": "D",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "En el patrón, las notas son el **SujetoConcreto** y cada vista (tabla, barras, promedio) es un **ObservadorConcreto** que hereda de Observador e implementa modificar() para redibujarse cuando el sujeto notifica un cambio. B invierte los papeles y C confunde quién publica los datos y cuándo termina la suscripción.",
+   "origen": "Cuadernillo 2018 #16",
+   "imagen": "icfes_diseno_software_016.png"
+  },
+  {
+   "id": "icfes-diseno_software-017",
+   "area": "diseno_software",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En la arquitectura modelo-vista-controlador (MVC) los objetos del mundo del problema se representan mediante clases de tipo",
+   "opciones": {
+    "A": "interfaz.",
+    "B": "frontera.",
+    "C": "entidad.",
+    "D": "control."
+   },
+   "correcta": "C",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Los objetos del dominio del problema forman el **modelo** y se representan con clases **entidad**. Las clases frontera/interfaz corresponden a la vista y las de control al controlador.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-diseno_software-018",
+   "area": "diseno_software",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Para el desarrollo de un sistema se han definido un conjunto de clases. Si se tienen las clases C1 y C2, donde la clase C2 posee además de sus propios atributos, los atributos de la clase C1.\n\nLa mejor forma de definir la clase C2 es definiendo la clase",
+   "opciones": {
+    "A": "C1 heredada de la clase C2.",
+    "B": "C2 heredada de la clase C1.",
+    "C": "C1 con todos sus atributos públicos.",
+    "D": "C1 con todos sus atributos privados."
+   },
+   "correcta": "B",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Si C2 tiene los atributos de C1 más los suyos, C2 es una especialización de C1: se define **C2 como subclase de C1** para heredar sus atributos. Hacerlos públicos rompe el encapsulamiento y no le da a C2 esos atributos.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-diseno_software-019",
+   "area": "diseno_software",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Una empresa de desarrollo de software centra su negocio en la construcción de soluciones aplicando el desarrollo basado en componentes, lo cual le ha permitido reutilizar componentes de acuerdo con las características de funcionalidad, diseño e implementación de cada proyecto. En el proceso de aseguramiento de calidad de un producto, la gerencia del proyecto determinó disminuir el tiempo y los recursos asignados al inicio del proyecto y a la ejecución de pruebas de unidad, dado que",
+   "opciones": {
+    "A": "al reutilizar componentes se espera que estos hayan sido probados suficientemente antes de entregarlos.",
+    "B": "en el enfoque de componentes el aseguramiento de calidad con pruebas de validación no es importante.",
+    "C": "las pruebas de aceptación son más importantes que las demás.",
+    "D": "la prueba sobre la interoperabilidad de componentes garantiza el funcionamiento de cada componente."
+   },
+   "correcta": "A",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Un componente reutilizable ya fue construido y **probado unitariamente** antes de incorporarse al catálogo, así que se puede reducir el esfuerzo en pruebas de unidad y concentrarlo en la integración. Las demás opciones restan importancia a pruebas que siguen siendo necesarias.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-diseno_software-020",
+   "area": "diseno_software",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Cuando un cliente define un conjunto de objetivos generales para el desarrollo de software, pero no logra identificar los requisitos de entrada, procesamiento o salida detalladamente, el mejor proceso de desarrollo de software para este caso es el modelo de",
+   "opciones": {
+    "A": "proceso unificado.",
+    "B": "prototipos.",
+    "C": "cascada.",
+    "D": "desarrollo basado en componentes."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplicar los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería, para especificar de forma detallada un producto tecnológico.",
+   "explicacion": "Cuando el cliente solo tiene objetivos generales, los **prototipos** permiten mostrarle versiones rápidas del sistema para descubrir y refinar los requisitos detallados. La cascada, en cambio, exige requisitos completos desde el inicio.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-diseno_software-021",
+   "area": "diseno_software",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Para el desarrollo de un software se requiere un levantamiento de información con el apoyo de herramientas técnicas que permitan comprender el sistema por solucionar junto a los procesos, procedimientos y documentos intervinientes durante el flujo de la información que se presenta en un sistema. La empresa S y S lleva a cabo el intercambio de productos de tecnología móvil y para esto un empleado se encarga del registro y control de los productos en libros, generando informes diarios, semanales y mensuales.\n\nSegún lo anterior y teniendo en cuenta el proceso de intercambio de productos, las herramientas y su aplicación más precisa en la empresa para identificar los requerimientos para el desarrollo de un software deben ser",
+   "opciones": {
+    "A": "una entrevista y un cuestionario cerrado al empleado de registro y control de productos para establecer la periodicidad de los informes que se requieren para llevar a cabo este proceso.",
+    "B": "un cuestionario cerrado al empleado de registro y control y la observación directa para identificar los problemas y características que se llevan a cabo en este proceso.",
+    "C": "una entrevista y observación directa al proceso de registro y control, libros e informes periódicos para comprender cómo se lleva a cabo este proceso.",
+    "D": "un cuestionario abierto y revisar los libros e informes periódicos para identificar la forma de registro habitual de los productos para comprender cómo se lleva a cabo este proceso."
+   },
+   "correcta": "C",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Con un solo empleado que realiza el proceso, la **entrevista** recoge su conocimiento y la **observación directa** del registro, los libros y los informes muestra cómo funciona realmente el flujo. Los cuestionarios cerrados limitan las respuestas y sirven más para muchos informantes.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-diseno_software-022",
+   "area": "diseno_software",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Un estudiante puede matricular muchos cursos y cada uno de estos puede ser matriculado por muchos estudiantes, lo que implica una relación de muchos a muchos. Después de hacer el modelo entidad relación, aplicando la teoría de la normalización, la mejor forma de resolver este caso es:",
+   "opciones": {
+    "A": "creando una entidad estudiante, una entidad curso y una entidad intersección estudiante por curso.",
+    "B": "creando una entidad estudiante-curso con todos los atributos de las entidades estudiante y curso.",
+    "C": "creando una entidad estudiante, una entidad curso y una entidad intersección estudiante por curso. Esta última contiene la unión de los esquemas de estudiante y curso.",
+    "D": "creando una entidad estudiante y una entidad curso, donde la entidad estudiante contiene un atributo que hace parte de su clave primaria y referencia la clave primaria de la entidad curso."
+   },
+   "correcta": "A",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Una relación muchos a muchos se resuelve con una **entidad intersección** (p. ej. Matrícula) cuya clave combina las claves de estudiante y curso. Copiar todos los atributos de ambas (B, C) duplica datos y viola la normalización; D solo permitiría un curso por estudiante.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-diseno_software-023",
+   "area": "diseno_software",
+   "n": 23,
+   "contexto": 1,
+   "enunciado": "En el contexto del caso de estudio WebGallery, los compradores realizan el pago usando el botón PSE o una tarjeta de crédito. Sin embargo, este proceso es lento en horas de gran afluencia de transacciones. De esta manera, la demora en tiempo de una transacción se vuelve inaceptable para el comprador, conduciendo a intentos repetidos del pago (oprimiendo varias veces el botón “pagar”), lo que genera doble pago o abandono de la transacción por parte del comprador.\n\nPara evitar los intentos repetidos de pago y el abandono de la transacción, la estrategia por parte de WebGallery es:",
+   "opciones": {
+    "A": "Incrementar la capacidad de procesamiento del servidor de pagos para mejorar el tiempo de respuesta.",
+    "B": "Aumentar el número de servidores que atienden los pagos, balanceando así la cantidad de solicitudes simultaneas.",
+    "C": "Mostrar un mensaje de terminación de compra y confirmar por correo electrónico más adelante.",
+    "D": "Aumentar el ancho de banda de la red para reducir el tiempo de conexión con el servidor de autorización de pagos."
+   },
+   "correcta": "C",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "La autorización del pago la hace **OnLinePayments**, una plataforma de un tercero, así que WebGallery no puede cambiar sus servidores ni su capacidad (A, B). Lo que sí controla es su propia funcionalidad: confirmar la compra con un mensaje y luego por correo evita que el comprador repita el pago o abandone. D falla porque la demora viene del número de transacciones simultáneas, no de la red.",
+   "origen": "Cuadernillo 2018 #23 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-diseno_software-024",
+   "area": "diseno_software",
+   "n": 24,
+   "contexto": 1,
+   "enunciado": "En el contexto del caso se menciona que un artista es un usuario que publica obras de arte. De los siguientes diagramas de dominio, el que mejor representa esta afirmación es:",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "B",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Artista es un **tipo de Usuario** (comparte user y nombre y añade curriculum y distinciones), así que va una **generalización** de Artista hacia Usuario. Y como el artista publica sus obras, la **composición** une a Artista con Obra_de_Arte, no a Usuario (A) ni al revés (C, D).",
+   "origen": "Cuadernillo 2018 #24 · Preguntas explicadas #2",
+   "imagen": "icfes_diseno_software_024.png",
+   "imagenes": {
+    "A": "icfes_diseno_software_024_A.png",
+    "B": "icfes_diseno_software_024_B.png",
+    "C": "icfes_diseno_software_024_C.png",
+    "D": "icfes_diseno_software_024_D.png"
+   }
+  },
+  {
+   "id": "icfes-diseno_software-025",
+   "area": "diseno_software",
+   "n": 25,
+   "contexto": 1,
+   "enunciado": "En el caso WebGallery se describe la forma en que un comprador adquiere las obras de arte. Además, se debe tener en cuenta que el comprador, al realizar el pago, puede opcionalmente dar un aporte voluntario con destino a un fondo mutuo de ayuda a los artistas con dificultades económicas.\n\nEl modelo de casos de uso de WebGallery que mejor representa la interacción entre un comprador y la plataforma web es:",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "C",
+   "afirmacion": "Identificar y formular un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Comprar obra de arte siempre consulta la colección y valida el pago: dos relaciones **<<include>>**. Pagar con PSE y Pagar con tarjeta son variantes de Validar pago, es decir, **generalizaciones**; y Donar al fondo es opcional, por lo que **extiende** (<<extend>>) a Validar pago. Solo el diagrama C combina las tres relaciones así.",
+   "origen": "Cuadernillo 2018 #25 · Preguntas explicadas #3",
+   "imagenes": {
+    "A": "icfes_diseno_software_025_A.png",
+    "B": "icfes_diseno_software_025_B.png",
+    "C": "icfes_diseno_software_025_C.png",
+    "D": "icfes_diseno_software_025_D.png"
+   }
+  }
+ ]
+}

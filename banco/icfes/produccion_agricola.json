@@ -1,0 +1,482 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Producción Agrícola (cuadernillos 2018 y 2026, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-produccion_agricola-001",
+   "area": "produccion_agricola",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "En las plantas, los problemas son debidos a plagas, enfermedades y fisiopatías. El término fisiopatía hace referencia a",
+   "opciones": {
+    "A": "la respuesta de la planta a los microorganismos patogénicos o a factores ambientales que determinan un cambio adverso en la fisiología de esta.",
+    "B": "el efecto negativo sobre la fisiología de las plantas y, por ende, sobre la producción agrícola de todas las plagas del cultivo.",
+    "C": "el efecto negativo sobre la fisiología de las plantas y, por ende, sobre la producción agrícola de todos los microorganismos (hongos, bacterias y virus).",
+    "D": "el desorden fisiológico que se produce en la planta como consecuencia de falta o exceso de algún factor necesario para su desarrollo normal."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los factores ecofisiológicos que intervienen en la producción integral de los sistemas agrícolas.",
+   "explicacion": "Una **fisiopatía** es un desorden de origen **abiótico**: falta o exceso de agua, luz, temperatura o nutrientes (p. ej., la pudrición apical del tomate por deficiencia de calcio). Las opciones A, B y C involucran agentes bióticos (patógenos o plagas), que corresponden a enfermedades y plagas, no a fisiopatías.",
+   "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-produccion_agricola-002",
+   "area": "produccion_agricola",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "La agricultura de conservación se basa en tres pilares: el mínimo laboreo del suelo, la rotación de especies en el espacio y en el tiempo y",
+   "opciones": {
+    "A": "la elevación del contenido de materia orgánica del suelo.",
+    "B": "los sistemas agroforestales.",
+    "C": "la cobertura permanente del suelo.",
+    "D": "los sistemas de riego presurizados."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Según la FAO, los tres principios de la agricultura de conservación son: **mínima perturbación del suelo**, **cobertura permanente del suelo** (rastrojos o cultivos de cobertura) y **diversificación/rotación de especies**. El aumento de materia orgánica es una consecuencia de aplicar esos pilares, no un pilar; agroforestería y riego presurizado son prácticas complementarias.",
+   "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-produccion_agricola-003",
+   "area": "produccion_agricola",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "La sostenibilidad ambiental de los sistemas de producción agrícola se puede evaluar en función del balance entre las tasas de extracción y retribución de los componentes del sistema.\n\nEn un escenario rural de producción continua de cultivos semestrales, la estrategia para mantener el sistema es",
+   "opciones": {
+    "A": "adecuar el terreno a fin de obtener más ciclos de producción por año.",
+    "B": "establecer sistemas adecuados de rotación de cultivos.",
+    "C": "utilizar materiales genéticos con altos índices de productividad.",
+    "D": "usar tecnologías de producción con alta aplicación de insumos."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "La **rotación de cultivos** equilibra extracción y retribución: alterna especies con distintas demandas de nutrientes y profundidad radicular, incorpora leguminosas que fijan N y rompe ciclos de plagas. Más ciclos por año o materiales más productivos aumentan la extracción, y la alta aplicación de insumos compensa artificialmente sin hacer sostenible el sistema.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-produccion_agricola-004",
+   "area": "produccion_agricola",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Algunos microorganismos del suelo pueden contribuir a mejorar la nutrición de las plantas a través de un mecanismo conocido como",
+   "opciones": {
+    "A": "absorción de metales pesados.",
+    "B": "solubilización de fósforo en el suelo.",
+    "C": "degradación de plaguicidas.",
+    "D": "competencia por nutrientes."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Bacterias y hongos **solubilizadores de fósforo** liberan ácidos orgánicos y fosfatasas que convierten fosfatos insolubles en formas asimilables por la planta. Absorber metales pesados o degradar plaguicidas son funciones de biorremediación, no de nutrición, y la competencia por nutrientes perjudica a la planta en lugar de favorecerla.",
+   "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-produccion_agricola-005",
+   "area": "produccion_agricola",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "La materia orgánica es el resultado de la descomposición de compuestos orgánicos, los cuales proporcionan beneficios físicos, químicos y biológicos al suelo. Para acelerar el proceso aerobio de descomposición de los residuos y para que liberen fácilmente sus nutrientes, se deben",
+   "opciones": {
+    "A": "realizar procesos de quema.",
+    "B": "usar organismos que intervengan directamente.",
+    "C": "reducir las cantidades de oxígeno.",
+    "D": "introducir grandes cantidades de agua al sustrato."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "La descomposición aerobia la realizan **organismos descomponedores** (microorganismos, lombrices, inoculantes de compostaje); agregarlos acelera el proceso. Quemar destruye la materia orgánica y pierde nutrientes; reducir el oxígeno o encharcar el sustrato vuelven el proceso anaerobio, que es justamente lo contrario de lo pedido.",
+   "origen": "Cuadernillo 2018 #5 · Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-produccion_agricola-006",
+   "area": "produccion_agricola",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "El control biológico es una estrategia importante aplicable a insectos con diferentes hábitos alimentarios. Si se encuentran larvas jóvenes de un lepidóptero actuando como defoliador en un cultivo y se quiere emplear un agente biológico eficiente y rápido para su control, se podría emplear un producto que contenga",
+   "opciones": {
+    "A": "bacterias como B. thuringiensis.",
+    "B": "hongos del género Beauveria.",
+    "C": "protozoos del género Nosema.",
+    "D": "nematodos como Steinernema sp."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "*Bacillus thuringiensis* produce cristales de toxina Cry que, al ser ingeridos por larvas de lepidópteros que se alimentan del follaje, destruyen el epitelio intestinal y detienen la alimentación en pocas horas: es específico, rápido y se aplica por aspersión. *Beauveria* y *Nosema* actúan más lentamente, y *Steinernema* se usa sobre todo contra plagas de suelo o de hábitos crípticos.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-produccion_agricola-007",
+   "area": "produccion_agricola",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "La Revolución Verde se caracterizó por promover el establecimiento intensivo de monocultivos en grandes extensiones del planeta para la gran mayoría de los productos vegetales, utilizados en la alimentación y en la industria. Pero este tipo de sistemas de producción generó graves impactos ambientales, como los siguientes:",
+   "opciones": {
+    "A": "La degradación de suelos, la disminución de la tasa fotosintética y la contaminación.",
+    "B": "El incremento de insectos plaga, la contaminación y la degradación de la litósfera.",
+    "C": "La contaminación, los cambios en la textura del suelo y el incremento de la temperatura.",
+    "D": "La pérdida de biodiversidad, la contaminación y la degradación del suelo."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce los diferentes sistemas de producción agrícola y diseña las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Los monocultivos intensivos con alto uso de agroquímicos causaron **pérdida de biodiversidad** (genética y del agroecosistema), **contaminación** de aguas y suelos por fertilizantes y plaguicidas, y **degradación del suelo** (erosión, compactación, pérdida de materia orgánica). Las trampas incluyen efectos que no se le atribuyen: la tasa fotosintética no disminuyó, la textura del suelo no cambia por manejo y la «degradación de la litósfera» es una exageración.",
+   "origen": "Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-produccion_agricola-008",
+   "area": "produccion_agricola",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "La utilización de umbrales en la agricultura moderna ha contribuido a optimizar la aplicabilidad de diferentes estrategias de control dentro de esquemas de manejo integrado de plagas.\n\nEn el cálculo de un umbral de acción o umbral económico, el parámetro más importante que se debe conocer es",
+   "opciones": {
+    "A": "la fenología de la especie vegetal cultivada.",
+    "B": "la eficacia del control natural sobre el insecto.",
+    "C": "el efecto del insecto presente sobre el cultivo.",
+    "D": "la respuesta de la planta al ataque de la plaga."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "El umbral económico es la densidad de plaga a partir de la cual el **daño que causa** (pérdida de rendimiento valorada en dinero) supera el costo del control; por eso lo esencial es conocer el efecto del insecto sobre el cultivo. Fenología, control natural y respuesta de la planta modulan ese daño, pero son insumos secundarios del cálculo.",
+   "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-produccion_agricola-009",
+   "area": "produccion_agricola",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Los nematodos entomopatógenos son una herramienta valiosa de control biológico de plagas. El uso de estos organismos en un agroecosistema se recomendaría para el manejo de insectos plagas de hábitos",
+   "opciones": {
+    "A": "nocturnos.",
+    "B": "diurnos.",
+    "C": "crípticos.",
+    "D": "externos."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Los nematodos entomopatógenos (*Steinernema*, *Heterorhabditis*) necesitan humedad y protección de la radiación UV, y buscan activamente al hospedero; por eso son eficaces contra insectos de **hábitos crípticos** (barrenadores, plagas del suelo, insectos dentro de tallos o frutos), donde otros agentes no llegan. Sobre insectos expuestos en el follaje se desecan rápidamente.",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-produccion_agricola-010",
+   "area": "produccion_agricola",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "El control biológico con virus es una estrategia relativamente nueva en los esquemas de manejo integrado de plagas en Colombia.\n\nLa producción de estos agentes de control se puede optimizar mediante el uso de",
+   "opciones": {
+    "A": "medios sólidos artificiales.",
+    "B": "biorreactores con cultivos celulares.",
+    "C": "medios líquidos artificiales.",
+    "D": "biorreactores con cultivos de esporas."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Los virus son parásitos obligados: solo se replican dentro de células vivas, por lo que su producción masiva *in vitro* requiere **biorreactores con cultivos de células** de insecto. Los medios artificiales sólidos o líquidos sirven para hongos o bacterias, y los virus no forman esporas.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-produccion_agricola-011",
+   "area": "produccion_agricola",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Un sistema intensivo de producción con un monocultivo característico de una región presenta un ataque agresivo ocasionado por un insecto plaga chupador de la hoja. Para aplicar un plaguicida de baja persistencia, se debe seleccionar un",
+   "opciones": {
+    "A": "organoclorado.",
+    "B": "piretroide.",
+    "C": "organofosforado.",
+    "D": "carbamato."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Los **piretroides** se degradan con relativa rapidez en el ambiente (luz, temperatura), por lo que se consideran de baja persistencia. Los organoclorados son los más persistentes y bioacumulables (como el DDT), y muchos organofosforados y carbamatos tienen persistencia y toxicidad mayores. Nota: los carbamatos también suelen ser poco persistentes, pero la clave oficial es B.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-produccion_agricola-012",
+   "area": "produccion_agricola",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Según la visión de la FAO, las buenas prácticas agrícolas (BPA) en los sistemas productivos son aplicaciones de conceptos interrelacionados que requieren un manejo integrado de tres factores:",
+   "opciones": {
+    "A": "Productividad, calidad e inocuidad y sostenibilidad ambiental.",
+    "B": "Productividad, comercialización y sanidad de cultivos.",
+    "C": "Calidad e inocuidad, comercialización y manejo de plagas.",
+    "D": "Sostenibilidad ambiental, comercialización y control de plagas."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "La FAO define las BPA como prácticas para obtener productos **inocuos y de calidad**, de forma **productiva** y **ambientalmente sostenible** (además de social y económicamente viable). La comercialización no hace parte de la definición, y el manejo de plagas es una práctica dentro de las BPA, no uno de sus factores rectores.",
+   "origen": "Cuadernillo 2018 #11 · Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-produccion_agricola-013",
+   "area": "produccion_agricola",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "En la preparación de un terreno de 160 hectáreas (ha), utilizando una rastra pesada de discos que tiene un ancho de corte de 4 m, a una velocidad de 5 km/hora con una eficiencia operativa de 80 %, el tiempo requerido de preparación es",
+   "opciones": {
+    "A": "200 horas.",
+    "B": "100 horas.",
+    "C": "80 horas.",
+    "D": "50 horas."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Capacidad efectiva = ancho × velocidad × eficiencia = 4 m × 5.000 m/h × 0,8 = 16.000 m²/h = **1,6 ha/h**. Tiempo = 160 ha ÷ 1,6 ha/h = **100 horas**. Si se omite la eficiencia se obtiene 80 h (opción C), y 200 h o 50 h resultan de errores al convertir unidades.",
+   "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-produccion_agricola-014",
+   "area": "produccion_agricola",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "El pH de una disolución puede medirse mediante una valoración de las concentraciones de hidrógeno presentes en una solución de suelo. Esta valoración se puede realizar a través de métodos de",
+   "opciones": {
+    "A": "referencia.",
+    "B": "óxido-reducción.",
+    "C": "potenciometría",
+    "D": "hidratación."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los factores ecofisiológicos que intervienen en la producción integral de los sistemas agrícolas.",
+   "explicacion": "El pH del suelo se mide de rutina con un **potenciómetro** (pHmetro): un electrodo de vidrio sensible a H⁺ genera una diferencia de potencial proporcional a la actividad de iones hidrógeno. La óxido-reducción mide potencial redox, no pH; «referencia» e «hidratación» no son métodos de medición del pH.",
+   "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-produccion_agricola-015",
+   "area": "produccion_agricola",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "El control biológico es una herramienta útil en algunos sistemas productivos; sin embargo, se requiere determinar la mejor estrategia para su uso.\n\nSi se tiene un cultivo semestral en el cual se quiere utilizar el control biológico, la alternativa más eficiente para el manejo de enemigos naturales es",
+   "opciones": {
+    "A": "implementar un esquema de introducción.",
+    "B": "desarrollar un programa inoculativo de liberación.",
+    "C": "estructurar una estrategia inundativa de liberación.",
+    "D": "establecer un esquema de conservación."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "En un cultivo de ciclo corto no hay tiempo para que los enemigos naturales se establezcan y multipliquen; por eso se usan **liberaciones inundativas**: grandes cantidades del agente que actúan de inmediato, como un «bioplaguicida». La introducción clásica, la liberación inoculativa y la conservación buscan efectos de largo plazo, más apropiados para cultivos perennes.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-produccion_agricola-016",
+   "area": "produccion_agricola",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "El control microbiológico es una herramienta valiosa para los agroecosistemas, sin embargo, se requieren algunas condiciones particulares para que cumpla la función esperada. En un cultivo con abundante área foliar es eficiente el uso de organismos entomopatógenos, porque",
+   "opciones": {
+    "A": "se reduce la temperatura del suelo.",
+    "B": "se presenta menor humedad relativa en el ambiente.",
+    "C": "existe un menor impacto de la lluvia sobre el suelo.",
+    "D": "se tiene menor incidencia directa de la radiación solar."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "La radiación ultravioleta inactiva rápidamente hongos, bacterias y virus entomopatógenos; un dosel denso los **protege de la radiación solar** directa y prolonga su viabilidad. Además, el follaje abundante eleva (no reduce) la humedad relativa, lo que también los favorece; la temperatura o la lluvia sobre el suelo no son el factor clave para agentes que actúan en el follaje.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-produccion_agricola-017",
+   "area": "produccion_agricola",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En el proceso de siembra en un cultivo, se ha seleccionado una sembradora de tractor que realiza con la semilla las siguientes acciones:",
+   "opciones": {
+    "A": "La dosifica, la coloca y la cubre.",
+    "B": "Nivela el surco, la transporta y la coloca.",
+    "C": "La dosifica, la protege del ambiente y la transporta.",
+    "D": "La transporta, nivela el surco y la deposita en este."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Según el Icfes, una sembradora **dosifica** la semilla según la densidad de siembra, la **coloca** según el sistema de siembra definido y la **cubre** para evitar pérdidas por animales o condiciones ambientales. Las sembradoras no nivelan surcos (B y D) ni «protegen del ambiente» a la semilla (C), y esas opciones omiten la dosificación o la cobertura.",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-produccion_agricola-018",
+   "area": "produccion_agricola",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "En la relación suelo/agua, la permeabilidad del suelo, o velocidad de percolación, constituye un factor fundamental para el diseño de sistemas de riego. La permeabilidad depende de la textura y de la estructura del suelo; por tanto, un suelo impermeable es aquel de",
+   "opciones": {
+    "A": "estructura gruesa y textura rica en arena y gravilla.",
+    "B": "textura fina, pero estructura fragmentada.",
+    "C": "estructura polvosa y textura arcillosa.",
+    "D": "estructura gruesa y textura arenosa."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "La **textura arcillosa** tiene poros muy pequeños y una **estructura polvosa** (sin agregación) que se sella y no deja macroporos; ambas condiciones hacen el suelo prácticamente impermeable. Las texturas arenosas o con gravilla y las estructuras gruesas favorecen el drenaje, y una estructura fragmentada (agregada) mejora la permeabilidad aun en texturas finas.",
+   "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-produccion_agricola-019",
+   "area": "produccion_agricola",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Un suelo agrícola tiene una capacidad de intercambio catiónico CIC de 20 cmol/kg, (medida con acetato de amonio a pH 7) y los siguientes contenidos de bases intercambiables: Ca de 6 cmol/kg; Mg 3 cmol/kg; K 0,7 cmol/kg; Na 0,3 cmol/kg. De acuerdo con lo anterior, la saturación de bases de ese suelo es del",
+   "opciones": {
+    "A": "10 %.",
+    "B": "20 %.",
+    "C": "50 %.",
+    "D": "100 %."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Saturación de bases = (Ca + Mg + K + Na) / CIC × 100 = (6 + 3 + 0,7 + 0,3) / 20 × 100 = 10 / 20 × 100 = **50 %**. El 10 % sale de confundir la suma de bases (10 cmol/kg) con el porcentaje.",
+   "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-produccion_agricola-020",
+   "area": "produccion_agricola",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Los sistemas agroforestales con la inclusión de árboles maderables son una opción importante para el mejoramiento de la calidad de vida de los productores agropecuarios, por los ingresos recibidos por la venta de la madera. En un sistema agroforestal de cacao con árboles maderables de nogal cafetero (Cordia alliodora), se encontró que un árbol genera un ingreso de $500.000, mientras que su aprovechamiento genera un daño a ocho plantas de cacao, las cuales producen un ingreso neto de $40.000/año cada una. La tumba de un árbol de C. alliodora imposibilita la producción de estas plantas de cacao durante dos años. Con base en esto, el asistente técnico le recomendaría al productor",
+   "opciones": {
+    "A": "no aprovechar los árboles de C. alliodora.",
+    "B": "aprovechar los árboles de C. alliodora.",
+    "C": "tumbar árboles de C. alliodora al renovar el cacao.",
+    "D": "descopar árboles de C. alliodora al aprovecharlos."
+   },
+   "correcta": "C",
+   "afirmacion": "Analizar los factores externos e internos de la empresa agrícola para formular propuestas de gestión de la producción.",
+   "explicacion": "Tumbar un árbol hoy deja de producir 8 × $40.000 × 2 años = $640.000, más que los $500.000 de la madera: pérdida neta de $140.000, así que aprovecharlo ya (B) no conviene. Tampoco se debe renunciar a la madera (A), porque es un ingreso y el árbol debe talarse en algún momento. Lo óptimo, según el Icfes, es **talar al renovar el cacao**, cuando no hay plantas productivas que dañar; descopar (D) aumenta costos operativos.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-produccion_agricola-021",
+   "area": "produccion_agricola",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "En una empresa productora de cítricos del Valle del Cauca, se prevé realizar evaluaciones semestrales para verificar la ejecución del plan de acción.\n\nPara comprobar el avance del plan, la gerencia debe evaluar, primordialmente,",
+   "opciones": {
+    "A": "las auditorías internas de calidad.",
+    "B": "los indicadores de cumplimiento.",
+    "C": "las acciones preventivas y correctivas.",
+    "D": "el balance contable."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar los factores externos e internos de la empresa agrícola para formular propuestas de gestión de la producción.",
+   "explicacion": "El avance de un plan de acción se mide comparando lo ejecutado con lo programado mediante **indicadores de cumplimiento** (metas, plazos, porcentaje de avance). Las auditorías de calidad evalúan el sistema de gestión, las acciones correctivas son consecuencia de la evaluación, y el balance contable refleja la situación financiera, no la ejecución del plan.",
+   "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-produccion_agricola-022",
+   "area": "produccion_agricola",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Las micorrizas son hongos que se asocian con las raíces de las plantas; en muchas investigaciones se ha encontrado que aquellas contribuyen al mejoramiento en la nutrición vegetal. Su uso generalizado se ha dificultado porque",
+   "opciones": {
+    "A": "a los cultivos no se les suministra suficiente agua en la siembra.",
+    "B": "los insecticidas aplicados impiden su asociación con la planta.",
+    "C": "no se aplica el fósforo y el potasio en cantidad elevada al cultivo.",
+    "D": "la especificidad de la planta es alta y no se asocian fácilmente."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "Según el Icfes, algunas especies de micorrizas son **específicas** de ciertas plantas y no se asocian fácilmente con otras, lo que limita un inoculante de uso general. Las micorrizas ayudan precisamente ante el estrés hídrico (A), algunas toleran plaguicidas y se afectan más por fungicidas (B), y las dosis altas de fertilizante —sobre todo fósforo— reducen la micorrización en lugar de favorecerla (C).",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #21 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-produccion_agricola-023",
+   "area": "produccion_agricola",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "En un cultivo que se desarrolla en un terreno de ondulación fuerte, con pendientes no uniformes, el relieve se constituye en una característica de relevancia para tener en cuenta en la selección del riego.\n\nEn este caso, el método de riego menos indicado es por",
+   "opciones": {
+    "A": "goteo.",
+    "B": "aspersión.",
+    "C": "surcos.",
+    "D": "cañón."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "El **riego por surcos** es superficial: el agua avanza por gravedad, por lo que requiere terrenos planos o con pendiente suave y uniforme; en pendientes fuertes e irregulares causa erosión, encharcamiento en partes bajas y riego desigual. Goteo, aspersión y cañón son presurizados y se adaptan mejor al relieve.",
+   "origen": "Cuadernillo 2018 #22 · Cuadernillo 2026 #22"
+  },
+  {
+   "id": "icfes-produccion_agricola-024",
+   "area": "produccion_agricola",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "En unas plantas silvestres de tomate de árbol se identifica resistencia genética a una enfermedad limitante. Se requiere transferir esta propiedad a un cultivo del mismo género. Aunque no es posible cruzarlas entre sí, se han encontrado y aislado tres genes responsables de la característica de resistencia en la planta silvestre. Una forma viable de transferir esta resistencia a las plantas cultivadas de tomate de árbol es",
+   "opciones": {
+    "A": "realizar retrocruzamientos a partir de la progenie obtenida por el cruzamiento sexual.",
+    "B": "analizar la variabilidad genética de los tres genes en el genotipo de tomate cultivado.",
+    "C": "cuantificar el área bajo la curva relativa del desarrollo de la enfermedad en el cultivo.",
+    "D": "clonar los tres genes en vectores y transferirlos por Agrobacterium tumefaciens."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los sistemas de propagación y mejoramiento genético de plantas.",
+   "explicacion": "Como las plantas no se pueden cruzar, la vía es la **transformación genética**: clonar los genes de resistencia en un vector y transferirlos con *Agrobacterium tumefaciens*. Los retrocruzamientos (A) requieren un cruce sexual previo que el enunciado descarta; analizar variabilidad (B) o medir el progreso de la enfermedad (C) son evaluaciones, no métodos de transferencia.",
+   "origen": "Cuadernillo 2018 #23 · Cuadernillo 2026 #23"
+  },
+  {
+   "id": "icfes-produccion_agricola-025",
+   "area": "produccion_agricola",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "La labranza del suelo tiene influencia sobre el flujo de gases y agua y, por tanto, en el transporte de nutrientes. Una estructura ideal del suelo debe construirse de manera que propicie",
+   "opciones": {
+    "A": "un adensamiento de los agregados.",
+    "B": "una inversión de los horizontes del suelo.",
+    "C": "un incremento del sistema de mesoporos.",
+    "D": "unas capas endurecidas a 30 cm."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los factores ecofisiológicos que intervienen en la producción integral de los sistemas agrícolas.",
+   "explicacion": "Los **mesoporos** retienen agua disponible y permiten su movimiento y el intercambio de gases, por lo que su aumento mejora el transporte de agua, aire y nutrientes. El adensamiento y las capas endurecidas (pie de arado) son compactación, y la inversión de horizontes entierra la capa fértil y degrada la estructura.",
+   "origen": "Cuadernillo 2018 #24 · Cuadernillo 2026 #24"
+  },
+  {
+   "id": "icfes-produccion_agricola-026",
+   "area": "produccion_agricola",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "La situación de escasez de recursos para inversión en el sector agropecuario ha llevado a los gobiernos a buscar estrategias de desarrollo rural que permitan focalizar la inversión de forma tal que se logre el mayor impacto posible.\n\nEntendiendo que en un escenario rural existe diversidad de fincas con recursos, flujos e interacciones diferentes, el primer paso para aplicar estas estrategias es",
+   "opciones": {
+    "A": "tipificar el sistema productivo.",
+    "B": "caracterizar el sistema productivo.",
+    "C": "analizar los conglomerados productivos.",
+    "D": "zonificar los sistemas productivos."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar los factores externos e internos de la empresa agrícola para formular propuestas de gestión de la producción.",
+   "explicacion": "Antes de agrupar o focalizar, hay que **caracterizar** los sistemas productivos: levantar información de sus recursos, flujos e interacciones. Con esa caracterización después se pueden tipificar (agrupar fincas similares), analizar conglomerados o zonificar; por eso esas opciones son pasos posteriores.",
+   "origen": "Cuadernillo 2018 #25 · Cuadernillo 2026 #25"
+  },
+  {
+   "id": "icfes-produccion_agricola-027",
+   "area": "produccion_agricola",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Existe un elemento nutricional que se considera inmóvil por no traslocarse fácilmente dentro de la planta, forma parte de las membranas celulares de las plantas y además pone resistencia al ataque de plagas y enfermedades. Ese elemento es",
+   "opciones": {
+    "A": "el calcio.",
+    "B": "el fósforo.",
+    "C": "el hierro.",
+    "D": "el potasio."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "El **calcio** se mueve por el xilema con la transpiración y casi no se redistribuye por el floema (es inmóvil; sus deficiencias aparecen en tejidos jóvenes). Forma pectatos de calcio en la lámina media y estabiliza membranas, lo que endurece los tejidos frente a patógenos. El fósforo y el potasio son móviles, y el hierro, aunque poco móvil, no cumple la función estructural descrita.",
+   "origen": "Cuadernillo 2018 #26 · Cuadernillo 2026 #26"
+  },
+  {
+   "id": "icfes-produccion_agricola-028",
+   "area": "produccion_agricola",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "El microorganismo conocido como Rhizobium realiza simbiosis con plantas leguminosas, en la que la planta logra transportar moléculas de oxígeno con un óptimo metabolismo del microorganismo y la fijación del nitrógeno atmosférico requerido por la planta.\n\nEste microorganismo pertenece al grupo de",
+   "opciones": {
+    "A": "hongos.",
+    "B": "virus.",
+    "C": "protozoos.",
+    "D": "bacterias."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los diferentes sistemas de producción agrícola y diseñar las estrategias para asegurar su sostenibilidad y competitividad, así como la sanidad e inocuidad de sus productos.",
+   "explicacion": "*Rhizobium* es una **bacteria** gramnegativa del suelo que forma nódulos en las raíces de las leguminosas y fija N₂ mediante la nitrogenasa; la leghemoglobina de la planta regula el oxígeno en el nódulo. Los hongos que se asocian con raíces son las micorrizas, y virus y protozoos no fijan nitrógeno.",
+   "origen": "Cuadernillo 2018 #27 · Cuadernillo 2026 #27"
+  }
+ ]
+}

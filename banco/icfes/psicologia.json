@@ -1,0 +1,569 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Análisis de Problemáticas Psicológicas (cuadernillos 2018 y 2025, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-psicologia-001",
+   "area": "psicologia",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Un colegio tiene como objetivo mejorar las competencias de sus estudiantes, quienes en el último año obtuvieron promedios bajos en distintas áreas. Las directivas y estudiantes manifiestan que no existen problemas al interior de la comunidad, pero no han podido identificar los aspectos que están ocasionando esta problemática. Se implementó un programa de evaluación e intervención para cambiar esta situación; tras la evaluación, el psicólogo encontró que la aparente armonía en la comunidad se debe a la imposición de códigos de disciplina verticales y autoritarios.\n\nEl psicólogo puede considerar que los esfuerzos de cambio deben centrarse en mejorar las relaciones maestro/alumno, porque lo estudiantes",
+   "opciones": {
+    "A": "tienen dificultades para organizarse en grupos que faciliten el seguimiento de normas.",
+    "B": "tienen problemas de autoeficacia académica debido a situaciones de matoneo.",
+    "C": "pueden sentirse inhibidos por los profesores y no participan completamente en su aprendizaje.",
+    "D": "tienen problemas de uso deficiente del lenguaje en situaciones académicas."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Una disciplina vertical y autoritaria produce una «armonía» basada en la inhibición: los estudiantes no se atreven a preguntar ni a participar, lo que afecta su aprendizaje. Por eso el cambio debe apuntar a la relación maestro/alumno; las demás opciones mencionan problemas (matoneo, lenguaje, organización grupal) que el caso no reporta.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-psicologia-002",
+   "area": "psicologia",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Santiago es un niño de 14 meses de edad a quien se le evalúa su desarrollo semántico. En la evaluación se observa que su vocabulario no excede de 10 palabras. Cuando sus padres lo bañan, al ver el agua se refiere a ésta como “aua”, pero cuando en la situación de evaluación se le muestra el agua y se le pregunta qué es, no responde. Cuando se lee con él su cuento favorito, al ver la imagen del gato dice “ato”, pero cuando se le muestra una imagen de un gato durante la evaluación, y se le pregunta qué es, tampoco responde. En el informe de la evaluación la psicóloga indica que el desarrollo semántico del niño corresponde a su nivel de desarrollo cognoscitivo. La conclusión es acertada porque es evidente en el niño",
+   "opciones": {
+    "A": "el conocimiento consciente de las palabras.",
+    "B": "el uso contextualizado de las palabras.",
+    "C": "el manejo esporádico de protopalabras.",
+    "D": "el uso de patrones de sonidos de palabras."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "A los 14 meses las primeras palabras están ligadas al contexto en que se aprendieron: Santiago dice «aua» en el baño y «ato» con su cuento, pero no generaliza esas palabras a la situación de evaluación. Eso es **uso contextualizado**, propio de su etapa; aún no hay conocimiento consciente de las palabras.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-psicologia-003",
+   "area": "psicologia",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "El director de una organización no gubernamental (ONG) ha tenido tres fracasos consecutivos ante convocatorias de naturaleza similar; convencido de la calidad profesional de los miembros de su equipo, solicita el apoyo de un consultor experto en gestión organizacional. La evaluación arrojó que las tres situaciones de fracaso fueron lideradas por una persona distinta; en las tres ocasiones partieron de cero para formular el proyecto; la estructura general de la propuesta no fue conocida por todos los miembros y las percepciones que los mismos manifestaron de algunos elementos centrales del proyecto fueron distintas. Con base en esta información, el consultor concluyó que la ONG tiene falencias en el proceso de aprendizaje organizacional.\n\nLa conclusión a la que llegó el experto es acertada, porque",
+   "opciones": {
+    "A": "el proceso del aprendizaje organizacional solamente hace referencia a la información de segunda mano y a aprender de experiencias: estrategias, prácticas y tecnologías.",
+    "B": "se evidencian dificultades en el elemento fundamental que contempla el proceso del aprendizaje organizacional: la comunicación continua, fluida y eficaz entre todos los miembros de la organización.",
+    "C": "se evidencian falencias en varios de los subprocesos implicados en el proceso del aprendizaje organizacional: adquisición de conocimiento, distribución e interpretación de información y memoria organizacional.",
+    "D": "el proceso del aprendizaje organizacional hace especial referencia a las disposiciones que tienen los miembros de los equipos para el aprendizaje operativo estratégico: anticipa exigencias y prevé necesidades."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La clave señala la **comunicación** entre los miembros como el elemento que falla: la estructura de la propuesta no fue conocida por todos y cada uno percibió de forma distinta los elementos centrales del proyecto. La opción C es la trampa típica: también describe fallas reales (partir de cero, sin memoria), pero la conclusión que sostiene la clave es la falta de comunicación fluida en el equipo.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-psicologia-004",
+   "area": "psicologia",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Un hombre se remite a evaluación neuropsicológica para valorar las posibles consecuencias de un trauma craneoencefálico, después de sufrir un accidente de tránsito.\n\nDurante la entrevista se le formulan preguntas como: ¿cuál es su nombre completo?, ¿en dónde nos encontramos en este momento?, ¿qué día de la semana es hoy?, ¿en qué fecha estamos? Con estas preguntas, el neuropsicólogo pretende evaluar",
+   "opciones": {
+    "A": "lenguaje.",
+    "B": "razonamiento.",
+    "C": "memoria de trabajo.",
+    "D": "estado de conciencia."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "Preguntar por el nombre, el lugar y la fecha explora la **orientación en persona, espacio y tiempo**, que es parte del examen del estado de conciencia tras un trauma craneoencefálico. No se pide manipular información (memoria de trabajo) ni resolver problemas (razonamiento).",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-psicologia-005",
+   "area": "psicologia",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Un profesional en psicología especializado en trastornos de depresión y de ansiedad decide llamar a la esposa de uno de sus consultantes para realizar una intervención en pareja, pues observa que la ansiedad del consultante surge en parte como reacción a la indiferencia de su mujer. Les dice que la terapia de pareja no es su especialidad, pero que no quiere agobiarlos con la atención de otros especialistas. Se propone como objetivo trabajar en la relación de la pareja para disminuir los síntomas de ansiedad del consultante.\n\nSegún el Código Deontológico y Bioético de Psicología en Colombia, la práctica incorrecta en la que incurrió el profesional en psicología fue",
+   "opciones": {
+    "A": "realizar una intervención sin la experticia suficiente para ello.",
+    "B": "apoyar al consultante para trabajar en la relación de pareja.",
+    "C": "atender a la pareja luego de haber sido el terapeuta de uno de los miembros.",
+    "D": "iniciar la terapia de pareja suponiendo que la esposa es la causa del problema."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "El propio psicólogo reconoce que la terapia de pareja no es su especialidad y aun así la asume: actuar fuera de su **competencia profesional** es la falta ética. Lo correcto era remitir a un especialista en terapia de pareja.",
+   "origen": "Cuadernillo 2018 #5 · Cuadernillo 2025 #5"
+  },
+  {
+   "id": "icfes-psicologia-006",
+   "area": "psicologia",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "A consulta psicológica acude la madre de una adolescente preocupada por la pérdida de peso que ha observado en su hija en los últimos 5 meses, así como por los frecuentes conflictos que tiene con sus hermanos. La madre relata, además, que su hija está muy atenta a los comentarios que hacen sus compañeras del colegio sobre su aspecto físico. Luego de llevar a cabo las evaluaciones psicológicas pertinentes, el profesional en psicología concluye que la adolescente presenta un cuadro de anorexia nerviosa.\n\nTeniendo en cuenta el diagnóstico realizado, la intervención inicial debería dirigirse a",
+   "opciones": {
+    "A": "regular la ingesta de alimentos.",
+    "B": "fortalecer el autoconcepto.",
+    "C": "mejorar los vínculos familiares.",
+    "D": "estimular el apoyo de los pares."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "La clave apunta al **autoconcepto**: la adolescente depende de los comentarios de sus compañeras sobre su aspecto, y la distorsión de la imagen corporal es el núcleo psicológico de la anorexia. Regular la ingesta es parte del manejo médico-nutricional, pero desde la intervención psicológica el foco inicial es la valoración de sí misma.",
+   "origen": "Cuadernillo 2018 #6 · Cuadernillo 2025 #6"
+  },
+  {
+   "id": "icfes-psicologia-007",
+   "area": "psicologia",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Durante las últimas (4) cuatro semanas, Gloria ha estado desmotivada, desinteresada por sus actividades y perdió 5 Kg de peso. Manifiesta sentimientos de minusvalía y presenta un deterioro en sus actividades sociales habituales. Su esposo, preocupado, la acompaña al médico pero se descarta alguna enfermedad orgánica y es remitida al servicio de psicología para evaluación.\n\nEn el caso propuesto, para realizar el diagnóstico diferencial con distimia, es crucial que el psicólogo indague por la",
+   "opciones": {
+    "A": "duración de los síntomas.",
+    "B": "presencia de afecto negativo.",
+    "C": "nivel de satisfacción vital.",
+    "D": "antecedentes de hipomanía."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La clave oficial es D: indagar antecedentes de hipomanía permite descartar un trastorno del espectro bipolar antes de concluir un cuadro depresivo. **Clave discutida**: en los criterios diagnósticos, lo que separa la distimia de un episodio depresivo mayor es sobre todo la **duración** (la distimia exige al menos dos años de síntomas), por lo que la opción A también parece defendible.",
+   "origen": "Cuadernillo 2018 #7",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-psicologia-008",
+   "area": "psicologia",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Camilo es un niño de 6 años de edad que ha tenido muchos problemas en el colegio en el último año escolar. Se distrae fácilmente y se confunde con las explicaciones del maestro. Además, no logra distinguir algunas letras y números con precisión, tiene dificultades al copiar anotaciones del tablero y se le han descartado problemas de visión. Un psicólogo lleva a cabo una evaluación minuciosa, mediante entrevistas con el niño, la familia y los profesores, y el uso de una batería de pruebas estandarizadas. Los resultados muestran un desarrollo normal y descartan problemas de ajuste social o emocional.\n\nEl diagnóstico más probable para Camilo es",
+   "opciones": {
+    "A": "dislexia, un problema que afecta varias áreas de su desempeño académico.",
+    "B": "dispraxia, un problema que le impide el desarrollo de su lenguaje hablado.",
+    "C": "discalculia, un problema que le impide pensar de manera organizada.",
+    "D": "disgrafia, un problema que le impide el desarrollo del lenguaje escrito."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La **dislexia** es un trastorno del aprendizaje de la lectoescritura que aparece aunque el desarrollo, la visión y el ajuste emocional sean normales, y repercute en todo el desempeño académico. La dispraxia es un trastorno del desarrollo motor, la discalculia afecta las matemáticas y la disgrafía la coordinación motora de la escritura.",
+   "origen": "Cuadernillo 2018 #8 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-psicologia-009",
+   "area": "psicologia",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "El director de un centro para el tratamiento de adicciones ha solicitado a una psicóloga que realice una evaluación para identificar los resultados del proceso en la población atendida en el centro. Durante la evaluación, la psicóloga ha observado que, si bien algunos pacientes no hospitalizados han logrado reducir su consumo de sustancias, algunos de ellos han desarrollado comportamientos sustitutos que también los exponen a riesgos. Estos comportamientos incluyen la adicción al juego y la participación en actividades sexuales sin precauciones adecuadas.\n\nPara comunicar estas tendencias a las familias de los pacientes de manera efectiva y teniendo en cuenta lo establecido en el código Deontológico y Bioético de Psicología en Colombia, la manera más adecuada es decirles:",
+   "opciones": {
+    "A": "“Se debe tener precaución con el paciente en rehabilitación porque debido al síndrome de abstinencia puede presentar otros trastornos de control de impulsos”.",
+    "B": "“Hay que prestar atención al paciente en rehabilitación, pues tiende a presentar problemas como jugar en exceso o involucrarse en relaciones sexuales riesgosas”.",
+    "C": "“Es posible que el paciente en rehabilitación se torne peligroso para su entorno dado que presenta un gusto inusitado por los juegos de azar y por relaciones no adecuadas”.",
+    "D": "“Hay que tener cuidado con quien ha sido drogadicto, ya que puede poner en riesgo a su familia al involucrase en conductas que no son buenas para él ni su entorno”."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La opción B describe con lenguaje claro y sin estigmatizar las conductas concretas observadas. A usa una explicación técnica no sustentada (abstinencia), y C y D etiquetan al paciente como peligroso o «drogadicto», lo que estigmatiza y exagera los hallazgos.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2025 #9"
+  },
+  {
+   "id": "icfes-psicologia-010",
+   "area": "psicologia",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Clara consulta a un psicólogo debido a los conflictos que experimenta en su relación de pareja. Una de las principales causas de discordia son las expresiones de afecto de su pareja, las cuales Clara percibe como insuficientes, lo que la lleva a expresar constantes reclamos sobre su comportamiento distante. Además, Clara se siente abrumada por la carga de responsabilidades domésticas, ya que su pareja pasa la mayor parte del tiempo fuera de casa.\n\nDurante la evaluación, la pareja expresó su insatisfacción con la baja frecuencia de las relaciones sexuales. Asimismo, se descubrió que Clara fue víctima de abuso durante su adolescencia por parte de un novio violento, una experiencia que su pareja desconoce. A pesar de los intentos de comprensión por parte de su pareja, los conflictos han empeorado en los últimos seis meses.\n\nEn este caso, la intervención inicial con Clara debería enfocarse en",
+   "opciones": {
+    "A": "desarrollar la capacidad para hablar tranquilamente sobre su historia.",
+    "B": "reconocer que el abuso que sufrió influye en sus necesidades afectivas actuales.",
+    "C": "adoptar una forma de comunicación que le permita manejar mejor los conflictos.",
+    "D": "tomar decisiones sobre la continuidad de la relación en función de sus prioridades."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "El primer paso es que Clara **reconozca la relación** entre el abuso vivido y sus demandas afectivas y su dificultad con la sexualidad en la pareja actual. Sin esa comprensión, trabajar la comunicación (C) o decidir sobre la relación (D) atacaría solo la superficie del problema.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2025 #10"
+  },
+  {
+   "id": "icfes-psicologia-011",
+   "area": "psicologia",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Con el propósito de mejorar sus habilidades de interacción, los padres de Juan, un niño de 10 años de edad, lo inscribieron en un programa de tratamiento grupal para niños tímidos. Luego de tres meses de sesiones semanales de dos horas, Juan empezó a establecer contacto visual al hablar con sus pares y adultos, a permanecer menos tiempo aislado y a participar en juegos cooperativos. Se puede considerar que este programa grupal fue eficaz porque se logró",
+   "opciones": {
+    "A": "ajustar el comportamiento en función de lo esperado para otros niños de la misma edad.",
+    "B": "modificar la predisposición temperamental en la exposición a situaciones sociales.",
+    "C": "cambiar un patrón de evitación que dificulta el aprendizaje de habilidades sociales.",
+    "D": "promover el contacto frecuente con pares y adultos sin la presencia de ansiedad."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Los logros (contacto visual, menos aislamiento, juego cooperativo) muestran que Juan dejó de **evitar** las interacciones, lo que le abre la posibilidad de aprender habilidades sociales. El temperamento (B) no se modifica en tres meses, y el caso no informa sobre su ansiedad (D) ni lo compara con otros niños (A).",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-psicologia-012",
+   "area": "psicologia",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Camila, una estudiante universitaria, ha experimentado una notable pérdida de peso en los últimos meses. Su familia y amigos han notado que come muy poco, está constantemente preocupada por destacarse en su clase y sacrifica horas de sueño por estudiar. En entrevistas, se ha observado que Camila no es consciente de su desnutrición ni del impacto de su apariencia física. Además, presenta síntomas como dismenorrea, taquicardia y aumento de la vellosidad corporal, lo que ha llevado a un diagnóstico médico de anorexia.\n\nAnte esta situación, el terapeuta ha decidido centrar su atención en la exploración de los pensamientos y comportamientos de Camila en diversas áreas de ajuste. Esta elección del terapeuta se justifica porque",
+   "opciones": {
+    "A": "este trastorno tiene como componente psicológico la distorsión cognoscitiva.",
+    "B": "debe descartarse si el trastorno obedece netamente a factores fisiológicos.",
+    "C": "debe descartarse si el trastorno obedece a causas ambientales.",
+    "D": "es una estrategia eficaz para identificar qué mantiene la conducta."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La anorexia tiene como núcleo psicológico una **distorsión cognoscitiva** (de la imagen corporal y del propio estado, como la falta de conciencia de su desnutrición), por eso tiene sentido explorar sus pensamientos y conductas. El diagnóstico médico ya está hecho, así que no se trata de descartar causas fisiológicas o ambientales.",
+   "origen": "Cuadernillo 2018 #12 · Cuadernillo 2025 #11"
+  },
+  {
+   "id": "icfes-psicologia-013",
+   "area": "psicologia",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "María es una niña de 4 años de edad que asiste a un jardín infantil de una zona vulnerable. Su desarrollo cognoscitivo se valoró para identificar áreas en las cuales sería necesario intervenir durante el año escolar. En el reporte se indica que la niña hace garabatos para representar objetos que le son familiares, y en situaciones de dibujo libre pinta solamente objetos que conoce. Cuando se le presentan dos plastilinas esféricas y se le pregunta, después de amasar una de éstas, “¿por qué una es más larga que la otra?” responde que se debe a que tiene más plastilina; además afirma que es así porque su mamá preparó fideos para el almuerzo.\n\nCon base en la explicación que da María en relación con las diferencias en las formas de plastilina, se puede concluir que",
+   "opciones": {
+    "A": "manifiesta pensamiento presimbólico.",
+    "B": "opera con razonamiento sincrético.",
+    "C": "tiene un pensamiento egocéntrico.",
+    "D": "razona empleando preconceptos."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La clave oficial es A (pensamiento presimbólico). **Clave discutida**: a los 4 años María ya usa símbolos (garabatos que representan objetos), y unir la forma de la plastilina con que su mamá preparó fideos es un ejemplo típico de **razonamiento sincrético** o transductivo, que liga hechos sin relación lógica; por eso la opción B parece más ajustada a la explicación de la niña.",
+   "origen": "Cuadernillo 2018 #13",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-psicologia-014",
+   "area": "psicologia",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "A un profesional en psicología le encargan diseñar el proceso de evaluación para el ingreso en un plantel educativo. El proceso de admisión debe cubrir el ingreso de niños a cualquier grado, desde preescolar hasta bachillerato; su objetivo es hacer una selección de aquellos estudiantes que mejor se ajusten al nivel de exigencia académica que el colegio tiene contemplado para su formación.\n\nSi el interés del profesional es medir las habilidades académicas de los estudiantes, a través de pruebas psicométricas, debe incluir una prueba de aptitud. El uso de las pruebas psicométricas le permite",
+   "opciones": {
+    "A": "establecer valores de atributo no comparables entre los estudiantes.",
+    "B": "identificar medidas válidas respecto al atributo que se pretende medir.",
+    "C": "establecer el comportamiento de los estudiantes en distintos contextos.",
+    "D": "identificar los intereses del estudiante y su perfil motivacional de ingreso."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "Las pruebas psicométricas delimitan el atributo que se quiere evaluar y, con parámetros estandarizados, entregan **medidas válidas** y comparables de la habilidad. No producen valores incomparables (A), sus resultados valen para el contexto en que se aplican y no para cualquiera (C), y la aptitud no es lo mismo que los intereses (D).",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2025 #13 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-psicologia-015",
+   "area": "psicologia",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Una joven de 18 años es llevada por sus padres al servicio de psicología porque el colegio exigió una valoración debido a que la observaban muy retraída y su rendimiento ha desmejorado notoriamente. Los padres solicitan que se les entregue un informe para llevar al colegio. A lo largo de la evaluación, la psicóloga encuentra que la joven algunas veces se siente triste, otras veces molesta y reacciona de manera agresiva cuando la madre o alguien más le pregunta por el novio. Luego de pedirle a la psicóloga que no comparta lo que le va a comentar, la joven le dice que unas compañeras que la insultan, le dicen “lesbi” y se burlan por internet de su vestimenta. Ella las ignora, pero es bastante incómodo. Así mismo, le relata que durante los últimos seis meses ha tenido experiencias homosexuales con una joven un año mayor que ella y se ha sentido muy bien. Esto la ha confundido y cree que es lesbiana.\n\nTeniendo en cuenta lo establecido en el código Deontológico y Bioético de Psicología en Colombia, la información que la psicóloga debería incluir en el informe que le entregará a los padres es una",
+   "opciones": {
+    "A": "descripción de los síntomas y su relación con el matoneo y las experiencias homosexuales.",
+    "B": "descripción de la sintomatología, sin mencionar las experiencias homosexuales ni el matoneo.",
+    "C": "explicación de los síntomas y su relación con el matoneo, sin mencionar las experiencias homosexuales.",
+    "D": "explicación de los síntomas y su relación con las experiencias homosexuales, pero sin mencionar el matoneo."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La joven es mayor de edad y pidió expresamente reserva, así que el **secreto profesional** obliga a describir solo la sintomatología, sin revelar ni el matoneo ni sus experiencias sexuales. Cualquier opción que mencione alguno de los dos temas rompe la confidencialidad que ella pidió.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2025 #14"
+  },
+  {
+   "id": "icfes-psicologia-016",
+   "area": "psicologia",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Un colegio de la ciudad tiene como objetivo mejorar las competencias básicas de lectoescritura, matemáticas y química de sus estudiantes de grado undécimo, ya que en el último año dicho grupo obtuvo promedios bajos en estas competencias. Las directivas y los estudiantes del colegio consideran que no existen problemas dentro de la comunidad, y no han podido identificar los aspectos que ocasionan esta problemática. Se conformó un equipo con el objetivo de implementar un programa de evaluación e intervención para cambiar esta situación. Después de un proceso de evaluación, la psicóloga encontró que para todas las áreas evaluadas los estudiantes utilizan estrategias de aprendizaje muy variadas. A la luz de esta información, el equipo debe centrar su propósito de intervención en",
+   "opciones": {
+    "A": "cambiar los sistemas de evaluación usados para medir el desempeño.",
+    "B": "mejorar el tipo de interacción entre docentes y alumnos.",
+    "C": "modificar las formas de enseñanza tradicionales centradas en el docente.",
+    "D": "unificar las estrategias de aprendizaje usadas por los estudiantes."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Si los estudiantes ya usan estrategias de aprendizaje variadas, el problema no está en ellas (D es la trampa); la clave lleva el foco a la **interacción docente-alumno**, que permite que el docente oriente y ajuste esas estrategias en cada área.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-psicologia-017",
+   "area": "psicologia",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Una compañía productora de electrodomésticos enfrenta un proceso de restructuración, tras un pobre desempeño de ventas en los últimos semestres. La compañía implementará cambios en el área de recursos humanos, incluido el registro de horarios de trabajo. Como parte del cambio, la psicóloga de la compañía debe colaborar con el proceso de cambio organizacional que los propietarios quieren llevar a cabo. La forma más eficiente de determinar lo que piensan y sienten los empleados de la compañía al respecto de esta situación es",
+   "opciones": {
+    "A": "realizar entrevistas e indagación individual.",
+    "B": "aplicar una batería de pruebas proyectivas.",
+    "C": "aplicar una prueba de actitud.",
+    "D": "realizar entrevistas y grupos focales."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "Una **prueba de actitud** mide justamente la disposición cognitiva y afectiva (lo que piensan y sienten) frente a un objeto, en este caso el cambio, y se puede aplicar a toda la planta de forma rápida. Entrevistas y grupos focales dan información rica pero son menos eficientes con muchos empleados, y las pruebas proyectivas evalúan personalidad, no actitudes.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-psicologia-018",
+   "area": "psicologia",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Camilo tiene 9 años y fue remitido a un profesional en psicología porque presentaba bajo rendimiento académico. La docente y los padres \"quieren saber qué sucede y así apoyar a Camilo para que rinda en el colegio y haga las tareas\". En la primera entrevista los padres informan que \"nunca ha sido buen estudiante, pasa raspando todas las materias o le toca hacer recuperaciones. Le cuesta trabajo leer, no apunta las tareas que le deja la docente o lo hace de manera confusa\". La madre afirma que el padre es supremamente estricto, lo regaña y a veces lo grita. La docente envía un reporte detallado de sus observaciones y en este se evidencia que Camilo se muestra distraído y cuando la docente le pide que lea, él se niega a hacerlo.\n\nPara dar respuesta a las inquietudes de los padres y la docente acerca de las dificultades de Camilo, el profesional en psicología debe proceder a realizar",
+   "opciones": {
+    "A": "una entrevista en profundidad con la familia, una prueba de valoración afectiva y una prueba de competencias lectoescritoras.",
+    "B": "una prueba de inteligencia, una prueba de factores emocionales y una observación en vivo en el colegio.",
+    "C": "una entrevista en profundidad con la familia, una prueba de competencias lectoescritoras y una prueba de personalidad.",
+    "D": "una prueba de inteligencia, una prueba de personalidad y una observación en vivo en el colegio."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La clave combina una **entrevista en profundidad con la familia** (por el padre estricto que regaña y grita), una **prueba de competencias lectoescritoras** (le cuesta leer y se niega a hacerlo) y una prueba de personalidad. La observación en el colegio sobra porque la docente ya envió un reporte detallado.",
+   "origen": "Cuadernillo 2018 #18 · Cuadernillo 2025 #16"
+  },
+  {
+   "id": "icfes-psicologia-019",
+   "area": "psicologia",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Un profesional en psicología que se dedica a la psicoterapia en casos de depresión decidió tratar algunos consultantes con terapias psicológicas basadas en la evidencia y a otros con terapias experimentales para analizar cuál de los dos tipos de intervención es más efectivo. Mariela, una de sus consultantes, fue asignada por el profesional a la intervención con terapias alternativas sin explicarle previamente en qué consistiría la terapia ni otras opciones de tratamiento disponibles.\n\nTeniendo en cuenta lo establecido en el código Deontológico y Bioético de Psicología en Colombia, el psicólogo incurrió en una práctica incorrecta al violar el principio de",
+   "opciones": {
+    "A": "autonomía.",
+    "B": "dignidad.",
+    "C": "no maleficencia.",
+    "D": "justicia."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Al no informarle en qué consistía la terapia ni las alternativas, el psicólogo impidió que Mariela diera un **consentimiento informado**, es decir, que decidiera libremente sobre su tratamiento: eso viola el principio de autonomía.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2025 #17"
+  },
+  {
+   "id": "icfes-psicologia-020",
+   "area": "psicologia",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Como parte de un plan de intervención psicosocial con población en situación de desplazamiento, una ONG solicita una propuesta para evaluar a las madres y determinar si presentan algún trastorno psicológico. En aquellos casos en los que haya trastorno es necesario establecer si este es consecuencia de traumas y experiencias asociadas al conflicto armado o si es una condición relacionada con otras experiencias, pasadas o presentes.\n\nDe las siguientes estrategias, aquellas que permiten dar respuesta de manera adecuada a la solicitud de la ONG son",
+   "opciones": {
+    "A": "un inventario de ansiedad estado y un inventario de personalidad.",
+    "B": "una lista de chequeo de síntomas y un inventario de depresión.",
+    "C": "una prueba de estrés postraumático y una entrevista en profundidad.",
+    "D": "una lista de chequeo de síntomas y un autoregistro de pensamientos recurrentes."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La **prueba de estrés postraumático** detecta el trastorno más esperable tras el conflicto armado, y la **entrevista en profundidad** permite reconstruir la historia de cada madre para saber si el trastorno se debe al conflicto o a otras experiencias. Las listas e inventarios de síntomas solos no permiten establecer ese origen.",
+   "origen": "Cuadernillo 2018 #20 · Cuadernillo 2025 #18"
+  },
+  {
+   "id": "icfes-psicologia-021",
+   "area": "psicologia",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Sonia asistió a psicoterapia debido a que fue diagnosticada con un trastorno de estrés postraumático luego de que atropelló a un hombre con su auto y le causó la muerte. Después de varias sesiones disminuyó su sentimiento de culpa, su incapacidad para recordar detalles de lo sucedido y la sensación de un futuro desolador. No obstante, aún presenta dificultades para conciliar el sueño, tiene problemas de concentración y recuerdos intrusivos de lo ocurrido.\n\nPara ajustar el proceso de intervención y mejorar los resultados obtenidos hasta el momento se debe dar prioridad a",
+   "opciones": {
+    "A": "promover un cambio en las interpretaciones sobre el evento.",
+    "B": "fortalecer las redes de apoyo en el componente emocional.",
+    "C": "facilitar la habituación a los pensamientos temidos.",
+    "D": "favorecer el involucramiento en actividades satisfactorias."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Lo cognitivo (culpa, visión del futuro) ya mejoró, pero persisten los recuerdos intrusivos y la hiperactivación (insomnio, concentración). Para esos síntomas la técnica indicada es la **exposición**, que produce habituación a los pensamientos temidos; reinterpretar el evento (A) es lo que ya funcionó.",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2025 #19"
+  },
+  {
+   "id": "icfes-psicologia-022",
+   "area": "psicologia",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Se estudió el efecto de un programa de liderazgo sobre un grupo de 50 representantes estudiantiles con edades entre los 18 y 21 años. Los jóvenes se distribuyeron en dos grupos con igual número de hombres y mujeres, y con la misma edad promedio; en el primero se implementó el programa de liderazgo y en el segundo se llevaron a cabo conferencias sobre temas diversos de actualidad. Se utilizaron dos pruebas paralelas que se aplicaron en cada grupo, una al comienzo y otra al final del proceso. Los datos indicaron que al concluir el programa el perfil de liderazgo del grupo 1 había mejorado significativamente comparado con el del grupo 2.\n\nEl procedimiento seguido para llegar a tales conclusiones fue correcto, porque",
+   "opciones": {
+    "A": "establecer una línea de base permite identificar variaciones entre perfiles.",
+    "B": "la distribución en grupos homogéneos favorece la confiabilidad de los resultados.",
+    "C": "el uso de pruebas paralelas garantiza la validez en la comparación de los perfiles.",
+    "D": "mantener el mismo número de participantes determina la comparabilidad de los datos."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "Distribuir a los jóvenes en **grupos homogéneos** (mismo sexo y edad promedio) es un control experimental: así la mejora se atribuye al programa y no a diferencias entre grupos. Las pruebas paralelas aportan confiabilidad, no validez (trampa de C), y homogeneidad no es solo tener el mismo número de participantes (D).",
+   "origen": "Cuadernillo 2018 #22 · Cuadernillo 2025 #20 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-psicologia-023",
+   "area": "psicologia",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Se realiza la evaluación de un niño que vive en un sector vulnerable de la ciudad porque presentaba bajo rendimiento académico. La prueba de inteligencia mostró un déficit ligero atribuido a un ambiente de poca estimulación y se determinó que el bajo rendimiento se debía a dificultades de aprendizaje y ello había afectado, a su vez, la autoestima del niño que ahora es muy callado. La mejor forma de comunicarle a sus padres los resultados de la evaluación sería decirles lo siguiente:",
+   "opciones": {
+    "A": "“El niño cambia algunas letras cuando copia o lee y ello dificulta que aprenda adecuadamente. Dado que no puede hacer bien sus tareas, el niño se ha encerrado en sí mismo”.",
+    "B": "\"El niño presenta algunos problemas de rendimiento que han afectado su estima personal. A su vez, la inseguridad lo lleva a que esté menos motivado y, por tanto, a evitar sus deberes”.",
+    "C": "\"El niño cambia algunas letras y eso se debe a fallas en educacion previa y a un ambiente social empobrecido. Además, su inseguridad afecta aún más su rendimiento”.",
+    "D": "\"El niño presenta dificultades de lectoescritura que impiden su adecuado rendimiento y que han afectado su estima personal, aspecto que lo lleva a ser inseguro”."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "La opción B comunica los resultados en lenguaje sencillo, sin términos técnicos ni culpas, y explica el círculo entre bajo rendimiento, autoestima y motivación. C responsabiliza a la familia y su entorno («ambiente empobrecido»), y A y D afirman detalles (cambiar letras, dificultades de lectoescritura) que la evaluación no reportó.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-psicologia-024",
+   "area": "psicologia",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Como parte de un programa para reinsertados, se realizó una intervención orientada a manejar los efectos de los traumas experimentados y a comprender las experiencias vividas. Luego de varias sesiones disminuyó la intensidad de las reacciones de aprensión que se presentaban de manera impredecible frente a ciertos estímulos, como olores o ruidos; desaparecieron las pesadillas y los flashbacks sobre situaciones angustiantes vividas en el monte; se observó una mayor motivación y la posibilidad de hablar sobre su historia.\n\nSe puede afirmar que la intervención logró sus objetivos, porque",
+   "opciones": {
+    "A": "se desensibilizaron las respuestas frente a los estímulos traumáticos.",
+    "B": "se reconocieron e integraron a la narrativa vital las experiencias traumáticas.",
+    "C": "se hicieron conscientes los conflictos inconscientes asociados con los traumas.",
+    "D": "se modificaron las ideas irracionales asociadas a las condiciones vitales."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "La intervención tenía dos objetivos: manejar los efectos del trauma y **comprender las experiencias vividas**. Poder hablar de su historia y la desaparición de los flashbacks muestran que el trauma se integró a la narrativa vital; la desensibilización (A) explica solo la parte de las reacciones ante estímulos.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes-psicologia-025",
+   "area": "psicologia",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Un profesional en psicología atiende en consulta a un hombre de 47 años por presentar sintomatología relacionada con el juego patológico. En una de las sesiones de tratamiento, el terapeuta le da las siguientes instrucciones al consultante: “Imagínese que está en la cafetería donde suele jugar y que el dueño del establecimiento le dice que la máquina está cargada y con un premio a punto de salir. En ese momento empieza a sentir mucha ansiedad por jugar, pero empieza a respirar profundo para relajarse, pensando que es imposible saber con exactitud cuándo la máquina va a dar premios. También empieza a recordar los problemas que ha tenido con su esposa cada vez que juega y llega a la casa sin dinero. Poco a poco se tranquiliza, a medida que siente menos ganas de jugar”.\n\nEn la situación descrita, esta técnica de intervención es adecuada para reducir la ansiedad porque le permite al consultante",
+   "opciones": {
+    "A": "minimizar los efectos negativos de su conducta adictiva sobre el entorno familiar.",
+    "B": "desarrollar habilidades de afrontamiento para manejar situaciones estresantes.",
+    "C": "modificar creencias erróneas sobre las probabilidades de ganar en juegos de azar.",
+    "D": "identificar los factores desencadenantes de la conducta de jugar para controlarlos."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Es un ensayo en imaginación en el que el consultante practica respiración, autoinstrucciones y recuerdo de consecuencias ante una situación de alto riesgo: está aprendiendo **habilidades de afrontamiento** para manejar la ansiedad. La creencia sobre las probabilidades (C) aparece solo como una de las autoinstrucciones, no como el objetivo de la técnica.",
+   "origen": "Cuadernillo 2025 #1"
+  },
+  {
+   "id": "icfes-psicologia-026",
+   "area": "psicologia",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "Se realizó una investigación orientada a determinar diferencias en la sintomatología y en la experiencia vivida por personas adultas expuestas a traumas generados por situaciones fortuitas, como accidentes, y a traumas ocasionados por otro ser humano, como asesinatos. Para evaluar a los participantes se realizó una entrevista en profundidad con cada uno de ellos y se aplicó un cuestionario con altos niveles de validez y confiabilidad que, mediante autorreporte, determina la frecuencia e intensidad de presentación de múltiples síntomas experimentados durante la última semana. Respecto a los medios escogidos por los investigadores para realizar la evaluación en este estudio, puede afirmarse que",
+   "opciones": {
+    "A": "la entrevista es una técnica adecuada para acceder a la experiencia subjetiva y el cuestionario es apropiado porque permite establecer los síntomas.",
+    "B": "la entrevista es una técnica adecuada para acceder a la experiencia subjetiva, pero el cuestionario es inapropiado porque el autorreporte es poco confiable para evaluar síntomas.",
+    "C": "la entrevista no es adecuada porque arroja datos cualitativos, pero el cuestionario es relevante porque permite establecer los síntomas.",
+    "D": "la entrevista no es adecuada porque es imposible cuantificar los datos y el cuestionario es inapropiado porque el autorreporte es poco confiable para evaluar síntomas."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "El estudio busca dos cosas: la **experiencia vivida**, que se capta bien con la entrevista en profundidad, y la **sintomatología**, que mide un cuestionario válido y confiable. Ambos medios son adecuados; que el cuestionario sea de autorreporte no lo invalida si tiene buenas propiedades psicométricas.",
+   "origen": "Cuadernillo 2025 #2"
+  },
+  {
+   "id": "icfes-psicologia-027",
+   "area": "psicologia",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "En una institución prestadora de servicios de salud se encuentra que el personal asistencial reporta síntomas del síndrome de “estar quemado en el trabajo” (burnout), entre ellos agotamiento emocional, baja realización personal y despersonalización. Para enfrentar esta situación, los psicólogos desarrollan un programa centrado en la creación de redes de soporte social. En este caso, la implementación de esta intervención se justifica porque a través de estas redes se podría",
+   "opciones": {
+    "A": "incidir en la autoestima y mejorar la productividad del grupo.",
+    "B": "proporcionar recompensas intrínsecas y motivar el logro de metas.",
+    "C": "mejorar las relaciones interpersonales y reforzar el compromiso institucional.",
+    "D": "brindar apoyo emocional y compartir estrategias para afrontar el estrés laboral."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Las redes de soporte social amortiguan el burnout porque ofrecen **apoyo emocional** frente al agotamiento y permiten compartir estrategias de afrontamiento del estrés laboral. Productividad o compromiso institucional (A, C) son metas de la organización, no el mecanismo por el que estas redes reducen los síntomas.",
+   "origen": "Cuadernillo 2025 #3"
+  },
+  {
+   "id": "icfes-psicologia-028",
+   "area": "psicologia",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "El director de un centro para el tratamiento de adicciones le solicita a un profesional en psicología planear una evaluación que permita establecer factores asociados con la rehabilitación de la población que se encuentra en el centro. El profesional decide incluir una evaluación de las relaciones que tienen los pacientes con sus familiares cercanos o las personas que los visitan. Un argumento que justifica la inclusión de este aspecto en la evaluación es que",
+   "opciones": {
+    "A": "resulta necesario conocer los antecedentes familiares de los pacientes para identificar posibles riesgos en su salud.",
+    "B": "tener una buena red de apoyo social es fundamental para tener un buen estado de salud mental y emocional.",
+    "C": "la calidad de estas relaciones permite predecir si recibirán apoyo económico durante su proceso de rehabilitación.",
+    "D": "los antecedentes genéticos pueden desempeñar un papel en el manejo y pronóstico del proceso de rehabilitación."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "Lo que se evalúa son las **relaciones** actuales con familiares y visitantes, es decir, la red de apoyo social, que es un factor protector clave para la salud mental y la rehabilitación. Las opciones A y D hablan de antecedentes familiares o genéticos, que son otra cosa, y C reduce el apoyo a lo económico.",
+   "origen": "Cuadernillo 2025 #4"
+  },
+  {
+   "id": "icfes-psicologia-029",
+   "area": "psicologia",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "Una mujer liberada después de varios meses de secuestro recibe atención psicosocial por un cuadro de estrés postraumático. Algunos de los resultados terapéuticos fueron: la consultante logra regresar a sus actividades laborales en el lugar en que fue raptada sin que esto le genere ansiedad, tiene menos pesadillas y despertares en la madrugada, revive el suceso traumático con menor frecuencia e intensidad, presenta un cambio positivo en su autoestima y restablece la actividad sexual con su esposo.\n\nDada la notoriedad pública del caso, un reportero le solicita al terapeuta una síntesis de los resultados de su intervención, como introducción de un artículo periodístico sobre el asunto. Teniendo en cuenta este propósito y que la consultante autorizó la divulgación de esta información, el profesional en psicología debe comunicar que:",
+   "opciones": {
+    "A": "Los síntomas asociados al trastorno diagnosticado han remitido casi en su totalidad. La liberada tiene menos flashbacks, mejor higiene de sueño y un comportamiento menos evitativo.",
+    "B": "Las secuelas del trauma están bajo control. La víctima de secuestro presenta una evolución positiva en lo relacionado con su calidad de sueño, su autoestima y su vida de pareja.",
+    "C": "Las consecuencias psicológicas del secuestro están siendo tratadas con éxito. Ahora duerme mejor, recuperó la confianza en sí misma y sus rutinas cotidianas están volviendo a la normalidad.",
+    "D": "El cuadro clínico presentó una mejoría importante. La consultante presenta un nivel de adaptación funcional en distintas áreas de ajuste como la sexual, la familiar y la laboral."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Para un público general, la opción C resume los logros en **lenguaje cotidiano**, sin tecnicismos, sin exagerar y sin etiquetar a la consultante. A y D usan jerga clínica («flashbacks», «áreas de ajuste»), y B la llama «víctima» y expone detalles íntimos como su vida de pareja.",
+   "origen": "Cuadernillo 2025 #7"
+  },
+  {
+   "id": "icfes-psicologia-030",
+   "area": "psicologia",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "Al centro de consejería de una universidad asiste una joven de 18, estudiante de segundo semestre, enviada por uno de sus profesores porque presentaba ausencias frecuentes y su rendimiento varíaba significativamente entre alto y bajo. En el primer encuentro la joven refierió que adaptarse a la universidad había sido en un principio difícil, pero que le agradaba la libertad que tenía y la diversidad de gente; las materias que estaba cursando no le parecían llamativas y no estaba segura de estar en el lugar adecuado. Algunos temas vistos en clase eran interesantes, pero la mayoría de las veces se aburría. Indicó que sus padres la presionaban y claramente le habían dicho que esa carrera le abriría muchas puertas en el futuro. Con el propósito de orientar a la joven, la evaluación debería enfocarse en",
+   "opciones": {
+    "A": "establecer un diagnóstico para remitirla al profesional adecuado.",
+    "B": "explorar intereses, aptitudes, metas y elección de carrera.",
+    "C": "establecer su nivel de adaptación social al medio universitario.",
+    "D": "explorar relaciones familiares, adaptación social y personalidad."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "El caso apunta a un problema **vocacional**: la joven se adaptó socialmente, pero las materias no le interesan, duda de su carrera y la eligió por presión de sus padres. Para orientarla hay que explorar intereses, aptitudes, metas y elección de carrera; no hay indicios de un trastorno que requiera diagnóstico y remisión.",
+   "origen": "Cuadernillo 2025 #8"
+  },
+  {
+   "id": "icfes-psicologia-031",
+   "area": "psicologia",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "En una universidad, el proceso de admisión de aspirantes al programa de medicina involucra la aplicación de un cuestionario de aptitudes en diferentes áreas (matemáticas, biología y comunicación verbal y escrita), una prueba de personalidad y un cuestionario con preguntas abiertas sobre la historia personal del evaluado. En este contexto, a uno de los aspirantes se le niega el acceso al programa debido a que la prueba de personalidad arrojó un puntaje alto en la escala de paranoia, que estaría vinculado al curso de una psicosis paranoide, lo cual supone un grave riesgo para los futuros pacientes del candidato. No obstante, cuando este caso pasa a una segunda fase, el profesional en psicología encargado se percata de que el joven pasó recientemente por un evento traumático. De acuerdo con lo anterior, la técnica más indicada para que el profesional evalúe la pertinencia del diagnóstico arrojado por el test de personalidad es",
+   "opciones": {
+    "A": "una entrevista dirigida a conocer la historia personal, los acontecimientos significativos y las estrategias de afrontamiento del candidato.",
+    "B": "la observación de respuestas e interacciones verbales y comportamentales en el desarrollo de un ejercicio grupal.",
+    "C": "un test de personalidad diferente al aplicado inicialmente con altos índices de validez y confiabilidad.",
+    "D": "una entrevista familiar para explorar las características del joven y sus interacciones con los miembros de la familia."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "El puntaje alto en paranoia podría ser una reacción transitoria al evento traumático y no un rasgo psicótico. Una **entrevista sobre su historia personal**, los acontecimientos recientes y su afrontamiento permite contextualizar el resultado; otro test (C) no aclara esa relación, y la observación grupal o la entrevista familiar no se centran en el evento.",
+   "origen": "Cuadernillo 2025 #12"
+  },
+  {
+   "id": "icfes-psicologia-032",
+   "area": "psicologia",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "Alberto, un joven que cursa segundo semestre de carrera, acude a consulta psicológica y solicita apoyo para dejar de fumar. Él manifiesta que: “Durante los últimos dos meses me fumo cuatro cigarrillos al día, lo hago solamente cuando estoy con mi grupo de amigos tomando tinto. Ellos me ofrecen el cigarrillo y yo acepto fumar porque temo que al rechazar la invitación ya no quieran estar conmigo. El olor a cigarrillo me molesta y odio el sabor que deja en mi boca. Sé que fumar es dañino y no quiero que se vuelva un vicio, pero no quiero pelear con mis amigos, pues con ellos estudio y la paso muy bien”. En este caso, el propósito central de la intervención debe ser",
+   "opciones": {
+    "A": "fortalecer en Alberto habilidades sociales como la comunicación asertiva y el manejo de la influencia social de sus pares.",
+    "B": "promover en Alberto actitudes negativas más fuertes hacia el consumo de cigarrillo, para que pueda rechazar la invitación de sus amigos.",
+    "C": "fortalecer en Alberto actitudes positivas hacia el deporte, la lectura y, en general, actividades incompatibles con el consumo de cigarrillo.",
+    "D": "reestructurar en Alberto aquellas creencias asociadas al bienestar y la satisfacción que experimenta cuando está compartiendo con sus amigos."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de intervención de problemáticas psicológicas de individuos, grupos, organizaciones y comunidades, considerando los factores biológicos y socioculturales involucrados, así como el contexto en el que se desarrolla la intervención y los principios de la ética profesional.",
+   "explicacion": "Alberto ya tiene una actitud negativa hacia el cigarrillo (le molesta el olor y sabe que es dañino), así que reforzarla (B) no resuelve nada. Fuma por miedo al rechazo de sus amigos: lo que necesita es **asertividad** para decir que no sin perderlos y manejar la presión de pares.",
+   "origen": "Cuadernillo 2025 #15"
+  },
+  {
+   "id": "icfes-psicologia-033",
+   "area": "psicologia",
+   "n": 33,
+   "contexto": null,
+   "enunciado": "Luisa es una universitaria que acude al psicólogo porque su padre es alcohólico y juega compulsivamente desde que se pensionó, hace cinco años.\n\nLa situación económica de la familia es crítica y, al parecer, Luisa y sus hermanos tendrán que dejar de estudiar. Las peleas son constantes entre los miembros de la familia, Luisa siente que todo se salió de control y solo siente apoyo de su novio. Tiene antecedentes de un trastorno depresivo mayor y ha empezado a consumir alcohol.\n\nEn esta situación, el psicólogo debería darle prioridad a la evaluación",
+   "opciones": {
+    "A": "de la posibilidad de riesgo suicida en Luisa.",
+    "B": "de la gravedad de los problemas del padre.",
+    "C": "de la actitud de la familia hacia el cambio.",
+    "D": "de la motivación del novio para dar soporte."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proceso de evaluación de problemáticas psicológicas en individuos, grupos, organizaciones y comunidades, de acuerdo con principios éticos y el contexto en el que desarrolla la evaluación.",
+   "explicacion": "Luisa reúne varios factores de riesgo: antecedentes de depresión mayor, consumo reciente de alcohol, crisis familiar y económica, sensación de pérdida de control y una red de apoyo limitada. Lo prioritario es evaluar el **riesgo suicida** de la consultante, antes que los problemas del padre o la actitud de terceros.",
+   "origen": "Cuadernillo 2025 #21"
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Generación de Artefactos (cuadernillos y preguntas explicadas)",
+  "contextos": [],
+  "preguntas": [
+    {
+      "id": "icfes-generacion_artefactos-001",
+      "area": "generacion_artefactos",
+      "n": 1,
+      "contexto": null,
+      "enunciado": "Con el objetivo de dar cumplimiento a las políticas públicas de inclusión educativa, la Secretaría de Educación convoca a diseñadores de la región para que presenten proyectos orientados al aprendizaje de los hábitos de higiene y alimentación de niños de básica primaria con discapacidad motora como temblor en las manos y dificultades para sujetar los objetos.\n\nLa propuesta ganadora consiste en un juego de cubiertos con mangos cuyas características son: de formas amables y materiales livianos, gruesos, en material texturizado, con grafías, de distinto color según su uso, de formas amables.\n\nLas características de los mangos que más influyen en la selección de la propuesta son",
+      "opciones": {
+        "A": "las grafías y la forma.",
+        "B": "el grosor y la textura.",
+        "C": "el poco peso y el grosor.",
+        "D": "las diferencias de colores."
+      },
+      "correcta": "B",
+      "afirmacion": "Indaga en el contexto para determinar la situación a intervenir.",
+      "explicacion": "La necesidad del contexto es motora: temblor en las manos y dificultad para sujetar. Un mango **grueso y texturizado** mejora el agarre y evita que el cubierto resbale; el color, las grafías o el peso no atacan directamente ese problema.",
+      "origen": "Cuadernillo 2018 #1"
+    },
+    {
+      "id": "icfes-generacion_artefactos-002",
+      "area": "generacion_artefactos",
+      "n": 2,
+      "contexto": null,
+      "enunciado": "En el edificio de una institución requieren la instalación de un nuevo sistema de control de acceso para entrada y salida de personas utilizando obstáculos tipo barra-torniquete, activado por tarjeta o carné electrónico. Para esto, los factores de comportamiento que el diseñador debe prever antes de instalar el artefacto son",
+      "opciones": {
+        "A": "el aumento del número de usuarios que normalmente circularán a través del sistema, su edad y su género.",
+        "B": "la reacción e interacción efectiva entre el usuario y los elementos comunicativos para cumplir el uso previsto y la activación del sistema.",
+        "C": "la preocupación de los usuarios por el esfuerzo físico que deben hacer para superar los obstáculos del sistema utilizando la fuerza y empuje de su cuerpo.",
+        "D": "la captura de la atención de los usuarios aumentando el volumen de entradas y salidas, debido a la implementación de nuevos materiales, colores y texturas en la solución final del diseño."
+      },
+      "correcta": "B",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "Se pregunta por **factores de comportamiento**: lo que importa prever es cómo el usuario reacciona e interactúa con las señales del torniquete para activarlo y usarlo correctamente. Edad, género o volumen de usuarios son datos demográficos, no comportamiento de uso.",
+      "origen": "Cuadernillo 2018 #2"
+    },
+    {
+      "id": "icfes-generacion_artefactos-003",
+      "area": "generacion_artefactos",
+      "n": 3,
+      "contexto": null,
+      "enunciado": "El Ministerio de Comercio Exterior y Turismo del Perú requiere el desarrollo de un material visual que comunique las fortalezas del sector turístico en su país. Este documento le servirá a funcionarios del Ministerio para presentar estas ventajas a inversionistas de origen español y mexicano dedicados al sector, que están interesados en Perú porque tienen conocimiento de su variedad climática y exótica gastronomía, además de su legendaria riqueza cultural ancestral, que lo convierten en un escenario económicamente promisorio.\n\nDe los materiales visuales que se listan a continuación, seleccione aquel que mejor se adapte a las necesidades de comunicación entre los funcionarios del Ministerio y los inversionistas:",
+      "opciones": {
+        "A": "Un documental que muestre las posibilidades económicas y políticas del sector turístico.",
+        "B": "Una publicación impresa que ilustre con fotografías la gastronomía y sus riquezas culturales y ancestrales.",
+        "C": "Un cortometraje argumental que cuente la historia de la civilización inca y los sitios de interés turístico.",
+        "D": "Un informe impreso sobre la inversión estatal en el sector turístico durante la última década."
+      },
+      "correcta": "A",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "Los inversionistas **ya conocen** la riqueza turística; lo que necesitan para decidir es información sobre las posibilidades económicas y las condiciones políticas del sector, y un documental la comunica bien en una negociación. Las fotos de gastronomía repiten lo que ya saben, el cortometraje es ficción y el informe de inversión estatal es demasiado específico para esta etapa.",
+      "origen": "Cuadernillo 2018 #3 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-generacion_artefactos-004",
+      "area": "generacion_artefactos",
+      "n": 4,
+      "contexto": null,
+      "enunciado": "Una empresa recolectora de residuos desea implantar una campaña de cultura ciudadana, que incluya piezas gráficas y elementos interactivos tridimensionales. Se ha desarrollado un proceso de documentación inicial, y es necesario recoger datos que permitan establecer el enfoque de la campaña desde el análisis del contexto.\n\nEl método directo para recolectar dicha información es la",
+      "opciones": {
+        "A": "entrevista.",
+        "B": "observación.",
+        "C": "encuesta.",
+        "D": "historia de vida."
+      },
+      "correcta": "B",
+      "afirmacion": "Indaga en el contexto para determinar la situación a intervenir.",
+      "explicacion": "Para analizar el contexto de forma **directa**, el diseñador debe ver por sí mismo cómo la gente maneja los residuos: eso es la observación. Entrevista, encuesta e historia de vida recogen lo que las personas dicen, no lo que hacen.",
+      "origen": "Cuadernillo 2018 #4"
+    },
+    {
+      "id": "icfes-generacion_artefactos-005",
+      "area": "generacion_artefactos",
+      "n": 5,
+      "contexto": null,
+      "enunciado": "Las ventas ambulantes que se realizan dentro de vehículos de transporte público colectivo son una práctica cotidiana en la gran mayoría de las ciudades colombianas. El factor más relevante para el adecuado desarrollo de artefactos que se ajusten a estas prácticas es",
+      "opciones": {
+        "A": "el almacenamiento de los productos.",
+        "B": "la exhibición de los productos.",
+        "C": "la portabilidad de los productos.",
+        "D": "la promoción de los productos."
+      },
+      "correcta": "C",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "El vendedor sube, recorre el bus en movimiento y baja con su mercancía a cuestas, así que la práctica exige ante todo que el artefacto sea **portable**. Exhibir, almacenar o promocionar son secundarios frente a poder cargarlo cómodamente.",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes-generacion_artefactos-006",
+      "area": "generacion_artefactos",
+      "n": 6,
+      "contexto": null,
+      "enunciado": "Para todos los diseños, es fundamental la fase de verificación y aprobación del producto para su producción en serie.\n\nEn esta fase, el término adecuado para denominar la propuesta realizada en tres campos de diseño, es:",
+      "opciones": {
+        "A": "Modelo, Ropero o Machote.",
+        "B": "Planos, Boceto o Diagrama.",
+        "C": "Arte final, Muestra final o Prototipo.",
+        "D": "Maqueta, Premuestra o Dibujo."
+      },
+      "correcta": "C",
+      "afirmacion": "Comprende la lógica de producción del artefacto en relación con los medios y recursos disponibles.",
+      "explicacion": "Lo que se verifica y aprueba antes de producir en serie es la versión definitiva: **arte final** (gráfico), **muestra final** (textil/moda) o **prototipo** (industrial). Bocetos, planos, maquetas o premuestras pertenecen a etapas anteriores.",
+      "origen": "Cuadernillo 2018 #6"
+    },
+    {
+      "id": "icfes-generacion_artefactos-007",
+      "area": "generacion_artefactos",
+      "n": 7,
+      "contexto": null,
+      "enunciado": "En el quinto encuentro de empresas productoras y comercializadoras de panela del país, se tiene como principal iniciativa fortalecer el gremio frente a los tratados de libre comercio que se han firmado en los últimos años. En esa medida, dentro de las propuestas que presentan los empresarios, se encuentra desarrollar una campaña de promoción basada en el potencial comercial de este producto.\n\nEn la propuesta presentada, el diseñador debería presentar una correlación entre",
+      "opciones": {
+        "A": "el número de familias productoras y su sustento.",
+        "B": "las características del producto y su identidad.",
+        "C": "la producción artesanal y el control de calidad.",
+        "D": "la materia prima y sus valores nutricionales."
+      },
+      "correcta": "B",
+      "afirmacion": "Indaga en el contexto para determinar la situación a intervenir.",
+      "explicacion": "Para competir en mercados abiertos por los TLC, la promoción debe resaltar las **características del producto** y construir su **identidad** frente a sustitutos. El sustento de las familias no vende, el control de calidad no es necesariamente mejor en lo artesanal y los valores nutricionales son información obligatoria del empaque, no un diferenciador.",
+      "origen": "Cuadernillo 2018 #7 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-generacion_artefactos-008",
+      "area": "generacion_artefactos",
+      "n": 8,
+      "contexto": null,
+      "enunciado": "Al evaluar uno de los siguientes contextos se decide que el requerimiento principal que deberá tenerse en cuenta para diseñar es que el producto pueda ser usado simultáneamente por varios usuarios para resolver tareas de manera colaborativa.\n\nDe las siguientes afirmaciones, la que correspondería mejor a este requerimiento sería:",
+      "opciones": {
+        "A": "Una empresa de juegos ha pedido una propuesta para renovar un juego de mesa tradicional, para que amplíe el número de jugadores y la cantidad de fichas.",
+        "B": "Un museo de ciencia solicita el desarrollo de un videojuego interactivo en línea, que pueda ayudarle a sus visitantes en edad escolar a comprender los diversos temas de una exposición. Cuanto más individuos interactúen en línea, más datos se descubren.",
+        "C": "Un parque de diversiones prepara una nueva atracción que incluye artefactos a través de los cuales los niños experimentan vértigo en grupo.",
+        "D": "El Gobierno solicita el desarrollo de un medio impreso a través del cual las estudiantes en edad reproductiva de las escuelas públicas puedan aprender sobre los cuidados, riesgos y responsabilidades para asumir desde temprano el ejercicio de una sexualidad sana."
+      },
+      "correcta": "B",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "Solo en el videojuego del museo el uso es simultáneo **y colaborativo**: entre más personas interactúan, más datos descubren juntas. El juego de mesa es competitivo, la atracción es una experiencia grupal sin tarea común y el impreso es de uso individual.",
+      "origen": "Cuadernillo 2018 #8"
+    },
+    {
+      "id": "icfes-generacion_artefactos-009",
+      "area": "generacion_artefactos",
+      "n": 9,
+      "contexto": null,
+      "enunciado": "Una red de empresas que desarrolla productos infantiles para el mercado nacional quiere incursionar en un mercado internacional. Esta red se compone de fabricantes de pijamas, calzado, pañales y cunas. Para adaptar los productos al nuevo mercado, la actividad más importante es:",
+      "opciones": {
+        "A": "Identificación de características antropométricas de los usuarios; características del estilo de vida; conocimiento de materiales prohibidos para los productos infantiles; conocimiento de la normativa vigente para la exportación de los productos.",
+        "B": "Definición de materias primas de los productos; definición de un punto de venta; conocimiento de las restricciones dimensionales para el transporte de los productos; consideración de restricciones ambientales de los procesos productivos.",
+        "C": "Inclusión de métodos de producción limpia; identificación de tendencias de consumo del mercado por abordar; definición de costos de fabricación en el mercado por abordar; proyección de ventas al por mayor.",
+        "D": "Selección de procesos de fabricación industrial; conocimiento de la normativa vigente para la exportación; generación de una estrategia de distribución y ventas; definición de un punto de venta para el conjunto de productos."
+      },
+      "correcta": "A",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "**Adaptar** el producto al nuevo mercado exige conocer al nuevo usuario (medidas antropométricas, estilo de vida) y las restricciones del país (materiales prohibidos, normativa de exportación). Las demás opciones se centran en producción, distribución o ventas, no en la adaptación del producto.",
+      "origen": "Cuadernillo 2018 #9"
+    },
+    {
+      "id": "icfes-generacion_artefactos-010",
+      "area": "generacion_artefactos",
+      "n": 10,
+      "contexto": null,
+      "enunciado": "Los paraderos de buses en las principales ciudades del país se han convertido en elementos fundamentales de la movilidad ciudadana, puesto que se establecen como punto de ordenamiento y encuentro entre los ciudadanos y el servicio público colectivo; adicionalmente, estas estaciones de espera para el transporte público se han consolidado como estrategia para la ubicación de publicidad en la ciudad debido a la visibilidad que tienen.\n\nUn proceso con características similares al anteriormente expuesto, en un contexto distinto, sería:",
+      "opciones": {
+        "A": "La recolección de basura en centros urbanos.",
+        "B": "La repartición de periódicos en furgones.",
+        "C": "La entrega de correspondencia puerta a puerta.",
+        "D": "La distribución de agua potable en camiones."
+      },
+      "correcta": "A",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "Como el paradero, la recolección de basura en centros urbanos se apoya en **puntos fijos de encuentro** entre ciudadanos y un servicio público colectivo (contenedores), y esos puntos visibles pueden aprovecharse para publicidad. Las demás son entregas móviles o puerta a puerta, sin un punto de ordenamiento compartido.",
+      "origen": "Cuadernillo 2018 #10"
+    },
+    {
+      "id": "icfes-generacion_artefactos-011",
+      "area": "generacion_artefactos",
+      "n": 11,
+      "contexto": null,
+      "enunciado": "Una empresa de transporte urbano requiere ampliar la información que se ubica en todos los paraderos, en los que actualmente solo se informa el horario de las rutas, con el propósito de facilitar la movilidad de los usuarios y mejorar el servicio.\n\nEl principal desarrollo del objeto de diseño en esta situación sería que",
+      "opciones": {
+        "A": "trasmita la información visualmente en pantallas de tecnología LED.",
+        "B": "funcione como una aplicación que se descarga para teléfono inteligente.",
+        "C": "presente la información en una infografía impresa sobre material resistente.",
+        "D": "funcione como multimedia interactiva en pantallas LCD touch screen."
+      },
+      "correcta": "C",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "Se trata de ampliar la información en **todos** los paraderos, expuestos a la intemperie y al uso público: una infografía impresa en material resistente es viable, accesible a cualquier usuario y duradera. Pantallas LED o táctiles son costosas y vulnerables, y una app excluye a quien no tiene teléfono inteligente.",
+      "origen": "Cuadernillo 2018 #11"
+    },
+    {
+      "id": "icfes-generacion_artefactos-012",
+      "area": "generacion_artefactos",
+      "n": 12,
+      "contexto": null,
+      "enunciado": "En una actividad de trabajo pesado que duraría 10 años, en una zona de frio extremo, alejada de la ciudad, para una cuadrilla de 100 operarios, se ha solicitado la creación y el desarrollo de una indumentaria especial. En el proceso de diseño se determinó que esta requería la condición de interacción y mantener la temperatura corporal del usuario.\n\nEl atributo específico para un accesorio como el solicitado, que responda a este requerimiento, es",
+      "opciones": {
+        "A": "la incorporación en la prenda de tecnología GPS que le permita conocer previamente el estado del tiempo, para su utilización por las personas que desempeñan el trabajo.",
+        "B": "la utilización de calefactores electrónicos internos, en unidades selladas con baterías, a los que solo pueden acceder personas especializadas en el mantenimiento y la reparación.",
+        "C": "la utilización de materiales extraídos de pieles de animales del entorno, que sean resistentes, y que puedan confeccionarse por los nativos, según sus saberes propios.",
+        "D": "la aplicación de materiales de última generación tecnológica, que se sometan a pruebas controladas de laboratorio, que tengan fácil transformación y una degradación aceptable."
+      },
+      "correcta": "C",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "En una zona remota y por 10 años, la solución debe abrigar y poder producirse y repararse **localmente**: pieles del entorno confeccionadas por los nativos con sus saberes, lo que además genera interacción con la comunidad. Los calefactores sellados dependen de técnicos y baterías, y el GPS no conserva el calor.",
+      "origen": "Cuadernillo 2018 #12"
+    },
+    {
+      "id": "icfes-generacion_artefactos-013",
+      "area": "generacion_artefactos",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "Un segmento de 200 m del carril derecho de una avenida principal en Bogotá está repavimentándose. Para advertir sobre estos trabajos a los vehículos que transitan por el carril izquierdo, transitoriamente se instalaron conos viales de señalización antes de la obra. Con la intención de advertir de los trabajos viales a los vehículos del carril izquierdo se requiere un elemento que sea contundente, altamente visible, de fácil interpretación, conviene disponer de",
+      "opciones": {
+        "A": "un panel informativo ilustrado.",
+        "B": "un sistema de iluminación en el piso.",
+        "C": "una valla con pictogramas.",
+        "D": "un cartel con textos explicativos."
+      },
+      "correcta": "C",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "Un conductor en movimiento necesita captar el mensaje en segundos: una **valla con pictogramas** es grande, visible y se interpreta de inmediato sin leer. Textos explicativos o paneles ilustrados exigen detenerse a leer, y la iluminación en el piso no comunica qué ocurre.",
+      "origen": "Cuadernillo 2018 #13"
+    },
+    {
+      "id": "icfes-generacion_artefactos-014",
+      "area": "generacion_artefactos",
+      "n": 14,
+      "contexto": null,
+      "enunciado": "Se propone un ambicioso proyecto de renovación de instalaciones de un antiguo pero prometedor hotel ubicado en zona rural y, a su vez, el cambio de su imagen corporativa. Con este propósito, se le solicita a un estudio el rediseño de la imagen institucional pues la actual no representa la transformación del hotel. Teniendo en cuenta que el papel del diseñador es hacer visible la identidad de una institución y desarrollar y asegurar una presencia estable de los signos de identidad que mantengan la coherencia del sistema gráfico y cumplir lo solicitado, el grupo de diseñadores encargados del proyecto deben escoger el siguiente procedimiento:",
+      "opciones": {
+        "A": "Determinar la identidad que propone comunicar el hotel; analizar las falencias de la imagen establecida; conocer la realidad del contexto hotelero en esta región; conocer los canales de comunicación por los que se han dado a conocer; establecer la campaña de posicionamiento; crear la propuesta de rediseño; evaluar el impacto del resultado del proyecto.",
+        "B": "Establecer una campaña de posicionamiento; determinar la identidad que propone comunicar el hotel; conocer la realidad del contexto hotelero en esta región; analizar las falencias de la imagen establecida; crear la propuesta de rediseño; conocer los canales de comunicación por los que se han dado a conocer; evaluar el impacto del resultado del proyecto.",
+        "C": "Analizar las falencias de la imagen establecida; conocer los canales de comunicación por los que se han dado a conocer; conocer la realidad del contexto hotelero en esta región; determinar la identidad que propone comunicar el hotel; establecer la campaña de posicionamiento; crear la propuesta de rediseño; evaluar el impacto del resultado del proyecto.",
+        "D": "Conocer la realidad del contexto hotelero en esta región; determinar la identidad que propone comunicar el hotel; analizar las falencias de la imagen establecida; conocer los canales de comunicación por los que se han dado a conocer; crear la propuesta de rediseño; establecer la campaña de posicionamiento; evaluar el impacto del resultado del proyecto."
+      },
+      "correcta": "D",
+      "afirmacion": "Comprende la lógica de producción del artefacto en relación con los medios y recursos disponibles.",
+      "explicacion": "El orden lógico va de lo general a lo particular: primero el **contexto** hotelero de la región, luego la identidad deseada, las falencias de la imagen actual y los canales; después se **crea el rediseño** y solo entonces se lanza la campaña de posicionamiento y se evalúa. Las otras opciones posicionan antes de tener la nueva imagen o empiezan sin conocer el contexto.",
+      "origen": "Cuadernillo 2018 #14"
+    },
+    {
+      "id": "icfes-generacion_artefactos-015",
+      "area": "generacion_artefactos",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "Varios autores han establecido unos principios universales del diseño aplicables a diferentes ejercicios de la disciplina, que se refieren a reglas, guías o estrategias relacionadas con la configuración, la percepción, la motivación, la usabilidad y la circulación de los diseños en un sistema.\n\nPara incrementar la motivación o el interés del usuario real por el diseño, se deberían tener en cuenta",
+      "opciones": {
+        "A": "la ubicación, la convergencia y la modularidad.",
+        "B": "la accesibilidad, la proporción y los atributos compositivos.",
+        "C": "la consistencia, el control y la jerarquía.",
+        "D": "el realce, la legibilidad y la visibilidad."
+      },
+      "correcta": "B",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "El interés del usuario se despierta cuando el diseño le resulta **accesible** y **atractivo**: la proporción y los atributos compositivos generan agrado estético. Consistencia, control y jerarquía son principios de usabilidad; legibilidad y visibilidad, de percepción; ubicación y modularidad, de configuración.",
+      "origen": "Cuadernillo 2018 #15"
+    },
+    {
+      "id": "icfes-generacion_artefactos-016",
+      "area": "generacion_artefactos",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "Una institución que se enfoca en capacitar personas invidentes necesita el diseño de unos artefactos para mejorar el desarrollo de aprestamientos que ayuden a su inclusión social. En los artefactos se debe tener en cuenta que las personas invidentes pueden tener o no incorporado en su saber el sistema táctil de lectoescritura Braille.\n\nEl requerimiento más específico para tener en cuenta en el diseño de los artefactos es que",
+      "opciones": {
+        "A": "los invidentes tengan un grado de alfabetización suficiente para comprender la información que transmite el artefacto.",
+        "B": "se condensen en el artefacto varias funciones utilitarias que le sirvan para enterarse de movimientos financieros, tomar el bus e informarse de promociones aéreas.",
+        "C": "el diseño considere al menos más de dos medios comunicativos diferentes, para la información que se provea a través del artefacto.",
+        "D": "el diseño del artefacto contenga figuras, letras y texturas en alto relieve o bajo relieve, de forma que al explorarlo se reconozca algún lenguaje común al usuario."
+      },
+      "correcta": "C",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "Como unos usuarios leen Braille y otros no, el artefacto debe ofrecer la información por **varios medios** (por ejemplo, táctil y auditivo) para no excluir a nadie. La opción D es la trampa: el relieve solo sirve a quien ya domina un lenguaje táctil, y exigir alfabetización (A) excluye a quien no lo tiene.",
+      "origen": "Cuadernillo 2018 #16"
+    },
+    {
+      "id": "icfes-generacion_artefactos-017",
+      "area": "generacion_artefactos",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "En algunos museos de arte, como apoyo a sus exposiciones, se usa un sistema de fichas de sala impresas que el público puede tomar para tener más información sobre las obras o los artistas. Estas fichas se regresan luego para que otros las usen. Pensando en una actualización de carácter digital del tratamiento de la información y buscando que las personas puedan manipular y portar temporalmente el artefacto, este puede remplazarse por",
+      "opciones": {
+        "A": "un conjunto de códigos QR (Quick Response) para ser escaneados con teléfonos celulares inteligentes, que permiten el acceso a páginas de internet con la información sobre obras y autores.",
+        "B": "un sistema de audioguías disponibles para el uso en cada una de las salas, con comentarios sobre cada una de las obras.",
+        "C": "varias tabletas digitales de libre disposición, que contengan la información de obras y autores de esa sala en particular.",
+        "D": "un computador a la entrada de cada sala, en donde cualquiera pueda consultar todo el archivo referente a la exposición desde un programa interactivo."
+      },
+      "correcta": "C",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "Las tabletas de libre disposición conservan la misma práctica de la ficha —se toman, se portan durante la visita, se devuelven para otros— y digitalizan la información de esa sala. Los códigos QR dependen del celular propio, el computador es fijo y la audioguía cambia el modo de consumir la información.",
+      "origen": "Cuadernillo 2018 #17"
+    },
+    {
+      "id": "icfes-generacion_artefactos-018",
+      "area": "generacion_artefactos",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "Para el lanzamiento de un festival de cine en una provincia latinoamericana donde se reflexiona sobre la violencia, debido al bajo presupuesto con que cuenta la organización, se propone un elemento comunicativo tipo afiche para identificar los títulos y horarios de los cortometrajes que se van a proyectar para el público en general. Otro tipo de soporte visual que cumple los requisitos del afiche puede ser.",
+      "opciones": {
+        "A": "camisetas estampadas para el personal de la taquilla encargada de la venta de boletería.",
+        "B": "anuncios proyectados en una pantalla de gran formato una semana antes del festival.",
+        "C": "un blog que contenga la información de títulos y horarios para difundir entre los asistentes.",
+        "D": "pendones medianos elaborados manualmente ubicados en la entrada de la sala de cine."
+      },
+      "correcta": "D",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "El afiche es un soporte **impreso, fijo, de bajo costo y visible para el público general** en el lugar. Los pendones hechos a mano en la entrada cumplen lo mismo; la pantalla gigante es costosa, el blog solo llega a quien lo busca y las camisetas no muestran títulos y horarios.",
+      "origen": "Cuadernillo 2018 #18"
+    },
+    {
+      "id": "icfes-generacion_artefactos-019",
+      "area": "generacion_artefactos",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "El Programa de Alimentación Escolar brinda un complemento alimenticio a los niños y adolescentes registrados como estudiantes oficiales de todo el país. Su objetivo es contribuir a la permanencia de los estudiantes dentro del sistema escolar al aportar, durante la jornada escolar, los nutrientes requeridos en las cantidades apropiadas; este programa suministra a estos niños diariamente, durante todo el año, una bebida, una fruta, un dulce y un alimento sólido.\n\nPara la implementación del programa, un municipio contrata una empresa para que se encargue de proveer lo necesario a 3.000 estudiantes. La exigencia particular fue presentar una alternativa de embalaje, económica, amigable con este ambiente, para los alimentos que garantice que estos no se contaminen; además, el mismo debe llevar impreso el escudo del municipio y el logotipo del programa (ambas imágenes en una sola tinta). Para cumplir este requerimiento de manera idónea, la empresa contratante debe gestionar un suministro constante de",
+      "opciones": {
+        "A": "bolsa plástica biodegradable transparente, estampada en flexografía: muy económica, resistente y rápida de producir.",
+        "B": "caja de cartón plastificada, impresa en offset: costo moderado, resistente a la humedad y de fácil apilamiento.",
+        "C": "caja de icopor, estampada en serigrafía: costo moderado, excelentes acabados y resistencia a la temperatura.",
+        "D": "empaque de papel blanco, de bajo gramaje, estampado en serigrafía: muy económico, buena definición del material por imprimir."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende la lógica de producción del artefacto en relación con los medios y recursos disponibles.",
+      "explicacion": "La caja de cartón plastificada protege los cuatro alimentos de la humedad y la contaminación, se apila para distribuir 3.000 raciones diarias y el offset es eficiente para tirajes grandes. El papel de bajo gramaje no protege, el icopor no es amigable con el ambiente y la bolsa no resguarda bien la fruta ni la bebida.",
+      "origen": "Cuadernillo 2018 #19"
+    },
+    {
+      "id": "icfes-generacion_artefactos-020",
+      "area": "generacion_artefactos",
+      "n": 20,
+      "contexto": null,
+      "enunciado": "Una tendencia mundial en el diseño de espacios comerciales consiste en crear estrategias para aumentar las ventas. Una de estas estrategias se basa en incrementar el tiempo de permanencia de los compradores dentro del local comercial. Por este motivo, en una tienda de venta de ropa femenina se creó una guardería para niños.\n\nEl argumento que mejor sustenta esta estrategia es:",
+      "opciones": {
+        "A": "El servicio aumenta la posibilidad de que las compradoras presten atención a otras mercancías y adquieran otras que inicialmente no habían pensado comprar.",
+        "B": "Si los pasillos del local se mantienen libres de coches o juguetes de los niños, se evitan accidentes y se facilita la circulación dentro del sitio.",
+        "C": "Con los niños en un área del local bien delimitada, se minimizan las posibilidades de daños a la mercancía expuesta.",
+        "D": "La vigilancia sobre los compradores se puede ejercer de manera más estricta al tener menos personal que obstaculice la mirada del vigilante."
+      },
+      "correcta": "A",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "El objetivo declarado es **aumentar las ventas** prolongando la permanencia: sin los niños encima, las compradoras exploran con calma y compran más de lo previsto. Circulación, cuidado de la mercancía o vigilancia son beneficios laterales que no responden a ese objetivo.",
+      "origen": "Cuadernillo 2018 #20 · Preguntas explicadas #3"
+    },
+    {
+      "id": "icfes-generacion_artefactos-021",
+      "area": "generacion_artefactos",
+      "n": 21,
+      "contexto": null,
+      "enunciado": "En algunas estaciones del metro de una ciudad latinoamericana se implementó la opción de tomar gratuitamente un libro para leerlo y devolverlo en una estación más adelante. Un comportamiento similar del usuario podría percibirse en",
+      "opciones": {
+        "A": "un sistema de juegos infantiles de un parque metropolitano.",
+        "B": "una sala de espera que cuente con revisteros para los usuarios.",
+        "C": "un sistema de bicicletas públicas para uso en el centro de la ciudad.",
+        "D": "una cancha de voleibol con balones y redes de uso comunitario."
+      },
+      "correcta": "C",
+      "afirmacion": "Otorga sentido a los artefactos teniendo en cuenta las prácticas socio-culturales.",
+      "explicacion": "La clave es el comportamiento: **tomar en un punto, usar mientras se desplaza y devolver en otro**. Eso es exactamente un sistema de bicicletas públicas; en la sala de espera o la cancha el objeto se usa y se deja en el mismo lugar.",
+      "origen": "Cuadernillo 2018 #21"
+    },
+    {
+      "id": "icfes-generacion_artefactos-022",
+      "area": "generacion_artefactos",
+      "n": 22,
+      "contexto": null,
+      "enunciado": "Una empresa de diseño requiere crear su sitio web teniendo presente aspectos de usabilidad, navegabilidad y costos.\n\nEl proceso y orden de desarrollo más adecuado para este proyecto web sería:",
+      "opciones": {
+        "A": "Llevar a cabo el estudio, realizar diseños definitivos, crear prototipo, hacer un ensayo previo y hacer la evaluación.",
+        "B": "Realizar el diagnóstico, estructurar la información, hacer el mapa de navegación y los guiones, diseñar la interfaz, desarrollar el montaje y evaluar.",
+        "C": "Identificar el problema, analizar y estudiar la información, hacer un storyboard, diseñar la interfaz y las animaciones, llevar a cabo el estudio técnico y hacer pruebas de usabilidad.",
+        "D": "Realizar el diagnóstico, hacer el mapa de navegación, hacer testeo, crear el diseño, efectuar el montaje, evaluar y distribuir."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende la lógica de producción del artefacto en relación con los medios y recursos disponibles.",
+      "explicacion": "El orden correcto es diagnóstico → arquitectura de la información → **mapa de navegación** y guiones → interfaz → montaje → evaluación. En A los diseños definitivos van antes del prototipo, en C el estudio técnico llega tarde (encarece) y en D se testea antes de diseñar.",
+      "origen": "Cuadernillo 2018 #22"
+    },
+    {
+      "id": "icfes-generacion_artefactos-023",
+      "area": "generacion_artefactos",
+      "n": 23,
+      "contexto": null,
+      "enunciado": "En el diseño de un video juego se aplican ideas y herramientas para que el usuario viva una experiencia interactiva realista. La condición que más contribuye a alcanzar este propósito es introducir:",
+      "opciones": {
+        "A": "una consola potente.",
+        "B": "controles inalámbricos.",
+        "C": "misiones más complejas.",
+        "D": "entornos tridimensionales."
+      },
+      "correcta": "D",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "El **realismo** de la experiencia depende de lo que el diseño del juego recrea: los entornos tridimensionales simulan el espacio físico en que se mueve el jugador. La consola y los controles son hardware ajeno al diseño del juego, y la complejidad de las misiones no lo hace más realista.",
+      "origen": "Cuadernillo 2018 #23"
+    },
+    {
+      "id": "icfes-generacion_artefactos-024",
+      "area": "generacion_artefactos",
+      "n": 24,
+      "contexto": null,
+      "enunciado": "Una empresa productora de etiquetas para alimentos ensaya una nueva tecnología denominada “Tintas funcionales”. Las tintas funcionales se caracterizan porque al sufrir modificaciones por diversos factores (generalmente ambientales), le brindan información importante al usuario.\n\nTeniendo en cuenta que hay productos alimenticios que en su almacenamiento requieren unas condiciones específicas de temperatura para su preservación, el sistema de impresión de etiquetas más apropiado sería con tintas",
+      "opciones": {
+        "A": "cromoactivas, que cambian de color en consecuencia de algún fenómeno externo, temperatura y luz ultravioleta.",
+        "B": "conductivas, que reaccionan ante un cambio eléctrico o magnético que hace que se alteren sus propiedades.",
+        "C": "fotoactivas, en las que se producen cambios de diferente naturaleza como consecuencia de la acción de la luz.",
+        "D": "biológicamente activas, que ante un cambio en las condiciones del entorno producen una reacción química."
+      },
+      "correcta": "A",
+      "afirmacion": "Comprende la lógica de producción del artefacto en relación con los medios y recursos disponibles.",
+      "explicacion": "La variable que hay que vigilar es la **temperatura**, y las tintas cromoactivas (termocrómicas) cambian de color con ella, avisando a simple vista si se rompió la cadena de frío. Las conductivas responden a electricidad o magnetismo y las fotoactivas a la luz, no a la temperatura.",
+      "origen": "Cuadernillo 2018 #24"
+    },
+    {
+      "id": "icfes-generacion_artefactos-025",
+      "area": "generacion_artefactos",
+      "n": 25,
+      "contexto": null,
+      "enunciado": "Usted diseña una aplicación para teléfonos móviles que les permite a los propietarios de mascotas registrarlas en una base de datos, localizarlas mediante GPS en caso de pérdida, y llevar un registro de las vacunas, desparasitaciones, controles de peso y otros eventos importantes. Como requerimientos básicos, esta aplicación deberá",
+      "opciones": {
+        "A": "ser de uso intuitivo, representar datos en un mapa, permitir el almacenamiento, la visualización y la edición de información.",
+        "B": "representar datos en un mapa, contar con instrucciones de uso, reflejar la imagen corporativa de la empresa desarrolladora.",
+        "C": "permitir el almacenamiento, la visualización y la edición de información, conectar con redes sociales, contar con instrucciones de uso.",
+        "D": "ser de uso intuitivo, visualizarse uniformemente en los diferentes teléfonos móviles, representar datos en un mapa."
+      },
+      "correcta": "A",
+      "afirmacion": "Concreta artefactos.",
+      "explicacion": "Cada función pedida se traduce en un requerimiento: localizar por GPS → **mapa**; registrar vacunas y controles → **almacenar, ver y editar** información; y, como base, uso intuitivo. Redes sociales, imagen corporativa o instrucciones no son requerimientos básicos de esas funciones, y D omite el manejo de datos.",
+      "origen": "Cuadernillo 2018 #25"
+    }
+  ]
+}

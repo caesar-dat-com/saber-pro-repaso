@@ -1,0 +1,669 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Diagnóstico y Tratamiento en Salud Oral (cuadernillos y preguntas explicadas)",
+  "contextos": [],
+  "preguntas": [
+    {
+      "id": "icfes-salud_oral-001",
+      "area": "salud_oral",
+      "n": 1,
+      "contexto": null,
+      "enunciado": "Usted realiza un examen intraoral de un paciente de 5 años y evidencia la presencia de un incisivo atípico del lado derecho del arco superior que le hace pensar en un diente adicional. La morfología corresponde a una corona clínica más ancha y con una línea central divisoria. Decide tomar una radiografía periapical de la zona y halla un solo germen dentario, con una raíz única y una corona bífida más amplia.\n\nEn este caso clínico, ¿cuál es la impresión diagnóstica?",
+      "opciones": {
+        "A": "Concrescencia.",
+        "B": "Fusión.",
+        "C": "Dens invaginatus.",
+        "D": "Geminación."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "En la **geminación** un solo germen intenta dividirse: queda una corona ancha o bífida con un solo conducto/raíz y el conteo de dientes es normal. En la fusión se unen dos gérmenes (suele faltar un diente en el conteo y hay dos conductos), y la concrescencia une solo el cemento de dos dientes ya formados.",
+      "origen": "Cuadernillo 2018 #1 · Cuadernillo 2025 #1"
+    },
+    {
+      "id": "icfes-salud_oral-002",
+      "area": "salud_oral",
+      "n": 2,
+      "contexto": null,
+      "enunciado": "Una paciente de 55 años acude a consulta por presentar aumento de volumen con asimetría en el lado izquierdo mandibular, de consistencia dura, con ligera molestia a la palpación. En la evaluación radiográfica se evidencia una lesión radiolúcida multilocular con aspecto de \"pompas de jabón\", que compromete corticales óseas, ocasionando la expansión de ambas tablas óseas y desplazamiento del dentario inferior.\n\nDe acuerdo con el caso, ¿cuál es la impresión diagnóstica?",
+      "opciones": {
+        "A": "Ameloblastoma.",
+        "B": "Displasia fibrosa.",
+        "C": "Mixoma.",
+        "D": "Quiste dentígero."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "La imagen radiolúcida **multilocular en «pompas de jabón»** en la mandíbula posterior de un adulto, con expansión de ambas corticales, es la presentación clásica del **ameloblastoma**. La displasia fibrosa da un aspecto de «vidrio esmerilado», y el quiste dentígero es unilocular y rodea la corona de un diente incluido.",
+      "origen": "Cuadernillo 2018 #2 · Cuadernillo 2025 #2"
+    },
+    {
+      "id": "icfes-salud_oral-003",
+      "area": "salud_oral",
+      "n": 3,
+      "contexto": null,
+      "enunciado": "Un paciente de 8 años llega a su consulta en compañía de su abuela, ella manifiesta que el paciente se queja de dolor a nivel de molares inferiores derechos al comer. Al examen clínico usted observa una zona oscura grisácea bajo la fosa mesial del 46 que se extiende hasta el margen del mismo, sin ruptura del esmalte. Al examen radiográfico coronal usted observa zona radiolúcida que involucra desde mesial hasta el tercio externo de dentina.\n\nTeniendo en cuenta lo anterior, el diagnóstico que usted emite es",
+      "opciones": {
+        "A": "cavidad detectable en dentina.",
+        "B": "cavidad extensa visible en dentina.",
+        "C": "cambio visible en esmalte café.",
+        "D": "sombra subyacente oscura."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una zona gris oscura que se transparenta a través del esmalte **sin ruptura** y con compromiso dentinario radiográfico corresponde a ICDAS 4, **sombra subyacente oscura de dentina**. Las opciones A y B exigen cavitación con dentina expuesta (ICDAS 5 y 6), y C es un cambio limitado al esmalte.",
+      "origen": "Cuadernillo 2025 #3"
+    },
+    {
+      "id": "icfes-salud_oral-004",
+      "area": "salud_oral",
+      "n": 4,
+      "contexto": null,
+      "enunciado": "Usted está interpretando una radiografía periapical de un paciente de 38 años, que refiere una molestia de tipo abultamiento en la zona del 14, con seis meses de evolución, en donde determina la presencia de una sombra radiolúcida asociada posiblemente a una patología periapical.\n\nUsted emite este concepto basado en el análisis de",
+      "opciones": {
+        "A": "la continuidad de la lámina dura.",
+        "B": "la densidad del trabeculado óseo.",
+        "C": "la dirección del ápice radicular.",
+        "D": "la altura de la cresta ósea."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "El signo radiográfico que vincula una radiolucidez con el diente (origen periapical) es la **pérdida de continuidad de la lámina dura** alrededor del ápice. La altura de la cresta ósea evalúa el periodonto marginal, no el periápice.",
+      "origen": "Cuadernillo 2018 #4 · Cuadernillo 2025 #4"
+    },
+    {
+      "id": "icfes-salud_oral-005",
+      "area": "salud_oral",
+      "n": 5,
+      "contexto": null,
+      "enunciado": "Un paciente de 65 años será sometido a una cirugía de corazón abierto. En el hospital donde usted trabaja le solicitan defocalizar al paciente. Le solicitan esta intervención para",
+      "opciones": {
+        "A": "disminuir la carga bacteriana oral.",
+        "B": "evitar problemas orales posteriores.",
+        "C": "incrementar la capacidad reparativa.",
+        "D": "disminuir la respuesta inflamatoria."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Defocalizar es eliminar los focos infecciosos orales (caries, restos radiculares, bolsas) para **reducir la carga bacteriana** y con ella el riesgo de bacteriemia y endocarditis o infección del sitio quirúrgico tras la cirugía cardiaca.",
+      "origen": "Cuadernillo 2025 #5"
+    },
+    {
+      "id": "icfes-salud_oral-006",
+      "area": "salud_oral",
+      "n": 6,
+      "contexto": null,
+      "enunciado": "Un paciente de 22 años asiste a la consulta por presentar movilidad aumentada del 11 y el 22. Al examen clínico se detectan bolsas periodontales entre 8 mm y 10 mm, localizadas en anteriores superiores e inferiores. Al examen radiográfico se encuentran pérdidas óseas verticales en esa zona. Se diagnostica periodontitis agresiva localizada.\n\nDe acuerdo con el cuadro clínico anterior, se decide realizar tratamiento periodontal con terapia antibiótica adjunta. La combinación de medicamentos más efectiva en este caso es",
+      "opciones": {
+        "A": "ácido clavulánico/metronidazol.",
+        "B": "amoxicilina/ácido clavulánico.",
+        "C": "metronidazol/amoxicilina.",
+        "D": "tetraciclina/amoxicilina."
+      },
+      "correcta": "C",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "La combinación **amoxicilina + metronidazol** cubre de forma sinérgica a *Aggregatibacter actinomycetemcomitans* y a los anaerobios gramnegativos, y es el esquema adjunto con mejor evidencia en la periodontitis agresiva.",
+      "origen": "Cuadernillo 2018 #6 · Cuadernillo 2025 #6"
+    },
+    {
+      "id": "icfes-salud_oral-007",
+      "area": "salud_oral",
+      "n": 7,
+      "contexto": null,
+      "enunciado": "Un paciente de 10 años es llevado al servicio de odontología, porque su mamá le “Encontró una masita en el labio inferior que aumenta y disminuye de tamaño, de color azuloso y aspecto transparente”. Al examen clínico usted diagnostica un mucocele.\n\nAl ser interrogado por la madre acerca de la causa de dicha lesión, usted señala que se pudo haber originado por",
+      "opciones": {
+        "A": "trauma local menor y ruptura del conducto excretor.",
+        "B": "degeneración quística del epitelio de la mucosa.",
+        "C": "acumulación excesiva de tejido lipoide.",
+        "D": "granulaciones de Fordyce en la mucosa."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "El mucocele del labio inferior es un fenómeno de **extravasación de moco**: un trauma menor (como morderse) rompe el conducto excretor de una glándula salival menor y la saliva se acumula en el tejido. No es un quiste epitelial verdadero.",
+      "origen": "Cuadernillo 2025 #7"
+    },
+    {
+      "id": "icfes-salud_oral-008",
+      "area": "salud_oral",
+      "n": 8,
+      "contexto": null,
+      "enunciado": "A su consulta llega un paciente que refiere ser alcohólico crónico y está diagnosticado con una cirrosis. Es probable que durante el curso del tratamiento odontológico:",
+      "opciones": {
+        "A": "Haga una hemorragia durante un procedimiento de cirugía oral menor.",
+        "B": "Deba evitarse el uso de vasoconstrictor por riesgo de toxicidad.",
+        "C": "Requiera duplicar las dosis de acetaminofén por el efecto de primer paso.",
+        "D": "Requiera profilaxis antibiótica con clindamicina previa a procedimientos invasivos."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "El hígado cirrótico produce menos factores de coagulación y suele haber trombocitopenia, por lo que el riesgo principal es la **hemorragia** en cirugía. Duplicar el acetaminofén sería peligroso (hepatotóxico) y el vasoconstrictor no está contraindicado por la cirrosis.",
+      "origen": "Cuadernillo 2025 #8"
+    },
+    {
+      "id": "icfes-salud_oral-009",
+      "area": "salud_oral",
+      "n": 9,
+      "contexto": null,
+      "enunciado": "A su consulta llega un paciente de 63 años con diagnóstico de cáncer de próstata, con cirugía y quimioterapia terminada ocho meses atrás, sin complicaciones. Tiene un resto radicular de un 11 con exodoncia simple indicada.\n\nRespecto al procedimiento, usted considera que debe",
+      "opciones": {
+        "A": "hacerse con profilaxis antibiótica.",
+        "B": "manejarse con prilocaína al 4 %.",
+        "C": "evitarse por riesgo de necrosis ósea.",
+        "D": "hacerse en condiciones de rutina."
+      },
+      "correcta": "D",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Con la quimioterapia terminada hace ocho meses y sin complicaciones, el paciente ya recuperó su estado hematológico, así que la exodoncia simple se hace **en condiciones de rutina**. El riesgo de osteonecrosis se asocia a radioterapia en cabeza y cuello o a bisfosfonatos, que no aparecen en el caso.",
+      "origen": "Cuadernillo 2025 #9"
+    },
+    {
+      "id": "icfes-salud_oral-010",
+      "area": "salud_oral",
+      "n": 10,
+      "contexto": null,
+      "enunciado": "Un paciente de 7 años fue llevado a consulta porque su madre refiere que presenta malestar para deglutir de varios días de evolución. Al examen clínico usted observa placas blanquecinas en mucosa de carrillos y lengua que al retirarse dejan expuesto el conectivo. Como antecedentes de importancia le informan que hace quince días estuvo hospitalizado por infección pulmonar tratada con aminopenicilina más inhibidor de betalactamasa hasta hace tres días.\n\nAnte este caso, ¿cuál es el diagnóstico?",
+      "opciones": {
+        "A": "Candidiasis seudomembranosa.",
+        "B": "Gingivoestomatitis estreptocócica.",
+        "C": "Leucoplasia homogénea.",
+        "D": "Liquen plano oral."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Placas blancas **que se desprenden** dejando una superficie roja, después de un tratamiento antibiótico de amplio espectro, son típicas de la **candidiasis seudomembranosa**. La leucoplasia y el liquen plano no se desprenden al raspar.",
+      "origen": "Cuadernillo 2018 #10 · Cuadernillo 2025 #10"
+    },
+    {
+      "id": "icfes-salud_oral-011",
+      "area": "salud_oral",
+      "n": 11,
+      "contexto": null,
+      "enunciado": "Una paciente de 28 años refiere que hace cuatro meses presenta una masa indolora entre el 13 y 14. Al examen clínico se evidencia una lesión tumoral de base sesil, de color predominantemente rojo azulado con pequeñas áreas amarillentas, de consistencia gomosa o blanda a la palpación y que al contacto sangra levemente. La lesión ha aumentado de tamaño con el tiempo. La paciente manifiesta que después de un trauma con una espina de pescado tuvo sensación de laceración y dolor, y luego apareció la lesión.\n\nSegún las características de este caso clínico, su impresión diagnóstica es",
+      "opciones": {
+        "A": "hiperplasia inflamatoria crónica.",
+        "B": "fibroma traumático.",
+        "C": "gingivitis hiperplásica.",
+        "D": "granuloma periférico de células gigantes."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una masa gingival de color **rojo azulado o púrpura**, blanda, que sangra al contacto, crece con el tiempo y aparece tras un trauma local, en adulto joven, orienta a **granuloma periférico de células gigantes**. El fibroma traumático es firme y de color similar a la mucosa.",
+      "origen": "Cuadernillo 2025 #11"
+    },
+    {
+      "id": "icfes-salud_oral-012",
+      "area": "salud_oral",
+      "n": 12,
+      "contexto": null,
+      "enunciado": "A su consulta acude una adolescente de 15 años que presenta una lesión exofítica de aspecto tumoral, muy vascularizada, no purulenta, a nivel de la encía queratinizada entre 44 y 45. Refiere que la lesión se le presenta constantemente y que sangra fácilmente al cepillado. Se emite como diagnóstico un granuloma piógeno.\n\nAnte la pregunta de la paciente sobre el por qué se le produce dicha lesión, usted le indica que puede estar asociada a",
+      "opciones": {
+        "A": "antecedentes genéticos.",
+        "B": "uso excesivo de enjuagues.",
+        "C": "consumo de alimentos irritantes.",
+        "D": "cambios hormonales."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "El granuloma piógeno es una respuesta exagerada a irritantes locales que se ve favorecida por los **cambios hormonales** (pubertad, embarazo), por eso es frecuente en adolescentes y gestantes. No tiene base genética.",
+      "origen": "Cuadernillo 2025 #12"
+    },
+    {
+      "id": "icfes-salud_oral-013",
+      "area": "salud_oral",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "Una paciente de 66 años, con diagnóstico sistémico de cáncer de seno tratada con mastectomía y quimioterapia cada 21 días, terminó su tratamiento seis meses atrás. Tiene exodoncia indicada de 12 por fractura vertical.\n\nTomando en cuenta lo anterior, usted puede realizar la exodoncia si dentro de los exámenes paraclínicos",
+      "opciones": {
+        "A": "el recuento plaquetario es mayor de 100.000/mm³.",
+        "B": "los neutrófilos están en 10 %/mm³.",
+        "C": "la hemoglobina es de 8 mg/dL.",
+        "D": "el recuento de blancos total es de 2.000/mm³."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Tras la quimioterapia hay que confirmar que la médula se recuperó: con **plaquetas por encima de 100.000/mm³** la exodoncia es segura en cuanto a hemostasia. Los otros valores (neutrófilos muy bajos, hemoglobina de 8, leucocitos de 2.000) indican mielosupresión o anemia y obligarían a posponerla.",
+      "origen": "Cuadernillo 2025 #13"
+    },
+    {
+      "id": "icfes-salud_oral-014",
+      "area": "salud_oral",
+      "n": 14,
+      "contexto": null,
+      "enunciado": "Un paciente llega a la consulta con absceso apical agudo en el diente 14, que involucra la mucosa yugal, con importante deformidad de contorno. Ante esta circunstancia, usted decide drenar el material purulento, pero no pone anestesia infiltrativa en el nervio alveolar superior medio. La razón que lo lleva a tomar esta determinación es que",
+      "opciones": {
+        "A": "la solución anestésica pierde efectividad.",
+        "B": "no hay cambios en el efecto anestésico.",
+        "C": "se altera el metabolismo hepático.",
+        "D": "se prolonga la duración del anestésico."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "El tejido infectado tiene **pH ácido**: el anestésico local queda casi todo en forma ionizada, que no atraviesa la membrana nerviosa, y **pierde efectividad**. Por eso no se infiltra directamente en la zona del absceso.",
+      "origen": "Cuadernillo 2018 #14 · Cuadernillo 2025 #14"
+    },
+    {
+      "id": "icfes-salud_oral-015",
+      "area": "salud_oral",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "Usted atiende un paciente adulto al que le realiza un procedimiento de tipo endodóntico. Para el manejo y control del dolor le prescribe Ibuprofeno tabletas de 400 mg cada seis horas. A pesar de esta terapia, el paciente reporta continuidad en el dolor que se incrementa hasta ser severo. Por tal razón, usted decide utilizar una combinación analgésica que incluya medicamentos de acción central.\n\nTeniendo en cuenta lo anterior, la combinación que prescribe es",
+      "opciones": {
+        "A": "dexametasona y naproxeno.",
+        "B": "meloxicam y piroxicam.",
+        "C": "acetaminofén y codeína.",
+        "D": "aspirina y nimesulida."
+      },
+      "correcta": "C",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "La única combinación con fármacos de **acción central** es **acetaminofén + codeína** (un opioide débil). Las demás combinan AINE o corticoide de acción periférica, y juntar dos AINE suma toxicidad sin mejorar la analgesia.",
+      "origen": "Cuadernillo 2018 #15 · Cuadernillo 2025 #15"
+    },
+    {
+      "id": "icfes-salud_oral-016",
+      "area": "salud_oral",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "Un paciente de 55 años refiere ser diabético tipo I y estar controlado con dosis matutina única de insulina de acción intermedia. El paciente requiere atención odontológica por presentar una gingivitis concomitante con la enfermedad de base. Usted decide programar las citas en las horas de la mañana, la razón por la cual genera esta estrategia es porque",
+      "opciones": {
+        "A": "la insulina alcanza su actividad terapéutica a las dos horas de aplicada.",
+        "B": "el glucagón incrementa la producción de glucosa.",
+        "C": "la insulina se metaboliza muy lentamente y no se debe agotar.",
+        "D": "el glucagón agota la insulina."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "La insulina de acción intermedia aplicada en la mañana empieza a actuar a las **dos horas** y tiene su pico entre 8 y 12 horas después; atender cerca del inicio de su acción, con el paciente recién desayunado, reduce el riesgo de **hipoglucemia** en la cita. El glucagón no explica el horario.",
+      "origen": "Cuadernillo 2018 #16 · Cuadernillo 2025 #16 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-salud_oral-017",
+      "area": "salud_oral",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "A su consulta llega un paciente de 5 años de género masculino acompañado por la madre. En la cita usted resuelve el motivo de consulta realizando la exodoncia del 71 por movilidad en proceso normal de exfoliación, luego hace presión en la zona tratada con gasa. Al cabo de diez minutos persiste la hemorragia, por lo cual usted implementa otras técnicas; luego de una media hora logra controlar la hemorragia.\n\nPosteriormente, para indagar que sucede con el paciente, usted decide",
+      "opciones": {
+        "A": "hospitalizar en primer nivel de atención.",
+        "B": "remitir a pediatría.",
+        "C": "solicitar un cuadro hemático.",
+        "D": "solicitar pruebas de coagulación."
+      },
+      "correcta": "B",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Una hemorragia prolongada tras la exodoncia de un diente en exfoliación hace sospechar un trastorno sistémico de la hemostasia, que debe estudiar el médico: lo indicado es **remitir a pediatría** para su valoración integral. La trampa es pedir un examen aislado (cuadro hemático o coagulación) sin remitir al niño, cuando el estudio y el manejo le corresponden al pediatra.",
+      "origen": "Cuadernillo 2025 #17"
+    },
+    {
+      "id": "icfes-salud_oral-018",
+      "area": "salud_oral",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "Al examen clínico un paciente de 7 años presenta fusión de los gérmenes dentarios del 72 y 73. La lesión es confirmada por análisis radiográfico.\n\nLa causa probable por la cual se presentó la alteración es",
+      "opciones": {
+        "A": "invaginación del órgano dental.",
+        "B": "persistencia de la lámina dental.",
+        "C": "trastorno de la vaina epitelial de Hertwig.",
+        "D": "alteración de la papila dentaria."
+      },
+      "correcta": "B",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "La fusión es una anomalía de la etapa de iniciación y proliferación del germen, asociada a la **lámina dental**, que da origen a los gérmenes vecinos que terminan uniéndose. La invaginación del órgano del esmalte produce el dens invaginatus, y la vaina de Hertwig participa en la formación de la raíz.",
+      "origen": "Cuadernillo 2025 #18"
+    },
+    {
+      "id": "icfes-salud_oral-019",
+      "area": "salud_oral",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "Una paciente de 29 años, quien se encuentra en el quinto mes de gestación, asiste a examen clínico de rutina. Se le diagnostica una periodontitis crónica moderada generalizada. La patología se asocia en este caso con",
+      "opciones": {
+        "A": "placa bacteriana mal controlada.",
+        "B": "aumento de la progesterona.",
+        "C": "disminución de la prolactina.",
+        "D": "sobreinfección por porfiromona gingivalis."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "La periodontitis crónica, con pérdida de inserción, la causa la **placa bacteriana** mal controlada; el embarazo y la progesterona agravan la respuesta inflamatoria gingival, pero no la originan. La trampa es atribuirla a las hormonas, que explican la gingivitis del embarazo, no la periodontitis.",
+      "origen": "Cuadernillo 2025 #19"
+    },
+    {
+      "id": "icfes-salud_oral-020",
+      "area": "salud_oral",
+      "n": 20,
+      "contexto": null,
+      "enunciado": "Un paciente de 23 años requiere exodoncia simple de terceros molares superiores; en sus antecedentes médicos se encuentra historia de corrección quirúrgica de un ductus arteriosus persistente a la edad de 12 años, el cual quedó con reflujo y lesión endotelial.\n\nAnte esta situación, usted decide recomendar",
+      "opciones": {
+        "A": "amoxicilina 2 g, una hora previa al procedimiento.",
+        "B": "amoxicilina 2 g, previos al procedimiento y 1 g, 6 horas después del mismo.",
+        "C": "amoxicilina 500 mg, cada 8 horas durante 7 días, iniciando 6 horas después del procedimiento.",
+        "D": "azitromicina 500 mg, una diaria durante tres días continuos, iniciando antes del procedimiento."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Una cardiopatía corregida que dejó defecto residual y lesión endotelial tiene riesgo de endocarditis, por lo que se indica profilaxis con **dosis única de amoxicilina 2 g una hora antes** (esquema vigente de la AHA). La dosis posoperatoria de 1 g pertenece a esquemas antiguos, y los tratamientos de varios días no son profilaxis.",
+      "origen": "Cuadernillo 2025 #20"
+    },
+    {
+      "id": "icfes-salud_oral-021",
+      "area": "salud_oral",
+      "n": 21,
+      "contexto": null,
+      "enunciado": "Un paciente de 34 años consulta por movilidad grado 3 en el diente 34. En la anamnesis se identifica que el paciente es sano sistémicamente, pero está bajo condiciones de estrés emocional. Al sondaje periodontal presenta bolsa de 3 mm sin sangrado en el 34; además, tiene un excelente control de placa y dolor a la percusión vertical. Radiográficamente se encuentra un defecto óseo vertical en mesial del 34. Presenta un contacto prematuro entre 34 y 24 y una oclusión traumática y bruxismo.\n\nBasados en la condición clínica y radiográfica el tratamiento que se debe seguir es",
+      "opciones": {
+        "A": "realizar raspaje y alisado radicular abierto con colgajo.",
+        "B": "realizar raspaje y alisado radicular abierto y ajuste oclusal.",
+        "C": "realizar raspaje y alisado radicular cerrado y ajuste oclusal.",
+        "D": "realizar solamente el ajuste oclusal del contacto prematuro."
+      },
+      "correcta": "D",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Con bolsa de 3 mm sin sangrado y excelente control de placa no hay periodontitis activa: es un **trauma oclusal primario** causado por el contacto prematuro y el bruxismo. Basta con **eliminar la causa con ajuste oclusal**; el raspaje no está indicado sin inflamación ni bolsas patológicas.",
+      "origen": "Cuadernillo 2018 #21 · Cuadernillo 2025 #21"
+    },
+    {
+      "id": "icfes-salud_oral-022",
+      "area": "salud_oral",
+      "n": 22,
+      "contexto": null,
+      "enunciado": "Un paciente de 9 años al examen clínico de la oclusión presenta: Clase I molar, clase I canina, perfil recto, sobremordida vertical de 1 mm, sobremordida horizontal de 1,5 mm, apiñamiento anteroinferior moderado y pérdida prematura de 85 y 84.\n\nLa ayuda diagnóstica más indicada para determinar el manejo de espacios es",
+      "opciones": {
+        "A": "la radiografía cefálica.",
+        "B": "el análisis de modelos.",
+        "C": "la fotografía de perfil.",
+        "D": "las radiografías coronales."
+      },
+      "correcta": "B",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "En dentición mixta, el **análisis de modelos** (análisis de espacio, por ejemplo de Moyers) compara el espacio disponible con el requerido y decide si mantener o recuperar espacio tras la pérdida prematura de 84 y 85. La cefálica y la fotografía evalúan relaciones esqueléticas y perfil, que aquí son normales.",
+      "origen": "Cuadernillo 2025 #22"
+    },
+    {
+      "id": "icfes-salud_oral-023",
+      "area": "salud_oral",
+      "n": 23,
+      "contexto": null,
+      "enunciado": "Un paciente masculino de 40 años asiste a la consulta por presencia de abultamiento indoloro en el sector anterosuperior. Al examen clínico se observa aumento de volumen en paladar y labio superior a nivel de línea media, mucosa oral sin cambio de color, dientes adyacentes íntegros. Al examen radiográfico, se puede observar en la radiografía panorámica una imagen radiolúcida bien delimitada y corticalizada que condiciona la divergencia radicular entre los dientes 11 y 21.\n\nTeniendo en cuenta los exámenes paraclínicos, el diagnóstico es un quiste",
+      "opciones": {
+        "A": "nasolabial.",
+        "B": "nasopalatino.",
+        "C": "paradental.",
+        "D": "residual."
+      },
+      "correcta": "B",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una radiolucidez bien delimitada y corticalizada **en la línea media entre 11 y 21**, que separa las raíces de dientes vitales e íntegros y abomba el paladar, corresponde al **quiste del conducto nasopalatino**. El nasolabial es de tejidos blandos y no se ve en la radiografía.",
+      "origen": "Cuadernillo 2018 #23 · Cuadernillo 2025 #23"
+    },
+    {
+      "id": "icfes-salud_oral-024",
+      "area": "salud_oral",
+      "n": 24,
+      "contexto": null,
+      "enunciado": "Un paciente de 7 años asiste a control odontológico acompañado por su madre. Se presenta como diagnóstico pulpar del 85 un absceso apical crónico.\n\nEl tratamiento propuesto para esta patología es",
+      "opciones": {
+        "A": "endodoncia del 85 y restauración.",
+        "B": "exodoncia del 85 y mantenedor de espacio.",
+        "C": "recubrimiento pulpar indirecto y restauración.",
+        "D": "pulpotomía del 85 y restauración."
+      },
+      "correcta": "B",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Un absceso apical crónico en un molar temporal pone en riesgo el germen del 45 en formación; se indica la **exodoncia del 85** y, como el 45 tardará años en erupcionar, un **mantenedor de espacio**. La pulpotomía y el recubrimiento solo sirven para pulpas vitales.",
+      "origen": "Cuadernillo 2018 #24 · Cuadernillo 2025 #24"
+    },
+    {
+      "id": "icfes-salud_oral-025",
+      "area": "salud_oral",
+      "n": 25,
+      "contexto": null,
+      "enunciado": "Una paciente de 35 años asiste a consulta para valoración odontológica. Al examen clínico se evidencia lesión nodular bilateral en maxilar inferior hacia lingual, de consistencia dura, asintomática, con tiempo de evolución desconocido. Radiográficamente se observa región radiópaca a nivel de los ápices de caninos bilateralmente. La paciente refiere que desconocía la existencia de la lesión.\n\nDe acuerdo con los datos clínicos y radiográficos la impresión diagnóstica es",
+      "opciones": {
+        "A": "osteoma osteoide.",
+        "B": "fibroma osificante.",
+        "C": "osteosarcoma.",
+        "D": "torus mandibular."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Nódulos óseos duros, **bilaterales**, en la cara **lingual** de la mandíbula a nivel de caninos y premolares, asintomáticos y de larga evolución, son el cuadro típico del **torus mandibular**, una exostosis benigna. La bilateralidad y la falta de síntomas descartan las neoplasias.",
+      "origen": "Cuadernillo 2025 #25"
+    },
+    {
+      "id": "icfes-salud_oral-026",
+      "area": "salud_oral",
+      "n": 26,
+      "contexto": null,
+      "enunciado": "Un colega le solicita su impresión diagnóstica en relación con un hallazgo radiográfico casual en uno de sus pacientes, en el que se observa entre el 13 y 14 una imagen radiolúcida, circunscrita, de forma ovalada, con bordes regulares, ubicada en tercio medio apical y que se extiende de forma lateral. Respecto a la evaluación clínica, le informa que las pruebas de vitalidad son positivas y la apariencia de las estructuras dentales es sana.\n\nDe acuerdo con la información suministrada, usted considera que el diagnóstico es un quiste",
+      "opciones": {
+        "A": "dentígero.",
+        "B": "periapical.",
+        "C": "residual.",
+        "D": "periodontal lateral."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una radiolucidez ovalada y bien delimitada **a lo largo de la cara lateral de la raíz**, entre canino y premolar y con **dientes vitales**, es típica del **quiste periodontal lateral**. El periapical exige necrosis pulpar, el residual aparece donde ya no hay diente y el dentígero rodea la corona de un diente incluido.",
+      "origen": "Cuadernillo 2018 #3"
+    },
+    {
+      "id": "icfes-salud_oral-027",
+      "area": "salud_oral",
+      "n": 27,
+      "contexto": null,
+      "enunciado": "Llega a su consulta una paciente de 50 años de edad, que se encuentra anticoagulada con 1 pastilla diaria de warfarina de 5 mg debido a un evento trombótico hace 6 meses. Se le programa una cirugía de exodoncias múltiples con regularización de reborde, y se le realiza una terapia de puente con cambio de warfarina por heparina de bajo peso molecular. La principal complicación asociada a este procedimiento que usted esperaría encontrar y para lo cual debe establecer estrategias de control es:",
+      "opciones": {
+        "A": "Alveolitis.",
+        "B": "Necrosis.",
+        "C": "Hemorragia.",
+        "D": "Dehiscencia."
+      },
+      "correcta": "C",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Aunque se sustituya la warfarina por heparina de bajo peso molecular, la paciente sigue anticoagulada, así que en una cirugía extensa como exodoncias múltiples con regularización de reborde la complicación esperable es la **hemorragia**. Por eso hay que planear medidas hemostáticas locales.",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes-salud_oral-028",
+      "area": "salud_oral",
+      "n": 28,
+      "contexto": null,
+      "enunciado": "Una paciente de 8 meses de edad fue llevada por su madre al servicio de urgencias, quien le cuenta a usted: “La niña tiene una masita en la encía hace como cinco días”. La paciente está asintomática. Al examen clínico se observa una lesión de coloración ligeramente azulada, circunscrita, elevada y fluctuante a la palpación, localizada en zona de incisivo lateral superior derecho.\n\nSegún los signos y síntomas presentes, su impresión diagnóstica es",
+      "opciones": {
+        "A": "quiste de erupción.",
+        "B": "folículo dilatado.",
+        "C": "mucocele.",
+        "D": "nódulo de Bohn."
+      },
+      "correcta": "A",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una lesión azulada, fluctuante y circunscrita sobre el reborde, **justo donde va a erupcionar un diente** a la edad esperada, es un **quiste de erupción** (forma de tejido blando del quiste dentígero). Los nódulos de Bohn son pápulas blancas pequeñas del neonato, y el mucocele no aparece en el reborde alveolar.",
+      "origen": "Cuadernillo 2018 #7"
+    },
+    {
+      "id": "icfes-salud_oral-029",
+      "area": "salud_oral",
+      "n": 29,
+      "contexto": null,
+      "enunciado": "Un paciente de 7 años de edad, al examen clínico presenta inflamación y ligero sangrado gingival en zona del 11 y 21, concordante con la erupción de los órganos dentales. Hay adecuado alineamiento dental, sin presencia de lesiones cariosas aparentes. Presenta un índice de O´Leary del 15 % y Sillness y Loe de 0. Como antecedentes, la madre refiere que tuvo hábito de succión digital.\n\nDe acuerdo con lo anterior, en la zona de inflamación, el factor etiológico de riesgo relevante es",
+      "opciones": {
+        "A": "el hábito de succión digital.",
+        "B": "la mala posición dental.",
+        "C": "la placa bacteriana.",
+        "D": "el proceso eruptivo."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Con placa baja (O’Leary 15 %, Silness y Löe 0) y dientes bien alineados, la inflamación localizada en 11 y 21 se explica por el **proceso eruptivo**, que inflama transitoriamente la encía. La placa no es el factor relevante aquí.",
+      "origen": "Cuadernillo 2018 #8"
+    },
+    {
+      "id": "icfes-salud_oral-030",
+      "area": "salud_oral",
+      "n": 30,
+      "contexto": null,
+      "enunciado": "Un paciente de 22 años de edad asiste a la consulta con dolor, ardor en la boca y malestar general, al examen clínico se le detectan cráteres interpapilares cubiertos de pseudomembranas gris-amarillentas acompañadas de abundantes cálculos supragingivales y subgingivales. Al examen se percibe olor fétido y fiebre. El diagnóstico es gingivitis ulceronecrotizante (GUN).\n\nLa opción de tratamiento indicada es:",
+      "opciones": {
+        "A": "Eliminación de pseudomembranas, uso de enjuague, analgésico, antibiótico sistémico y raspaje supragingival y subgingival.",
+        "B": "Uso de analgésico, enjuague, antibiótico sistémico y raspaje supragingival y subgingival.",
+        "C": "Uso de analgésico, eliminación de pseudomembranas y raspaje supragingival y subgingival.",
+        "D": "Uso de antibiótico local, enjuague, raspaje supragingival y subgingival y eliminación de pseudomembranas."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "La GUN con **compromiso sistémico** (fiebre, malestar) requiere el manejo completo: desbridar las pseudomembranas, enjuague antimicrobiano, analgésico, **antibiótico sistémico** (como el metronidazol) y raspaje para retirar los cálculos. Las demás opciones omiten un componente o usan antibiótico local, que no sirve cuando hay fiebre.",
+      "origen": "Cuadernillo 2018 #9"
+    },
+    {
+      "id": "icfes-salud_oral-031",
+      "area": "salud_oral",
+      "n": 31,
+      "contexto": null,
+      "enunciado": "Una paciente de 35 años de edad, asiste a consulta por un dolor espontáneo de larga duración, que presenta también cuando toma bebidas frías y calientes. Clínicamente, presenta una resina VDL en el diente 31. La respuesta a la prueba de sensibilidad pulpar es positiva y en la prueba periapical es negativa. Al examen radiográfico se observa una zona radiópaca en corona, compatible con la restauración en contacto con el cuerno pulpar distal. El diagnóstico es",
+      "opciones": {
+        "A": "pulpitis reversible.",
+        "B": "periodontitis apical sintomática.",
+        "C": "absceso apical agudo.",
+        "D": "pulpitis irreversible sintomática."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Un dolor **espontáneo y prolongado**, también provocado por el frío y el calor, con pulpa vital y una restauración que llega al cuerno pulpar, indica una pulpa inflamada sin capacidad de recuperarse: **pulpitis irreversible sintomática**. La reversible solo da dolor provocado y breve, y la periodontitis apical y el absceso darían dolor a la percusión o edema.",
+      "origen": "Cuadernillo 2018 #11 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-salud_oral-032",
+      "area": "salud_oral",
+      "n": 32,
+      "contexto": null,
+      "enunciado": "Al examen clínico, una paciente de 19 años de edad presenta un porcentaje de placa bacteriana aproximadamente del 15 %. Durante el sondaje periodontal en los dientes 16 y 26 se evidencia profundidad de 7 mm, margen gingival de -3 mm por vestibular. Al examen radiográfico presenta pérdida vertical que compromete 2/3 de la raíz de los dientes.\n\nEn este caso, el diagnóstico es",
+      "opciones": {
+        "A": "periodontitis crónica leve.",
+        "B": "periodontitis crónica severa.",
+        "C": "periodontitis agresiva localizada.",
+        "D": "periodontitis agresiva generalizada."
+      },
+      "correcta": "C",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una paciente joven con **poca placa** (15 %) y destrucción grave y vertical limitada a los **primeros molares** (16 y 26) encaja en la **periodontitis agresiva localizada**: la destrucción es desproporcionada para la placa presente y sigue el patrón molar-incisivo.",
+      "origen": "Cuadernillo 2018 #12"
+    },
+    {
+      "id": "icfes-salud_oral-033",
+      "area": "salud_oral",
+      "n": 33,
+      "contexto": null,
+      "enunciado": "Según la clasificación de caries dental ICDAS II, los hallazgos clínicos de las lesiones de caries están directamente relacionados con cambios histológicos en la estructura dental, los cuales deben tomarse en cuenta para realizar el tratamiento de estas. Con base en esto, para un paciente de 6 años de edad que presenta índice de O’Leary del 62 %, con lesiones de caries de mancha blanca visibles en húmedo, por vestibular de 41 y 42 en erupción, el tratamiento es",
+      "opciones": {
+        "A": "controlar factores de riesgo, mejorar higiene y aplicar flúor en barniz en las lesiones.",
+        "B": "realizar tratamiento operatorio, eliminando la lesión y colocando resina de fotocurado.",
+        "C": "controlar factores de riesgo y mantener en observación hasta que los dientes erupcionen totalmente.",
+        "D": "realizar tratamiento operatorio eliminando la lesión y colocando ionómero de vidrio."
+      },
+      "correcta": "A",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "Las manchas blancas visibles en húmedo son lesiones **no cavitadas limitadas al esmalte**, que se pueden remineralizar: se controla el riesgo (placa del 62 %), se mejora la higiene y se aplica **barniz de flúor**. No requieren tratamiento operatorio, y dejarlas solo en observación permitiría que avancen porque están activas.",
+      "origen": "Cuadernillo 2018 #13 · Preguntas explicadas #3"
+    },
+    {
+      "id": "icfes-salud_oral-034",
+      "area": "salud_oral",
+      "n": 34,
+      "contexto": null,
+      "enunciado": "Un paciente de 70 años de edad acude a consulta por presentar dolor al consumo de bebidas frías, lesiones cavitacionales en cuellos de premolares inferiores por vestibular. Al examen clínico usted observa lesiones de caries activas (ICDAS 5) corono-radiculares en cuellos de 34, 35, 44 y 45.\n\nPara el tratamiento operatorio definitivo, usted realizaría como primera opción una cavidad clase 5 y obtura con",
+      "opciones": {
+        "A": "ionómero de vidrio convencional.",
+        "B": "ionómero de vidrio modificado y resina.",
+        "C": "resina compuesta convencional.",
+        "D": "resina fluida únicamente."
+      },
+      "correcta": "B",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "En lesiones corono-radiculares activas de un adulto mayor conviene la técnica **sándwich**: el **ionómero modificado** se adhiere químicamente a la dentina radicular, sella el margen cervical y libera flúor, y la **resina** encima da estética y resistencia en la porción coronal.",
+      "origen": "Cuadernillo 2018 #17"
+    },
+    {
+      "id": "icfes-salud_oral-035",
+      "area": "salud_oral",
+      "n": 35,
+      "contexto": null,
+      "enunciado": "Un paciente de 20 años de edad acude a consulta por sangrado excesivo de sus encías al cepillado. En la anamnesis refiere consumir fenitoína desde hace 2 años debido a sus crisis epilépticas.\n\nAl examen clínico se evidencia agrandamiento gingival en zona anterosuperior, la condición fisiopatológica que explica dicha patología es",
+      "opciones": {
+        "A": "disminución en el aporte sanguíneo.",
+        "B": "disminución en las células de defensa.",
+        "C": "incremento en la producción de fibras reticulares.",
+        "D": "incremento en la producción de fibroblastos."
+      },
+      "correcta": "D",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "La fenitoína estimula la **proliferación de fibroblastos** gingivales y su síntesis de matriz extracelular, lo que produce el agrandamiento gingival inducido por fármacos, sobre todo en el sector anterior.",
+      "origen": "Cuadernillo 2018 #18"
+    },
+    {
+      "id": "icfes-salud_oral-036",
+      "area": "salud_oral",
+      "n": 36,
+      "contexto": null,
+      "enunciado": "A un paciente al que le realizan hemodiálisis una vez por semana, usted debe realizarle un procedimiento odontológico de tipo periodontal no electivo, ya que no ha tenido buena adherencia al control de placa bacteriana y está haciendo abscesos periodontales a repetición.\n\nBajo estas condiciones, el tratamiento",
+      "opciones": {
+        "A": "debe ser programado simultáneo de la hemodiálisis.",
+        "B": "puede programarse en cualquier momento.",
+        "C": "debe ser programado al día siguiente a la hemodiálisis.",
+        "D": "no se debe realizar en ningún momento."
+      },
+      "correcta": "C",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Durante la hemodiálisis se usa **heparina**, cuyo efecto anticoagulante dura unas horas; programar el procedimiento **el día siguiente** evita el riesgo de sangrado y encuentra al paciente con menos toxinas urémicas y líquidos acumulados.",
+      "origen": "Cuadernillo 2018 #19"
+    },
+    {
+      "id": "icfes-salud_oral-037",
+      "area": "salud_oral",
+      "n": 37,
+      "contexto": null,
+      "enunciado": "A su consulta llega un paciente de 45 años de edad, quien al examen clínico presenta en el 35 resina oclusal defectuosa, con caries secundaria y decoloración marginal hacia cúspide vestibular. En la radiografía coronal, usted observa lesión radiolúcida que involucra tercio interno de dentina. Al retirarla presenta socavado hacia la misma cúspide. Para restaurar esta lesión, el tratamiento operatorio que realizaría es",
+      "opciones": {
+        "A": "utilizar liner de hidróxido de calcio, ionómero de vidrio convencional como base y material restaurador (amalgama).",
+        "B": "utilizar liner de hidróxido de calcio, fosfato de zinc como base intermedia y material restaurador (resina).",
+        "C": "utilizar liner de hidróxido de calcio, fosfato de zinc como base intermedia y material restaurador (amalgama).",
+        "D": "utilizar liner de ionómero de vidrio modificado, ionómero de vidrio como complementador mecánico modificado y material restaurador (resina)."
+      },
+      "correcta": "D",
+      "afirmacion": "Establece tratamientos que conllevan al restablecimiento de la salud oral; a partir de situaciones o casos clínicos que representan la práctica clínica cotidiana del odontólogo general.",
+      "explicacion": "En una cavidad profunda (tercio interno de dentina) con la cúspide socavada, el **ionómero modificado** protege la dentina, se adhiere y sirve de **complementador mecánico** que rellena el socavado, y la **resina** adherida refuerza la cúspide debilitada. El fosfato de zinc y la amalgama no se adhieren y obligarían a eliminar más estructura.",
+      "origen": "Cuadernillo 2018 #20"
+    },
+    {
+      "id": "icfes-salud_oral-038",
+      "area": "salud_oral",
+      "n": 38,
+      "contexto": null,
+      "enunciado": "Un paciente de 45 años de edad asiste a consulta con el siguiente motivo: “se me mueve un diente”. Al examen clínico se encuentra encía de color rojo, de consistencia blanda y depresible, textura lisa y brillante, exudado purulento, sangrado al sondaje, bolsas periodontales de 4 mm y 5 mm de profundidad que afectan menos del 30 % de los dientes, movilidad grado II a nivel de 25 y 16, pérdida en los niveles de inserción de 3 mm - 4 mm. Al examen radiográfico presenta pérdidas óseas de tipo horizontal.\n\nDe acuerdo con el caso clínico, el diagnóstico para este paciente es",
+      "opciones": {
+        "A": "periodontitis crónica moderada generalizada.",
+        "B": "periodontitis crónica moderada localizada.",
+        "C": "periodontitis crónica severa generalizada.",
+        "D": "periodontitis crónica severa localizada."
+      },
+      "correcta": "B",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una pérdida de inserción de **3 a 4 mm** es **moderada** (la severa es de 5 mm o más), y comprometer **menos del 30 %** de los sitios la hace **localizada**. Por eso es periodontitis crónica moderada localizada.",
+      "origen": "Cuadernillo 2018 #22"
+    },
+    {
+      "id": "icfes-salud_oral-039",
+      "area": "salud_oral",
+      "n": 39,
+      "contexto": null,
+      "enunciado": "A su consulta fue llevada una paciente de 4 años de edad para control. Al examen intraoral usted observa dentición temporal completa, arcos sin espaciamiento, higiene oral deficiente en zonas posteriores, y nota una coloración oscura en superficie oclusodistal (OD) del diente 64 sin cavitación aparente. Usted toma una radiografía coronal del lado izquierdo y evidencia una zona radiolúcida que compromete tercio medio de dentina en la zona distal del diente afectado.\n\nTeniendo en cuenta el caso anterior, su impresión diagnóstica es caries",
+      "opciones": {
+        "A": "ICDAS 2 - Opacidad café.",
+        "B": "ICDAS 3 - Microcavidad.",
+        "C": "ICDAS 4 - Sombra subyacente.",
+        "D": "ICDAS 5 - Cavidad detectable."
+      },
+      "correcta": "C",
+      "afirmacion": "Realiza los diagnósticos de las patologías del sistema estomatognático más prevalentes en los diferentes grupos etarios.",
+      "explicacion": "Una coloración oscura **sin cavitación** con radiolucidez que ya llega a la dentina corresponde a **ICDAS 4, sombra subyacente de dentina**. ICDAS 2 y 3 se limitan al esmalte, y en ICDAS 5 ya hay una cavidad con dentina visible.",
+      "origen": "Cuadernillo 2018 #25"
+    }
+  ]
+}

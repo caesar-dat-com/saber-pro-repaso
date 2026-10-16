@@ -1,0 +1,346 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Formulación, Evaluación y Gestión de Proyectos (cuadernillos 2018 y 2026, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-gestion_proyectos-001",
+   "area": "gestion_proyectos",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "La empresa Cristales S.A. planea fabricar un nuevo envase de vidrio. El gerente general plantea que en el estudio técnico se deben analizar: los procesos productivos, la localización óptima de la planta, rentabilidad de los activos, la imagen corporativa, las cantidades por producir, el precio de venta, el capital de trabajo y los gastos de publicidad. El gerente del proyecto observa la situación y dice que, en cambio, en el estudio técnico se debe analizar",
+   "opciones": {
+    "A": "la rentabilidad de los activos y el capital de trabajo.",
+    "B": "las cantidades por vender y el precio de venta.",
+    "C": "los procesos productivos y la localización de la planta.",
+    "D": "los gastos de publicidad y la imagen corporativa."
+   },
+   "correcta": "C",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "El estudio técnico (o de ingeniería) define **cómo y dónde** se produce: procesos productivos, tamaño y localización de la planta. La rentabilidad de activos y el capital de trabajo (A) son resultados de la evaluación financiera; cantidades por vender y precio (B) alimentan las proyecciones financieras y de mercado; publicidad e imagen corporativa (D) pertenecen al estudio de mercados.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-gestion_proyectos-002",
+   "area": "gestion_proyectos",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "La compañía de autopartes El Eje Volador desarrolló un proyecto que tardó 5 años en su ejecución y cuyo propósito era duplicar la capacidad de producción para cubrir el mercado exportador, aprovechando la firma del TLC con varios países. La dirección de la compañía le ha pedido a usted como director del proyecto que elabore el informe final sobre la ejecución del proyecto.\n\nUsted tiene varias opciones y decide que el contenido más adecuado del informe debe ser:",
+   "opciones": {
+    "A": "Datos básicos; logro del propósito del proyecto, lecciones aprendidas del proyecto; comentarios y recomendaciones adicionales, en términos de eficacia; resumen.",
+    "B": "Grado de cumplimiento de los objetivos y metas fijadas; la conclusión final de la gestión del proyecto, en términos de eficiencia y eficacia; conclusiones.",
+    "C": "Datos básicos; logros alcanzados; grado de cumplimiento de los objetivos y metas fijadas; evaluación de recursos utilizados; indicadores de ejecución; conclusiones y recomendaciones.",
+    "D": "Resumen; índice; introducción, desarrollo; lecciones aprendidas del proyecto; conclusiones finales de la gestión del proyecto, en términos de eficiencia; logro del propósito del proyecto."
+   },
+   "correcta": "C",
+   "afirmacion": "Ejecutar y gestionar un proyecto.",
+   "explicacion": "Un informe final de ejecución debe dar cuenta de **qué se logró, cuánto se cumplió de lo planeado y con qué recursos**, medido con indicadores de ejecución, y cerrar con conclusiones y recomendaciones. Las demás opciones son incompletas: omiten la evaluación de recursos y los indicadores, o se limitan a la eficacia o a la eficiencia por separado.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-gestion_proyectos-003",
+   "area": "gestion_proyectos",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "La empresa ABC quiere lanzar un producto al mercado. No cuenta con información histórica de las ventas, pero tiene un grupo de personas con más de 15 años de experiencia del mercado. A usted como empleado de la empresa se le encarga la tarea de hacer la proyección de ingresos de la compañía.\n\nCon base en la información anterior, la mejor herramienta para lograr su objetivo es",
+   "opciones": {
+    "A": "la aplicación de fórmulas.",
+    "B": "las series de tiempo.",
+    "C": "el panel de expertos.",
+    "D": "la simulación."
+   },
+   "correcta": "C",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "Sin datos históricos no se pueden usar métodos cuantitativos como las series de tiempo (B), fórmulas de ajuste (A) o simulaciones calibradas (D). Lo que sí hay es conocimiento acumulado de personas con experiencia, que se aprovecha con un método cualitativo: el **panel de expertos** (tipo Delphi).",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-gestion_proyectos-004",
+   "area": "gestion_proyectos",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Para enfrentar la seguridad alimentaria de nuestro país, se requiere desarrollar un proyecto para atender a la población infantil en edad escolar, por lo que existen diversas iniciativas que el Estado colombiano puede subsidiar.\n\nEl proyecto que permitiría atender esta problemática es la",
+   "opciones": {
+    "A": "exportación de carne de ganado vacuno.",
+    "B": "producción y exportación de pescado en cultivo.",
+    "C": "producción y comercialización de harina de plátano.",
+    "D": "importación y comercialización de bebidas gaseosas."
+   },
+   "correcta": "C",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "La seguridad alimentaria interna exige producir alimentos nutritivos que se queden en el país y lleguen a la población objetivo. La **harina de plátano** es un alimento local, de bajo costo y aprovechable en la alimentación escolar. Exportar carne o pescado (A, B) saca el alimento del país, y las bebidas gaseosas (D) no aportan a la nutrición infantil.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-gestion_proyectos-005",
+   "area": "gestion_proyectos",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "En Bogotá (Colombia) existe una empresa productora y comercializadora de repuestos de bicicletas que, al efectuar su matriz DOFA para identificar un proyecto, arroja los siguientes resultados:\n\n1. Escasez de mano de obra calificada para la producción de bicicletas en Colombia.\n2. La práctica masiva del ciclismo competitivo, recreativo y funcional.\n3. Gran trayectoria de la empresa en el mercado de repuestos para bicicletas.\n4. Oportunidad de importar bicicletas a menor costo que las producidas en el país.\n\nConforme al análisis efectuado por la empresa, esos elementos justifican la formulación de un proyecto relacionado con la",
+   "opciones": {
+    "A": "educación para la producción de bicicletas.",
+    "B": "importación y comercialización de bicicletas.",
+    "C": "producción de bicicletas nacionales con su marca.",
+    "D": "ampliación del inventario de repuestos nacionales para bicicletas."
+   },
+   "correcta": "B",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "Los cuatro elementos apuntan en la misma dirección: producir localmente es difícil (falta mano de obra calificada) y caro frente a importar, mientras que hay demanda masiva y la empresa ya conoce el mercado. Lo coherente es **importar y comercializar** bicicletas. Producirlas (C) choca con la debilidad 1; la educación (A) no es el negocio de la empresa, y ampliar repuestos (D) no aprovecha la oportunidad de importación.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-gestion_proyectos-006",
+   "area": "gestion_proyectos",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Para el desarrollo de un proyecto productivo se requiere una maquinaria que tiene un valor de $10.000 unidades monetarias (um), con una vida útil de 10 años; los procesos de adecuación y capacitación para la puesta en funcionamiento de la máquina son de 1.000 um, las ventas anuales son de 10.000 um y los costos de producción corresponden al 50 % de las ventas. La inversión requerida para el proyecto es",
+   "opciones": {
+    "A": "10.000 um.",
+    "B": "11.000 um.",
+    "C": "20.000 um.",
+    "D": "26.000 um."
+   },
+   "correcta": "B",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "La inversión inicial incluye el activo (10.000 um) más los gastos necesarios para ponerlo en marcha, como adecuación y capacitación (1.000 um): **11.000 um**. Las ventas y los costos de producción son flujos de la etapa de operación, no de inversión, por eso C y D los suman indebidamente; A olvida los gastos preoperativos.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-gestion_proyectos-007",
+   "area": "gestion_proyectos",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Para hacer control a los tiempos de un proyecto en ejecución, un director y su equipo realizan un nuevo cálculo para determinar en ese momento cuánto más durará el proyecto. Para ello, analizan el orden de las actividades y en especial aquellas cuyos tiempos tienen menores posibilidades de variación. En este caso, el método utilizado por el director y su equipo es el de",
+   "opciones": {
+    "A": "ejecución rápida.",
+    "B": "ruta crítica.",
+    "C": "nivelación de recursos.",
+    "D": "estructura de división del trabajo."
+   },
+   "correcta": "B",
+   "afirmacion": "Ejecutar y gestionar un proyecto.",
+   "explicacion": "El método de la **ruta crítica (CPM)** ordena las actividades según sus dependencias y identifica la secuencia sin holgura que determina la duración total del proyecto. La ejecución rápida (fast tracking) es una técnica de compresión, la nivelación de recursos ajusta el uso de recursos y la EDT descompone el alcance; ninguna calcula la duración restante.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-gestion_proyectos-008",
+   "area": "gestion_proyectos",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "En Colombia se presentan polémicas por la falta de infraestructura y tecnificación en el campo, por lo que el gobierno esta estudiando diversos TLC para solucionar este problema. En el análisis previo a la formulación de un proyecto, los TLC suscritos por Colombia se constituye en una",
+   "opciones": {
+    "A": "debilidad.",
+    "B": "fortaleza.",
+    "C": "amenaza.",
+    "D": "oportunidad."
+   },
+   "correcta": "D",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "Los TLC son factores **externos** a la organización, por lo que no pueden ser debilidades ni fortalezas (A, B), que son internas. Como el gobierno los plantea para resolver el problema de infraestructura y tecnificación (acceso a mercados, tecnología e inversión), se interpretan como una **oportunidad** y no como una amenaza.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-gestion_proyectos-009",
+   "area": "gestion_proyectos",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Cuatro empresarios se reúnen con el fin de analizar la opción adecuada para la conformación de la estructura organizacional de una empresa de distribución de productos cosméticos de consumo masivo.\n\nEl primer empresario plantea que es necesario crear una empresa cuya estructura organizacional sea plana, porque las decisiones que se tomen en ella fluyan fácilmente.\n\nEl segundo plantea que la estructura adecuada debe ser tipo abanico, porque esta permite combinar de forma flexible los recursos con que cuenta la compañía.\n\nEl tercer empresario plantea que si se elige la estructura organizacional tipo UEN (unidad estratégica de negocios) se tendrá más control sobre la administración del negocio.\n\nEl cuarto empresario plantea que la opción debe ser tipo red, ya que se puede manejar toda la distribución de la mercancía de una forma central y luego se puede separar por nodos y así se facilita la distribución.\n\nCon base en las anteriores afirmaciones, la estructura organizacional adecuada para la nueva organización es",
+   "opciones": {
+    "A": "plana.",
+    "B": "abanico.",
+    "C": "UEN.",
+    "D": "red."
+   },
+   "correcta": "D",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "El negocio es la **distribución** masiva, y la estructura en **red** se ajusta a esa actividad: un centro coordina y los nodos atienden la distribución en cada zona. La estructura plana agiliza decisiones pero no resuelve la logística; el abanico y las UEN responden a la flexibilidad de recursos o a varios negocios, no a la naturaleza distributiva de esta empresa.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-gestion_proyectos-010",
+   "area": "gestion_proyectos",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "El centro de salud de la vereda El Oratorio es atendido por el hospital San Juan de Dios, que envía un equipo de especialistas cada fin de semana para atender las necesidades de la comunidad.\n\nUsted está elaborando el presupuesto del año 2013, para el cual le han pedido la máxima racionalización de recursos, pero también un adecuado servicio. Para dar cumplimiento a estas directrices debe definir el número de especialistas que se contratarán durante el año 2013.\n\n| Año | Odontología | Pediatría |\n|---|---|---|\n| 2009 | 31 | 60 |\n| 2010 | 42 | 87 |\n| 2011 | 50 | 90 |\n| 2012 | 99 | 120 |\n| Crecimiento promedio últimos 4 años | 50,84 % | 27,26 % |\n| Promedio 4 años | 56 | 89 |\n\n*Tabla. Promedio mensual de atención de pacientes en la vereda “El Oratorio” por tipo de consulta.*\n\nTeniendo en cuenta la tabla, las necesidades de la región, la adecuada prestación del servicio y la racionalización de recursos, para la proyección del año 2013, usted recomienda basarse en",
+   "opciones": {
+    "A": "las cifras del 2012 y el crecimiento promedio.",
+    "B": "el promedio de los últimos 4 años.",
+    "C": "el crecimiento del último año.",
+    "D": "las cifras de 2012."
+   },
+   "correcta": "A",
+   "afirmacion": "Ejecutar y gestionar un proyecto.",
+   "explicacion": "La mejor proyección parte de la **base más reciente (2012)** y le aplica la **tendencia de crecimiento promedio** observada. El promedio de 4 años (B) subestima la demanda porque esta viene creciendo; el crecimiento del último año (C) puede reflejar un evento extraordinario; y las cifras de 2012 solas (D) ignoran la tendencia.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-gestion_proyectos-011",
+   "area": "gestion_proyectos",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Usted se desempeña como asesor de un inversionista a quien le interesa determinar si un proyecto es o no financieramente viable. Para tal efecto se requieren",
+   "opciones": {
+    "A": "el flujo de caja del proyecto, el costo de oportunidad del capital y la perspectiva de evaluación.",
+    "B": "la información necesaria para poder establecer el VAN, la TIR, el índice de rentabilidad y el plazo de recuperación.",
+    "C": "los datos relacionados con el resultado de las necesidades requeridas de ventas por cada peso de activo circulante.",
+    "D": "el comportamiento de los costos de producción y operación con relación a la tendencia de las ventas netas."
+   },
+   "correcta": "B",
+   "afirmacion": "Ejecutar y gestionar un proyecto.",
+   "explicacion": "La viabilidad financiera se decide con los **indicadores de evaluación**: VAN, TIR, índice de rentabilidad (B/C) y periodo de recuperación. La opción A lista insumos para calcularlos, pero no los criterios de decisión; C y D son análisis parciales de rotación de activos y de costos que no bastan para concluir sobre la viabilidad.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-gestion_proyectos-012",
+   "area": "gestion_proyectos",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Una empresa de ingeniería debe ejecutar un proyecto de regulación del cauce de una quebrada que presenta desbordamientos en época de lluvias y afecta una reserva forestal que se constituye en fuente de ingresos turísticos para una población. Para llevar a cabo este proyecto, se debe realizar el estudio de pre-factibilidad en el cual uno de sus componentes es el estudio legal.\n\nDe acuerdo con sus conocimientos, los principales elementos que se deben considerar en la realización del estudio legal son:",
+   "opciones": {
+    "A": "Las normas jurídicas que regulan la actividad forestal, el diseño para la regulación del cauce y las normas sobre explotación turística.",
+    "B": "El diseño para la regulación del cauce, las normas de contratación en proyectos ambientales y los manuales de funciones orientadas a la conservación de la reserva.",
+    "C": "Las normas de contratación en proyectos ambientales, los manuales de funciones orientadas a la conservación de la reserva y los manuales de procedimientos.",
+    "D": "Las normas jurídicas que regulan la actividad forestal, la solicitud de licencias ambientales y las normas de contratación en proyectos ambientales."
+   },
+   "correcta": "D",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "El estudio legal reúne solo elementos **jurídicos**: normas forestales, licencias ambientales y normas de contratación. El diseño de la regulación del cauce (A, B) pertenece al estudio técnico, y los manuales de funciones y procedimientos (B, C) son parte del estudio administrativo/organizacional.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-gestion_proyectos-013",
+   "area": "gestion_proyectos",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Los datos relacionados en la planeación de un proyecto empresarial se muestran en la tabla.\n\n| Conceptos | Valor |\n|---|---|\n| Activos requeridos | 5.000 |\n| Capital de trabajo | 2.000 |\n| Gastos preoperativos | 1.800 |\n| Adquisición de materiales | 1.000 |\n| Mano de obra directa | 3.000 |\n| Costos indirectos de fabricación | 500 |\n\nPor tanto, los recursos financieros que se requieren en la etapa de operación del proyecto son:",
+   "opciones": {
+    "A": "4.000.",
+    "B": "4.500.",
+    "C": "8.800.",
+    "D": "9.800."
+   },
+   "correcta": "B",
+   "afirmacion": "Ejecutar y gestionar un proyecto.",
+   "explicacion": "En la etapa de operación se causan los **costos de producción**: materiales (1.000) + mano de obra directa (3.000) + costos indirectos de fabricación (500) = **4.500**. Activos, capital de trabajo y gastos preoperativos forman la inversión inicial (8.800), que es la trampa de la opción C; A olvida los CIF.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-gestion_proyectos-014",
+   "area": "gestion_proyectos",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "La compañía en la que trabaja, le pide a usted realizar un estudio de viabilidad financiera para la puesta en marcha de un proyecto cuyo horizonte de planeación es 5 años, con los siguientes datos relacionados con la etapa de operación:\n\n- Cantidad de productos mes: 1.000.\n- Precio de venta: $1000 por producto.\n- Costos y gastos: 70 % del precio de venta.\n\nSe requiere proyectar los ingresos, los costos y gastos durante la etapa de operación, y los inversionistas le han pedido que la evaluación se haga en precios corrientes. En consecuencia, los flujos de caja deberán proyectarse teniendo en cuenta:",
+   "opciones": {
+    "A": "El costo promedio de capital.",
+    "B": "La tasa efectiva anual.",
+    "C": "La tasa de inflación proyectada.",
+    "D": "El crecimiento esperado del país."
+   },
+   "correcta": "C",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "Evaluar en **precios corrientes** (nominales) significa que precios, costos y gastos se ajustan año a año por la **inflación proyectada**. El costo promedio de capital (A) es la tasa de descuento, no un factor para proyectar los flujos; la tasa efectiva anual (B) y el crecimiento del país (D) no convierten precios constantes en corrientes.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-gestion_proyectos-015",
+   "area": "gestion_proyectos",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Un inversionista quiere analizar qué tan sensible es la tasa interna de retorno (TIR) de su proyecto ante cambios en las ventas, los costos de producción unitarios, la inflación y los costos de la materia prima. El inversionista observa varios informes, pero el que le brinda la información requerida para el análisis es el de",
+   "opciones": {
+    "A": "proyección de costos en el tiempo.",
+    "B": "variación de las ventas año tras año.",
+    "C": "gráfico de araña de la TIR.",
+    "D": "gráfico del TIR Versus Precios."
+   },
+   "correcta": "C",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "El **gráfico de araña** muestra en una sola figura cómo cambia la TIR al variar porcentualmente **varias** variables (ventas, costos, inflación, materia prima), así que permite comparar su sensibilidad. TIR vs. precios (D) analiza una sola variable; A y B son proyecciones que no relacionan las variables con la TIR.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-gestion_proyectos-016",
+   "area": "gestion_proyectos",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Una aerolínea dedicada al transporte de pasajeros y de carga evalúa un proyecto de adquisición de una flota de aviones para atender la demanda creciente de pasajeros en los últimos años. El estudio requiere información con alto nivel de detalle de ingeniería que cumpla los requerimientos para el mantenimiento de las aeronaves. Para ello, la información más adecuada es",
+   "opciones": {
+    "A": "la del fabricante.",
+    "B": "la de la competencia.",
+    "C": "la del mercado.",
+    "D": "la de los usuarios."
+   },
+   "correcta": "A",
+   "afirmacion": "Formular un proyecto.",
+   "explicacion": "El detalle técnico de ingeniería y los requerimientos de mantenimiento de una aeronave los define y documenta el **fabricante** (manuales, especificaciones). La competencia, el mercado y los usuarios aportan información comercial o de demanda, no especificaciones de ingeniería.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-gestion_proyectos-017",
+   "area": "gestion_proyectos",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "El director que tiene a cargo la construcción de una central hidroeléctrica se reúne con su equipo asesor, durante la etapa de planificación, para definir la estrategia que permita cumplir lo arrojado por el PERT del proyecto, respecto al recurso humano. La primera actividad que deberán realizar es",
+   "opciones": {
+    "A": "definir un sistema de reconocimientos y recompensas.",
+    "B": "evaluar el desempeño del equipo del proyecto.",
+    "C": "identificar los requerimientos de personal y su disponibilidad.",
+    "D": "promover el trabajo en equipo en el proyecto."
+   },
+   "correcta": "C",
+   "afirmacion": "Ejecutar y gestionar un proyecto.",
+   "explicacion": "En la planificación del recurso humano, lo primero es **identificar qué personal se requiere y cuándo está disponible**, para cumplir el cronograma del PERT. Recompensas, evaluación del desempeño y promoción del trabajo en equipo (A, B, D) corresponden a la dirección y el control del equipo, que vienen después de conformarlo.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-gestion_proyectos-018",
+   "area": "gestion_proyectos",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Se quiere evaluar un proyecto que tendrá como resultado la siembra y cultivo de flores tipo exportación. Para esto, los inversionistas contratan a un especialista en evaluación de proyectos, con el fin de desarrollar el estudio de factibilidad.\n\nEl especialista presenta sus resultados a los inversionistas, pero estos se dan cuenta que no se incluyeron los gastos preoperativos en ningún informe. Según su criterio, estos gastos deberían reflejarse en",
+   "opciones": {
+    "A": "el monto de la inversión.",
+    "B": "los costos de operación.",
+    "C": "los costos fijos.",
+    "D": "los gastos indirectos."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "Según el Icfes, los gastos **preoperativos** (estudios, licencias, montaje, puesta en marcha) se causan antes de operar y por eso hacen parte de la **inversión inicial**. No son costos de operación (B); los costos fijos (C) son una clasificación propia de la etapa de operación, y los gastos indirectos (D) son otra forma de clasificar erogaciones del negocio en marcha.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-gestion_proyectos-019",
+   "area": "gestion_proyectos",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Para la financiación de una central de generación de energía eléctrica se le plantean a los promotores cuatro (4) formas de apalancamiento financiero: bonos, bancos comerciales, entidades multilaterales y agencias de crédito a la exportación (Ecas).\n\nLos promotores del proyecto quieren una financiación a largo plazo debido a que se espera que el flujo de caja del proyecto comience a generar suficiente efectivo después de 10 años de iniciar operaciones. Por tanto, las formas de financiación más adecuada para la situación planteada son",
+   "opciones": {
+    "A": "los bonos.",
+    "B": "los bancos comerciales.",
+    "C": "las entidades multilaterales.",
+    "D": "las agencias de crédito a la exportación (ECAS)."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "Los **bonos** pueden emitirse a plazos muy largos y con pago del capital al vencimiento (o con periodos de gracia), lo que encaja con un proyecto que no genera caja suficiente hasta después de 10 años. Los bancos comerciales (B) prestan a plazos más cortos; las ECAS (D) financian compras de equipos importados, y las multilaterales (C) suelen exigir amortizaciones y condiciones de desarrollo que no son el criterio central aquí.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-gestion_proyectos-020",
+   "area": "gestion_proyectos",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Para el incremento de la productividad local y la exportación de las frutas cultivadas en una región de Colombia, un municipio le solicitó a usted estudiar la información que se muestra en la tabla, en relación con un proyecto de mejoramiento de infraestructura, para el acopio frutícola de la producción del campesinado local. Este proyecto mejorará sus ingresos en 10 %.\n\n| Concepto/año | 0 | 1 | 2 | 3 | 4 | Totales |\n|---|---|---|---|---|---|---|\n| Ingreso | | 900 | 900 | 900 | 900 | 3600 |\n| Costo | | -420 | -420 | -420 | -420 | -1680 |\n| Inversión | -1600 | | | | | -1600 |\n| Flujo neto | -1600 | 480 | 480 | 480 | 480 | 320 |\n| Tasa de oportunidad | 7,50 % | | | | | |\n| VAN | $7,68 | | | | | |\n| TIR | 7,71 % | | | | | |\n\nAl evaluar el proyecto, usted señalará que es viable porque se presenta una situación positiva de",
+   "opciones": {
+    "A": "tasa de oportunidad.",
+    "B": "beneficio neto total.",
+    "C": "VAN.",
+    "D": "ingreso total."
+   },
+   "correcta": "C",
+   "afirmacion": "Evaluar un proyecto.",
+   "explicacion": "El criterio de viabilidad es el **VAN > 0** ($7,68): descontados los flujos a la tasa de oportunidad del 7,5 %, el proyecto genera más de lo que cuesta (coherente con TIR 7,71 % > 7,5 %). La tasa de oportunidad (A) es un dato de entrada, y el beneficio neto total o el ingreso total sin descontar (B, D) ignoran el valor del dinero en el tiempo.",
+   "origen": "Cuadernillo 2018 #20"
+  }
+ ]
+}

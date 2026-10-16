@@ -1,0 +1,397 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Comunicación Jurídica (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-comunicacion_juridica-001",
+   "area": "comunicacion_juridica",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "La eficacia directa de los derechos fundamentales tiende a justificar el activismo judicial, el cual aplica la Carta Fundamental, utiliza los principios constitucionales, los interpreta y llega a modificar en ocasiones las disposiciones superiores. De acuerdo con esto, el legislador deberá brindar elementos principales de interpretación que subordinan la discrecionalidad judicial cuando se habla de derechos fundamentales que, para todos los casos, deben desarrollarse por medio de leyes orgánicas. Estas leyes orgánicas además deben generar los mecanismos de protección de los derechos que están siendo desarrollados por el Legislador.\n\nLa anterior es una afirmación imprecisa, debido a que",
+   "opciones": {
+    "A": "la eficacia directa de los derechos fundamentales en materia constitucional depende del desarrollo legislativo más no de una labor judicial.",
+    "B": "la interpretación judicial de los derechos fundamentales se debe atener a lo expresamente señalado por la labor legislativa.",
+    "C": "el Legislador desarrolla los derechos fundamentales por medio de leyes estatutarias, que se deben referir también a instrumentos judiciales para hacerlos efectivos.",
+    "D": "el Legislador desarrolla los derechos fundamentales por medio de leyes marco, que se deben referir también a instrumentos judiciales para hacerlos efectivos."
+   },
+   "correcta": "C",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "El error del texto está en el tipo de ley: según el artículo 152 de la Constitución, los derechos fundamentales y los procedimientos y recursos para su protección se regulan mediante **leyes estatutarias**, no orgánicas. Las leyes marco (D) sirven para materias económicas como el crédito público o el comercio exterior.",
+   "origen": "Cuadernillo 2021 #1 · Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-002",
+   "area": "comunicacion_juridica",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "“La virtualidad del derecho internacional está confirmada por la experiencia, la práctica de los Estados y la jurisprudencia; pero respondiendo a las características de la sociedad internacional, se trata de un derecho distinto de los derechos estatales y hasta, por comparación, más imperfecto tanto por su menor institucionalización, consecuencia de la estructura social, como por la inadecuación, de sus medios en relación con sus objetivos y las necesidades presentes de dicha sociedad”. (Brotóns, Antonio. Derecho Internacional, 1997).\n\nEntre los siguientes, el argumento sobre derecho internacional que mejor se relaciona con el texto anterior indica que",
+   "opciones": {
+    "A": "se constata su existencia por la vía de fuentes como la costumbre y la jurisprudencia, se trata de un derecho autónomo que regula relaciones entre sujetos de igual jerarquía y que a pesar de su importancia política, social y económica carece de coercitividad.",
+    "B": "difiere de otros porque regula relaciones entre Estados y no entre individuos y en consecuencia requiere una menor institucionalización, lo que puede redundar en una eventual imperfección e inadecuación dentro de la estructura de la sociedad internacional.",
+    "C": "se fundamenta en la costumbre y la jurisprudencia, que son características del derecho internacional, por lo que se trata de un derecho autónomo que regula relaciones entre sujetos no jerarquizados para cumplir los objetivos de la sociedad internacional.",
+    "D": "cuenta con una estructura propia, regula la relación entre los derechos estatales para cumplir sus objetivos y necesidades, a pesar de su menor institucionalización social y jurídica desde contextos transnacionales específicamente establecidos por los operadores jurídicos."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "El texto afirma que el derecho internacional existe (lo confirman la práctica y la jurisprudencia), que es distinto del estatal y que es «más imperfecto» por su baja institucionalización: eso equivale a un derecho autónomo entre sujetos iguales que **carece de coercitividad**. La B invierte la relación causal: la menor institucionalización no es algo que el derecho internacional «requiera».",
+   "origen": "Cuadernillo 2021 #2 · Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-003",
+   "area": "comunicacion_juridica",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Lea este texto jurídico: X, colombiana, mayor de edad, domiciliada en Y, identificada como aparece al pie de mi firma, abogada titulada en ejercicio, en mi calidad de apoderada judicial del señor Z, manifiesto a usted que presento Demanda de reconvención por las vías de un proceso ordinario reivindicatorio de mayor cuantía en contra del señor W. Al momento de la presentación de la demanda de reconvención, se puede afirmar que el papel del abogado creador del texto es",
+   "opciones": {
+    "A": "un apoderado de la parte demandante.",
+    "B": "un curador para la litis.",
+    "C": "un apoderado de la parte demandada.",
+    "D": "un litisconsorte necesario."
+   },
+   "correcta": "C",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "La **demanda de reconvención** solo la puede presentar el demandado, dentro del mismo proceso, contra quien lo demandó. Por eso, al presentarla, la abogada actúa como apoderada de la parte demandada (Z), aunque con la reconvención este pase a demandar a W.",
+   "origen": "Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-004",
+   "area": "comunicacion_juridica",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "X desea contratar a Y como empleada doméstica para que labore 3 días a la semana. Le propone pagarle diariamente $ 70.000 y $ 5.000 por auxilio de transporte, pero no hace referencia al pago de las prestaciones sociales.\n\nSi X consultara a un profesional del derecho, este debería aconsejarle que celebre un contrato con Y en el que se estipule el pago",
+   "opciones": {
+    "A": "del auxilio de transporte, salario diario y algunas de las prestaciones sociales, debido a que es considerada una trabajadora dependiente.",
+    "B": "únicamente del salario diario y del auxilio de transporte, por tratarse de un trabajo por días en el que no se causan prestaciones sociales.",
+    "C": "únicamente del salario diario y del auxilio de transporte, toda vez que considera que el contrato por celebrar es de prestación de servicios.",
+    "D": "del salario diario, el auxilio de transporte y de las prestaciones sociales a que haya lugar, así sea el trabajo por días."
+   },
+   "correcta": "D",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "La trabajadora doméstica por días tiene un **contrato de trabajo** y, por tanto, derecho a todas las prestaciones sociales que se causen, liquidadas en proporción al tiempo laborado. Trabajar solo algunos días no la convierte en contratista ni la excluye de las prestaciones.",
+   "origen": "Cuadernillo 2021 #4 · Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-005",
+   "area": "comunicacion_juridica",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "“El proyecto de ley que hará tránsito a la Cámara de Representantes en el próximo periodo constitucional, tiene por objeto tipificar el feminicidio como un delito autónomo, garantizar la debida diligencia, idoneidad y oportunidad en la investigación y sanción de la violencia contra las mujeres por el hecho de ser mujeres y adoptar estrategias de sensibilización de la sociedad colombiana en la prevención de la violencia feminicida” (aparte textual de un proyecto de ley).\n\nConforme a la anterior argumentación, se puede afirmar que la autora del proyecto pretende",
+   "opciones": {
+    "A": "sancionar al agresor de las mujeres y de los niños.",
+    "B": "proponer la figura jurídica de feminicidio como otro delito del Código Penal colombiano.",
+    "C": "promover mayores argumentos para el delito de homicidio.",
+    "D": "anular el homicidio del Código Penal colombiano y remplazarlo por el feminicidio."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "El objeto declarado es «tipificar el feminicidio como un **delito autónomo**», es decir, crearlo como un tipo penal adicional. No elimina el homicidio (D), no lo refuerza (C) y no menciona a los niños (A).",
+   "origen": "Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-006",
+   "area": "comunicacion_juridica",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "“Siendo Oliver Wendell HOLMES magistrado del Tribunal Supremo, en una ocasión de camino al Tribunal llevó a un joven Learned HAND en su carruaje. Al llegar a su destino, HAND se bajó, saludó en dirección al carruaje que se alejaba y dijo alegremente: `¡Haga justicia, magistrado!´. HOLMES paró el carruaje, hizo que el conductor girara, se dirigió hacia el asombrado HAND y, sacando la cabeza por la ventana, le dijo: `¡Ése no es mi trabajo!´”. (Dworkin, Ronald. La justicia con toga, 2007). Este texto pone de presente la problemática de una de las fuentes formales del derecho, en donde los argumentos de los magistrados de las Altas Cortes, involucren o no el argumento moral de la justicia en sus fallos, coadyuvan en la comprensión del derecho.\n\nEntonces, la fuente formal que se discute en la situación planteada es la",
+   "opciones": {
+    "A": "ley, porque los magistrados están siempre creando normas y, por tanto, instituyendo legislación en cada uno de sus pronunciamientos.",
+    "B": "jurisprudencia, porque las decisiones de los magistrados más allá de la discusión del contenido moral de la justicia son esenciales en la interpretación del derecho.",
+    "C": "costumbre, porque esta surge de acuerdo con los precedentes o con los fallos tradicionales de los jueces en los mismos casos.",
+    "D": "doctrina, como quiera que los argumentos de los jueces se constituyen en la teoría jurídica o científica del derecho."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "Lo que producen los magistrados de las altas cortes al decidir casos es **jurisprudencia**, que es esencial para interpretar el derecho, incorpore o no argumentos morales. La ley la crea el órgano legislativo (A), la costumbre surge de la práctica social (C) y la doctrina es la elaboración teórica de los juristas, no de los fallos (D).",
+   "origen": "Cuadernillo 2021 #6 · Cuadernillo 2026 #6 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-007",
+   "area": "comunicacion_juridica",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Ante un juez de familia se presentó una demanda de nulidad de una unión marital de hecho, alegando que la compañera permanente tenía 13 años de edad al momento de su conformación. En la sentencia, el juez negó la declaratoria de nulidad, indicando que esta causal operaba para el matrimonio y no para la unión marital de hecho. Todo ello sustentado en el artículo 140 del Código Civil, que establece: “El matrimonio es nulo y sin efecto en los siguientes casos: [...] 2. Cuando se ha contraído entre un varón menor de catorce años, y una mujer menor de catorce, o cuando cualquiera de los dos sea respectivamente menor de aquella edad”.\n\nEl tipo de interpretación que realizó el juez sobre el texto en mención fue",
+   "opciones": {
+    "A": "sistemática, porque tuvo que acudir a las normas que regulan la unión marital de hecho para establecer la posible nulidad.",
+    "B": "teleológica, porque entendió que el pensamiento del legislador cuando se reconoció la unión marital de hecho no era la de equipararla al matrimonio.",
+    "C": "gramatical, porque se puede deducir del enunciado del artículo citado que la declaratoria de nulidad solo opera para el matrimonio.",
+    "D": "histórica, porque tuvo en cuenta aquellas sentencias de la Corte Constitucional que se han dictado desde que se reconoció la unión marital de hecho."
+   },
+   "correcta": "C",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "El juez se atuvo a la letra del artículo: la norma dice expresamente «el matrimonio es nulo», así que la causal solo aplica al matrimonio. Apegarse al sentido literal es la interpretación **gramatical** o exegética; no integró otras normas (A), no indagó la finalidad del legislador (B) ni acudió a antecedentes o jurisprudencia (D).",
+   "origen": "Cuadernillo 2021 #7 · Cuadernillo 2026 #7 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-008",
+   "area": "comunicacion_juridica",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Manuel, pintor de profesión, suscribió con una empresa un contrato para restaurar obras de arte, trabajando sin interrupciones, recibiendo una remuneración como contraprestación del servicio, bajo órdenes, directrices, vigilancia y control del administrador representante de la empresa.\n\nEl texto jurídico que contempla la situación laboral de Manuel es",
+   "opciones": {
+    "A": "el Código Civil, que establece el contrato de obra.",
+    "B": "el Código Sustantivo del Trabajo, que define cuál es el contrato laboral.",
+    "C": "el Decreto 933 de 2003, que define cuál es el contrato de aprendizaje.",
+    "D": "la Ley 80 de 1993, que establece el contrato de prestación de servicios."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "Se reúnen los tres elementos del contrato de trabajo: prestación personal del servicio, **remuneración** y **subordinación** (órdenes, vigilancia y control). Ese contrato lo define el Código Sustantivo del Trabajo; la subordinación descarta el contrato de obra y la prestación de servicios.",
+   "origen": "Cuadernillo 2021 #8 · Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-009",
+   "area": "comunicacion_juridica",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Ana, adolescente, madre de Juan, en ejercicio de la patria potestad, demanda alimentos en favor de su hijo. El juez de conocimiento admite la demanda, reconociendo que ella ostenta patria potestad, aunque sea adolescente, y por ello puede representar a su hijo, pues el artículo 288 del Código Civil que cita la palabra “padres” en materia de patria potestad, no indica expresamente que estos deban ser mayores de edad para ejercerla, así que “lo que no distingue el legislador no le es dado al intérprete distinguir”. En este sentido, el juez hace uso de las reglas de la interpretación extensiva.\n\nSi al momento de revisar la viabilidad de la demanda en términos de representación legal se aplica las reglas de interpretación restrictiva al artículo en mención, la decisión sería",
+   "opciones": {
+    "A": "el rechazo de la demanda, aduciendo que los actos permitidos para el adolescente están contemplados expresa y únicamente en nuestro Código Civil, y la representación legal del hijo no es uno de estos.",
+    "B": "el rechazo de la demanda, invocando la incapacidad relativa de la madre para el ejercicio de la representación judicial.",
+    "C": "la inadmisión de la demanda por indebida representación, y la exigencia de la presencia de los abuelos de Juan para que actúen en el proceso como sus representantes legales.",
+    "D": "la inadmisión de la demanda por incapacidad de la madre, y la exigencia de la presencia del padre de Juan para que lo represente."
+   },
+   "correcta": "B",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "Leída restrictivamente, la norma exige que quien representa al hijo sea plenamente capaz; la adolescente es **relativamente incapaz** y no puede comparecer por sí misma en juicio en nombre de otro, por lo que la demanda se rechaza. Las opciones C y D inventan una solución (abuelos o padre) que la norma no prevé, y A supone un listado taxativo de actos que no existe.",
+   "origen": "Cuadernillo 2021 #9 · Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-010",
+   "area": "comunicacion_juridica",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "En el ejercicio de su cargo, un alcalde vulnera el principio de legalidad al momento de tomar una decisión por decreto.\n\nEl significado del principio de legalidad en el caso descrito se entiende como",
+   "opciones": {
+    "A": "la necesidad de contar con una norma previa y escrita para hablar de delito.",
+    "B": "la exigencia de establecer un tributo por un órgano competente.",
+    "C": "la existencia de un procedimiento previo y claro para tomar una decisión en la norma.",
+    "D": "el sometimiento del ejercicio del poder público al ordenamiento jurídico."
+   },
+   "correcta": "D",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "En el ámbito administrativo, el principio de legalidad significa que toda actuación de las autoridades debe ceñirse al **ordenamiento jurídico**. Las opciones A y B describen la legalidad en materia penal y tributaria, que no corresponden a un decreto de alcalde.",
+   "origen": "Cuadernillo 2021 #10 · Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-011",
+   "area": "comunicacion_juridica",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Pedro ve a Juan sentado en la banca de un parque y le dispara cinco veces. En el proceso penal contra Pedro por el delito de homicidio pudo establecerse, a través de la necropsia practicada al cadáver, que Juan había muerto dos horas antes por un infarto. El juez que conoció del caso declaró inocente a Pedro utilizando como argumento normativo el artículo 9 del Código Penal que indica: “Para que la conducta sea punible se requiere que sea típica, antijurídica y culpable. La causalidad por sí sola no basta para la imputación jurídica del resultado...”. Dedujo, por tanto, que el objeto material del delito, la vida de Juan, no existía al momento de los hechos y, por ello, ante la ausencia de un elemento esencial del tipo objetivo, la conducta resultaba atípica.\n\nEl método de interpretación de la ley que utilizó el juez, para aplicar el artículo 9 del Código Penal, fue",
+   "opciones": {
+    "A": "gramatical.",
+    "B": "sistemático.",
+    "C": "teleológico.",
+    "D": "histórico."
+   },
+   "correcta": "B",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "El artículo 9 por sí solo no resuelve el caso: el juez tuvo que relacionarlo con el tipo penal de homicidio para verificar que faltaba un elemento (una persona viva). Integrar la norma con el resto del ordenamiento es la interpretación **sistemática**; no fue literal (A), ni se apoyó en la finalidad del legislador (C) o en los antecedentes de la norma (D).",
+   "origen": "Cuadernillo 2021 #11 · Cuadernillo 2026 #11 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-012",
+   "area": "comunicacion_juridica",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Una secretaría de planeación municipal se basó en su Plan de Ordenamiento Territorial (POT) para resolver un acto administrativo que ordena a Pedro demoler una casa que está en proceso de construcción en un lote de terreno de su propiedad, debido a que aún no le entregan la licencia de construcción que viene gestionando ante la autoridad competente.\n\nHacer uso de lo estipulado en el POT para tomar la decisión expuesta es",
+   "opciones": {
+    "A": "pertinente, porque el POT permite regular el desarrollo urbanístico.",
+    "B": "impertinente, porque el POT solo se aplica en ciudades capitales.",
+    "C": "pertinente, porque el POT es en sí mismo un acto administrativo.",
+    "D": "impertinente, porque la licencia de construcción está en trámite."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "El POT es el instrumento que regula el uso del suelo y el **desarrollo urbanístico** del municipio, así que es el fundamento adecuado para ordenar la demolición de una obra levantada sin licencia. Que la licencia esté en trámite (D) no autoriza a construir, y el POT rige en todos los municipios, no solo en capitales (B).",
+   "origen": "Cuadernillo 2021 #12 · Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-013",
+   "area": "comunicacion_juridica",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "El artículo 94 de la Constitución Política prevé que “La enunciación de los derechos y garantías contenidos en la Constitución y en los convenios vigentes, no debe entenderse como negación de otros que, siendo inherentes a la persona humana, no figuren expresamente en ellos”. Un juez interpreta este artículo enfatizando en que este reclama la dignidad de la persona como fin.\n\nEn la postura del juez prevalece el método de interpretación",
+   "opciones": {
+    "A": "teleológico sobre el sistemático.",
+    "B": "histórico sobre el gramatical.",
+    "C": "gramatical sobre el histórico.",
+    "D": "sistemático sobre el gramatical."
+   },
+   "correcta": "A",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "Al leer la norma a partir de la **finalidad** que persigue (la dignidad humana como fin), el juez privilegia el método teleológico; no busca armonizarla con otras normas (sistemático) ni se detiene en su letra o en sus antecedentes.",
+   "origen": "Cuadernillo 2021 #13 · Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-014",
+   "area": "comunicacion_juridica",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "La Corte Constitucional, en sus consideraciones sobre la muerte digna o eutanasia, consideró que el derecho a la vida no es absoluto sino limitado y vinculado a la dignidad humana y a la autonomía de la persona, señalando además que no solo se tutela la vida como un derecho, sino que también está incorporada a los fines y deberes del Estado Social de Derecho.\n\nLa interpretación que hizo la Corte sobre esta temática es",
+   "opciones": {
+    "A": "gramatical y literal.",
+    "B": "teológica y confesional.",
+    "C": "histórica y gramatical.",
+    "D": "sistemática y teleológica."
+   },
+   "correcta": "D",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "La Corte relaciona el derecho a la vida con otros principios del ordenamiento (dignidad, autonomía), lo cual es interpretación **sistemática**, y lo vincula con los fines del Estado Social de Derecho, lo cual es interpretación **teleológica**. Ojo con la B: «teológica» (religiosa) no es lo mismo que «teleológica» (finalista).",
+   "origen": "Cuadernillo 2021 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-015",
+   "area": "comunicacion_juridica",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Un funcionario de carrera administrativa de una alcaldía apareció en una lista de presuntos implicados en hechos de corrupción. Como consecuencia de lo anterior, es removido de su cargo. El afectado interpone una acción de nulidad y restablecimiento del derecho para lograr su reintegro.\n\nDe las siguientes fuentes formales, todas corresponden a las que el juez deba tomar en consideración para estudiar el caso, excepto:",
+   "opciones": {
+    "A": "La costumbre, como fuente del derecho que sirve para interpretar las decisiones judiciales.",
+    "B": "La resolución expedida por el alcalde mediante la cual fue declarado insubsistente.",
+    "C": "Las normas constitucionales encargadas de regular la carrera administrativa.",
+    "D": "Las normas que regulan el empleo público en Colombia desde el rango legislativo."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "La resolución del alcalde es el **acto demandado**, es decir, el objeto que el juez debe controlar, no una fuente formal del derecho con la cual juzgarlo. Las normas constitucionales y legales sobre carrera y empleo público sí son fuentes, y la costumbre es fuente auxiliar.",
+   "origen": "Cuadernillo 2021 #15 · Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-016",
+   "area": "comunicacion_juridica",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Juan se presenta ante un comisario de familia con el fin de reconocer a su hijo Pedro, quien fue concebido dentro del matrimonio con María. El comisario dicta (con base en el artículo 2.° de la Ley 45 de 1936 que hace referencia a las formas en las que se adelanta el reconocimiento voluntario, y la opción de hacerlo ante comisario de familia no está incluida) una resolución en la que afirma que él no tiene la competencia para aceptar esa solicitud.\n\nLa decisión que toma el funcionario frente al ofrecimiento de reconocimiento voluntario es",
+   "opciones": {
+    "A": "pertinente, porque Juan debe acudir ante un notario para reconocer a Pedro como su hijo.",
+    "B": "impertinente, porque el Código de la Infancia y Adolescencia fijó tal competencia en cabeza del comisario de familia.",
+    "C": "pertinente, porque Juan debe acudir ante un juez para reconocer a Pedro como su hijo.",
+    "D": "impertinente, porque el hijo concebido dentro del matrimonio está amparado en la ley por la presunción de paternidad."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "La norma citada no incluye al comisario de familia entre las vías de reconocimiento voluntario, así que declararse incompetente es correcto; el reconocimiento voluntario puede hacerse, entre otras formas, mediante **escritura pública ante notario**. No hace falta acudir a un juez (C), que interviene cuando hay controversia sobre la filiación.",
+   "origen": "Cuadernillo 2021 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-017",
+   "area": "comunicacion_juridica",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Los títulos valores son documentos necesarios para legitimar el ejercicio del derecho literal y autónomo que en ellos se incorpora, lo cual puede lograrse a través de un proceso ejecutivo. Estos deben estar firmados por el deudor, contener un derecho a favor de una persona y una obligación exigible al vencimiento del plazo señalado en estos.\n\nCon fundamento en la anterior descripción, puede afirmarse que prestan mérito ejecutivo aquellos títulos valores que contengan una obligación",
+   "opciones": {
+    "A": "clara y expresa, cuya exigibilidad debe definir el juez a favor de un acreedor.",
+    "B": "clara y exigible, cuyo valor se encuentra sometido a una condición inevitable.",
+    "C": "clara, expresa y exigible, constituida por el agente oficioso de un tercero.",
+    "D": "clara, expresa y exigible, a favor de un acreedor que proviene del deudor."
+   },
+   "correcta": "D",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "Para prestar mérito ejecutivo, la obligación debe ser **clara, expresa y exigible** y constar en un documento que provenga del deudor (firmado por él) a favor de un acreedor, tal como lo describe el texto. La exigibilidad no la define el juez (A) y el título no lo constituye un tercero (C).",
+   "origen": "Cuadernillo 2021 #18 · Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-018",
+   "area": "comunicacion_juridica",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Un funcionario de la administración, en ejercicio de sus funciones, toma la decisión de dejar sin efectos una norma legal, pues él considera que esta norma vulnera la Constitución. Con el tiempo, tal comportamiento se vuelve regular en el funcionario quien vuelve la inaplicación, que es una excepción, su forma de actuar en todos los casos que debe resolver, y en la práctica llega a desconocer de forma general la norma que él cree es inconstitucional.\n\nTal actuación del funcionario de la administración debe rechazarse, porque",
+   "opciones": {
+    "A": "no analiza la norma en el caso concreto y atenta contra el principio constitucional aplicable directamente a la integración de la Constitución.",
+    "B": "desconoce el principio constitucional pro homine, pues siempre deben interpretarse las disposiciones legales en beneficio y garantía de la persona humana.",
+    "C": "vulnera claramente el principio de corrección funcional, pues al administrador no le está dada la competencia de declarar inconstitucionales las disposiciones legales.",
+    "D": "viola el principio de fuerza normativa de la Constitución, ya que solo la usa como catálogo de principios, pero no los aplica de forma directa."
+   },
+   "correcta": "C",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "La excepción de inconstitucionalidad permite inaplicar una ley en un caso concreto, pero convertirla en regla general equivale a declarar inconstitucional la norma, función que solo tienen los jueces competentes. Por eso se viola el principio de **corrección funcional**: el funcionario invade una competencia que no le corresponde.",
+   "origen": "Cuadernillo 2021 #19 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-019",
+   "area": "comunicacion_juridica",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Si la ley penal colombiana establece mecanismos preventivos, como la imposición de medidas de aseguramiento privativas de la libertad a los sujetos que violen la Ley, la conclusión es que si a una persona que fue privada de la libertad se le declara inocente, luego de un proceso penal, esta persona podrá reclamar al Estado por las consecuencias padecidas.\n\nLa conclusión anterior sobre la responsabilidad del Estado se puede inferir de la premisa, porque",
+   "opciones": {
+    "A": "en derecho penal siempre se da la posibilidad de que exista responsabilidad extracontractual del Estado.",
+    "B": "la privación de la libertad, sea injusta o no, acarrea responsabilidad extracontractual en cabeza del Estado.",
+    "C": "desde que exista un daño jurídico injusto, en cualquier caso, será posible hablar de la responsabilidad estatal.",
+    "D": "demostrado que la privación de la libertad fue injusta, cabe la responsabilidad del Estado por daños sufridos."
+   },
+   "correcta": "D",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "La conclusión solo se sigue si se añade que la privación de la libertad de quien resultó inocente fue **injusta**: es ese daño antijurídico el que genera la responsabilidad del Estado. Las opciones A, B y C generalizan de más («siempre», «sea injusta o no», «en cualquier caso»).",
+   "origen": "Cuadernillo 2021 #20 · Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-020",
+   "area": "comunicacion_juridica",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Un juez administrativo a través de un fallo de tutela sostiene que “los tratados internacionales suscritos por el Estado colombiano, en concreto, los que contienen mecanismos de protección de derechos humanos tienen una jerarquía superior a la misma Constitución de Colombia”.\n\nLo postura del juez en cuanto a las fuentes del Derecho presenta un error que se sintetiza en:",
+   "opciones": {
+    "A": "Desconocer el valor igualitario que existe entre los tratados internacionales sobre DDHH y las normas constitucionales.",
+    "B": "Olvidar que los tratados internacionales deben ser aprobados por el legislativo colombiano para tener un valor supra constitucional.",
+    "C": "Omitir que el control constitucional dado por la Corte Constitucional a los tratados es necesario para hablar de jerarquía superior.",
+    "D": "Relegar el valor supra constitucional de los tratados solo a los que hablan de Derechos Humanos."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "Por el **bloque de constitucionalidad** (artículo 93 de la Constitución), los tratados de derechos humanos ratificados por Colombia tienen el mismo rango que la Constitución, no uno superior. Las demás opciones dan por cierto que existe un valor «supra constitucional», que es justamente el error.",
+   "origen": "Cuadernillo 2021 #21 · Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-021",
+   "area": "comunicacion_juridica",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Desde 1980 hasta 1995, Adela tuvo unión marital de hecho con Simón, tiempo durante el cual éste perteneció a la Política Nacional y recibió pensión de invalidez. Simón murió en 1995. Adela, en 1996, solicitó el reconocimiento de la pensión de sobreviviente en calidad de compañera permanente supérstite, la cual fue negada, con el argumento de que las normas jurídicas vigentes a la muerte de Simón no establecían ese beneficio para las compañeras permanentes de los miembros de la institución policial.\n\nCon el fin de que le sea reconocida la pensión, el abogado de Adela debería instaurar una",
+   "opciones": {
+    "A": "tutela, invocando la defensa de los derechos fundamentales por vulneración del mínimo vital, ante un juez de reparto de tutelas.",
+    "B": "demanda de nulidad de la resolución que negó la solicitud que hizo la viuda a la entidad oficial ante un juez administrativo.",
+    "C": "acción ordinaria basada en la obligatoriedad de los precedentes constitucionales para las autoridades administrativas ante un juez administrativo.",
+    "D": "denuncia ante el ente de vigilancia y control de la entidad pública, para que le ordene reconocer la pensión de sobreviviente."
+   },
+   "correcta": "C",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "La negativa se apoya en normas que excluían a las compañeras permanentes, pero la jurisprudencia constitucional ya equiparó sus derechos pensionales a los del cónyuge; ese **precedente constitucional obliga a las autoridades administrativas**, y es el argumento para reclamar ante el juez administrativo por la vía ordinaria. La tutela (A) es subsidiaria y el ente de control (D) no puede ordenar el reconocimiento de la pensión.",
+   "origen": "Cuadernillo 2021 #3"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-022",
+   "area": "comunicacion_juridica",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Según el artículo 1.° de la Ley 54 de 1990 se denominará unión marital de hecho a la conformada por un hombre y una mujer que, sin estar casados, establecen una comunidad de vida permanente y singular.\n\nCon fundamento en el principio de eficacia, es decir, si se busca la aplicación material de la norma, la expresión “comunidad de vida” debe interpretarse como",
+   "opciones": {
+    "A": "que existe una obligación de cohabitación entre los compañeros permanentes.",
+    "B": "que la comunidad de vida lleva implícita una comunidad de bienes entre los compañeros permanentes.",
+    "C": "que ambos consortes se deben socorro y ayuda mutua hasta que la unión se deshaga jurídicamente.",
+    "D": "que la comunidad de vida debe ser estable en el tiempo y monogámica."
+   },
+   "correcta": "A",
+   "afirmacion": "Maneja con idoneidad el lenguaje jurídico y conoce principios y métodos de la interpretación jurídica, así como las posturas críticas a tales métodos y principios.",
+   "explicacion": "Darle aplicación material a «comunidad de vida» significa entender que los compañeros comparten efectivamente la vida, esto es, que **cohabitan**. La comunidad de bienes (B) es un efecto patrimonial distinto, y la estabilidad y monogamia (D) corresponden a las palabras «permanente y singular», no a «comunidad de vida».",
+   "origen": "Cuadernillo 2021 #5"
+  },
+  {
+   "id": "icfes-comunicacion_juridica-023",
+   "area": "comunicacion_juridica",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Al entrar en vigencia el Decreto-Ley 2277 de 1979, de profesionalización de los educadores, solamente reconocía como profesionales de la educación a los licenciados de facultades de educación, excluyendo a los licenciados en filosofía. El abogado de una reconocida facultad de filosofía alegó que la formación de los filósofos equivalía a la de los licenciados en educación, pues los primeros también se formaban para enseñar y tenían asignaturas de formación pedagógica. Las autoridades gubernamentales dieron valor al alegato por cuanto existe un disposición que regula esta situación.\n\nEl argumento del abogado de la facultad de filosofía fue",
+   "opciones": {
+    "A": "aplicar el principio de igualdad positiva igualando el caso no regulado al regulado en la ley.",
+    "B": "aludir a la autoridad académica por su tradición en formación de licenciados.",
+    "C": "fundar la razón de la norma, de mayor a menor: quien puede lo más, puede lo menos.",
+    "D": "fundar la razón de la norma al indicar que quien puede lo más, puede lo menos."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa textos con base en los principios de la argumentación jurídica.",
+   "explicacion": "El abogado sostiene que los licenciados en filosofía están en una situación **equivalente** a la de los licenciados en educación (también se forman para enseñar), por lo que el caso no regulado debe recibir el mismo trato que el regulado: es un argumento por igualdad o analogía. No invoca la autoridad de la institución (B) ni un razonamiento a fortiori de «quien puede lo más, puede lo menos» (C, D).",
+   "origen": "Cuadernillo 2021 #17"
+  }
+ ]
+}

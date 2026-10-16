@@ -1,0 +1,398 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Formar (cuadernillos y preguntas explicadas)",
+  "contextos": [],
+  "preguntas": [
+    {
+      "id": "icfes18-formar-01",
+      "area": "formar",
+      "n": 1,
+      "contexto": null,
+      "enunciado": "La salida pedagógica de los estudiantes del grado octavo fue suspendida por las directivas de la institución educativa porque en los últimos tres años siempre se han presentado problemas como el consumo de bebidas alcohólicas, cigarrillo o salidas del lugar sin permiso del profesor encargado. Los estudiantes consideran injusta la medida, porque ellos no hicieron parte de los problemas y, en consecuencia, deciden entrar a clases solamente cuando se autorice la salida.\n\nUn profesor decide mediar entre los estudiantes y las directivas, y aprovecha la situación para lograr interacciones formativas. Por esto, considera que la situación más favorable para ello es",
+      "opciones": {
+        "A": "convocar a los padres de familia para que se comprometan con el buen comportamiento de sus hijos y soliciten a las directivas autorizar la salida.",
+        "B": "invitar a una reunión a los estudiantes de noveno, décimo y undécimo grado para que respondan por sus actos y soliciten a las directivas autorizar la salida.",
+        "C": "reunir a los estudiantes de octavo grado y pedirles que cada uno escriba su compromiso de buen comportamiento para enviarlos a las directivas.",
+        "D": "realizar debates abiertos entre los integrantes de la comunidad educativa, a fin de concertar otras formas comunicativas abiertas a la multiplicidad."
+      },
+      "correcta": "D",
+      "afirmacion": "Comprende las características físicas, intelectuales y sociales de sus estudiantes.",
+      "explicacion": "El **debate abierto** con toda la comunidad convierte el conflicto en una oportunidad formativa: los estudiantes argumentan, escuchan otras posturas y concertan soluciones. Las demás opciones delegan la solución en otros o se limitan a compromisos unilaterales, sin diálogo real.",
+      "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+    },
+    {
+      "id": "icfes18-formar-02",
+      "area": "formar",
+      "n": 2,
+      "contexto": null,
+      "enunciado": "Un profesor implementa en sus clases actividades de reflexión sobre situaciones cotidianas con sus estudiantes, reconociendo que este tipo de actividades favorecen significativamente su formación ciudadana y social. Luego de observar los efectos de estas actividades, el profesor decide incluir en sus clases escenarios de participación a fin de propiciar un espacio en el cual sus estudiantes puedan reflexionar a partir de sus aprendizajes.\n\nDe acuerdo con lo anterior, el propósito de incluir escenarios de participación es",
+      "opciones": {
+        "A": "favorecer la adquisición de destrezas propositivas en sus estudiantes.",
+        "B": "contrastar su práctica educativa con las actividades que él ha propuesto.",
+        "C": "mejorar su relación con los estudiantes y con la comunidad educativa.",
+        "D": "examinar la imagen que los estudiantes tienen del saber que aprenden."
+      },
+      "correcta": "A",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "Los escenarios de participación buscan que los estudiantes pasen de reflexionar a **proponer**, es decir, que desarrollen destrezas propositivas para actuar en su entorno. Las otras opciones ponen el foco en el profesor (su práctica o su relación) y no en la formación del estudiante.",
+      "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2"
+    },
+    {
+      "id": "icfes18-formar-03",
+      "area": "formar",
+      "n": 3,
+      "contexto": null,
+      "enunciado": "Los profesores de un Centro Educativo rural, que trabaja con enfoque de Escuela Nueva, son conscientes de la importancia de una buena nutrición para mejorar los procesos de aprendizaje de sus estudiantes, y han visto con preocupación que un alto porcentaje de ellos presenta problemas de rendimiento escolar asociados a una alimentación deficiente.\n\nDe acuerdo con el planteamiento anterior, la acción más acertada de la institución educativa para actuar con prontitud y buscar soluciones integrales es",
+      "opciones": {
+        "A": "vincular al sector de la salud para la valoración del estado nutricional de los estudiantes.",
+        "B": "informar a los padres de familia sobre la situación, para que modifiquen sus hábitos alimentarios.",
+        "C": "realizar un proyecto comunitario sobre hábitos alimentarios y comunicar a las autoridades municipales.",
+        "D": "remitir los casos agudos de desnutrición al ICBF y hacer el seguimiento correspondiente."
+      },
+      "correcta": "C",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "Una solución **integral** involucra a la comunidad en la transformación de sus hábitos y, a la vez, a las autoridades que pueden actuar; eso hace el proyecto comunitario. Valorar, informar o remitir casos son acciones parciales que no transforman la situación de fondo.",
+      "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+    },
+    {
+      "id": "icfes18-formar-04",
+      "area": "formar",
+      "n": 4,
+      "contexto": null,
+      "enunciado": "El entorno de una institución educativa se ha llenado de afiches, pendones, pasacalles y vallas con todo tipo de información; ante esta contaminación visual, los profesores de los grados 10.º y 11.º ven en esta situación una oportunidad para integrar los problemas de contaminación y su prevención a las prácticas ambientales previstas en el Proyecto Educativo Institucional (PEI) y en las políticas de educación ambiental. Para ello, deciden",
+      "opciones": {
+        "A": "realizar con los estudiantes un recuento, ubicación y categorización de los afiches, pendones, pasacalles y vallas de la localidad.",
+        "B": "propiciar espacios de reflexión con todos los profesores de Ciencias Naturales y Sociales para incorporar el tema de la contaminación visual.",
+        "C": "realizar actividades ecológicas escolares para eliminar el uso de afiches, pendones, pasacalles y vallas en la institución y sus alrededores.",
+        "D": "propiciar el desarrollo de proyectos de educación ambiental con la comunidad, con miras a la resolución conjunta de esta problemática."
+      },
+      "correcta": "D",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "Las políticas de educación ambiental privilegian los **proyectos con la comunidad** que buscan resolver problemas del entorno de manera conjunta. Inventariar los afiches o reflexionar solo entre profesores se queda corto, y eliminar el material desde la escuela no forma ni involucra a la comunidad.",
+      "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+    },
+    {
+      "id": "icfes18-formar-05",
+      "area": "formar",
+      "n": 5,
+      "contexto": null,
+      "enunciado": "Un grupo de estudiantes pide apoyo a un profesor acerca de una campaña que quisieran adelantar en el colegio. La propuesta se resume en la siguiente tabla:\n\nLuego de conocer la propuesta, el profesor se interesa en la campaña y decide acompañar a los estudiantes en su ejecución.\n\nEn la situación anterior, se puede afirmar que la intención del profesor al participar es",
+      "opciones": {
+        "A": "fomentar la participación de la familia en las actividades del colegio.",
+        "B": "promover en sus estudiantes el desarrollo de una actitud solidaria.",
+        "C": "crear en la comunidad una imagen prestigiosa de la institución.",
+        "D": "despertar la confianza y el respeto de sus estudiantes hacia él."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende las características físicas, intelectuales y sociales de sus estudiantes.",
+      "explicacion": "Al acompañar una campaña de ayuda a damnificados, el propósito formativo del profesor es fortalecer la **solidaridad** de sus estudiantes. La participación de las familias es un rasgo de la campaña, no la intención pedagógica, y el prestigio o la imagen del profesor no son fines educativos.",
+      "imagen": "icfes18_formar_05.png",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes18-formar-06",
+      "area": "formar",
+      "n": 6,
+      "contexto": null,
+      "enunciado": "Con el propósito de mejorar las condiciones ambientales de una institución educativa, el coordinador de Sociales les propone a los profesores de su área desarrollar un proyecto en el que participen los estudiantes de los diferentes grados y se comuniquen utilizando internet.\n\nDurante el desarrollo de este proyecto, se espera que los estudiantes",
+      "opciones": {
+        "A": "incrementen su comunicación a través de internet, sin la intermediación de los profesores en el aula.",
+        "B": "utilicen libremente la información que circula a través de internet.",
+        "C": "aprovechen internet para la adquisición de información sobre los temas ambientales.",
+        "D": "intercambien ideas a través de internet en equipo para alcanzar metas conjuntas."
+      },
+      "correcta": "D",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "El proyecto reúne estudiantes de distintos grados para comunicarse, así que lo esperado es que usen internet para **trabajar en equipo** e intercambiar ideas hacia una meta común. Buscar información (C) es un uso individual que no aprovecha el componente colaborativo del proyecto.",
+      "origen": "Cuadernillo 2018 #6 · Cuadernillo 2026 #5"
+    },
+    {
+      "id": "icfes18-formar-07",
+      "area": "formar",
+      "n": 7,
+      "contexto": null,
+      "enunciado": "Al comenzar el año escolar, los profesores de noveno grado de una institución educativa deciden implementar una estrategia para estimular en los estudiantes la elaboración de alternativas de solución para problemas comunitarios; para ello, eligen uno relacionado con el sistema de acueducto y alcantarillado de su localidad.\n\nCon esta estrategia se busca que los estudiantes",
+      "opciones": {
+        "A": "indaguen con los expertos en el tema sobre las mejores alternativas de solución para este problema.",
+        "B": "consulten textos en la biblioteca para identificar posibles causas del problema.",
+        "C": "construyan opciones viables a partir del análisis de las causas del problema.",
+        "D": "divulguen entre la comunidad las soluciones que se han usado para resolver problemas similares."
+      },
+      "correcta": "C",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "La estrategia busca que **los propios estudiantes** elaboren alternativas de solución, y para eso deben examinar las causas del problema y construir opciones viables. Consultar a expertos o textos deja la solución en manos de otros, y divulgar soluciones ya usadas es un paso posterior a estudiar el problema.",
+      "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #6 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes18-formar-08",
+      "area": "formar",
+      "n": 8,
+      "contexto": null,
+      "enunciado": "En un Proyecto Educativo Institucional, se tiene como meta, para los programas relacionados con la gestión a la comunidad, contribuir con la formación de actores sociales con capacidad de comprensión y transformación de su contexto. Consecuente con ello, el criterio más relevante y formativo que deben cumplir las propuestas que realice la institución para enfrentar los desafíos de la comunidad es",
+      "opciones": {
+        "A": "promover la autogestión de proyectos.",
+        "B": "desarrollar la capacidad de trabajo en equipo.",
+        "C": "facilitar la participación de la comunidad.",
+        "D": "difundir los programas institucionales."
+      },
+      "correcta": "A",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "Formar actores sociales capaces de **transformar** su contexto implica que la comunidad aprenda a gestionar por sí misma sus proyectos. Facilitar la participación (C) es necesario, pero no basta: se puede participar sin ganar autonomía para transformar.",
+      "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #7"
+    },
+    {
+      "id": "icfes18-formar-09",
+      "area": "formar",
+      "n": 9,
+      "contexto": null,
+      "enunciado": "Los directivos docentes y los profesores de una institución educativa deciden revisar la estructura de su sistema de autoevaluación institucional. Los criterios fundamentales en los que se apoyan para la búsqueda de la calidad son la coherencia, la congruencia y la pertinencia; la coherencia entendida como la búsqueda constante de fidelidad a los principios misionales de la institución en todas las políticas, procesos y acciones que constituyen su cotidianidad; la congruencia concebida como construcción armónica de políticas, procesos y acciones para el logro de los objetivos institucionales, y la pertinencia, asumida como la lectura permanente del contexto y de la vida institucional para reconocer los retos propios de la misión de educar.\n\nEn este proceso de autoevaluación, la revisión de los proyectos curriculares de área, que formen parte del Proyecto Educativo Institucional, muestra fortalezas en los criterios fundamentales, específicamente en la pertinencia. La pertinencia de los proyectos curriculares se evidencia cuando en la definición de sus objetivos y en sus ámbitos temáticos y problemáticos reconocen:",
+      "opciones": {
+        "A": "Los contenidos contextualizados y una formación para el desarrollo de competencias.",
+        "B": "Las necesidades de los estudiantes y el consenso sobre la propuesta educativa de las áreas.",
+        "C": "La normatividad educativa y las teorías y métodos de las disciplinas objeto de enseñanza.",
+        "D": "La lectura crítica del entorno sociocultural y los principios misionales de la institución."
+      },
+      "correcta": "D",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "El enunciado define la pertinencia como la **lectura del contexto** para reconocer los retos de la **misión** de educar; la opción D recoge justamente esos dos elementos. Las demás mencionan aspectos curriculares válidos, pero no corresponden a la definición dada.",
+      "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #8"
+    },
+    {
+      "id": "icfes18-formar-10",
+      "area": "formar",
+      "n": 10,
+      "contexto": null,
+      "enunciado": "La Constitución Política de 1991 y la Ley General de Educación (115 de 1994) otorga a los padres de familia el título de miembros de la comunidad educativa y los convoca a participar en diversas instancias de la gestión escolar.\n\nDesde esta perspectiva, el compromiso de los padres de familia con la formación escolar de sus hijos implica",
+      "opciones": {
+        "A": "aportar los recursos económicos necesarios y enseñar las normas de comportamiento en el hogar.",
+        "B": "intercambiar orientaciones sobre los procesos formativos y participar en el mejoramiento institucional.",
+        "C": "asistir a los eventos programados por la institución y velar por la prestación del servicio educativo.",
+        "D": "recibir información sobre el comportamiento y rendimiento académico para tomar medidas a tiempo."
+      },
+      "correcta": "B",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "Como **miembros** de la comunidad educativa, los padres no solo aportan recursos o forman en el hogar: intercambian orientaciones con la escuela sobre la formación y participan en el plan de mejoramiento institucional. Asistir a eventos o recibir informes son roles pasivos que no los hacen partícipes de las decisiones de la gestión escolar.",
+      "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #9 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes18-formar-11",
+      "area": "formar",
+      "n": 11,
+      "contexto": null,
+      "enunciado": "Después de la autoevaluación institucional, los miembros de una comunidad educativa deciden redefinir el vínculo entre escuela y familia y modificar las prácticas de interacción, de manera que respondan a un enfoque menos operativo y más holístico.\n\nPara el nuevo enfoque se requiere",
+      "opciones": {
+        "A": "el compromiso recíproco de la escuela y la familia, para tomar decisiones conjuntas a favor del desarrollo de los estudiantes.",
+        "B": "el intercambio de información entre la escuela y la familia, para lograr la intervención de los padres en el rendimiento académico de sus hijos.",
+        "C": "el complemento entre la escuela y la familia, para que la escuela responda por los conocimientos y la familia por los principios.",
+        "D": "el encuentro entre la escuela y la familia, para cumplir la normatividad vigente y los compromisos adquiridos al firmar la matrícula."
+      },
+      "correcta": "A",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "Un enfoque **holístico** exige un compromiso recíproco: escuela y familia son corresponsables y toman decisiones conjuntas a favor del desarrollo integral del estudiante. Intercambiar información, repartir funciones (conocimientos para la escuela, principios para la familia) o cumplir lo firmado en la matrícula mantienen una relación operativa.",
+      "origen": "Cuadernillo 2018 #11 · Cuadernillo 2026 #10 · Preguntas explicadas #3"
+    },
+    {
+      "id": "icfes18-formar-12",
+      "area": "formar",
+      "n": 12,
+      "contexto": null,
+      "enunciado": "Las directivas y los profesores de una institución educativa están empeñados en la búsqueda de alternativas pedagógico-didácticas que pongan el acento y el protagonismo en sus estudiantes, a fin de que asuman posturas más reflexivas y críticas sobre las condiciones sociales que agobian el entorno institucional, caracterizado por las problemáticas derivadas de la escasez de recursos económicos, el desempleo, la falta de oportunidades para familias en condición de desplazamiento provenientes de diferentes regiones del país y situaciones de intolerancia, generadas por la disimilitud de prácticas culturales entre los habitantes.\n\nEn este sentido, las propuestas educativas deben apuntar a trabajar fuertemente a favor de:",
+      "opciones": {
+        "A": "El fortalecimiento de la identidad institucional y el compromiso con el proyecto de vida personal.",
+        "B": "El compromiso con el manual de convivencia y el respeto a los puntos de vista propios y ajenos.",
+        "C": "Las prácticas que favorezcan la inclusión, la valoración de la diversidad y el manejo de conflictos.",
+        "D": "Las actividades que promuevan la responsabilidad, la aceptación de las dificultades y la confianza."
+      },
+      "correcta": "C",
+      "afirmacion": "Comprende las características físicas, intelectuales y sociales de sus estudiantes.",
+      "explicacion": "El contexto combina desplazamiento, diversidad cultural e intolerancia, por lo que la respuesta debe atender la **inclusión**, la **valoración de la diversidad** y el **manejo de conflictos**. Las demás opciones son deseables, pero no responden directamente a esas problemáticas.",
+      "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #11"
+    },
+    {
+      "id": "icfes18-formar-13",
+      "area": "formar",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "En Colombia, el fortalecimiento de actitudes positivas que favorezcan en los estudiantes la coherencia entre sus concepciones y sus prácticas democráticas es un propósito educativo que se logra con el desarrollo de competencias ciudadanas.\n\nLa actividad que resulta más conveniente para promover actitudes democráticas en los estudiantes es",
+      "opciones": {
+        "A": "consultar el significado de actitudes democráticas.",
+        "B": "participar en el desarrollo de un proyecto de aula.",
+        "C": "conocer los principios del Proyecto Educativo Institucional.",
+        "D": "recibir lecciones sobre competencias ciudadanas."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende las características físicas, intelectuales y sociales de sus estudiantes.",
+      "explicacion": "Las actitudes democráticas se forman **practicándolas**: un proyecto de aula exige participar, deliberar y decidir con otros. Consultar, conocer o recibir lecciones son actividades informativas que no garantizan coherencia entre lo que se piensa y lo que se hace.",
+      "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #12"
+    },
+    {
+      "id": "icfes18-formar-14",
+      "area": "formar",
+      "n": 14,
+      "contexto": null,
+      "enunciado": "A su ingreso en el aula, un profesor encuentra que dos estudiantes están agrediéndose física y verbalmente. Luego de detener el altercado, el profesor les pide regresar a sus lugares y de este modo dar inicio a las actividades que tenía programadas para su clase.\n\nPara superar estas agresiones, el profesor y el equipo de profesores pueden diseñar y aplicar estrategias pedagógicas en las cuales se desarrollen:",
+      "opciones": {
+        "A": "Actividades que estimulen la convivencia y el respeto por la diferencia entre estudiantes.",
+        "B": "Clases que contribuyan a mantener buenos niveles de disciplina y atención entre los estudiantes.",
+        "C": "Acciones adecuadas sobre el conocimiento y cumplimiento de los estudiantes del manual de convivencia.",
+        "D": "Reuniones con las familias de los estudiantes para informarles sobre las sanciones a los estudiantes."
+      },
+      "correcta": "A",
+      "afirmacion": "Comprende las características físicas, intelectuales y sociales de sus estudiantes.",
+      "explicacion": "Superar las agresiones requiere una estrategia **pedagógica** que trabaje la convivencia y el respeto por la diferencia, atacando la raíz del conflicto. La disciplina, el manual o las sanciones son medidas de control que no forman en la convivencia.",
+      "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #13"
+    },
+    {
+      "id": "icfes18-formar-15",
+      "area": "formar",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "“Los estudiantes de una institución se caracterizan por su excelencia académica, por respetar diferentes perspectivas y modos de pensar, ser críticos y buscar situaciones creativas a problemas complejos” (Proyecto Educativo Institucional, colegio Y).\n\nAlgunos profesores y jefes de área de la institución quieren desarrollar una investigación para evidenciar las características de los estudiantes que se mencionan en el PEI. La mejor metodología para llevar a cabo la investigación es",
+      "opciones": {
+        "A": "comparar los resultados de los estudiantes en Saber 11, con los resultados de los estudiantes de la institución y los resultados de estudiantes de instituciones cercanas.",
+        "B": "realizar una prueba de pensamiento crítico y creativo a los estudiantes de undécimo grado y mirar qué cantidad de estudiantes están por encima del promedio.",
+        "C": "comparar los resultados de los estudiantes tanto en la prueba de Saber 11, como en la prueba de pensamiento crítico y creativo y buscar correlaciones.",
+        "D": "realizar una prueba de pensamiento crítico y creativo a estudiantes de noveno y undécimo grados y comparar los dos grados entre sí."
+      },
+      "correcta": "C",
+      "afirmacion": "Comprende sus propios procesos de desarrollo profesional y busca mejoramiento continuo.",
+      "explicacion": "El PEI describe dos tipos de rasgos: **excelencia académica** (que mide Saber 11) y pensamiento **crítico y creativo** (que requiere otra prueba). Solo la opción C usa ambas fuentes y busca su relación; las demás evalúan una sola dimensión.",
+      "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #14"
+    },
+    {
+      "id": "icfes18-formar-16",
+      "area": "formar",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "“ ...a un profesor reflexivo no solo lo constituye la probidad intelectual de utilizar procesos cognoscitivos de análisis interno de los fenómenos curriculares y educativos, sino también la realización de actividades afectivas y morales en las aulas de los centros escolares, en la comunidad escolar y en las asociaciones sociopolíticas” (Villar, 1999, p. 22).\n\nDe acuerdo con lo anterior, actuar reflexivamente favorece el desarrollo profesional de los profesores, ya que permite",
+      "opciones": {
+        "A": "poder involucrarse en las expectativas de los estudiantes.",
+        "B": "intervenir para sistematizar hábitos en los estudiantes.",
+        "C": "estandarizar las habilidades de pensamiento de los estudiantes.",
+        "D": "comprender las realidades escolares de los estudiantes."
+      },
+      "correcta": "D",
+      "afirmacion": "Comprende sus propios procesos de desarrollo profesional y busca mejoramiento continuo.",
+      "explicacion": "La cita une el análisis de los fenómenos educativos con la acción en el aula y la comunidad; ese ejercicio reflexivo lleva al profesor a **comprender las realidades escolares** de sus estudiantes. Sistematizar hábitos o estandarizar habilidades contradicen el sentido reflexivo y contextual de la cita.",
+      "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #15"
+    },
+    {
+      "id": "icfes18-formar-17",
+      "area": "formar",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "El currículo tradicional o fragmentado se organiza según el supuesto de que las materias disciplinares pueden enseñarse de manera desconectada de las necesidades e intereses de los estudiantes. Por su parte, el currículo integral se organiza desde una perspectiva experiencial de la educación.\n\nDesde esta perspectiva, el trabajo por proyectos permite organizar el currículo teniendo como referente",
+      "opciones": {
+        "A": "los conceptos disciplinarios fundamentales.",
+        "B": "las habilidades prerrequisito de conceptos previos.",
+        "C": "la estructura distintiva de las disciplinas.",
+        "D": "las prácticas confrontadoras y contextualizadas."
+      },
+      "correcta": "D",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "En la perspectiva **experiencial**, el currículo se organiza a partir de experiencias reales del contexto que retan al estudiante. Las opciones A, B y C toman como eje la lógica de las disciplinas, que es justamente el rasgo del currículo fragmentado.",
+      "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #16"
+    },
+    {
+      "id": "icfes18-formar-18",
+      "area": "formar",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "En una reunión de directivas para identificar oportunidades de mejoramiento para el siguiente año lectivo, la coordinadora de convivencia manifestó su preocupación ante la exclusión de los niños indígenas de los juegos por algunos grupos de muchachos y la discriminación de género en los espacios de recreación destinados a todos los estudiantes.\n\nEl rector considera que esta problemática debe abordarse de manera colectiva con los padres de familia y la comunidad en general, porque la formación ciudadana trasciende el aula. Esto contribuye a",
+      "opciones": {
+        "A": "prevenir los conflictos entre estudiantes y profesores.",
+        "B": "promover la justicia social y proteger los Derechos Humanos.",
+        "C": "crear contextos y prácticas de inclusión y respeto mutuo.",
+        "D": "transformar la convivencia fuera de la institución educativa."
+      },
+      "correcta": "C",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "El problema es la exclusión étnica y de género, y abordarlo con toda la comunidad busca construir **contextos de inclusión y respeto mutuo**. La opción B es demasiado general y la D se limita a lo que ocurre fuera del colegio, cuando el problema ocurre dentro de él.",
+      "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #17"
+    },
+    {
+      "id": "icfes18-formar-19",
+      "area": "formar",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "Frente a una situación de conflicto percibida en una institución educativa y que afecta la convivencia de los estudiantes, el papel de los profesores debe ser",
+      "opciones": {
+        "A": "organizar equipos colaborativos que busquen disminuir las consecuencias que a futuro pueda tener el problema.",
+        "B": "identificar los orígenes del problema a fin de sugerir acciones alternativas que permitan superar la situación.",
+        "C": "solicitar la intervención de un profesional en psicología para que, con base en soportes teóricos, él proponga soluciones viables al problema.",
+        "D": "indagar por las percepciones que las directivas tienen acerca del problema para posteriormente tomar decisiones."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende las características físicas, intelectuales y sociales de sus estudiantes.",
+      "explicacion": "Para superar un conflicto el profesor debe **comprender sus causas** y, a partir de ellas, proponer alternativas. Mitigar consecuencias no resuelve el origen, y delegar en un psicólogo o en las directivas evade el papel formativo del docente.",
+      "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #18"
+    },
+    {
+      "id": "icfes18-formar-20",
+      "area": "formar",
+      "n": 20,
+      "contexto": null,
+      "enunciado": "De acuerdo con la Ley General de Educación, el Proyecto Educativo Institucional (PEI), más que un documento concreto, factible y evaluable, es el resultado de una construcción colectiva y dinámica que expresa el compromiso de la institución con la formación integral de los estudiantes y responde a situaciones y necesidades del educando, de la comunidad local, de la región y del país.\n\nEl concepto de formación integral abarca la preparación de los estudiantes para el ejercicio de la ciudadanía como miembros activos de una comunidad; en ese sentido, se busca fortalecer en los estudiantes",
+      "opciones": {
+        "A": "la autonomía y participación democrática en diversos contextos.",
+        "B": "la solidaridad y apropiación de los valores tradicionales del país.",
+        "C": "la identidad y aprendizaje de los símbolos patrios de la nación.",
+        "D": "la disciplina y adquisición de conocimientos cívicos relevantes."
+      },
+      "correcta": "A",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "Ser **miembro activo** de una comunidad implica actuar con autonomía y participar democráticamente. Los valores tradicionales, los símbolos patrios o los conocimientos cívicos apuntan a una ciudadanía transmitida y pasiva, no al ejercicio activo.",
+      "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #19"
+    },
+    {
+      "id": "icfes18-formar-21",
+      "area": "formar",
+      "n": 21,
+      "contexto": null,
+      "enunciado": "Los profesores de una institución educativa consideran el desarrollo del compromiso ambiental un componente importante en la formación integral de los estudiantes. Por tanto, proponen llevar a cabo un proyecto transversal que les permita comprender a los estudiantes la relación de interdependencia del ser humano con el medio.\n\nEl proceso más adecuado para lograr este propósito es",
+      "opciones": {
+        "A": "la búsqueda y el acceso a información sobre el impacto de los productos científicos y tecnológicos en el entorno natural.",
+        "B": "el estudio de los derechos constitucionales colectivos y del ambiente para exigir su respeto ante las autoridades competentes.",
+        "C": "el diseño de actividades que incluyan la enseñanza y el aprendizaje de los valores y actitudes de respeto por el ambiente natural.",
+        "D": "la participación en la identificación de problemas ambientales de su entorno y en el diseño de propuestas de solución viables."
+      },
+      "correcta": "D",
+      "afirmacion": "Entiende la importancia del desarrollo cultural de sus estudiantes.",
+      "explicacion": "La interdependencia con el medio se comprende mejor cuando los estudiantes **identifican problemas de su propio entorno** y proponen soluciones, lo que además genera compromiso. Buscar información, estudiar derechos o enseñar valores son procesos más teóricos y alejados de la experiencia.",
+      "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #20"
+    },
+    {
+      "id": "icfes18-formar-22",
+      "area": "formar",
+      "n": 22,
+      "contexto": null,
+      "enunciado": "En una institución educativa, profesores de diferentes áreas conforman un grupo de estudio que tiene como objetivo consolidar una línea de investigación sobre prácticas educativas basada en la reciprocidad y el intercambio de propuestas disciplinares. De acuerdo con el objetivo del grupo, el propósito más pertinente es",
+      "opciones": {
+        "A": "integrar el conocimiento cotidiano con el contexto institucional.",
+        "B": "relacionar la teoría educativa con las estrategias metodológicas.",
+        "C": "realizar proyectos interdisciplinares basados en el diálogo de saberes.",
+        "D": "fortalecer las relaciones entre los profesores con trabajos colectivos."
+      },
+      "correcta": "C",
+      "afirmacion": "Comprende sus propios procesos de desarrollo profesional y busca mejoramiento continuo.",
+      "explicacion": "El grupo reúne profesores de **diferentes áreas** que intercambian propuestas disciplinares, lo que apunta a proyectos **interdisciplinares** con diálogo de saberes. Fortalecer las relaciones entre profesores (D) es un efecto secundario, no el propósito investigativo.",
+      "origen": "Cuadernillo 2018 #22 · Cuadernillo 2026 #21"
+    },
+    {
+      "id": "icfes18-formar-23",
+      "area": "formar",
+      "n": 23,
+      "contexto": null,
+      "enunciado": "Una institución educativa, que se preocupa por involucrar a padres de familia y acudientes en el proceso de formación de sus estudiantes, solicita al equipo de profesores implementar acciones a favor de este propósito en sus prácticas educativas.\n\nLa mejor actividad que puede contribuir con este fin es",
+      "opciones": {
+        "A": "realizar una encuesta abierta que permita identificar los estudiantes que viven con sus padres y aquellos que viven con su(s) acudiente(s).",
+        "B": "convocar a una reunión de padres y acudientes para conocer los hábitos de estudio de los estudiantes en sus hogares.",
+        "C": "invitar a padres y acudientes para que participen con los estudiantes en experiencias que se relacionen con los temas de las clases.",
+        "D": "consultar con padres y acudientes sus opiniones acerca de endurecer las normas que orientan la convivencia entre estudiantes."
+      },
+      "correcta": "C",
+      "afirmacion": "Vincula sus prácticas educativas con el reconocimiento de la institución educativa como centro de desarrollo social y cultural.",
+      "explicacion": "**Involucrar** a las familias en la formación significa que participen activamente en experiencias de aprendizaje junto a los estudiantes. Encuestas, reuniones informativas o consultas sobre normas recogen información, pero no las vinculan al proceso formativo en el aula.",
+      "origen": "Cuadernillo 2018 #23 · Cuadernillo 2026 #22"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Cuidado de Enfermería (cuadernillos y preguntas explicadas)",
+  "contextos": [],
+  "preguntas": [
+    {
+      "id": "icfes-enfermeria-001",
+      "area": "enfermeria",
+      "n": 1,
+      "contexto": null,
+      "enunciado": "Durante la visita domiciliaria, el profesional de enfermería encuentra una familia conformada por cinco miembros, padre madre y tres hijos. Estos manifiestan tener una relación armónica y resaltan como factor importante el diálogo, para la solución de conflictos que surgen en la familia.\n\nEn esta situación, ¿cuál es el instrumento que debe usar el profesional de enfermería para evaluar el funcionamiento familiar?",
+      "opciones": {
+        "A": "Apgar familiar.",
+        "B": "Psicograma.",
+        "C": "Ecomapa.",
+        "D": "Familiograma."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "El **Apgar familiar** mide cómo percibe cada miembro el funcionamiento de su familia. La trampa es confundirlo con los otros instrumentos: el psicograma muestra relaciones intrafamiliares, el ecomapa los recursos y estresores externos y el familiograma la estructura (quiénes la conforman).",
+      "origen": "Cuadernillo 2018 #1 · Cuadernillo 2025 #1 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-enfermeria-002",
+      "area": "enfermeria",
+      "n": 2,
+      "contexto": null,
+      "enunciado": "Una paciente de 14 años de edad consulta en el servicio de urgencias porque en los últimos días ha presentado hiperémesis en 8 ocasiones, visión borrosa, letargia. En la valoración refiere que ha eliminado más veces que de costumbre, su aliento es avinagrado, los exámenes reportan glucometría de 455 mg/dL; gases arteriales pH 7,25; PCO2 25 mmHg; PO2 94 mmHg; HCO3 15 mEq/L; Bh 6 mEq/L y una saturación de 95 %; K 2 mEq/L; Na 132 mEq/L; Ca 6 mEq/L; motivo por el cual se hospitaliza para tratamiento, se inicia administración y control de líquidos, hoja neurológica y monitoreo ácido-básico. El profesional de enfermería infiere que la situación problema del diagnóstico prioritario se relaciona con",
+      "opciones": {
+        "A": "alteración de la eliminación relacionado con aumento de las eliminaciones.",
+        "B": "pérdida activa de líquidos relacionada con aumento de las eliminaciones.",
+        "C": "alteración metabólica relacionada con desequilibrio ácido básico.",
+        "D": "alteración hidroelectrolítica relacionada con pérdida de líquidos."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Hiperglucemia de 455 mg/dL, aliento cetónico, pH 7,25 y HCO3 15 mEq/L configuran una cetoacidosis diabética: el problema de fondo es **metabólico con desequilibrio ácido-base**. La poliuria y la pérdida de líquidos son consecuencias de ese trastorno, no el problema prioritario.",
+      "origen": "Cuadernillo 2018 #2"
+    },
+    {
+      "id": "icfes-enfermeria-003",
+      "area": "enfermeria",
+      "n": 3,
+      "contexto": null,
+      "enunciado": "Un hombre de 57 años ingresa a urgencias por presentar hace dos horas dolor precordial irradiado a cuello y espalda, diaforesis y fatiga. En el electrocardiograma hay cambios que indican infarto.\n\nEn este caso, ¿cuál es el diagnóstico de enfermería prioritario?",
+      "opciones": {
+        "A": "Alteración de la comodidad relacionada con presencia de dolor precordial.",
+        "B": "Alteración en el intercambio gaseoso relacionado con disminución en la fracción de eyección.",
+        "C": "Contracción cardiaca ineficaz relacionada con desequilibrio entre el aporte y la demanda de O2 a nivel miocárdico.",
+        "D": "Intolerancia a la actividad física relacionada con desequilibrio entre el aporte y la demanda de O2 a nivel miocárdico."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "En el infarto agudo el compromiso vital es la **contractilidad miocárdica ineficaz** por el desequilibrio entre aporte y demanda de O2. El dolor (comodidad) y la intolerancia a la actividad son manifestaciones secundarias que no priorizan sobre la función de bomba.",
+      "origen": "Cuadernillo 2018 #3 · Cuadernillo 2025 #3"
+    },
+    {
+      "id": "icfes-enfermeria-004",
+      "area": "enfermeria",
+      "n": 4,
+      "contexto": null,
+      "enunciado": "Durante la ronda en la sala de puerperio mediato, el profesional de enfermería observa un recién nacido de 37 semanas de edad gestacional, con peso de 2.800 g, Apgar 7-8-9/10, respiración irregular con pausas y piel pálida, en alojamiento conjunto. La mamá refiere que el bebé presenta llanto apagado, recibe poco el seno a pesar de que trata de ponerlo bien y duerme la mayor parte del tiempo. Según la información obtenida, el diagnóstico de enfermería es “Riesgo de lesión orgánica, relacionada con glicemia inestable”.\n\nDe acuerdo con este diagnóstico, ¿cuáles son los cuidados de enfermería específicos para el recién nacido?",
+      "opciones": {
+        "A": "Tomar glicemia capilar y solicitar valoración urgente por el médico pediatra.",
+        "B": "Administrar bolo de DAD 10 % de 560 mg y despertarlo para que tome leche materna.",
+        "C": "Tomar una muestra para glicemia y administrarle 30 cm3 de leche industrializada.",
+        "D": "Corregir la técnica de lactancia materna y esperar a que llegue el médico para valorarlo."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Ante signos sugestivos de hipoglucemia lo primero es **confirmarla con glicemia capilar** y pedir valoración urgente del pediatra. Administrar un bolo de dextrosa sin dato ni orden médica, o simplemente esperar, son conductas inadecuadas.",
+      "origen": "Cuadernillo 2018 #4 · Cuadernillo 2025 #4"
+    },
+    {
+      "id": "icfes-enfermeria-005",
+      "area": "enfermeria",
+      "n": 5,
+      "contexto": null,
+      "enunciado": "En reunión con la junta de acción comunal de un barrio de su jurisdicción, al equipo de atención primaria en salud (APS) de un municipio le informan que en las familias ubicadas en la ronda del río los niños presentan problemas de salud, entre otros, diarreas frecuentes.\n\nDe acuerdo con la situación planteada, la actividad de vigilancia epidemiológica que el profesional de enfermería debe realizar es",
+      "opciones": {
+        "A": "desarrollar sesiones educativas a las familias habitantes de la ronda del río.",
+        "B": "hacer visitas domiciliarias a las familias ubicadas en la ronda del río.",
+        "C": "tomar exámenes de laboratorio a los niños ubicados en la ronda del río.",
+        "D": "informar a la secretaria de salud pública del municipio."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los principios éticos-legales y administrativos para la gestión de los recursos y servicios de salud a favor del cuidado de la vida.",
+      "explicacion": "La **visita domiciliaria** es la actividad de vigilancia que permite verificar en terreno la información comunitaria: identificar los casos, las condiciones del entorno y los factores de riesgo. Educar o tomar laboratorios son intervenciones posteriores, y notificar sin haber caracterizado la situación es prematuro.",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes-enfermeria-006",
+      "area": "enfermeria",
+      "n": 6,
+      "contexto": null,
+      "enunciado": "Al servicio de urgencias ingresa un hombre de 68 años con antecedentes de obesidad, sedentarismo, dislipidemia. Refiere dolor precordial con intensidad de 9/10 de dos horas de evolución. Al monitorearlo se obtiene una frecuencia cardíaca de 110 latidos por minuto, tensión arterial de 90/60 mmHg, saturación al medio ambiente 88 %, se observa ansioso, pálido y diaforético. Se toma electrocardiograma de 12 derivaciones que presenta alteración del segmento ST.\n\nDe acuerdo con lo anterior, ¿cuál es el diagnóstico de enfermería?",
+      "opciones": {
+        "A": "Disminución del gasto cardíaco relacionado con hipoxia a nivel miocárdico.",
+        "B": "Dolor relacionado con disminución del flujo sanguíneo a nivel miocárdico.",
+        "C": "Exceso de volumen de líquido relacionado con presencia de diaforesis.",
+        "D": "Deterioro de la eliminación relacionada con hipoxia a nivel miocárdico."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "El dato dominante es un **dolor precordial 9/10** con alteración del ST, cuya causa es la isquemia (menor flujo sanguíneo al miocardio). La diaforesis no produce exceso de volumen y la eliminación no está comprometida.",
+      "origen": "Cuadernillo 2018 #6 · Cuadernillo 2025 #6"
+    },
+    {
+      "id": "icfes-enfermeria-007",
+      "area": "enfermeria",
+      "n": 7,
+      "contexto": null,
+      "enunciado": "Al servicio de urgencias ingresa una paciente de 5 días posparto con malestar general y fiebre; refiere temor y frecuentes episodios de llanto por su condición de salud.\n\nEn la valoración física se evidencia: regular estado general; palidez mucocutánea; frecuencia cardiaca de 110 latidos por minuto; frecuencia respiratoria de 22 por minuto; temperatura 39,8 °C; la involución uterina se encuentra en 2 cm a nivel supra umbilical.\n\nLa paciente refiere dolor a la palpación, loquios sanguinolentos y fétidos en moderada cantidad. Ante esta situación de salud, el diagnóstico de enfermería prioritario es",
+      "opciones": {
+        "A": "infección uterina relacionada con agentes externos patógenos.",
+        "B": "infección posparto relacionada con agentes externos patógenos.",
+        "C": "depresión posparto relacionada con la situación actual de salud.",
+        "D": "involución uterina ineficaz relacionada con el proceso inflamatorio."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Fiebre de 39,8 °C, taquicardia, loquios fétidos y subinvolución uterina en el puerperio corresponden a una **infección posparto**, el diagnóstico prioritario. El llanto es reactivo a la enfermedad y la mala involución es un signo de la infección, no el problema principal.",
+      "origen": "Cuadernillo 2018 #7"
+    },
+    {
+      "id": "icfes-enfermeria-008",
+      "area": "enfermeria",
+      "n": 8,
+      "contexto": null,
+      "enunciado": "Un paciente de 19 años de edad con antecedente de diabetes mellitus tipo 1, diagnosticado hace 10 años, presenta mucosas secas, náuseas y emesis. Sus signos vitales registran los siguientes valores: presión arterial de 90/70 mmHg; frecuencia cardiaca de 110 latidos por minuto; frecuencia respiratoria de 30 respiraciones por minuto; saturación de oxígeno del 95 % y temperatura de 37,3 °C; reporte paraclínico de glucometría de 685 mg/dL, bicarbonato menor a 5 mEq/dL y pH de 7,1; cetonas séricas y en orina, positivas. El profesional de enfermería establece como diagnóstico específico: “Déficit de volumen de líquidos”. De acuerdo con el diagnóstico, el cuidado de enfermería es participar en coordinación con el médico en la administración de",
+      "opciones": {
+        "A": "solución salina 0,9 % por vía intravenosa.",
+        "B": "dextrosa al 5 % en solución salina por vía intravenosa.",
+        "C": "insulina NPH por vía intravenosa hasta obtener glucometría menor de 200 mg/dL.",
+        "D": "insulina cristalina por vía intravenosa hasta obtener glucometría menor de 200 mg/dL."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Es una cetoacidosis diabética grave (glucosa 685 mg/dL, pH 7,1, cetonas positivas) y, según la clave, el cuidado es la **insulina cristalina intravenosa** hasta bajar la glucometría de 200 mg/dL, la única insulina que se usa por vía IV. La NPH nunca va por vía venosa, y la dextrosa solo se agrega cuando la glucosa ya bajó.",
+      "origen": "Cuadernillo 2018 #8"
+    },
+    {
+      "id": "icfes-enfermeria-009",
+      "area": "enfermeria",
+      "n": 9,
+      "contexto": null,
+      "enunciado": "En una institución de tercer nivel, en el servicio de neonatos, se presentaron 300 nacimientos en mayo y 25 defunciones por diferentes causas en el mismo periodo, eventos que forman parte de las estadísticas vitales. El reporte de este tipo de hechos debe ser realizado por el profesional de enfermería del área asistencial",
+      "opciones": {
+        "A": "a la oficina de epidemiología de la institución.",
+        "B": "al Sistema de Vigilancia en Salud Pública.",
+        "C": "al Departamento Nacional de Estadística.",
+        "D": "a la oficina de estadística institucional."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica los principios éticos-legales y administrativos para la gestión de los recursos y servicios de salud a favor del cuidado de la vida.",
+      "explicacion": "El profesional asistencial reporta los nacimientos y defunciones a la **oficina de epidemiología de su institución**, que es la que consolida y canaliza la información hacia los sistemas externos. Reportar directamente al Sivigila o al DANE se salta el conducto institucional.",
+      "origen": "Cuadernillo 2018 #9"
+    },
+    {
+      "id": "icfes-enfermeria-010",
+      "area": "enfermeria",
+      "n": 10,
+      "contexto": null,
+      "enunciado": "Una mujer de 86 años permanece postrada en cama en su domicilio desde hace aproximadamente un mes por fractura bilateral de miembros inferiores por accidente automovilístico; en la valoración, el profesional de enfermería detecta que la paciente se queja de mucho dolor al tratar de movilizarse; además, se observa pálida, decaída, con actitud negativa y con pérdida del apetito. Los signos vitales son: temperatura 38 ºC; pulso de 86 latidos por minuto; tensión arterial de 120/80 mmHg y una frecuencia respiratoria de 23 respiraciones por minuto.\n\nLa paciente manifiesta que tampoco le dan ganas de comer por temor a subir de peso y que sea más difícil su recuperación.\n\nA partir de éstos hallazgos, ¿cuál es el diagnóstico prioritario a intervenir?",
+      "opciones": {
+        "A": "Desequilibrio nutricional, relacionado con pérdida del apetito.",
+        "B": "Deterioro del bienestar, relacionado con dolor crónico.",
+        "C": "Riesgo de deterioro funcional, relacionado con el desuso.",
+        "D": "Deterioro del bienestar físico, relacionado con falta de ingesta."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "El hallazgo central es el **dolor persistente** (un mes) que limita la movilización y se acompaña de decaimiento y actitud negativa: deteriora el bienestar global. La falta de apetito y el desuso son consecuencias que mejoran si se controla el dolor.",
+      "origen": "Cuadernillo 2018 #10 · Cuadernillo 2025 #10"
+    },
+    {
+      "id": "icfes-enfermeria-011",
+      "area": "enfermeria",
+      "n": 11,
+      "contexto": null,
+      "enunciado": "A la consulta de crecimiento y desarrollo llevan un niño de 9 meses de edad; la madre refiere que durante tres días presentó temperatura mayor a 39 °C, que la manejó con acetaminofén, además le “salieron unos punticos en la cara que luego pasaron al pecho” y llora con frecuencia. Explica que por estas situaciones no ha podido llevarlo al jardín. En la valoración de enfermería observa conjuntivitis y manchas de Koplik. De acuerdo con los protocolos de vigilancia epidemiológica este es un caso sospechoso de sarampión. Como profesional de enfermería la actividad de vigilancia epidemiológica que debe realizar es vigilancia",
+      "opciones": {
+        "A": "pasiva y notificación inmediata.",
+        "B": "activa y notificación inmediata.",
+        "C": "pasiva y notificación semanal.",
+        "D": "activa y notificación semanal."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los principios éticos-legales y administrativos para la gestión de los recursos y servicios de salud a favor del cuidado de la vida.",
+      "explicacion": "Según el protocolo de sarampión y rubéola, el caso sospechoso exige **notificación inmediata** y **búsqueda activa** de casos y contactos desde el momento de la sospecha. La vigilancia pasiva (esperar a que consulten) y la notificación semanal no aplican a este evento.",
+      "origen": "Cuadernillo 2018 #11 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-enfermeria-012",
+      "area": "enfermeria",
+      "n": 12,
+      "contexto": null,
+      "enunciado": "Una enfermera que forma parte del equipo de atención primaria en salud realiza un diagnóstico de las necesidades de una comunidad, por medio del cual detecta problemas relacionados con el manejo inadecuado de basuras y presencia de vectores, que influyen en el estado de salud de la población, lo cual facilita la presencia de algunas enfermedades prevenibles. La profesional decide realizar una investigación que permita la vinculación de la comunidad con el equipo de salud para la resolución de los problemas identificados.\n\nDe acuerdo con lo anterior, ¿cuál es el diseño de investigación adecuado?",
+      "opciones": {
+        "A": "Etnográfico.",
+        "B": "Fenomenológico.",
+        "C": "Critico–social.",
+        "D": "Acción–participación."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "La **investigación acción–participación** integra a la comunidad en definir sus problemas y construir las soluciones junto con el equipo de salud. La etnografía y la fenomenología describen o interpretan sin intervenir, y lo crítico-social es un enfoque, no un diseño.",
+      "origen": "Cuadernillo 2018 #12 · Cuadernillo 2025 #12 · Preguntas explicadas #3"
+    },
+    {
+      "id": "icfes-enfermeria-013",
+      "area": "enfermeria",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "Al realizar la estrategia de vacunación casa por casa, la enfermera de vacunación identifica un niño de 12 meses de edad sin carné de vacunación; la madre refiere que nunca lo ha vacunado.\n\nDe acuerdo con lo anterior, la profesional de enfermería establece que el cuidado más importante es iniciar el esquema de vacunación con una dosis de",
+      "opciones": {
+        "A": "VOP, DPT monovalente y HB.",
+        "B": "triple viral y fiebre amarilla.",
+        "C": "BCG, VOP y pentavalente.",
+        "D": "VOP, DPT monovalente e influenza."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Un niño que nunca ha sido vacunado debe comenzar el esquema desde las primeras dosis: **BCG** (aún indicada antes de los 5 años), **VOP** y **pentavalente** (que ya incluye DPT, HB y Hib). Triple viral y fiebre amarilla corresponden a etapas posteriores del esquema.",
+      "origen": "Cuadernillo 2018 #13"
+    },
+    {
+      "id": "icfes-enfermeria-014",
+      "area": "enfermeria",
+      "n": 14,
+      "contexto": null,
+      "enunciado": "En el año 2004, en la unidad de cuidados intensivos de una institución de tercer nivel, se hospitalizaron un total de 524 pacientes, de los cuales el 10 % presentaron úlceras por presión; de este 10 %, el 35 % presentaron úlceras por presión grado dos, y el 15 %, úlceras por presión grado tres. La coordinación de enfermería decide estandarizar el proceso de prevención de úlceras por presión, teniendo en cuenta el paquete instruccional de seguridad del paciente.\n\nCon base en lo anterior, la enfermera establece que una de las acciones prioritarias por desarrollar en la fase Hacer dentro del ciclo PHVA es",
+      "opciones": {
+        "A": "capacitar el personal de enfermería sobre la prevención de úlceras por presión.",
+        "B": "documentar la guía para la prevención de úlceras por presión.",
+        "C": "realizar la gestión para adquirir dispositivos avanzados para la prevención de úlceras por presión.",
+        "D": "implementar rondas de calidad para fortalecer la política de seguridad del paciente."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los principios éticos-legales y administrativos para la gestión de los recursos y servicios de salud a favor del cuidado de la vida.",
+      "explicacion": "En la fase **Hacer** se ponen en marcha las acciones planeadas; según la clave, la prioridad es **implementar las rondas de calidad** que llevan a la práctica la política de seguridad del paciente. Documentar la guía y gestionar los recursos corresponden más a la planeación.",
+      "origen": "Cuadernillo 2018 #14"
+    },
+    {
+      "id": "icfes-enfermeria-015",
+      "area": "enfermeria",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "En la Unidad de Cuidados Intensivos se encuentra un paciente con diagnóstico de enfermedad pulmonar obstructiva crónica exacerbada; a la valoración se observa estado comatoso, pupilas reactivas a la luz, mucosa oral seca, cianosis peribucal, respiración de Kussmaul, taquicardia e hipotensión arterial. La gasometría arterial tomada al paciente reportó: pH: 7,28, PCO2: 60 mmHg, PaO2: 75 mmhg, HCO3 10 mEq/L y exceso de base: -15 mmol/L. De acuerdo con lo anterior, el profesional de enfermería identifica que la alteración más importante está relacionada con la presencia de",
+      "opciones": {
+        "A": "acidosis respiratoria.",
+        "B": "hipercapnia.",
+        "C": "acidosis mixta.",
+        "D": "hipoxemia."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Con pH 7,28 hay acidemia; la PCO2 de 60 mmHg (alta) indica componente respiratorio y el HCO3 de 10 mEq/L con exceso de base -15 indica componente metabólico. Ambos empujan hacia la acidez: **acidosis mixta**. La hipercapnia es solo una parte del cuadro.",
+      "origen": "Cuadernillo 2018 #15"
+    },
+    {
+      "id": "icfes-enfermeria-016",
+      "area": "enfermeria",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "En el servicio de medicina interna se encuentra hospitalizado un paciente con patrón respiratorio ineficaz relacionado con proceso inflamatorio en parénquima pulmonar secundario a bronquitis. A la valoración se identifica secreción mucosa fluida, tos irritativa con sensación dolorosa en el pecho; a la toma de signos vitales se registra tensión arterial de 110/90 mmHg, frecuencia cardíaca de 98 por minuto, frecuencia respiratoria de 22 por minuto y temperatura de 37,2 ºC.\n\nCon base en lo anterior, el profesional de enfermería identifica que el fundamento científico de la presencia de taquipnea es:",
+      "opciones": {
+        "A": "La motilidad bronquial está bajo la acción del sistema nervioso autónomo: el vago constrictor y el simpático dilatador.",
+        "B": "El intercambio de oxígeno y dióxido de carbono tiene lugar en los alvéolos pulmonares.",
+        "C": "El dióxido de carbono estimula el centro respiratorio.",
+        "D": "La inspiración y la espiración se realizan principalmente por la acción del diafragma y los músculos intercostales."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "La clave oficial es A: la inflamación bronquial altera el tono de la vía aérea, que depende del sistema nervioso autónomo (vago constrictor, simpático dilatador), y la broncoconstricción obliga a respirar más rápido. **Clave discutida**: desde la fisiología, el mecanismo directo de la taquipnea suele ser que el CO2 retenido estimula el centro respiratorio (opción C).",
+      "origen": "Cuadernillo 2018 #16",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-enfermeria-017",
+      "area": "enfermeria",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "Una paciente de 12 años de edad ingresa en el servicio de pediatría por presentar dolor opresivo y tos, dificultad respiratoria, taquicardia y fiebre no cuantificada. A la valoración se identifica: temperatura de 39 °C, hipotensión, aumento del pulso venoso yugular y hepatomegalia. El cuidador refiere que desde hace algunos días la niña ha estado irritable y se fatiga con la mínima actividad, pues evidencia ahogo. Inicialmente, el diagnóstico médico es pericarditis.\n\nDe acuerdo con la situación anterior, el profesional de enfermería establece que el diagnóstico vital es",
+      "opciones": {
+        "A": "riesgo de disminución de la perfusión tisular cardíaca, relacionado con reducción del aporte de oxígeno tisular.",
+        "B": "disminución del gasto cardíaco, relacionado con alteración de la frecuencia o ritmo cardíaco.",
+        "C": "intolerancia a la actividad física, relacionado con aportes de oxígeno menores a los requerimientos.",
+        "D": "riesgo de perfusión tisular periférica ineficaz, relacionado con disminución del aporte de oxígeno a nivel capilar."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Hipotensión, taquicardia, ingurgitación yugular y hepatomegalia muestran que el corazón ya no bombea lo suficiente: hay **disminución del gasto cardíaco**, un problema real y vital. Las opciones de \"riesgo\" no aplican porque el problema ya existe, y la intolerancia a la actividad es una consecuencia.",
+      "origen": "Cuadernillo 2018 #17"
+    },
+    {
+      "id": "icfes-enfermeria-018",
+      "area": "enfermeria",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "Una señora de 37 años con 23 semanas de embarazo asiste a su primer control prenatal. En el interrogatorio la gestante manifiesta como antecedentes personales haber tenido 5 gestaciones, 4 partos, ningún aborto, su último hijo nació hace 10 meses y haber estado hospitalizada por una tromboflebitis hace tres meses, no tiene antecedentes familiares de importancia. En la actualidad trabaja en oficios varios, convive con sus hijos y su esposo.\n\nDe acuerdo con la situación presentada, el diagnóstico de enfermería específico es",
+      "opciones": {
+        "A": "embarazo de alto riesgo relacionado con multiparidad y el antecedente patológico.",
+        "B": "gestación con alto riesgo relacionado con la edad materna y los antecedentes obstétricos.",
+        "C": "gestación de alto riesgo relacionado con los antecedentes obstétricos y patológicos.",
+        "D": "riesgo materno elevado relacionado con el antecedente de tromboflebitis."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "El alto riesgo viene de dos frentes: los **antecedentes obstétricos** (multiparidad e intervalo intergenésico de solo 10 meses) y el **antecedente patológico** de tromboflebitis reciente. Las demás opciones toman solo una parte de los factores.",
+      "origen": "Cuadernillo 2025 #2"
+    },
+    {
+      "id": "icfes-enfermeria-019",
+      "area": "enfermeria",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "A la consulta de crecimiento y desarrollo ingresa un paciente de 9 meses de edad, traído por la madre, quien desde hace cuatro días presenta fiebre, irritabilidad y ella ha observado la presencia de manchas rojas que empezaron en la cabeza y se extendieron por todo el cuerpo. Dice que en el jardín al cual asiste su hijo hay dos niños con los mismos síntomas. En el examen físico se encuentra temperatura de 38 °C, ojos inyectados y manchas de Koplik en la cavidad oral. El profesional de enfermería determina que el caso es compatible con sarampión. La actividad de vigilancia epidemiológica en relación con este caso debe hacer",
+      "opciones": {
+        "A": "búsqueda de casos, identificación de contactos y notificación inmediata.",
+        "B": "revisión de historias clínicas, reporte semanal y solicitar el envío de nuevos casos.",
+        "C": "búsqueda de casos, toma de muestras para frotis de faringe y notificación semanal.",
+        "D": "vacunación masiva, toma de muestra para IgM y notificación inmediata."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica los principios éticos-legales y administrativos para la gestión de los recursos y servicios de salud a favor del cuidado de la vida.",
+      "explicacion": "El sarampión es de **notificación inmediata** y exige **búsqueda activa de casos e identificación de contactos**, más aún con otros niños sintomáticos en el jardín. El reporte semanal no aplica, y la vacunación masiva no es una actividad de vigilancia.",
+      "origen": "Cuadernillo 2025 #5"
+    },
+    {
+      "id": "icfes-enfermeria-020",
+      "area": "enfermeria",
+      "n": 20,
+      "contexto": null,
+      "enunciado": "El profesional de enfermería, del servicio de urgencias, al recibir el turno, encuentra un paciente de 30 años que ingresó por dolor torácico de 3 horas de evolución. En la valoración física, lo observa: consciente, alerta y orientado, tiene oxígeno por cánula nasal a 2 litros por minuto, y líquidos endovenosos en miembro superior derecho, pasando solución salina por bomba de infusión a 100 cm3/hora, sus ruidos cardiacos son simétricos, sus ruidos respiratorios son normales, con abdomen blando a la palpación; en sus miembros inferiores la perfusión tisular está disminuida.\n\nEl electrocardiograma evidencia un supradesnivel del segmento S-T en las derivaciones V4, V5 y V6; el reporte de la troponina es positivo. Sus signos vitales registran los siguientes valores: tensión arterial de 100/60; frecuencia cardiaca 105 latidos por minuto; frecuencia respiratoria 18 respiraciones por minuto; temperatura 37 °C. Con la situación en la que se encuentra el paciente, el diagnóstico de enfermería es “Disminución de la perfusión tisular cardiaca, relacionada con lesión vascular coronaria”.\n\nDe acuerdo con este diagnóstico, los cuidados de enfermería específicos son",
+      "opciones": {
+        "A": "manejar el dolor y lograr el balance hídrico.",
+        "B": "controlar el balance de líquidos y monitorear por electrocardiógrafo, continuamente.",
+        "C": "propiciar medidas de confort y garantizar la comunicación familiar.",
+        "D": "trasladarlo a cuidado intensivo y valorar signos de sangrado."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "En el infarto con supradesnivel del ST, **controlar el dolor** baja el consumo miocárdico de oxígeno y **lograr el balance hídrico** sostiene la perfusión sin sobrecargar el corazón; ambos apuntan directamente a mejorar la perfusión cardiaca. El confort o el traslado no son cuidados específicos para este diagnóstico.",
+      "origen": "Cuadernillo 2025 #7"
+    },
+    {
+      "id": "icfes-enfermeria-021",
+      "area": "enfermeria",
+      "n": 21,
+      "contexto": null,
+      "enunciado": "Un niño de 20 meses de edad ingresa en el servicio de urgencias, por presentar, según la madre, “Dificultad para respirar y chillido en el pecho”. En la consulta el médico le diagnostica bronquiolitis grave. En la valoración física se detecta una frecuencia respiratoria de 45 respiraciones sibilantes por minuto, tiraje subcostal y saturación de oxígeno de 89 %, con secreción nasal abundante. El diagnóstico de enfermería identificado es “Disminución en el intercambio gaseoso relacionado con aumento en el número de respiraciones por minuto”. De acuerdo con el diagnóstico establecido, el cuidado de enfermería específico es",
+      "opciones": {
+        "A": "administrar 1 litro de oxígeno por minuto a través de cánula nasal.",
+        "B": "realizar las micronebulizaciones con el broncodilatador ordenado.",
+        "C": "realizar aseo nasal con 2 cm3 de suero fisiológico cada 3 o 4 horas.",
+        "D": "administrar la primera dosis del antibiótico ordenado por vía oral."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Con saturación de 89 % el problema es el intercambio gaseoso, y lo que lo corrige de forma directa es el **oxígeno suplementario por cánula nasal**. El aseo nasal ayuda pero no resuelve la hipoxemia, los broncodilatadores no se recomiendan de rutina en la bronquiolitis y esta, al ser viral, no se trata con antibiótico.",
+      "origen": "Cuadernillo 2025 #8"
+    },
+    {
+      "id": "icfes-enfermeria-022",
+      "area": "enfermeria",
+      "n": 22,
+      "contexto": null,
+      "enunciado": "En una institución prestadora de servicios de salud, un profesional de enfermería identifica que el programa de tuberculosis requiere ajustes para estandarizar la recolección, el procesamiento y envío de la información generada en la atención a sus usuarios.\n\nPor tal motivo, debe adoptar formatos que garanticen la calidad de la información. Usted define que el instrumento adecuado a implementar debe contener",
+      "opciones": {
+        "A": "libros de registro de archivo.",
+        "B": "libros de registro de historia clínica.",
+        "C": "registros de preconsulta.",
+        "D": "registros de casos y actividades."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "El programa de tuberculosis estandariza su información con **registros de casos y actividades** (sintomáticos respiratorios, casos, tratamientos, seguimiento), que permiten consolidar y reportar. Los archivos, las historias clínicas y la preconsulta no organizan la información del programa.",
+      "origen": "Cuadernillo 2025 #9"
+    },
+    {
+      "id": "icfes-enfermeria-023",
+      "area": "enfermeria",
+      "n": 23,
+      "contexto": null,
+      "enunciado": "Una adolescente de 14 años, arrollada por un automóvil en la vía pública; ingresa en el servicio de urgencias. Al realizarle la valoración se encuentra: frecuencia cardíaca de 125 latidos por minuto, frecuencia respiratoria de 26 respiraciones por minuto; tensión arterial de 80/40 mmHg; pulso radial ausente; palidez e hipotermia; neurológicamente responde al llamado, se encuentra orientada en persona, pero desorientada en tiempo y espacio; moviliza las cuatro extremidades y obedece ordenes; pupilas isocóricas, reactivas; además se observa el uso de los músculos accesorios de la respiración, abdomen distendido con signo de Callen.\n\nTeniendo en cuenta la información anterior, ¿cuál es el diagnostico de enfermería prioritario?",
+      "opciones": {
+        "A": "Riesgo de perfusión tisular ineficaz con factor de riesgo de hipotensión.",
+        "B": "Patrón respiratorio ineficaz relacionado con deterioro cognitivo.",
+        "C": "Disminución del gasto cardíaco relacionado con disminución del volumen intravascular.",
+        "D": "Disminución de la capacidad adaptativa intracraneal por hipertensión intracraneal."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Taquicardia, hipotensión de 80/40, pulso radial ausente y abdomen distendido con signo de Cullen indican sangrado interno con **shock hipovolémico**: el gasto cardíaco cae por falta de volumen intravascular. No es un \"riesgo\" porque el problema ya existe, y el estado neurológico no sugiere hipertensión intracraneal.",
+      "origen": "Cuadernillo 2025 #11"
+    },
+    {
+      "id": "icfes-enfermeria-024",
+      "area": "enfermeria",
+      "n": 24,
+      "contexto": null,
+      "enunciado": "Un profesional de enfermería hace parte del Equipo Básico de Salud y se encuentra en una comunidad urbana dispersa, con características socioeconómicas bajas, con el 65% de la población asegurada a sistema de salud, inadecuadas vías de acceso y bajo uso de los servicios de salud. Durante el tamizaje, realiza 25 controles prenatales en mujeres desde los 15 años hasta los 45 años, e identifica en las edades extremas bajo peso para la edad gestacional, sumado a la inasistencia a controles prenatales, lo cual aumenta el riesgo de interferir el bienestar fetal.\n\nDe acuerdo con lo anterior, al finalizar la brigada, el profesional de enfermería establece que la acción intersectorial en este caso es",
+      "opciones": {
+        "A": "formación y acompañamiento a familias para negociar la decisión compatible con las particularidades culturales, que disminuyan las barreras al control prenatal y a los servicios de salud.",
+        "B": "restablecimiento de derechos para contrarrestar la poca gestión, amenaza y vulneración a través de la inclusión en programas de recuperación nutricional.",
+        "C": "promoción y protección del bienestar a través del empoderamiento de las gestantes para el consumo de micronutrientes.",
+        "D": "empoderamiento de las gestantes para la participación activa en el cuidado de la mujer y del bebé que está por nacer, en la garantía de su protección y seguridad."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Las gestantes en edades extremas con bajo peso viven una vulneración de derechos que el sector salud no resuelve solo: la acción **intersectorial** es el **restablecimiento de derechos** con inclusión en programas de recuperación nutricional (con otros sectores, como bienestar familiar). Las demás opciones son acciones educativas o de empoderamiento propias del sector salud.",
+      "origen": "Cuadernillo 2025 #13"
+    },
+    {
+      "id": "icfes-enfermeria-025",
+      "area": "enfermeria",
+      "n": 25,
+      "contexto": null,
+      "enunciado": "Durante un taller educativo con los estudiantes de los grados noveno a undécimo, el profesional de enfermería de la institución educativa detecta que un grupo de seis (6) hombres y mujeres hace comentarios de rechazo frente a todo tipo de alimentos. Realiza la valoración individual y encuentra que existe pérdida de aproximadamente 8 - 10 kg de peso en el 10% de la población; además, encuentra en algunas maletas todo tipo de laxantes. Al momento de la entrevista, los estudiantes refieren que el prototipo estético que desean alcanzar requiere sacrificios como vomitar todo lo que comen, para que los docentes y los padres de familia no sospechen, y usar laxantes como mecanismo de eliminación de los residuos alimentarios que queden en el organismo.\n\nDe acuerdo con lo anterior, el profesional de enfermería define que la acción intersectorial que se debe iniciar es",
+      "opciones": {
+        "A": "comunicar al sector educativo para conformar un equipo de trabajo académico multidisciplinario.",
+        "B": "notificar al sector salud para diseñar planes de intervenciones individuales y familiares.",
+        "C": "divulgar al sector salud para la construcción de una política que regule la problemática de nutrición.",
+        "D": "reportar al sector educativo, para iniciar acciones terapéuticas y educativas, individuales y colectivas."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto comunitario, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "El profesional trabaja en la institución educativa, así que la acción intersectorial empieza por **reportar al sector educativo** para articular acciones terapéuticas y educativas, individuales y colectivas, frente a los trastornos de la conducta alimentaria. Crear un equipo solo académico o una política nutricional no responde a la necesidad inmediata.",
+      "origen": "Cuadernillo 2025 #14"
+    },
+    {
+      "id": "icfes-enfermeria-026",
+      "area": "enfermeria",
+      "n": 26,
+      "contexto": null,
+      "enunciado": "Un neonato de tres días de nacido es llevado por su mamá al servicio de urgencias, por presentar hipotonía, largos períodos de sueño, hipoactividad y temblores. La mamá manifiesta que el neonato tiene dificultad para el agarre del pezón, ya que tiene pezón invertido. En la valoración de enfermería se observa somnoliento, con reflejos débiles, respiración irregular y responde solo a estímulos; se toma glucometría, la cual reporta 40 mg/dL. Teniendo en cuenta la situación anterior, el profesional de enfermería establece como diagnóstico: “Hipoglucemia relacionada con deficiencia en la lactancia, secundaria a dificultad para el agarre del pezón (pezón invertido)”.\n\nDe acuerdo con el diagnóstico identificado, los cuidados de enfermería específicos son",
+      "opciones": {
+        "A": "solicitar valoración médica y enseñarle a la madre a reconocer signos y síntomas de alarma neonatal.",
+        "B": "establecer acceso vascular e iniciar soporte de glucosa parenteral según prescripción médica.",
+        "C": "tomar muestra para glicemia central y ayudar a la madre con técnicas para protruir el pezón.",
+        "D": "solicitar valoración médica y establecer acceso vascular para iniciar alimentación parenteral."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Es una hipoglucemia ya confirmada (40 mg/dL) **con síntomas neurológicos**, y el neonato no se alimenta bien: hay que **canalizar e iniciar glucosa parenteral** según prescripción. Corregir el agarre o educar a la madre es necesario después, pero no resuelve la urgencia; y la alimentación parenteral completa no está indicada.",
+      "origen": "Cuadernillo 2025 #15"
+    },
+    {
+      "id": "icfes-enfermeria-027",
+      "area": "enfermeria",
+      "n": 27,
+      "contexto": null,
+      "enunciado": "Un hombre de 78 años se encuentra hospitalizado en el servicio de medicina interna con diagnóstico de insuficiencia cardiaca congestiva, enfermedad obstructiva crónica e hipertensión arterial. En la valoración de enfermería se detecta somnoliento, con facies de tristeza, con oxígeno por cánula a 2 litros por minuto; refiere que en la noche no concilió el sueño porque no sabe de su hija.\n\nDe acuerdo con esta situación, el diagnóstico de enfermería específico es",
+      "opciones": {
+        "A": "déficit del intercambio gaseoso relacionado con obstrucción de la vía respiratoria.",
+        "B": "disminución del gasto cardiaco relacionado con inefectividad de la bomba cardiaca.",
+        "C": "trastorno del sueño relacionado con estrés hospitalario.",
+        "D": "ansiedad relacionada con alteración de su estilo de vida."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "Los datos de la valoración (tristeza, insomnio por la preocupación por su hija) apuntan a la **ansiedad** del paciente por el cambio en su vida al estar hospitalizado. Las opciones respiratoria y cardiaca no tienen hallazgos que las respalden, y el insomnio es una manifestación de la ansiedad, no su causa.",
+      "origen": "Cuadernillo 2025 #16"
+    },
+    {
+      "id": "icfes-enfermeria-028",
+      "area": "enfermeria",
+      "n": 28,
+      "contexto": null,
+      "enunciado": "Una paciente de 86 años, viuda, con antecedente de artritis reumatoidea, se encuentra hospitalizada en su tercer día de postoperatorio de remplazo total de cadera. En la valoración de enfermería se detecta: limitación al movilizarse en la cama; solicitud constante de asistencia para sus actividades diarias por presentar dolor generalizado, intenso y permanente en todas sus articulaciones; se auscultan estertores basales en el lóbulo inferior del pulmón derecho, y se observa distensión abdominal. La paciente no hace deposición desde hace tres días. El diagnóstico de enfermería identificado es: ”Alteración de la actividad física y del reposo”, y su factor etiológico se relaciona con el deterioro",
+      "opciones": {
+        "A": "músculo-esquelético.",
+        "B": "en el autocuidado.",
+        "C": "del estado físico.",
+        "D": "neuromuscular."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica el cuidado de enfermería a las personas individual o colectivamente, en las diferentes etapas del ciclo vital en el contexto clínico, respondiendo a sus necesidades para fortalecer su autonomía y dignificar su condición humana.",
+      "explicacion": "La artritis reumatoidea con dolor articular generalizado y el reemplazo de cadera reciente limitan la movilidad por un **deterioro músculo-esquelético**. El déficit de autocuidado es una consecuencia, \"estado físico\" es inespecífico y no hay datos de compromiso neuromuscular.",
+      "origen": "Cuadernillo 2025 #17"
+    }
+  ]
+}

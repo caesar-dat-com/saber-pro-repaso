@@ -1,0 +1,679 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Pensamiento Científico (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Tres pesas en una tienda",
+   "texto": "En una tienda se utilizan tres pesas, con la certeza de que la pesa X está bien calibrada pero no se sabe cómo están las otras dos. Se pesaron cuatro productos en las tres pesas y se obtuvieron los resultados que se muestran en la siguiente tabla:\n\n| | X (kg) | Y (kg) | Z (kg) |\n|---|---|---|---|\n| **Fresas** | 4,0 | 4,0 | 4,3 |\n| **Naranjas** | 4,0 | 4,1 | 4,2 |\n| **Manzanas** | 4,0 | 4,0 | 4,3 |\n| **Limones** | 4,0 | 4,1 | 4,2 |"
+  },
+  {
+   "titulo": "Protocolo con antibióticos",
+   "texto": "En un hospital realizaron el siguiente protocolo a algunos pacientes con infecciones bacterianas:\n\n1. Toma de muestras de las secreciones donde se presenta infección bacteriana en los pacientes.\n\n2. Siembra de las muestras de cada paciente en medios de cultivo con tetraciclina, penicilina o sulfonamidas como antibióticos.\n\n3. Tabulación de resultados en el siguiente formato de tabla, donde se colocará (+) si hay crecimiento de bacterias y (-) si no hay crecimiento de bacterias:\n\n| | Medio con tetraciclina | Medio con penicilina | Medio con sulfonamidas | Control (medio sin antibiótico) |\n|---|---|---|---|---|\n| **Muestra del paciente 1** | | | | |\n| **Muestra del paciente 2** | | | | |\n| **Muestra del paciente 3** | | | | |"
+  },
+  {
+   "titulo": "Bacterias fijadoras de nitrógeno en soya",
+   "texto": "En un estudio se quiere probar el efecto de las bacterias fijadoras de nitrógeno sobre el crecimiento de frutos en plantas de soya. Para esto se tomaron varias plantas de soya; a un grupo (P) de estas plantas se le inocularon bacterias fijadoras de nitrógeno, y al otro grupo (R) no se le inocularon. En la tabla, se muestran los resultados, después de 150 días del experimento, del peso del fruto en una muestra de 5 plantas del grupo P y 5 plantas del grupo R:\n\n**Masa del fruto de la planta de soya (g)**\n\n| Planta | P (inoculadas) | R (no inoculadas) |\n|---|---|---|\n| 1 | 1,76 | 0,49 |\n| 2 | - | 0,85 |\n| 3 | 1,03 | - |\n| 4 | 1,53 | 1,54 |\n| 5 | - | 1,01 |"
+  },
+  {
+   "titulo": "Decaimiento de un isótopo radiactivo",
+   "texto": "La masa (m) de cierto isótopo radiactivo decae exponencialmente en función del tiempo transcurrido (t). Para este isótopo se tienen las siguientes mediciones:\n\n| t | m |\n|---|---|\n| 0 | 60 |\n| 2 | 30 |\n| 4 | 15 |"
+  },
+  {
+   "titulo": "Calidad del agua del acueducto",
+   "texto": "En un pueblo se miden anualmente los siguientes valores (ver tabla 1) asociados a la calidad de agua que se consume:\n\n**Tabla 1**\n\n| Año | pH del agua del acueducto | Mercurio (ppm) | Sulfuros (ppm) |\n|---|---|---|---|\n| 2001 | 7,0 | 0,009 | 0,1 |\n| 2002 | 7,0 | 0,008 | 0,11 |\n| 2003 | 6,9 | 0,009 | 0,1 |\n| 2004 | 5,1 | 0,009 | 0,3 |\n| 2005 | 5,2 | 0,008 | 0,35 |\n| 2006 | 5,0 | 0,008 | 0,4 |\n| 2007 | 5,1 | 0,008 | 0,4 |\n| 2008 | 5,0 | 0,009 | 0,45 |\n\nAl observar la acidificación del agua, las autoridades se preguntan cuál es la fuente de esta contaminación, y como principales sospechosos se consideran una mina de oro y otra de carbón que entraron en operaciones desde el 2006 cercanas al acueducto. Al medir la calidad del agua que resulta del procesamiento en las minas en el año 2009 se observan los resultados que se muestran en la tabla 2.\n\n**Tabla 2. Parámetros de calidad del agua (2009)**\n\n| Tipo de mina | Sulfuros en el agua (ppm) | Mercurio en el agua (ppm) | pH del agua |\n|---|---|---|---|\n| Oro | 0,02 | 0,009 | 6,5 |\n| Carbón | 0,03 | 0,008 | 6,8 |"
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-pensamiento_cientifico-001",
+   "area": "pensamiento_cientifico",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Algunas sustancias pueden emitir luz, característica conocida como fluorescencia. Esta propiedad puede usarse en la construcción de sensores, en los cuales la detección se basa en la disminución considerable de la cantidad de luz emitida por la sustancia (decaimiento de la fluorescencia). A continuación, se muestran las gráficas de fluorescencia de dos candidatos para la construcción de un sensor, tanto aislados como en presencia de la molécula X que se quiere detectar.\n\nCon base en la información anterior, ¿cuál es el mejor candidato para la construcción de un sensor?",
+   "opciones": {
+    "A": "El candidato 2, porque presenta mayor fluorescencia que el candidato 1.",
+    "B": "El candidato 1, porque, aunque hay una disminución en la fluorescencia, el valor no llega a ser cero.",
+    "C": "El candidato 1, porque presenta la mayor disminución de la fluorescencia.",
+    "D": "El candidato 2, porque la fluorescencia no se afecta tanto por la presencia de X."
+   },
+   "correcta": "C",
+   "afirmacion": "Analizar críticamente los resultados y derivar conclusiones.",
+   "explicacion": "El criterio del sensor es que la fluorescencia **caiga mucho** en presencia de X. En el candidato 1 la curva con X queda muy por debajo de la del candidato aislado; en el 2 casi no cambia. La opción B elige bien al candidato pero con un criterio (que no llegue a cero) que no es el pedido.",
+   "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1 · Preguntas explicadas #2",
+   "imagen": "icfes_pensamiento_cientifico_001.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-002",
+   "area": "pensamiento_cientifico",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "En un estudio, se investigó si entrenar a 2.500 metros sobre el nivel del mar (m s. n. m.) mejora el desempeño de los atletas en competencias de ciudades costeras.\n\nEn el estudio se comparó el desempeño de tres atletas (H1, H2 y H3) que entrenaban en una ciudad a 2.500 m s. n. m. con otros tres atletas (L1, L2 y L3) que entrenaban en una ciudad costera al nivel del mar. Posteriormente, se midió el desempeño de los seis atletas, a varias intensidades de ejercicio, en la ciudad costera. Los resultados se muestran en la gráfica.\n\nLos investigadores concluyeron que el desempeño dependía del atleta y no de la altitud del lugar donde se entrenaba.\n\n¿Qué cambios en la metodología propuesta por los investigadores les ayudaría a determinar mejor el efecto del entrenamiento a 2.500 m s. n. m. sobre el desempeño de los atletas?",
+   "opciones": {
+    "A": "Cambiar a un grupo de atletas de menor edad al evaluado en el primer experimento para medir el consumo de O₂.",
+    "B": "Aumentar el rango de alturas del entrenamiento para estar más seguros de las conclusiones.",
+    "C": "Medir el consumo de oxígeno del mismo grupo de atletas antes y después de dos semanas de realizar el entrenamiento en altitud.",
+    "D": "Medir el consumo de oxígeno de los atletas después de la competencia en la ciudad costera."
+   },
+   "correcta": "C",
+   "afirmacion": "Analizar críticamente los resultados y derivar conclusiones.",
+   "explicacion": "Como el desempeño varía mucho de un atleta a otro, la mejor forma de aislar el efecto de la altitud es comparar **a los mismos atletas antes y después** del entrenamiento en altura: así cada uno es su propio control.",
+   "origen": "Cuadernillo 2026 #2",
+   "imagen": "icfes_pensamiento_cientifico_002.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-003",
+   "area": "pensamiento_cientifico",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Para mejorar la obtención de nitrógeno en suelos deficientes, se inocula a las leguminosas con bacterias Rhyzobium. Se recomienda no aplicar abono nitrogenado en altas dosis al momento de la siembra, pues si bien una alta concentración de nitrógeno mejora el crecimiento inicial, inhibe la asociación simbiótica y produce un desarrollo deficiente de la planta en etapas posteriores.\n\nCon base en la información anterior, ¿cuál de las siguientes gráficas mostraría los resultados esperados del crecimiento de un cultivo de fríjol inoculado con Rhyzobium, con una sola fertilización inicial y sin fertilización inicial con abono nitrogenado?",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "B",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "La gráfica debe mostrar dos fases: al inicio las plantas abonadas (línea continua) van **por encima**, pero luego se estancan y las no abonadas (punteada) las **superan**. Solo B tiene ese cruce; A y C nunca muestran a las abonadas quedando atrás, y D no muestra su ventaja inicial.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3 · Preguntas explicadas #1",
+   "imagenes": {
+    "A": "icfes_pensamiento_cientifico_003_A.png",
+    "B": "icfes_pensamiento_cientifico_003_B.png",
+    "C": "icfes_pensamiento_cientifico_003_C.png",
+    "D": "icfes_pensamiento_cientifico_003_D.png"
+   }
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-004",
+   "area": "pensamiento_cientifico",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Cuando se fabrican partículas de un semiconductor (selenuro de cadmio, CdSe) a escala nanométrica, el gap energético entre la banda de conducción y la banda de valencia aumenta, respecto al gap de partículas fabricadas a escala macroscópica. En escala “nano”, el gap energético depende principalmente de las características de la nanopartícula. Para explicar este comportamiento se utiliza el modelo de la partícula en una caja, en el que se modela la energía de una sola partícula confinada en una caja tridimensional y se relacionan estas propiedades a través de la siguiente ecuación:\n\nEnanopartícula = Ematerial + ħ²π²/(2μr²)\n\nEnanopartícula = gap energético de las partículas de CdSe a escala nanométrica.\nEmaterial = gap energético de las partículas de CdSe a escala macroscópica.\nħ = constante de Dirac.\nμ = masa de la nanopartícula.\nr = radio de la nanopartícula.\n\nTeniendo en cuenta el modelo de la partícula en una caja, ¿si se quiere maximizar el gap energético de las nanopartículas de CdSe, qué variables deben modificarse?",
+   "opciones": {
+    "A": "Se debe disminuir el radio (r) y la masa de las nanopartículas (μ); el gap energético de las partículas a escala macroscópica (Ematerial) no se puede modificar porque es una constante.",
+    "B": "Se debe disminuir el radio (r) y el gap energético de las partículas a escala macroscópica (Ematerial); la masa de las nanopartículas (μ) no se puede modificar porque es una constante.",
+    "C": "Se debe aumentar el radio (r) y la masa de las nanopartículas (μ); el gap energético de las partículas a escala macroscópica (Ematerial) debe disminuirse.",
+    "D": "Se debe aumentar la masa de las nanopartículas (μ) y el gap energético de las partículas a escala macroscópica (Ematerial); el radio (r) debe disminuirse."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "El término ħ²π²/(2μr²) crece cuando su denominador se hace pequeño, es decir, al **disminuir r y μ**. Ematerial es una propiedad fija del CdSe macroscópico, así que no es una variable que se pueda ajustar.",
+   "origen": "Cuadernillo 2026 #4",
+   "imagen": "icfes_pensamiento_cientifico_004.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-005",
+   "area": "pensamiento_cientifico",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "La gráfica muestra los resultados obtenidos de geocronología detrítica procedente de cuatro (4) muestras tomadas de una capa de rocas sedimentarias de 210 Ma, cuya proveniencia es un complejo metamórfico formado hace 2500 Ma.\n\n¿Cuál de las muestras en la gráfica tiene resultados más precisos para documentar un evento metamórfico ocurrido entre 1600 Ma y 2000 Ma?",
+   "opciones": {
+    "A": "La muestra 4, porque presenta una menor dispersión en el pico alrededor de 1800 Ma.",
+    "B": "La muestra 3, porque presenta una baja probabilidad relativa alrededor de 1800 Ma.",
+    "C": "La muestra 2, porque presenta probabilidades en todo el rango de 1600 Ma a 2000 Ma.",
+    "D": "La muestra 1, porque presenta la mayor probabilidad relativa a la edad de 1900 Ma."
+   },
+   "correcta": "A",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "Precisión significa poca dispersión: la muestra 4 tiene un **pico muy estrecho** cerca de 1800 Ma, que fecha el evento con poca incertidumbre. La muestra 1 tiene un pico alto pero más ancho y con picos secundarios; la altura no es lo que define la precisión.",
+   "origen": "Cuadernillo 2018 #5 · Cuadernillo 2026 #5",
+   "imagen": "icfes_pensamiento_cientifico_005.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-006",
+   "area": "pensamiento_cientifico",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Un atleta hace el siguiente experimento con el propósito de estimar la potencia que pueden desarrollar sus piernas. Sube trotando por las escaleras de un edificio, de altura conocida, mientras lleva cajas de 20 kg, 40 kg y 60 kg. La potencia será calculada usando la ecuación\n\nP = mgh/t\n\nDonde m es la masa, g la aceleración de la gravedad, h la altura del edificio y t el tiempo que tarda en subir.\n\nAdemás de la información suministrada, ¿qué más debe conocer el atleta para lograr su propósito?",
+   "opciones": {
+    "A": "Su masa.",
+    "B": "La longitud de sus piernas.",
+    "C": "El tiempo que tarda en subir el edificio sin cajas.",
+    "D": "El promedio de los tiempos medidos para diferentes cajas."
+   },
+   "correcta": "A",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "Las piernas no solo suben la caja: también elevan **el cuerpo del atleta**. La masa m de la ecuación es la masa total levantada (atleta + caja), así que necesita conocer su propia masa.",
+   "origen": "Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-007",
+   "area": "pensamiento_cientifico",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "La siguiente figura muestra un modelo para el análisis de las fuerzas que actúan sobre un paracaidista cuando desciende.\n\n|Ff| = bv²: fuerza de fricción con el aire; b es una constante y v es la velocidad con la que desciende el paracaidista.\n\nmg: peso.\n\n¿Cuál de las siguientes opciones es una predicción que se puede hacer teniendo en cuenta el modelo?",
+   "opciones": {
+    "A": "Cuando |Ff| es igual a |mg|, la velocidad de caída del paracaidista es cero.",
+    "B": "Si |mg| es mayor que |Ff|, la aceleración del paracaidista es hacia arriba.",
+    "C": "Si |Ff| es igual a |mg|, la aceleración del paracaidista es cero.",
+    "D": "Durante toda la caída, la aceleración del paracaidista es g."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "Si la fricción iguala al peso, la fuerza neta es cero y, por la segunda ley de Newton, **la aceleración es cero** (cae a velocidad constante, la velocidad terminal). La velocidad no es cero: precisamente Ff = bv² solo iguala al peso cuando v ≠ 0.",
+   "origen": "Cuadernillo 2026 #7",
+   "imagen": "icfes_pensamiento_cientifico_007.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-008",
+   "area": "pensamiento_cientifico",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Se realiza un estudio con un grupo de estudiantes en diversas clases, para evaluar la relación entre los resultados de pares de asignaturas. Los datos se organizaron en las gráficas que se muestran a continuación.\n\nDe acuerdo con lo anterior, ¿cuál de las siguientes conclusiones sobre las notas es correcta?",
+   "opciones": {
+    "A": "La nota de Español depende de la nota en Cálculo porque su correlación es alta; entre las notas de Historia y Física no hay tal dependencia.",
+    "B": "Existe una baja correlación entre las notas de Física e Historia; hay una alta correlación entre las notas de Cálculo y Español.",
+    "C": "En ninguno de los dos casos se puede concluir existencia de correlación entre las notas de las asignaturas.",
+    "D": "Dada la correlación entre las notas de Español y Cálculo, se observa que aumentos en la nota de Español ocasionan aumentos en la nota de Cálculo."
+   },
+   "correcta": "B",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "Los puntos de Cálculo–Español siguen una **tendencia lineal creciente** (alta correlación), mientras que los de Física–Historia están dispersos sin patrón (baja correlación). A y D caen en la trampa de confundir correlación con dependencia o causalidad.",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8 · Preguntas explicadas #5",
+   "imagen": "icfes_pensamiento_cientifico_008.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-009",
+   "area": "pensamiento_cientifico",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Un resorte de n vueltas se parametriza en el espacio como\n\nf(s) = (x = cos(2s), y = sen(2s), z = s/π) con s en [0, nπ]\n\nDe acuerdo con la información anterior, ¿qué par de puntos sirven para calcular la distancia (d) entre cada vuelta del resorte?",
+   "opciones": {
+    "A": "f(0) y f(π/2)",
+    "B": "f(0) y f(π)",
+    "C": "f(0) y f(π/4)",
+    "D": "f(0) y f(1)"
+   },
+   "correcta": "B",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "Una vuelta completa ocurre cuando el ángulo 2s recorre 2π, es decir, cuando s pasa de 0 a **π**. f(0) = (1, 0, 0) y f(π) = (1, 0, 1): están en la misma vertical y su distancia d = 1 es la separación entre vueltas. Con π/2 solo se da media vuelta.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9",
+   "imagen": "icfes_pensamiento_cientifico_009.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-010",
+   "area": "pensamiento_cientifico",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Para datar la edad de las rocas sedimentarias es común el uso de fósiles, este método da como resultado intervalos de tiempo. La siguiente gráfica muestra la edad en millones de años (Ma), en la cual aparecen y se extinguen ciertos fósiles:\n\nDespués de tomar 500 muestras en una capa de rocas se encuentran los fósiles F1, F2 y F3, pero no F4. Con base en estos resultados, ¿cuál es la edad de la capa?",
+   "opciones": {
+    "A": "Entre 10 y 90 millones de años.",
+    "B": "Entre 20 y 40 millones de años.",
+    "C": "Entre 20 y 50 millones de años.",
+    "D": "Entre 10 y 60 millones de años."
+   },
+   "correcta": "B",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "La capa debe estar en el intervalo donde coexisten F1, F2 y F3 (de 20 a 50 Ma, limitado por F2), pero **sin F4**, que aparece desde los 40 Ma. La intersección es **entre 20 y 40 Ma**. La opción C olvida descartar el tramo donde ya existe F4.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10",
+   "imagen": "icfes_pensamiento_cientifico_010.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-011",
+   "area": "pensamiento_cientifico",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "A los materiales en los que la resistencia eléctrica se anula, al disminuir su temperatura por debajo de un valor crítico Tc, se les llama superconductores. En un laboratorio se preguntan si la Tc de determinado superconductor depende del ancho de la muestra. Para responder la pregunta, se midió la temperatura crítica de diferentes muestras del material superconductor cuya única diferencia fue su ancho. Los resultados se presentan en la siguiente gráfica.\n\nTeniendo en cuenta la información anterior, ¿qué nueva pregunta podría derivarse de este estudio?",
+   "opciones": {
+    "A": "¿Por qué unos materiales son superconductores y otros no?",
+    "B": "¿Cambia el valor de Tc cuando el ancho de la muestra es menor que 2 mm?",
+    "C": "¿Cuál es el mejor modelo para explicar la superconductividad?",
+    "D": "¿Cómo cambia Tc cuando el ancho de la muestra está entre 2 mm y 8 mm?"
+   },
+   "correcta": "B",
+   "afirmacion": "Plantear preguntas y proponer explicaciones o conjeturas que puedan ser abordadas con rigor científico.",
+   "explicacion": "Entre 2 y 8 mm la gráfica ya muestra que Tc es prácticamente constante (≈ 75 K), así que D ya está respondida. Una pregunta nueva y abordable con el mismo montaje es **extender el rango** a anchos menores de 2 mm; A y C son demasiado generales para este estudio.",
+   "origen": "Cuadernillo 2026 #11",
+   "imagen": "icfes_pensamiento_cientifico_011.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-012",
+   "area": "pensamiento_cientifico",
+   "n": 12,
+   "contexto": 0,
+   "enunciado": "Teniendo en cuenta los resultados obtenidos para las pesas Y y Z, ¿cuál de las dos proporciona los resultados más exactos?",
+   "opciones": {
+    "A": "La pesa Y, porque dos mediciones son iguales a las de la pesa X.",
+    "B": "La pesa Z, porque sus cuatro mediciones son cercanas entre ellas.",
+    "C": "La pesa Y, porque las cuatro mediciones son cercanas a las de la pesa X.",
+    "D": "La pesa Z, porque hay dos pares de mediciones iguales entre sí."
+   },
+   "correcta": "C",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "Exactitud es cercanía al valor verdadero, que aquí da la pesa calibrada X (4,0 kg). Y se desvía como mucho 0,1 kg en **las cuatro** mediciones, mientras Z se desvía 0,2–0,3 kg. B y D confunden exactitud con precisión (mediciones parecidas entre sí).",
+   "origen": "Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-013",
+   "area": "pensamiento_cientifico",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Una molécula diatómica puede modelarse como un sistema de dos masas unidas por un resorte, en el que la constante de elasticidad del resorte daría cuenta de la fuerza de ligadura entre los átomos de acuerdo con la ley de Hooke:\n\nFuerza = −K · Δx\n\nDonde K es la constante del resorte y Δx es la distancia entre los átomos que conforman la molécula.\n\nSi se considera el caso en el que los dos átomos son iguales, la frecuencia de oscilación de la molécula podría expresarse como\n\nf = (1/2π) √(2K/m)\n\nDonde m es la masa de cada átomo. En la práctica, se mide la frecuencia de oscilación de la molécula para determinar la fuerza efectiva entre los átomos. En este caso, ¿cuáles serían las variables de entrada y de salida del modelo?",
+   "opciones": {
+    "A": "Entrada: la frecuencia de oscilación, la constante del resorte y la masa de los átomos. Salida: la fuerza efectiva entre los átomos.",
+    "B": "Entrada: la masa de los átomos, la frecuencia de oscilación y la distancia interatómica. Salida: la fuerza efectiva entre los átomos.",
+    "C": "Entrada: la constante del resorte, la distancia interatómica y la masa del resorte. Salida: la frecuencia de oscilación.",
+    "D": "Entrada: la fuerza entre los átomos, la frecuencia de oscilación y la masa del resorte. Salida: la energía de ligadura."
+   },
+   "correcta": "B",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "Con la frecuencia medida y la masa de los átomos se despeja K = 2π²mf²; con K y la distancia Δx, la ley de Hooke da la fuerza. Así, las **entradas** son m, f y Δx y la **salida** es la fuerza. En A, K no puede ser entrada porque es justo lo que se obtiene de f.",
+   "origen": "Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-014",
+   "area": "pensamiento_cientifico",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Se cree que el color llamativo de los machos en ciertas especies de peces puede ser explicado por la siguiente hipótesis de selección sexual: “las hembras eligen machos con características prominentes, como aletas caudales grandes y coloridas, pero estas características tienen un costo, porque mantenerlas hasta la edad reproductiva implica mayores gastos energéticos y hace a los machos más vulnerables”. ¿Cuál de las siguientes premisas apoya esta hipótesis?",
+   "opciones": {
+    "A": "Los peces machos tienen color llamativo únicamente durante la época reproductiva y el color sirve para señalar vigor sexual.",
+    "B": "Los peces machos con colores llamativos son identificados más fácilmente por depredadores, pero tienen mayor probabilidad de reproducirse en la etapa adulta.",
+    "C": "Los peces machos compiten entre sí por las hembras y solo los machos vencedores se reproducen.",
+    "D": "El color llamativo de los machos es heredable y es seleccionado porque las hembras buscan tener crías con colores llamativos para continuar en la próxima generación."
+   },
+   "correcta": "B",
+   "afirmacion": "Plantear preguntas y proponer explicaciones o conjeturas que puedan ser abordadas con rigor científico.",
+   "explicacion": "La hipótesis tiene dos partes: un **costo** (mayor vulnerabilidad) y un **beneficio** reproductivo (las hembras los prefieren). Solo B recoge ambas: más visibles para los depredadores, pero con mayor probabilidad de reproducirse.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-015",
+   "area": "pensamiento_cientifico",
+   "n": 15,
+   "contexto": 1,
+   "enunciado": "Con base en la información anterior, ¿qué se quiere con este protocolo?",
+   "opciones": {
+    "A": "Analizar los antibióticos que causan efectos secundarios en cada paciente.",
+    "B": "Establecer el medio de cultivo que permite el crecimiento de todo tipo de bacterias.",
+    "C": "Identificar el antibiótico a usar, para que disminuya la infección de cada paciente.",
+    "D": "Cuantificar el número de bacterias que posee cada uno de los pacientes enfermos."
+   },
+   "correcta": "C",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "El protocolo enfrenta las bacterias de cada paciente a varios antibióticos y registra si crecen (+) o no (−) frente a un control. Eso es un antibiograma: sirve para **elegir el antibiótico eficaz** para cada paciente. No mide cantidad de bacterias ni efectos secundarios.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-016",
+   "area": "pensamiento_cientifico",
+   "n": 16,
+   "contexto": 2,
+   "enunciado": "En algunas de estas plantas no se registraron datos porque fueron atacadas por una plaga; por tanto, hay una incertidumbre en los datos. Para disminuir esta incertidumbre, ¿qué decisión sería más apropiada?",
+   "opciones": {
+    "A": "Inocular otras plantas diferentes de la soya.",
+    "B": "Aumentar el muestreo de las plantas.",
+    "C": "Cambiar de terreno las plantas inoculadas.",
+    "D": "Probar otros instrumentos más precisos para obtener el peso."
+   },
+   "correcta": "B",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "Con datos perdidos quedan muy pocas plantas por grupo para comparar. **Aumentar el tamaño de la muestra** reduce la incertidumbre estadística. Un instrumento más preciso no resuelve la falta de datos.",
+   "origen": "Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-017",
+   "area": "pensamiento_cientifico",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "La siguiente gráfica se usa para mostrar el comportamiento de un gas ideal, el cual, puede ser descrito como una gran cantidad de partículas que se mueven aleatoriamente mientras chocan unas con otras.\n\nLa magnitud de la velocidad de las partículas obedece una distribución de probabilidades tal que pocas partículas tienen velocidades muy pequeñas o muy altas. Con base en lo anterior, ¿cuáles pueden ser los rótulos P, Q y R en la gráfica para que se describa la distribución de velocidades?",
+   "opciones": {
+    "A": "P: Número de partículas Q: Velocidad R: Velocidad promedio.",
+    "B": "P: Velocidad Q: Número de partículas R: Velocidad promedio.",
+    "C": "P: Velocidad Q: Número de partículas R: Velocidad más probable.",
+    "D": "P: Número de partículas Q: Velocidad R: Número de partículas promedio."
+   },
+   "correcta": "B",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "En una distribución, el eje horizontal (P) es la variable (**velocidad**) y el vertical (Q) la frecuencia (**número de partículas**). R está a la derecha del pico porque la curva tiene cola larga hacia velocidades altas: es la **velocidad promedio**; la más probable estaría justo en el pico.",
+   "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #17",
+   "imagen": "icfes_pensamiento_cientifico_017.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-018",
+   "area": "pensamiento_cientifico",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "En una construcción, se deben transportar bloques de cemento, y para hacerlo cuentan con cuerdas que resisten un peso máximo de 500 N cada una; no se sabe cuánto pesan los bloques con el contenedor que los mantiene juntos. La masa de los bloques está entre los 60 kg y 100 kg, mientras que la del contenedor está entre 70 kg y 80 kg (suponga que la aceleración gravitacional es 10 m/s²). La figura describe la situación.\n\nTeniendo en cuenta la información anterior, ¿cuál es el número mínimo de cuerdas que debe usarse para transportar los bloques sin que haya riesgo de ruptura?",
+   "opciones": {
+    "A": "Cinco cuerdas.",
+    "B": "Una cuerda.",
+    "C": "Cuatro cuerdas.",
+    "D": "Tres cuerdas."
+   },
+   "correcta": "C",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "Hay que cubrir el peor caso: (100 + 80) kg × 10 m/s² = **1.800 N**. 1.800 / 500 = 3,6, así que tres cuerdas (1.500 N) no bastan y se necesitan **cuatro** (2.000 N).",
+   "origen": "Cuadernillo 2026 #18",
+   "imagen": "icfes_pensamiento_cientifico_018.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-019",
+   "area": "pensamiento_cientifico",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Una técnica para la deteción de errores en la transmición de mensajes en código binario (series de ceros y unos) consiste en agregar al final de cada mensaje enviado un 0 o un 1 de forma que el número total de unos en el mensaje sea siempre un número par. Si en un mensaje recibido el número de unos es impar, es porque parte del mensaje se alteró en la transmisión.\n\nUn ingeniero recibe el siguiente mensaje enviado con la técnica mencionada:\n\n01001000 01100101 01101100 011011111\n\nAl analizarlo, él concluye que hay exactamente un número incorrecto en el mensaje. ¿Esta conclusión se puede deducir a partir del mensaje recibido?",
+   "opciones": {
+    "A": "No, porque el mensaje contiene una cantidad par de unos y por lo tanto no puede contener ningún error.",
+    "B": "Sí, porque el mensaje contiene una cantidad impar de unos y esto garantiza que hubo un solo error en la transmisión.",
+    "C": "No, porque solo es posible establecer que hay números incorrectos, pero no la cantidad exacta de estos.",
+    "D": "Sí, porque el número incorrecto podría ser el último, que se agregó a propósito, y el resto del mensaje podría ser correcto."
+   },
+   "correcta": "C",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "El mensaje tiene 2 + 4 + 4 + 7 = **17 unos** (impar), así que hubo error. Pero la paridad impar también resulta de 3, 5 o cualquier número impar de bits alterados: se detecta que hay errores, **no cuántos**.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-020",
+   "area": "pensamiento_cientifico",
+   "n": 20,
+   "contexto": 3,
+   "enunciado": "Un modelo que estima el tiempo transcurrido t cuando quedan m gramos del isótopo es el siguiente:\n\nt = 2 log₂(m/60)\n\n¿Este modelo representa el tiempo transcurrido adecuadamente?",
+   "opciones": {
+    "A": "Sí, porque transcurren 2 horas cada vez que la masa se reduce a la mitad.",
+    "B": "No, porque cuando m > 60 la estimación del tiempo es negativa.",
+    "C": "Sí, porque cuando m = 0 el tiempo transcurrido t es 0.",
+    "D": "No, porque a medida que la masa disminuye, el tiempo estimado disminuye."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "El modelo no es adecuado: con m = 30 da t = 2 log₂(1/2) = **−2**, y con m = 15 da −4; el signo está invertido (lo correcto sería t = 2 log₂(60/m)). **Clave discutida:** la clave oficial es B, pero con este modelo t es negativo cuando m < 60, no cuando m > 60; la razón que sí describe el modelo impreso es la de D (al disminuir m, t disminuye). B solo sería coherente si el modelo fuera t = 2 log₂(60/m).",
+   "origen": "Cuadernillo 2026 #20",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-021",
+   "area": "pensamiento_cientifico",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "La Ley de Walther establece que una sucesión vertical de rocas con características similares (facies), sin discontinuidades estratigráficas, deben haber sido el producto de ambientes asociados espacialmente. De este modo, dichas facies han sido formadas en ambientes lateralmente adyacentes. La clasificación de las facies puede ser por características litológicas (similares o distintas) o por cómo se depositaron (al mismo tiempo o en tiempos distintos). En el siguiente modelo se observa una sucesión de rocas, depositadas en tres tiempos 1, 2 y 3.\n\nDe acuerdo con lo anterior, ¿cuál de las siguientes inferencias es correcta sobre las rocas cortadas por la línea M?",
+   "opciones": {
+    "A": "Se depositaron al mismo tiempo y tienen características litológicas similares.",
+    "B": "Se depositaron en distintos tiempos y tienen características litológicas diferentes.",
+    "C": "Se depositaron al mismo tiempo y tienen características litológicas diferentes.",
+    "D": "Se depositaron en distintos tiempos y tienen características litológicas similares."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "La línea M atraviesa los niveles de los tiempos 1, 2 y 3, así que esas rocas se depositaron **en tiempos distintos**; a esa altura de la sección todas son de la misma litología (lodolitas), es decir, **similares**.",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #21",
+   "imagen": "icfes_pensamiento_cientifico_021.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-022",
+   "area": "pensamiento_cientifico",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "En un sistema costero, el tamaño del sedimento que predomina en la parte alta de las playas depositado por las olas indica el régimen de la dinámica del oleaje sobre la costa, es decir, si en estas zonas predominan sedimentos de tamaño grueso, el régimen es erosivo (retroceso de la línea de costa); por otro lado, si el tamaño del sedimento predominante es fino, el régimen es constructivo (avance de la línea de costa). La gráfica representa la distribución granulométrica promedio de muestras de sedimentos tomadas en la parte alta de una playa.\n\nA partir de los datos de granulometría se deduce que el régimen de la dinámica del oleaje es de estable a erosivo.\n\nA partir de la información anterior, ¿es válida la interpretación de los datos?",
+   "opciones": {
+    "A": "Sí, porque predominan sedimentos de tamaño medio y grueso.",
+    "B": "No, porque predominan sedimentos de tamaño grueso.",
+    "C": "Sí, porque predominan sedimentos de tamaño medio y fino.",
+    "D": "No, porque predominan sedimentos de tamaño fino."
+   },
+   "correcta": "A",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "La arena media domina (≈ 48 %) y le siguen los gruesos (grava + arena muy gruesa + gruesa ≈ 38 %), mientras que los finos apenas suman ≈ 15 %. Medio (estable) más grueso (erosivo) justifica el régimen **de estable a erosivo**.",
+   "origen": "Cuadernillo 2018 #22 · Cuadernillo 2026 #22",
+   "imagen": "icfes_pensamiento_cientifico_022.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-023",
+   "area": "pensamiento_cientifico",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "En la fabricación de materiales, las superficies se someten a procesos como el recocido y el depositado, en los cuales se modifica la estructura química de la superficie. Un material analizado en un laboratorio se compone de níquel (Ni) y oxígeno (O), y puede estar formado por NiO o Ni₂O₃, según el estado de oxidación del níquel. A continuación se muestran los resultados obtenidos al analizar la superficie de este material empleando un instrumento que permite conocer la cantidad relativa de Ni²⁺ y Ni³⁺ en cada proceso.\n\nUn investigador concluye que en el proceso de recocido el compuesto presente en mayor cantidad en la superficie del material es el NiO. Con base en lo anterior, ¿es adecuada la conclusión del investigador?",
+   "opciones": {
+    "A": "Sí porque se puede ver que la cantidad relativa de cada estado de oxidación del níquel varía según el proceso al que se somete el material.",
+    "B": "No porque después del recocido el Ni³⁺ está presente en una mayor proporción, por lo cual el Ni₂O₃ será el compuesto mayoritario.",
+    "C": "No porque se puede conocer la cantidad relativa de cada estado de oxidación del níquel pero no se puede determinar la identidad del óxido formado.",
+    "D": "Sí porque después del recocido el Ni³⁺ está presente en una mayor proporción, por lo cual el NiO será el compuesto mayoritario."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar críticamente los resultados y derivar conclusiones.",
+   "explicacion": "En la curva de recocido (punteada) el pico dominante es el de **Ni³⁺**, y el Ni³⁺ corresponde al Ni₂O₃ (en el NiO el níquel es Ni²⁺). Por tanto, el mayoritario es Ni₂O₃ y la conclusión es incorrecta. D usa el dato correcto pero asocia mal el estado de oxidación.",
+   "origen": "Cuadernillo 2026 #23",
+   "imagen": "icfes_pensamiento_cientifico_023.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-024",
+   "area": "pensamiento_cientifico",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Al estudiar la reducción del permanganato de potasio (KMnO₄) se colocan 5 mL de una solución de KMnO₄ 0,01 M en un tubo de ensayo y se adiciona un determinado volumen de ácido oxálico. A partir de la adición de ácido oxálico, se mide el tiempo transcurrido hasta el final de la reacción, que se detecta por la aparición de un color amarillo pálido. A continuación, en otro tubo se repite este mismo experimento, pero agregando unas gotas de cloruro de manganeso (II) (MnCl₂) simultáneamente con el ácido oxálico.\n\nNuevamente se mide el tiempo hasta la aparición del color amarillo pálido y se comparan los resultados obtenidos. Teniendo en cuenta la información, ¿cuál es el objetivo del experimento?",
+   "opciones": {
+    "A": "Determinar la capacidad oxidante del KMnO₄ en diferentes soluciones acuosas.",
+    "B": "Registrar los tiempos de reducción de las mezclas de reacción.",
+    "C": "Determinar la cantidad de KMnO₄ que es reducida bajo las condiciones de reacción.",
+    "D": "Estudiar el efecto del Mn²⁺ sobre la velocidad de la reducción del KMnO₄."
+   },
+   "correcta": "D",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "Los dos tubos son iguales salvo por el MnCl₂ (que aporta Mn²⁺), y lo que se compara es el tiempo de reacción. La única variable cambiada es el Mn²⁺ y lo medido es la rapidez: el objetivo es ver **su efecto sobre la velocidad**. B describe lo que se mide, no el propósito.",
+   "origen": "Cuadernillo 2026 #24"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-025",
+   "area": "pensamiento_cientifico",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Se identificó que las semillas de linaza son una buena fuente de ácidos omega 3. Adicionalmente se demostró que los ácidos omega 3, provenientes de alimentos como el salmón, ayudan a reducir los valores de colesterol de la sangre. De los siguientes diseños metodológicos, ¿cuál permite medir con mayor exactitud la dosis de linaza que tiene efecto en la disminución de colesterol?",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "A",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "El diseño A mide el colesterol **antes y después** de aplicar las dosis e incluye un **grupo control** (0 mg/día). Así se puede atribuir el cambio a la dosis de linaza. B y D no tienen control, y B y C no miden el colesterol inicial.",
+   "origen": "Cuadernillo 2018 #2",
+   "imagenes": {
+    "A": "icfes_pensamiento_cientifico_025_A.png",
+    "B": "icfes_pensamiento_cientifico_025_B.png",
+    "C": "icfes_pensamiento_cientifico_025_C.png",
+    "D": "icfes_pensamiento_cientifico_025_D.png"
+   }
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-026",
+   "area": "pensamiento_cientifico",
+   "n": 26,
+   "contexto": 4,
+   "enunciado": "Con la anterior información, ¿cuál es la nueva pregunta que podría derivarse después de observar la evidencia y los resultados del estudio?",
+   "opciones": {
+    "A": "¿Están asociados el tipo de mina con la variación del pH del acueducto?",
+    "B": "¿Existen otras posibles fuentes de sulfuros en las cercanías del acueducto?",
+    "C": "¿Por qué la concentración de mercurio se mantiene estable en el acueducto?",
+    "D": "¿Desde qué año comenzó a disminuir la calidad del agua en el acueducto?"
+   },
+   "correcta": "B",
+   "afirmacion": "Plantear preguntas y proponer explicaciones o conjeturas que puedan ser abordadas con rigor científico.",
+   "explicacion": "El pH bajó y los sulfuros subieron desde 2004, **antes** de que abrieran las minas (2006), y el agua de las minas tiene pocos sulfuros y pH casi neutro. Las minas no explican la contaminación, así que tiene sentido buscar **otras fuentes de sulfuros**. D ya está respondida en la tabla 1.",
+   "origen": "Cuadernillo 2018 #4 · Preguntas explicadas #4"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-027",
+   "area": "pensamiento_cientifico",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Una de las predicciones llamativas de la física cuántica es el efecto túnel. Este predice que existe una probabilidad de que un electrón con energía (E) atraviese una pared sólida (representada como barrera de energía potencial U > E). La figura representa el fenómeno.\n\nPara verificar esta predicción se dispara un solo electrón, de energía E < U conocida, sobre un material y se observa si este pasa al otro lado. ¿Es apropiado éste procedimiento para medir la probabilidad de que un electrón atraviese el material?",
+   "opciones": {
+    "A": "Sí, porque la detección del electrón al otro lado del material confirmaría la predicción.",
+    "B": "No, porque para estimar la probabilidad se deberían disparar muchos electrones.",
+    "C": "Sí, porque la física predice la probabilidad de que el electrón pueda atravesar el material.",
+    "D": "No, porque el resultado sería el mismo si dispara un electrón con energía E > U."
+   },
+   "correcta": "B",
+   "afirmacion": "Adquirir e interpretar información para abordar y entender una situación problema.",
+   "explicacion": "Una probabilidad se estima como una frecuencia relativa: hay que repetir el ensayo **muchas veces** (muchos electrones) y contar qué fracción atraviesa. Un solo electrón solo da un resultado de sí o no.",
+   "origen": "Cuadernillo 2018 #6",
+   "imagen": "icfes_pensamiento_cientifico_027.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-028",
+   "area": "pensamiento_cientifico",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "En un laboratorio se quiere determinar el tiempo característico de descarga de un condensador como el que se muestra en la figura, realizando el siguiente protocolo:\n\nI. Se coloca el interruptor en la posición x.\nII. Se pasa el interruptor a la posición y.\nIII. Se mide la corriente I (amperios) y el voltaje V (voltios) sobre el condensador contabilizando el tiempo.\nIV. Se relacionan I y V con carga Q y tiempo t, a través de las relaciones I = dQ/dt y V = Q/C.\nV. Se realiza la gráfica carga Q vs. logaritmo (tiempo).\nVI. Se determina, mediante la pendiente de la gráfica carga vs. logaritmo (tiempo), el tiempo característico de descarga del condensador.\n\nSe decide realizar un proceso similar intercambiando en el protocolo el inciso I por el II, manteniendo las demás condiciones experimentales. ¿Puede este experimento considerarse una réplica del primero?",
+   "opciones": {
+    "A": "No, porque el funcionamiento del circuito resulta diferente en cada caso, a pesar de tener los mismos componentes.",
+    "B": "Sí, porque al cambiar el orden de los pasos I y II en el protocolo, el condensador se cargará de la misma manera.",
+    "C": "No, porque al cambiar el orden de los pasos I y II en el protocolo se producirá un corto circuito.",
+    "D": "Sí, porque el circuito utilizado en cada caso es exactamente igual, a pesar de cambiar el orden de los pasos I y II en el protocolo."
+   },
+   "correcta": "A",
+   "afirmacion": "Analizar críticamente los resultados y derivar conclusiones.",
+   "explicacion": "Al invertir los pasos, el condensador termina conectado a la fuente y lo que se mide es su **carga**, no su descarga. Aunque los componentes sean los mismos, la configuración y el fenómeno medido cambian, así que no es una réplica. No hay cortocircuito: conectar un condensador a la fuente es una operación normal.",
+   "origen": "Cuadernillo 2018 #7 · Preguntas explicadas #3",
+   "imagen": "icfes_pensamiento_cientifico_028.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-029",
+   "area": "pensamiento_cientifico",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "Un estudiante quiere estudiar la dinámica de un péndulo simple. En su guía de laboratorio se indica el siguiente procedimiento:\n\n• Tomar un hilo liviano e inextensible, medir su longitud y atarlo a una bola de acero. Atar el otro extremo del hilo a un punto fijo P (ver figura).\n• Separar el péndulo de su punto de equilibrio un ángulo θ y soltarlo. (Al soltarlo, el péndulo debe describir un movimiento periódico alrededor de su posición de equilibrio E).\n• Medir el periodo (tiempo requerido por la bola para realizar un ciclo completo, desde su posición inicial, la cual forma un ángulo θ con la vertical, hasta que vuelve a este punto).\n\nLas variables medidas están relacionadas mediante la ecuación τ = 2π√(l/g), donde τ es el periodo del péndulo, l su longitud y g la constante de gravedad. ¿Cuál de las aiguientes preguntas puede contestarse mediante el anterior protocolo experimental?",
+   "opciones": {
+    "A": "¿Cuál es valor de la masa del péndulo?",
+    "B": "¿Cuál es el valor de la incercia del péndulo?",
+    "C": "¿Cuál es el valor de la aceleración de gravedad?",
+    "D": "¿Cuál es el valor del momento lineal del péndulo?"
+   },
+   "correcta": "C",
+   "afirmacion": "Plantear preguntas y proponer explicaciones o conjeturas que puedan ser abordadas con rigor científico.",
+   "explicacion": "El protocolo mide la longitud l y el periodo τ, y la ecuación solo relaciona τ, l y g. Despejando, **g = 4π²l/τ²**. La masa no aparece en la ecuación ni se mide, así que no puede obtenerse la masa, la inercia ni el momento lineal.",
+   "origen": "Cuadernillo 2018 #11",
+   "imagen": "icfes_pensamiento_cientifico_029.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-030",
+   "area": "pensamiento_cientifico",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "Alejandra necesita viajar a Israel y debe llegar a este país el 18 de julio, a más tardar a las 10:00 a. m., hora de Israel. Ella sabe que el viaje sin escalas dura 13 horas ya que, si en Colombia es la 1:00 p. m. en Israel son las 8:00 p. m.\n\nEn el momento de comprar el tiquete para la fecha requerida, encuentra las siguientes horas disponibles para tomar su vuelo rumbo a Israel sin escalas.\n\n• 17 de julio Colombia - Israel, hora de salida 2:00 p. m.\n• 17 de julio Colombia - Israel, hora de salida 9:00 p. m.\n\nAlejandra cree que la hora conveniente para tomar su vuelo es 9:00 p. m., pues su estrategia para determinar la hora de partida es restar las 13 horas que dura el viaje de la hora a la que necesita llegar.\n\nSegún lo anterior, ¿la estrategia planteada es adecuada?",
+   "opciones": {
+    "A": "No, porque hay 7 horas de diferencia; se debe restar 6 horas y no 13 horas.",
+    "B": "No, porque falta tener en cuenta las 7 horas de diferencia entre los dos países.",
+    "C": "Si, porque después de las 13 horas de vuelo llegaría sobre las 10:00 a.m. a Israel.",
+    "D": "Si, porque las 13 horas incluyen las horas de diferencia entre los dos países."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar críticamente los resultados y derivar conclusiones.",
+   "explicacion": "Israel va 7 horas adelante. Las 10:00 a. m. del 18 en Israel son las **3:00 a. m.** en Colombia; restando 13 h de vuelo, debe salir a las **2:00 p. m.** del 17. Si sale a las 9:00 p. m., llegaría a las 10:00 a. m. hora de Colombia, que son las 5:00 p. m. en Israel. Le faltó considerar la diferencia horaria.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-031",
+   "area": "pensamiento_cientifico",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "Cuando las personas nadan a grandes profundidades, la presión del aire en los pulmones se modifica por cambios en la presión ejercida por el agua. Por ejemplo, a 10 metros de profundidad, una columna de agua de aproximadamente 10 metros ejerce una presión externa equivalente a 1 atmósfera. La presión aumenta a medida que aumenta la profundidad, haciendo que a 20 metros la presión del agua sea de 2 atmósferas y así sucesivamente. De igual forma, la Ley de Boyle permite inferir que estos cambios en la presión afectan el volumen de gas dentro de los pulmones, porque la presión de un gas se relaciona de manera inversa con su volumen.\n\nTeniendo en cuenta lo anterior, si un buzo se sumerge hasta 6 metros de profundidad, ¿cuál de las siguientes gráficas predice adecuadamente los cambios en la presión externa del agua y el volumen del aire dentro de sus pulmones?",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "Al bajar, la presión del agua **aumenta** con la profundidad y, por la ley de Boyle, el volumen de aire en los pulmones **disminuye**. La gráfica C muestra la presión (puntos grises) creciendo y el volumen (puntos negros) decreciendo; D muestra lo contrario.",
+   "origen": "Cuadernillo 2018 #13",
+   "imagenes": {
+    "A": "icfes_pensamiento_cientifico_031_A.png",
+    "B": "icfes_pensamiento_cientifico_031_B.png",
+    "C": "icfes_pensamiento_cientifico_031_C.png",
+    "D": "icfes_pensamiento_cientifico_031_D.png"
+   }
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-032",
+   "area": "pensamiento_cientifico",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "La especiación es el proceso de formación de nuevas especies, a partir de la diferenciación de una población. Los biólogos evolucionistas han intentado explicar la especiación mediante diferentes mecanismos: dos de ellos son el modelo simpátrico y el alopátrico. La figura muestra estos dos modelos.\n\nUna zona habitada por una población de escarabajos se separa en dos, debido al cambio de curso de un río cercano. Después de muchas generaciones, en cada población aparecen diferencias genéticas que gradualmente se acumulan y llevan a que se formen 2 especies distintas; al desaparecer el río y volver a estar en contacto, los individuos de las dos poblaciones (nuevas especies) ya no pueden reproducirse entre sí.\n\nCon base en la información anterior, ¿qué ventaja tiene el uso del modelo de especiación alopátrica sobre el de especiación simpátrica para explicar la especiación de esta población de escarabajo?",
+   "opciones": {
+    "A": "Representa únicamente la especiación de organismos con reproducción asexual.",
+    "B": "Ilustra un tipo de especiación en el que dos poblaciones no pueden reproducirse entre sí.",
+    "C": "Representa un tipo de especiación por aislamiento geográfico.",
+    "D": "Ilustra lo que sucede cuando la especiación ocurre en un mismo lugar."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "En el caso de los escarabajos, lo que inicia la especiación es una **barrera geográfica** (el río), y eso es justo lo que representa el modelo alopátrico. B es cierto para ambos modelos, así que no es una ventaja; D describe el simpátrico.",
+   "origen": "Cuadernillo 2018 #16",
+   "imagen": "icfes_pensamiento_cientifico_032.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-033",
+   "area": "pensamiento_cientifico",
+   "n": 33,
+   "contexto": null,
+   "enunciado": "Se lanza un avión de papel desde una altura h, como se muestra en el figura.\n\nSe conoce que la distancia horizontal recorrida por el avión es proporcional al cuadrado de la velocidad inicial. Si se vuelve a lanzar el avión desde la misma altura y con el doble de velocidad inicial, se espera que su alcance horizontal sea",
+   "opciones": {
+    "A": "entre 16,0 m y 20,0 m.",
+    "B": "entre 8,0 m y 10,0 m.",
+    "C": "entre 2,0 m y 2,5 m.",
+    "D": "entre 6,0 m y 7,0 m."
+   },
+   "correcta": "A",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "En la figura el avión cae entre 4,0 m y 5,0 m. Si x ∝ v², al duplicar v el alcance se multiplica por 2² = **4**: entre 16,0 m y 20,0 m. La trampa es duplicar el alcance (B), como si fuera proporcional a v.",
+   "origen": "Cuadernillo 2018 #18",
+   "imagen": "icfes_pensamiento_cientifico_033.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-034",
+   "area": "pensamiento_cientifico",
+   "n": 34,
+   "contexto": null,
+   "enunciado": "Un líquido se encuentra inicialmente en un refrigerador a 4 °C. El liquido de saca del refrigerador y deja al aire libre, donde la temperatura ambiental es de 36 °C. Se espera que la temperatura del líquido aumente hasta que transcurrido un tiempo largo llegue a tener una temperatura igual que la ambiental.\n\nSe requiere determinar la temperatura del líquido en el minuto 5 después de haber pasado del refrigerador al aire libre. Según la información dada, ¿cuál de los siguientes modelos es el más apropiado para responder la anterior pregunta?",
+   "opciones": {
+    "A": "T(t) = 36 - 32e^(0,095t), donde T(t) es la temperatura en °C para un tiempo t.",
+    "B": "T(t) = 36 - 32e^(-0,095t), donde T(t) es la temperatura en °C para un tiempo t.",
+    "C": "T(t) = 4, donde T(t) es la temperatura en °C para un tiempo t.",
+    "D": "T(t) = t² - 36t + 4, donde es la temperatura en °C para un tiempo t."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender, comparar, utilizar o proponer modelos que permiten describir, explicar y predecir fenómenos o sistemas.",
+   "explicacion": "El modelo debe cumplir T(0) = 4 °C y tender a 36 °C con el tiempo. B da T(0) = 36 − 32 = 4 y, como e^(−0,095t) → 0, **T → 36**. En A la exponencial crece y la temperatura bajaría sin límite; C es constante y D se vuelve negativa.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-035",
+   "area": "pensamiento_cientifico",
+   "n": 35,
+   "contexto": null,
+   "enunciado": "Para recristalizar ácido benzoico normalmente se usa el siguiente procedimiento.\n\nUn estudiante tiene la hipótesis de que el agua es mejor disolvente que el etanol para elaborar la recristalización de ácido benzoico, debido a que es más polar.\n\n¿Cuál de las siguientes estrategias experimentales le permitirá al estudiante evaluar dicha hipótesis?",
+   "opciones": {
+    "A": "Recristalización 1: Realizar la recristalización por triplicado usando agua como disolvente → Recristalización 2: Realizar la recristalización por triplicado usando etanol como disolvente → Comparar los porcentajes de recuperación promedio de ácido benzóico obtenidos en la recristalización 1 y en la recristalización 2.",
+    "B": "Recristalización 1: Realizar la recristalización por triplicado usando una mezcla de 50 % agua 50 % etanol como disolvente → Recristalización 2: Realizar la recristalización por triplicado usando etanol como disolvente → Comparar los porcentajes de recuperación promedio de ácido benzóico obtenidos en la recristalización 1 y en la recristalización 2.",
+    "C": "Recristalización 1: Realizar la recristalización por triplicado usando agua como disolvente → Recristalización 2: Realizar la recristalización por triplicado remplazando el NaOH por etanol → Comparar los puntos de fusión del ácido benzóico recristalizado en la recristalización 1 y en la recristalización 2, con el ácido puro.",
+    "D": "Recristalización 1: Realizar la recristalización por triplicado usando etanol como disolvente → Recristalización 2: Realizar la recristalización por triplicado remplazando el NaOH por agua → Comparar los puntos de fusión del ácido benzóico recristalizado en la recristalización 1 y en la recristalización 2, con el ácido puro."
+   },
+   "correcta": "A",
+   "afirmacion": "Establecer estrategias adecuadas para abordar y resolver problemas.",
+   "explicacion": "Para comparar dos disolventes hay que cambiar **solo el disolvente** (agua frente a etanol), con réplicas, y medir qué tan bien funciona la recristalización (porcentaje de recuperación). B no prueba el agua pura, y C y D reemplazan el NaOH, que no es el disolvente.",
+   "origen": "Cuadernillo 2018 #23",
+   "imagen": "icfes_pensamiento_cientifico_035.png"
+  },
+  {
+   "id": "icfes-pensamiento_cientifico-036",
+   "area": "pensamiento_cientifico",
+   "n": 36,
+   "contexto": null,
+   "enunciado": "Un estudiante quiere comparar la reactividad que tienen algunos alcanos y alquinos a la oxidación con permanganato de potasio (KMnO₄). Para ello, toma distintos volúmenes de etano, butano, etino y butino y los hace reaccionar con KMnO₄, y registra sus observaciones en la tabla.\n\nA partir de estos resultados, el estudiante concluye que los alcanos empleados no pueden ser oxidados por el KMnO₄. ¿Cuál de las siguientes es una evidencia que respalda la anterior conclusión?",
+   "opciones": {
+    "A": "La mayor cantidad de carbonos presentes en los alquinos.",
+    "B": "La ausencia de una reacción entre el butano y el KMnO₄.",
+    "C": "La correlación que existe entre el volumen de alcano y el volumen de KMnO₄.",
+    "D": "Los diferentes tipos de enlaces entre carbonos que existen en el etino y el butino."
+   },
+   "correcta": "B",
+   "afirmacion": "Analizar críticamente los resultados y derivar conclusiones.",
+   "explicacion": "La conclusión trata sobre los alcanos, así que la evidencia debe venir de ellos: el butano (igual que el etano) **no reacciona** con KMnO₄ en ningún volumen. A y D hablan de los alquinos, y C es solo cómo se eligieron los volúmenes.",
+   "origen": "Cuadernillo 2018 #24",
+   "imagen": "icfes_pensamiento_cientifico_036.png"
+  }
+ ]
+}

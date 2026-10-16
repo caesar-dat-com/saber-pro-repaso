@@ -1,0 +1,346 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Investigación Jurídica (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-investigacion_juridica-001",
+   "area": "investigacion_juridica",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "El artículo 58 de la Constitución Política de Colombia dispone que el ordenamiento jurídico nacional preservará la propiedad privada y los derechos adquiridos con arreglo a las leyes civiles. Esta protección, común a todo régimen constitucional que reconoce la primacía de los derechos individuales, no es absoluta, pues la limitación del ejercicio del derecho de propiedad atiende al reconocimiento de que el ejercicio de los derechos y libertades reconocidos en la Constitución implica responsabilidades, toda vez que las decisiones humanas no repercuten exclusivamente en la órbita personal del individuo, sino que afectan, de manera directa o indirecta, el espectro jurídico de los demás.\n\nDe conformidad con el texto anterior, el interrogante que constituye un problema de investigación jurídica es:",
+   "opciones": {
+    "A": "¿El carácter social del derecho de propiedad autoriza al legislador para, en caso de ser necesario, obligar al propietario, no solo a abstenerse de realizar ciertas actuaciones, sino también a ejercer conductas positivas para su verificación?",
+    "B": "¿Las servidumbres prediales o simplemente llamadas servidumbres son un ejemplo de limitación al derecho de propiedad en el ordenamiento jurídico colombiano, pero en virtud de su condición como derechos reales, tampoco gozan de carácter absoluto?",
+    "C": "¿Están los ciudadanos autorizados para restringir el derecho de propiedad cuando su ejercicio no sea conveniente para la satisfacción de los objetivos superiores del Estado Social de Derecho?",
+    "D": "¿El derecho de propiedad deja en cabeza del dueño la potestad de usar la cosa, sacarle provecho y disponer de ella como mejor convenga a sus intereses, pero también impone la carga de no malversar el patrimonio de sus futuros herederos?"
+   },
+   "correcta": "A",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "El texto plantea la tensión entre propiedad privada y su función social; la opción A convierte esa tensión en un problema jurídico abierto y relevante: hasta dónde puede el **legislador** imponer cargas positivas al propietario. B y D describen ejemplos o rasgos ya conocidos del derecho (no son problemas abiertos), y C atribuye a los **ciudadanos** una facultad de restringir la propiedad que el ordenamiento no les reconoce.",
+   "origen": "Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-investigacion_juridica-002",
+   "area": "investigacion_juridica",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "La Constitución política de 1991 establece, dentro del marco jurídico superior, el reconocimiento de las comunidades raizales en Colombia, a través de la implementación de un sistema normativo que respeta a las autoridades indígenas, así como la justicia que se imparte dentro de esas comunidades. Esta figura se conoce con el nombre de Jurisdicción Especial Indígena.\n\nPara evaluar la constitucionalidad de la sanción que fija una comunidad por los delitos de hurto, es necesario establecer si la",
+   "opciones": {
+    "A": "gravedad de la sanción depende del valor del objeto hurtado.",
+    "B": "sanción es atentatoria de la vida o favorece la esclavitud o la tortura.",
+    "C": "pena está prevista en el Código Penal colombiano para el hurto.",
+    "D": "comunidad raizal considera el hurto como un acto ilegal."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "La autonomía de la Jurisdicción Especial Indígena tiene como límite el **núcleo duro de derechos**: las sanciones no pueden atentar contra la vida ni implicar esclavitud o tortura. A y C exigen que la comunidad se ajuste a criterios del derecho penal ordinario, lo que desconocería su autonomía, y D no es un criterio de constitucionalidad sino un dato interno de la comunidad.",
+   "origen": "Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-investigacion_juridica-003",
+   "area": "investigacion_juridica",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "El 18 de octubre de 2005, la Corte Constitucional declaró la exequibilidad de la reelección presidencial inmediata. Con esa decisión, el entonces presidente Álvaro Uribe Vélez anunció oficialmente su candidatura para las elecciones de mayo de 2006.\n\nEl 26 de febrero de 2010, la Corte Constitucional declaró la inexequibilidad de la Ley 1354 de 2009 que convocaba a un referendo constitucional para permitirle al presidente Uribe un tercer mandato consecutivo. Teniendo en cuenta lo expuesto, un tema que corresponde a una investigación en Derecho es:",
+   "opciones": {
+    "A": "La continuidad de una misma persona en el poder es resultado de la voluntad de los partidos políticos.",
+    "B": "La prolongación del mandato de un gobernante pone en riesgo la evolución social de los habitantes.",
+    "C": "La continuidad de una misma persona en el poder afecta el derecho de representación y elección popular.",
+    "D": "La prolongación del mandato de un gobernante consolida las relaciones entre el poder popular y el Gobierno."
+   },
+   "correcta": "C",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "Solo C formula el tema en términos jurídicos: la relación entre la reelección y un **derecho** (representación y elección popular), que es justamente lo que examinó la Corte. A y D son temas de ciencia política (partidos, relaciones de poder) y B es un enfoque sociológico sobre la evolución social.",
+   "origen": "Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-investigacion_juridica-004",
+   "area": "investigacion_juridica",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "El enfoque de género y de derechos de las mujeres en materia de restitución de tierras a población desplazada se basa en el reconocimiento de que en la sociedad colombiana existen patrones estructurales de discriminación, exclusión y marginalización de las mujeres que han significado el desconocimiento y vulneración de sus derechos, entre ellos, el derecho a la propiedad. Por lo anterior, se incluyen, al proceso de restitución, presunciones de hecho a favor de la titularidad de la propiedad de las mujeres víctimas, en los casos de uniones maritales de hecho.\n\nLa solución planteada a la problemática expuesta es jurídica porque",
+   "opciones": {
+    "A": "propone un escenario jurídico que equilibre las vulneraciones al derecho a la propiedad que ha imperado respecto de las mujeres, en el marco de las uniones maritales de hecho.",
+    "B": "establece un procedimiento especial en el marco de la justicia transicional en Colombia, de cara al goce efectivo de los derechos de las víctimas.",
+    "C": "reconoce patrones histórico-culturales de discriminación en el marco de la defensa de la diversidad étnica.",
+    "D": "limita el marco constitucional a partir del enfoque de género, prevaleciendo el derecho a la igualdad."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "Las presunciones a favor de la titularidad de las mujeres son una herramienta jurídica que **corrige el desequilibrio** en el derecho a la propiedad dentro de las uniones maritales de hecho, que es exactamente el problema descrito. B habla de la justicia transicional en general sin conectar con la medida, C desplaza el asunto a la diversidad étnica y D es errónea: la medida desarrolla, no limita, el marco constitucional.",
+   "origen": "Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-investigacion_juridica-005",
+   "area": "investigacion_juridica",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Mediante un trabajo de campo con víctimas de diferentes zonas del país, la Fiscalía General de la Nación, a través de una investigación con una organización no gubernamental (ONG), logró identificar que en el conflicto armado existe un concepto de daño colectivo, basado en las agresiones a la identidad grupal y social, que rompen el vínculo entre los miembros de una sociedad, debido a la desconfianza que se genera entre ellos.\n\nLa respuesta jurídica que corresponde al problema planteado es:",
+   "opciones": {
+    "A": "El derecho penal es el único que puede establecer qué daños se reconocerán o no por los victimarios.",
+    "B": "El concepto de daño colectivo descrito tiene aspectos sociológicos y antropológicos que es necesario comprender según el derecho.",
+    "C": "Las versiones de los familiares de las víctimas son la vía clara para hablar de la existencia de daño colectivo.",
+    "D": "El derecho civil y todas sus ramificaciones deben articularse para comprender en toda su dimensión el concepto de daño colectivo."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "El hallazgo describe un daño de naturaleza social (ruptura de vínculos e identidad grupal); la respuesta jurídica adecuada es **incorporar esos aspectos sociológicos y antropológicos** a la comprensión del derecho, en clave sociojurídica. A y D encierran el problema en una sola rama (penal o civil) y C reduce la prueba del daño colectivo a una sola fuente.",
+   "origen": "Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-investigacion_juridica-006",
+   "area": "investigacion_juridica",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "En el año 2012, una universidad realizó una investigación dirigida a determinar las causas socioambientales que mayor incidencia habían tenido en el consumo de sustancias alucinógenas por jóvenes con edades comprendidas entre 15 y 17 años, localizados en las áreas rurales más apartadas del país. Los resultados arrojados demostraron que el 40 % de las causas corresponden a carencia de oportunidades laborales y el 60 % a causas de violencia intrafamiliar.\n\nLa solución jurídica que puede proponerse para superar la causa de mayor incidencia en los resultados descritos, es",
+   "opciones": {
+    "A": "despenalizar el consumo de sustancias alucinógenas para jóvenes entre 15 y 17 años de edad, con el fin de reconocer su autonomía personal.",
+    "B": "establecer exenciones de impuestos a las empresas que contraten jóvenes en edades comprendidas entre 15 y 17 años de edad.",
+    "C": "comunicarle al respectivo defensor de familia de cada localidad para que dé cumplimiento a las medidas de protección existentes.",
+    "D": "ampliar las medidas sancionatorias incluida la detención domiciliaria que permita recuperar la armonía familiar."
+   },
+   "correcta": "C",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "La causa de mayor incidencia (60 %) es la **violencia intrafamiliar**, y la vía jurídica idónea para menores es activar al defensor de familia y las medidas de protección ya previstas. B ataca la causa minoritaria (falta de empleo), A no responde a ninguna de las causas y D es desproporcionada y no protege al menor.",
+   "origen": "Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-investigacion_juridica-007",
+   "area": "investigacion_juridica",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Uno de los resultados de un trabajo de investigación es que, con los nuevos sistemas de transporte masivo, el Estado colombiano afectó derechos fundamentales de los pequeños y medianos propietarios de vehículos del servicio de transporte tradicional.\n\nLa conclusión que se puede derivar de los hallazgos de la investigación es:",
+   "opciones": {
+    "A": "El Estado puede ejercer una serie de actividades para mejorar el sistema de transporte masivo.",
+    "B": "Existe responsabilidad extracontractual del Estado, por el daño especial causado al sector directamente afectado.",
+    "C": "La población en general puede exigir que se le reparen todos los daños en cuanto se afectaron derechos fundamentales.",
+    "D": "Hay acción de reparación directa por parte de la población por la falla del servicio que vulnera derechos fundamentales."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "Según el Icfes, B se deriva directamente del hallazgo: una actuación lícita del Estado causó un **daño especial** a un grupo concreto (los pequeños y medianos transportadores), lo que genera responsabilidad extracontractual. A no se relaciona con el hallazgo, y C y D extienden la afectación a la «población en general», que no vio vulnerados directamente sus derechos.",
+   "origen": "Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-investigacion_juridica-008",
+   "area": "investigacion_juridica",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Una investigación desarrollada por un centro de investigación jurídica determina que la mayoría de las relaciones laborales existentes en el país se caracterizan por ser de tipo flexible e informal, y que las normas de derecho laboral existentes no son extensibles a esta clase de trabajadores por haber sido formuladas para regular situaciones de empleo formal. Esta situación dificulta que los trabajadores informales puedan hacer reclamaciones para mejorar sus condiciones.\n\nDe acuerdo con la investigación efectuada, una solución jurídica que se puede recomendar para mejorar las condiciones de los trabajadores informales en el país es",
+   "opciones": {
+    "A": "agremiar a los comerciantes informales para facilitar su relación con otros actores económicos del país, con el fin de contribuir a la búsqueda de soluciones de empleo de carácter formal.",
+    "B": "consultar con organismos internacionales a fin de establecer la tasa de informalidad laboral existente en otros países y los mecanismos utilizados para la solución de esta problemática.",
+    "C": "proponer un proyecto de ley para permitir que las personas en situación de informalidad puedan acceder a la justicia mediante la creación de acciones especiales para la reclamación de los derechos de este grupo poblacional.",
+    "D": "reforzar la investigación sobre los diferentes tipos de trabajo informal que se presentan en la sociedad para establecer las diferencias con las fuentes de empleo formal."
+   },
+   "correcta": "C",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "El problema hallado es normativo: las leyes laborales no cubren a los informales y estos no pueden reclamar. La solución jurídica es **crear normas y acciones** que les den acceso a la justicia (C). A es una solución organizativa/económica, y B y D proponen más investigación, no una solución.",
+   "origen": "Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-investigacion_juridica-009",
+   "area": "investigacion_juridica",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Los cambios normativos realizados por la derogación del Código de Procedimiento Civil y por la implementación del nuevo Código General del Proceso han suscitado diversas controversias entre los doctrinantes en torno al derecho constitucional al debido proceso. Algunos han llegado a afirmar que “el cambio en sí mismo constituye un atentado en contra de la seguridad jurídica de las normas en torno al debido proceso”.\n\nSi se quiere plantear un problema específico de investigación, para poner a prueba esta afirmación, la mejor opción sería:",
+   "opciones": {
+    "A": "¿Cuáles son las implicaciones que se generan al derecho constitucional del debido proceso, por el cambio normativo al Código General del Proceso?",
+    "B": "¿Es inconstitucional el cambio normativo del Código General del Proceso, ya que atenta contra el debido proceso imperante y su seguridad jurídica?",
+    "C": "¿Cuál es la consecuencia generada al derecho constitucional del debido proceso en cuanto a la seguridad jurídica de sus normas, por el cambio normativo del procedimiento civil al Código General del Proceso?",
+    "D": "¿De qué forma se vulnera el derecho constitucional al debido proceso, por la expedición de un nuevo Código General del Proceso?"
+   },
+   "correcta": "C",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "C es la única pregunta **específica y neutral** que contiene todos los elementos de la afirmación por probar: el debido proceso, la **seguridad jurídica** de sus normas y el tránsito del CPC al CGP. A es demasiado general (omite la seguridad jurídica), y B y D dan por sentada la vulneración o inconstitucionalidad, es decir, presuponen la respuesta.",
+   "origen": "Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-investigacion_juridica-010",
+   "area": "investigacion_juridica",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "María, estudiante de derecho, inicia un proyecto de investigación y, en la etapa de planteamiento y formulación del problema, encuentra que la dignidad humana se estableció en Colombia como un principio y valor constitucional; es decir, es un concepto que puede generar problemas de interpretación por ser indeterminado, lo que a su vez puede derivar en una aplicación relativa de este.\n\nTeniendo en cuenta esta ambigüedad, una pregunta de investigación abordable según el derecho es:",
+   "opciones": {
+    "A": "¿Cuáles son las implicaciones sociales de la aplicación del concepto de dignidad humana en el ordenamiento jurídico colombiano?",
+    "B": "¿Cuál es la noción ontológica del concepto de dignidad humana en el ordenamiento jurídico colombiano?",
+    "C": "¿Cuál es el alcance jurídico del concepto de dignidad humana en el ordenamiento jurídico colombiano?",
+    "D": "¿Cuál ha sido el desarrollo histórico del concepto de dignidad humana en el ordenamiento jurídico colombiano?"
+   },
+   "correcta": "C",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "El problema es la **indeterminación** del concepto; precisar su **alcance jurídico** responde directamente a esa ambigüedad desde el derecho. A apunta a efectos sociales (sociología), B a una cuestión filosófica (ontología) y D a la historia del concepto, que no resuelve su interpretación actual.",
+   "origen": "Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-investigacion_juridica-011",
+   "area": "investigacion_juridica",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Ante el centro de investigaciones en el que trabaja, Lina presentó un proyecto de investigación sociojurídica sobre el delito de acoso sexual. Su objetivo general es saber si durante el periodo 2008-2012 los operadores jurídicos en Colombia interpretaron sesgadamente el tipo penal, por discriminación de género.\n\nDe los siguientes objetivos específicos, el que **NO** desarrolla el objetivo general planteado es:",
+   "opciones": {
+    "A": "Realizar un análisis jurídico de la legislación penal sobre acoso sexual, desde su tipificación en el año 2008 hasta el 2012.",
+    "B": "Diagnosticar a través de entrevistas los grados de discrecionalidad de los jueces y fiscales sobre la interpretación del tipo penal.",
+    "C": "Realizar un análisis comparativo de las legislaciones penales en el mundo acerca de la manera en que aparece tipificado el delito de acoso sexual.",
+    "D": "Evaluar el número de condenas y absoluciones que por el delito de acoso sexual se han producido en Colombia durante el periodo de la investigación."
+   },
+   "correcta": "C",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "El objetivo general se circunscribe a **Colombia, 2008-2012** y a la interpretación de los **operadores jurídicos**. El análisis comparado de legislaciones del mundo (C) se sale de ese marco y no informa sobre el sesgo de jueces colombianos. A, B y D sí aportan al objetivo: la norma aplicable, la discrecionalidad de jueces y fiscales y los resultados de los procesos.",
+   "origen": "Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-investigacion_juridica-012",
+   "area": "investigacion_juridica",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "En pro de hacer un estudio sobre el modelo de Estado social de derecho adoptado en Colombia desde la Constitución política de 1991, en una investigación jurídica se planteó un problema enfocado a conocer las implicaciones de la constitucionalización de los ordenamientos jurídicos en un Estado social de derecho.\n\nEn este sentido, un objetivo general pertinente al problema de investigación es:",
+   "opciones": {
+    "A": "Identificar los factores que, a partir de la constitucionalización de los ordenamientos jurídicos, han dado paso a la adopción del modelo de Estado social de derecho, desde 1991.",
+    "B": "Determinar la influencia de la constitucionalización de los ordenamientos jurídicos en la Constitución política adoptada por el Estado colombiano a partir de 1991.",
+    "C": "Comparar los elementos de la constitucionalización de los ordenamientos jurídicos que en la contemporaneidad influyen en la concepción del modelo de Estado de la Constitución de 1991.",
+    "D": "Analizar los elementos iusteóricos que explican la constitucionalización de los ordenamientos jurídicos y sus implicaciones en el modelo de Estado adoptado en Colombia a partir de 1991."
+   },
+   "correcta": "D",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "El problema busca las **implicaciones** de la constitucionalización **en el modelo de Estado social de derecho**; D recoge ambos elementos (explicar el fenómeno y analizar sus implicaciones en ese modelo). A invierte la relación causal (factores que llevaron a adoptar el modelo), B se centra en la Constitución y no en el modelo de Estado, y C propone una comparación que el problema no pide.",
+   "origen": "Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-investigacion_juridica-013",
+   "area": "investigacion_juridica",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Un grupo de investigadores plantea como problema de investigación la evolución histórica de la normatividad colombiana sobre procesos de inclusión de niños y niñas en situación de discapacidad intelectual en las instituciones educativas.\n\nUn objetivo general pertinente para ese problema de investigación sociojurídica sería:",
+   "opciones": {
+    "A": "Identificar la legislación internacional que protege a la población en situación de discapacidad intelectual.",
+    "B": "Analizar los programas educativos que pretenden establecer una política de inclusión social a personas en situación de discapacidad intelectual.",
+    "C": "Identificar y valorar las diversas formas de discapacidad intelectual que contempla la normatividad colombiana.",
+    "D": "Describir y analizar la naturaleza de la legislación colombiana sobre inclusión educativa de niños y niñas en situación de discapacidad intelectual."
+   },
+   "correcta": "D",
+   "afirmacion": "Concibe proyectos de investigación jurídica y sociojurídica.",
+   "explicacion": "Según el Icfes, D desarrolla el problema completo: la **legislación colombiana** sobre **inclusión educativa** de esta población, incluido el factor de su evolución. A (legislación internacional) sería solo un insumo complementario, B se centra en programas educativos y no tendría carácter sociojurídico, y C es tan limitado que serviría a lo sumo como objetivo específico.",
+   "origen": "Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-investigacion_juridica-014",
+   "area": "investigacion_juridica",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Una investigadora de temas sociojurídicos está adelantando una investigación sobre violencia intrafamiliar. Aunque aún su investigación no ha concluido, decide dictar una conferencia ante un numeroso grupo de estudiantes, durante la cual presentó uno de los videos que recogió en sus entrevistas de investigación. En el video aparecía un niño de 6 años de edad dando testimonio del maltrato intrafamiliar sufrido. El niño presentaba claros signos de violencia porque en su rostro aparecían rasguños y moretones en los ojos, a pesar de lo cual el niño sonreía y, en general, para todos los que vieron el video, su conducta era de un niño tranquilo y feliz.\n\nEl comportamiento de esta investigadora que puede calificarse como antiético es:",
+   "opciones": {
+    "A": "Revelar la imagen del rostro de uno de los menores que forma parte de la población estudiada.",
+    "B": "Sin concluir la investigación, haber dictado una conferencia sobre el tema.",
+    "C": "Dictar una conferencia ante estudiantes y no ante investigadores profesionales.",
+    "D": "Concluir que el niño sufre violencia intrafamiliar, aunque en la entrevista se le ve tranquilo y feliz."
+   },
+   "correcta": "A",
+   "afirmacion": "Conoce principios éticos de la investigación.",
+   "explicacion": "Exponer el rostro de un menor víctima vulnera la **confidencialidad** y la protección especial de los niños como sujetos de investigación. Presentar avances parciales (B) o hacerlo ante estudiantes (C) no es antiético en sí mismo, y D es una inferencia razonable a partir de las lesiones visibles.",
+   "origen": "Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-investigacion_juridica-015",
+   "area": "investigacion_juridica",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Gina es abogada investigadora y está realizando un trabajo de campo en una Fiscalía. Su propósito es encontrar si existe relación entre la violencia intrafamiliar y el alcoholismo. Una mañana, al ingresar en la Fiscalía para realizar su trabajo de campo, es abordada por una mujer recién golpeada por su marido que se dirigía a denunciar el hecho a la Fiscalía. La mujer, creyendo erróneamente que Gina era empleada de la entidad, decidió contarle aspectos íntimos de su vida y de la relación que había sostenido con su pareja y actual agresor, y le pide su orientación profesional como abogada.\n\n¿Qué acción de Gina resultaría éticamente apropiada con su actuación como investigadora?",
+   "opciones": {
+    "A": "Gina atiende la consulta de la mujer al considerar que su función como abogada le permite ejercer las dos funciones paralelamente.",
+    "B": "Gina atiende la consulta de la mujer al considerar que su función como investigadora sociojurídica supera su función como abogada.",
+    "C": "Gina le informa a la mujer que, pese a ser abogada, su papel de investigadora en ese momento no le permite ejercer ninguna acción en su caso.",
+    "D": "Gina le informa a la mujer que, dado que es abogada e investigadora, le ofrecerá ayuda profesional a cambio de utilizar su caso como objeto de estudio."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce principios éticos de la investigación.",
+   "explicacion": "Lo ético es **aclarar el rol**: Gina está allí como investigadora y debe explicar por qué no puede asumir el caso sin comprometer la investigación (C). Según el Icfes, A mezcla dos funciones de forma incompatible, B es contradictoria (si prima su papel de investigadora, no debería atender la consulta) y D condiciona la ayuda a usar el caso en el estudio, lo que es claramente antiético.",
+   "origen": "Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-investigacion_juridica-016",
+   "area": "investigacion_juridica",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Un grupo de investigación realizó un estudio sobre la calidad de los trabajos de grado del programa de Derecho. Los resultados indicaron serias deficiencias e irregularidades en la forma como los estudiantes realizan las citas textuales y contextuales, hecho que en determinadas circunstancias podría significar la comisión del delito de plagio. Conscientes de la urgencia de evitar que se repitan estas conductas, se deciden divulgar los hallazgos investigativos, así como la normatividad penal del delito de plagio.\n\nPara alcanzar el propósito educativo y preventivo, sin violentar principios éticos, la divulgación debe",
+   "opciones": {
+    "A": "omitir los nombres de los trabajos y de los estudiantes involucrados en la investigación.",
+    "B": "informar de manera objetiva, veraz y fidedigna los hallazgos investigativos.",
+    "C": "restringir la información únicamente a los estudiantes que iniciarán trabajos de grado.",
+    "D": "divulgar todos los hallazgos evitando que se afecte la buena imagen de las instituciones."
+   },
+   "correcta": "A",
+   "afirmacion": "Conoce principios éticos de la investigación.",
+   "explicacion": "El propósito es preventivo, no sancionatorio; divulgar nombres expondría a estudiantes a quienes no se les ha probado un delito y vulneraría su **buen nombre y confidencialidad**, por eso deben omitirse (A). B es un deber general de toda divulgación pero no resuelve el dilema ético específico del caso, C restringe sin razón el propósito educativo y D antepone la imagen institucional.",
+   "origen": "Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-investigacion_juridica-017",
+   "area": "investigacion_juridica",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Un estudiante realiza una investigación acerca de las diferencias que se presentan entre las familias constituidas por vínculos naturales y aquellas constituidas por vínculos jurídicos. Su proyecto de investigación parte de la hipótesis de que las familias constituidas por vínculos naturales presentan mayores grados de disfuncionalidad que aquellas constituidas por vínculos jurídicos. Luego de realizar algunas entrevistas a distintas personas de ambos tipos de familias, el estudiante logra determinar que en una de las familias constituidas por vínculos jurídicos está presentándose una situación de abuso físico en contra de una menor de edad.\n\nEl estudiante incurriría en una conducta antiética si",
+   "opciones": {
+    "A": "omitiera en los resultados de la investigación que la familia en la que se presentó la situación irregular estaba constituida por vínculos jurídicos.",
+    "B": "ampliara el grupo de familias estudiadas para encontrar situaciones similares en familias constituidas por vínculos naturales.",
+    "C": "modificara la hipótesis inicial de trabajo planteada en el proyecto de investigación, basándose en los hallazgos preliminares y complejidades emergentes identificadas.",
+    "D": "contrastara las entrevistas con otro tipo de fuentes, por ejemplo estadísticas del ICBF, para sustentar su hipótesis de trabajo."
+   },
+   "correcta": "A",
+   "afirmacion": "Conoce principios éticos de la investigación.",
+   "explicacion": "Ocultar que el abuso ocurrió en una familia de vínculos jurídicos sería **manipular los resultados** para que no contradigan la hipótesis, una falta a la honestidad científica. Ampliar la muestra (B), ajustar la hipótesis según los hallazgos (C) o triangular con otras fuentes (D) son prácticas metodológicas legítimas.",
+   "origen": "Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-investigacion_juridica-018",
+   "area": "investigacion_juridica",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Al encuestar a 1.000 mujeres de una localidad deprimida, se hallaron los siguientes porcentajes no excluyentes: (a) el 50 % son cabeza de familia; (b) el 70 % pertenece a la economía “del rebusque”; (c) un 25 % ha sido víctima de violencia intrafamiliar, y (d) el 60 % ha sido excluida en opciones laborales por razones de sexo.\n\nA partir de estos hallazgos, una conclusión válida es:",
+   "opciones": {
+    "A": "La mayoría de las mujeres no tiene un trabajo formal.",
+    "B": "En esta comunidad, los hombres no asumen su responsabilidad como padres.",
+    "C": "La violencia intrafamiliar es más común en familias con escasos recursos.",
+    "D": "La mitad de las mujeres cabeza de familia ha sido víctima de violencia intrafamiliar."
+   },
+   "correcta": "A",
+   "afirmacion": "Evalúa la coherencia y pertinencia de investigaciones jurídicas o sociojurídicas.",
+   "explicacion": "Si el 70 % pertenece a la economía del rebusque (informal), se sigue directamente que **la mayoría** no tiene trabajo formal. B atribuye causas a los hombres que la encuesta no mide, C exige comparar con otras poblaciones que no se estudiaron y D cruza dos porcentajes no excluyentes sin datos que permitan hacerlo.",
+   "origen": "Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-investigacion_juridica-019",
+   "area": "investigacion_juridica",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Juan realiza una investigación sobre las prácticas de guerra de jóvenes entre 15 y 17 años de edad pertenecientes a diferentes grupos armados que habitan en su ciudad. Metodológicamente elige la entrevista en profundidad. En el proceso investigativo, al descubrir algunos delitos graves cometidos por los informantes, decide denunciar a los implicados.\n\nCon base en los principios éticos del investigador, la decisión de Juan es antiética porque",
+   "opciones": {
+    "A": "realizó entrevistas en profundidad a jóvenes menores de edad.",
+    "B": "denunció a los informantes sin la autorización de sus padres.",
+    "C": "denunció a los informantes del proyecto de investigación.",
+    "D": "eligió como sujetos de su estudio a menores de edad."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce principios éticos de la investigación.",
+   "explicacion": "La falta ética está en **traicionar la confidencialidad** pactada con los informantes al usar sus testimonios para denunciarlos. Entrevistar o estudiar menores (A, D) es posible con los debidos resguardos, y B sugiere que la denuncia sería ética con permiso de los padres, lo que no corrige la violación de la confidencialidad.",
+   "origen": "Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-investigacion_juridica-020",
+   "area": "investigacion_juridica",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Durante el trabajo de campo, un investigador recibió de los habitantes de las áreas aledañas al humedal que se busca proteger, documentos que demostraban que el urbanizador de tales predios, había cumplido los requerimientos legales en cuanto al manejo de las condiciones ambientales. Sin embargo, el investigador percibe olores nauseabundos que le indican que en la urbanización existen problemas ambientales.\n\nLa conducta del investigador que **NO** sería apropiada éticamente es",
+   "opciones": {
+    "A": "explicarles a los habitantes las implicaciones éticas que tiene su actuación en cuanto entregaron documentos privados de la urbanización.",
+    "B": "someter a triangulación los documentos entregados por la comunidad, mediante la consulta de múltiples fuentes de datos alternativas.",
+    "C": "darles a conocer a los habitantes del área información relacionada con el propósito de la investigación y el uso que puede hacerse de esta.",
+    "D": "buscar la intermediación de los habitantes en la negociación monetaria que pretende realizar con el urbanizador."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce principios éticos de la investigación.",
+   "explicacion": "Negociar dinero con el urbanizador, usando a los habitantes como intermediarios, supone un **conflicto de intereses** y aprovechar la investigación para lucro personal, lo que es claramente antiético. Explicar las implicaciones de entregar documentos privados (A), triangular la información (B) e informar a la comunidad sobre el propósito del estudio (C) son conductas adecuadas.",
+   "origen": "Cuadernillo 2026 #20"
+  }
+ ]
+}

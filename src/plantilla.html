@@ -2,9 +2,9 @@
 <html lang="es"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Repaso gratuito para el Saber Pro: Lectura Crítica, Razonamiento Cuantitativo y Competencias Ciudadanas, con explicación de cada respuesta y guía de estudio.">
+<meta name="description" content="Repaso gratuito para el Saber Pro: los cuatro módulos genéricos y los 34 específicos del Icfes, con explicación de cada respuesta y guía de estudio.">
 <meta property="og:title" content="Saber Pro · Repaso">
-<meta property="og:description" content="90 preguntas tipo Saber Pro con explicación, modo examen con reloj y guía de estudio. Gratis y sin registro.">
+<meta property="og:description" content="Más de 1.100 preguntas del Saber Pro con explicación, modo examen con reloj, pistas de Hades y guía de estudio. Gratis y sin registro.">
 <meta property="og:locale" content="es_CO">
 <title>Saber Pro · Repaso</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -54,6 +54,14 @@ body.lunar .theme-toggle-btn{border-color:#00000026;background:#0000000a}
 
 /* módulos como parches de misión */
 .sp-mods{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr))}
+.sp-esp{margin:22px auto 0;max-width:640px;text-align:center}
+.sp-esp label{display:block;font-family:var(--font-mono);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:10px}
+.sp-esp select{width:100%;appearance:none;-webkit-appearance:none;cursor:pointer;font:inherit;font-size:.98rem;color:var(--color-lunar);
+  background:var(--color-glass-bg) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23868c96' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right 18px center;
+  border:1px solid var(--color-glass-border);border-radius:999px;padding:13px 44px 13px 20px;transition:border-color .3s}
+.sp-esp select:hover,.sp-esp select:focus{border-color:var(--color-orbital);outline:none}
+.sp-esp select option{background:var(--color-space-800);color:var(--color-text-primary)}
+body.lunar .sp-esp select{background-color:#fff}
 .sp-fuentes{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:18px 0 0}
 .sp-fuentes .skill-orbit{cursor:pointer;gap:8px}
 .sp-fuentes .skill-orbit.off{opacity:.4;text-decoration:line-through}
@@ -118,6 +126,34 @@ body.lunar .theme-toggle-btn{border-color:#00000026;background:#0000000a}
 body.lunar .masc .burbuja{background:#fff;box-shadow:var(--lift-2)}
 @media(max-width:640px){.masc img{width:70px;height:70px}.masc .burbuja{margin-bottom:34px;font-size:.82rem}}
 @media(prefers-reduced-motion:reduce){.masc,.masc.on img,.stk-in.pop{animation:none!important;transition:none}}
+/* ---- asistencia de Hades: pistas y descartes con glitch ---- */
+.asist{display:none;align-items:center;gap:12px;margin:0 0 14px;padding:8px 8px 8px 14px;border:1px dashed var(--accent-line);border-radius:12px;font-family:var(--font-mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--color-text-tertiary)}
+.asist.on{display:flex}
+.asist .lv{display:flex;gap:4px;flex:0 0 auto}
+.asist .lv i{width:16px;height:5px;border-radius:2px;background:var(--color-glass-border);transition:background .4s,box-shadow .4s}
+.asist .lv i.on{background:var(--color-sls);box-shadow:0 0 8px var(--color-sls)}
+.asist .t{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.asist button{font:inherit;letter-spacing:inherit;text-transform:inherit;flex:0 0 auto;color:var(--color-orbital);background:none;border:1px solid var(--accent-line);border-radius:999px;padding:6px 12px;cursor:pointer;transition:border-color .3s}
+.asist button:hover:not(:disabled){border-color:var(--color-orbital)}
+.asist button:disabled{opacity:.35;cursor:default}
+.asist.pulso{animation:asist-pulso .6s ease-out}
+@keyframes asist-pulso{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--color-sls) 45%,transparent)}100%{box-shadow:0 0 0 12px transparent}}
+.pista{margin:0 0 14px;padding:12px 16px;border-left:2px solid var(--color-sls);border-radius:0 12px 12px 0;background:var(--glow-1);font-size:.92rem;line-height:1.6;color:var(--color-text-secondary)}
+.pista b{color:var(--color-lunar)}
+.pista .tag{display:block;font-family:var(--font-mono);font-size:.64rem;letter-spacing:.18em;color:var(--color-sls);margin-bottom:4px}
+.pista.entra{animation:glitch .6s steps(1,end) both}
+.pista.entra>*{animation:glitch-rgb .6s steps(1) both}
+.opt.escaneo{animation:escaneo 1s ease-out both}
+@keyframes escaneo{0%{box-shadow:inset 0 0 0 0 transparent}30%{box-shadow:inset 0 0 0 1px var(--color-sls),0 0 16px color-mix(in srgb,var(--color-sls) 35%,transparent)}100%{box-shadow:inset 0 0 0 0 transparent}}
+.opt.glitch{animation:glitch .8s steps(1,end) both}
+.opt.glitch>*{animation:glitch-rgb .8s steps(1) both}
+@keyframes glitch{0%{transform:none;clip-path:inset(0)}10%{transform:translate(-5px,1px);clip-path:inset(10% 0 55% 0)}20%{transform:translate(6px,-1px);clip-path:inset(60% 0 6% 0)}30%{transform:translate(-2px,0);clip-path:inset(30% 0 40% 0)}40%{transform:translate(4px,2px);clip-path:inset(0 0 78% 0)}50%{transform:translate(-6px,-2px);clip-path:inset(72% 0 0 0)}60%{transform:translate(2px,0);clip-path:inset(18% 0 22% 0)}72%{transform:translate(-1px,1px);clip-path:inset(0)}86%{transform:translate(1px,0)}100%{transform:none;clip-path:inset(0)}}
+@keyframes glitch-rgb{0%,100%{text-shadow:none}15%{text-shadow:-3px 0 #ff2e63,3px 0 #08f7fe}45%{text-shadow:3px 0 #ff2e63,-3px 0 #08f7fe}75%{text-shadow:-1px 0 #ff2e63,1px 0 #08f7fe}}
+.opt.descartada{position:relative;opacity:.32!important;filter:grayscale(1);cursor:not-allowed;
+  background:repeating-linear-gradient(0deg,transparent 0 3px,color-mix(in srgb,var(--color-text-primary) 5%,transparent) 3px 4px),var(--glow-1)}
+.opt.descartada>span:last-child{text-decoration:line-through;text-decoration-color:var(--bad)}
+.opt.descartada::after{content:"DESCARTADA";position:absolute;right:14px;top:8px;font-family:var(--font-mono);font-size:.6rem;letter-spacing:.18em;color:var(--bad)}
+@media(prefers-reduced-motion:reduce){.opt.glitch,.opt.glitch>*,.opt.escaneo,.pista.entra,.pista.entra>*,.asist.pulso{animation:none!important}}
 details.ctx{margin:0 0 18px;border:1px solid var(--color-glass-border);border-radius:16px;overflow:hidden;background:var(--glow-1)}
 details.ctx summary{cursor:pointer;padding:13px 16px;font-size:.9rem;color:var(--color-text-secondary);list-style:none;display:flex;gap:12px;align-items:baseline}
 details.ctx summary::-webkit-details-marker{display:none}
@@ -269,6 +305,8 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
     <div class="section-rule mx-auto mt-8 max-w-[220px]"></div>
   </div>
   <div class="sp-mods" id="areas"></div>
+  <div class="sp-esp"><label for="especifico">Módulo específico de tu carrera</label>
+    <select id="especifico" onchange="elegirEspecifico(this.value)"></select></div>
   <div class="sp-fuentes" id="fuentes"></div>
 
   <div class="glass-card fijo gsap-reveal" style="padding:22px;margin-top:20px">
@@ -277,6 +315,8 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
       <div class="sp-opts" style="margin-top:0">
         <label class="sp-chk skill-orbit"><input type="checkbox" id="stickersOn" onchange="Mascota.activar(this.checked)">
           Stickers de Hades: reacciones al responder <span class="n">32</span></label>
+        <label class="sp-chk skill-orbit"><input type="checkbox" id="asistOn" onchange="Asistencia.activar(this.checked)">
+          Asistencia de Hades: si tardas, pistas y descarta opciones</label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="soloFallos">
           Solo las que he fallado <span class="n" id="nFallos">0</span></label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="modoExamen">
@@ -303,6 +343,8 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
       <div id="ctxHolder"></div>
       <p class="sp-enun" id="enunciado"></p>
       <div id="enImg"></div>
+      <div class="asist" id="asist" aria-live="polite"></div>
+      <div id="pista"></div>
       <div class="sp-alts" id="opts"></div>
       <div class="fb" id="fb"></div>
       <div class="sp-navq" id="nav" style="display:none">
@@ -366,6 +408,12 @@ let prog = {q:{}, rondas:0, mejorRacha:0};
 try { prog = Object.assign(prog, JSON.parse(localStorage.getItem(LS) || '{}')); } catch(e) {}
 let cola = [], idx = 0, actual = null, racha = 0, examen = false, reloj = null, fin = 0;
 let sesion = null, areaGuia = 'general', areasOff = new Set(), fuentesOff = new Set();
+let especifico = ''; try { especifico = localStorage.getItem('saberpro-especifico') || ''; } catch(e) {}
+const esGenerico = a => DATA.genericos.includes(a);
+const ESPECIFICOS = Object.keys(DATA.areas).filter(a => !esGenerico(a)).sort((a, b) => DATA.areas[a].localeCompare(DATA.areas[b], 'es'));
+if (especifico && especifico !== '*' && !ESPECIFICOS.includes(especifico)) especifico = '';
+const areaActiva = a => esGenerico(a) ? !areasOff.has(a) : (especifico === '*' || especifico === a);
+function elegirEspecifico(v){ especifico = v; try { localStorage.setItem('saberpro-especifico', v); } catch(e) {} pintarMenu(); }
 const $ = s => document.querySelector(s);
 const guardar = () => { try { localStorage.setItem(LS, JSON.stringify(prog)); } catch(e) {} };
 const esc = s => String(s ?? '').replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
@@ -680,9 +728,9 @@ const Mascota = (() => {
     activar(v){ on = !!v && !!Object.keys(S).length; try { localStorage.setItem(LSK, on ? 'on' : 'off'); } catch(e) {}
       if (on) decir('happy', '¡Aquí estoy! Te acompaño mientras repasas.'); else this.callar(); },
     callar(){ clearTimeout(tOcultar); el.classList.remove('on'); },
-    evento,
+    evento, decir,
     // pistas si se queda mucho tiempo en la misma pregunta (no en examen)
-    esperar(){ this.parar(); if (!on || examen) return;
+    esperar(){ this.parar(); if (!on || examen || Asistencia.corriendo()) return;
       tPensar = setTimeout(() => evento('pensar'), 35000);
       tBuscar = setTimeout(() => evento('buscar'), 80000); },
     parar(){ clearTimeout(tPensar); clearTimeout(tBuscar); },
@@ -707,6 +755,85 @@ const Mascota = (() => {
   };
 })();
 
+/* ===================== asistencia de Hades =====================
+   Si te quedas pensando, Hades escala: a los 25 s da una pista (qué evalúa y una
+   estrategia), a los 50 s y 80 s descarta opciones malas con un glitch. Nunca toca
+   la correcta y siempre deja dos en pie. El reloj se pausa si cambias de pestaña. */
+const Asistencia = (() => {
+  const LSK = 'saberpro-asistencia', PASOS = [25, 50, 80];
+  let on = false; try { on = localStorage.getItem(LSK) === 'on'; } catch(e) {}
+  let p = null, seg = 0, nivel = 0, intervalo = 0;
+  const azar = a => a[Math.random()*a.length|0];
+  const DESCARTE = ['*bzzt* La {L} no es. Una menos.', 'Escaneé la {L}: no aguanta. Fuera.', 'La {L} se cayó sola. Quedan menos.',
+                    'Glitch en la {L}: esa no era.', 'La {L} tiene una trampa. Descartada.'];
+  const ULTIMA = ['Ya quedan dos. Una tiene respaldo, la otra suena bien. Elige con evidencia.',
+                  'Dos en pie. ¿Cuál puedes justificar con el texto o el cálculo?'];
+  function estrategia(q){
+    const t = (q.enunciado || '').toLowerCase();
+    if (/\b(no|excepto|incorrecta|falsa)\b[^.?]*\?|\bexcepto\b|\bno es\b/.test(t))
+      return 'Ojo con la negación: la pregunta pide la que <b>no</b> cumple. Marca mentalmente las que sí cumplen y sobra una.';
+    if (q.area === 'razonamiento' || /\d+\s*%|calcul|cuánto|cuántos|probabilidad|promedio/.test(t))
+      return 'Estima antes de calcular: descarta las opciones con un orden de magnitud o unidades imposibles.';
+    if (q.area === 'ingles') return 'Busca la palabra clave del enunciado en el texto y lee la frase completa donde aparece.';
+    if (q.imagen || q.imagenes) return 'Lee la figura con calma: títulos, ejes, unidades y qué cambia entre una parte y otra.';
+    if (q.contexto != null) return 'La respuesta tiene respaldo en el texto o caso: abre «Texto» y ubica el párrafo que responde a la pregunta.';
+    return 'Descarta las opciones absolutas («siempre», «nunca», «únicamente») y las que responden a otra pregunta.';
+  }
+  const restantes = () => [...document.querySelectorAll('#opts .opt:not(.descartada):not(:disabled)')];
+  function pintarHud(){
+    const h = $('#asist'); if (!h) return;
+    const sig = PASOS[nivel];
+    const t = nivel === 0 ? `Asistencia Hades · pista en ${Math.max(0, sig - seg)} s`
+      : sig != null ? `Asistencia Hades · descarte en ${Math.max(0, sig - seg)} s`
+      : 'Asistencia Hades · al máximo: ahora te toca';
+    h.innerHTML = `<span class="lv">${PASOS.map((_, i) => `<i class="${i < nivel ? 'on' : ''}"></i>`).join('')}</span>
+      <span class="t">${t}</span><button onclick="Asistencia.ya()" ${sig == null ? 'disabled' : ''} title="Tecla H">${nivel === 0 ? 'Pedir pista' : sig == null ? 'Sin más ayuda' : 'Descartar otra'}</button>`;
+  }
+  function subir(){
+    if (!p || nivel >= PASOS.length) return;
+    if (nivel === 0) {
+      $('#pista').innerHTML = `<div class="pista ${REDUCIDO ? '' : 'entra'}"><span class="tag">PISTA DE HADES</span><div>${estrategia(p)}`
+        + (p.afirmacion ? `<br><b>Qué evalúa:</b> ${p.afirmacion}` : '') + '</div></div>';
+      if (!REDUCIDO) restantes().forEach((b, i) => setTimeout(() => { b.classList.remove('escaneo'); void b.offsetWidth; b.classList.add('escaneo'); }, i*120));
+      Mascota.decir('thinking', 'Te dejo una pista arriba de las opciones 👆');
+      nivel = 1; seg = Math.max(seg, PASOS[0]);
+    } else {
+      const malas = restantes().filter(b => b.dataset.k !== p.correcta);
+      if (restantes().length <= 2 || !malas.length) { nivel = PASOS.length; return pintarHud(); }
+      const b = azar(malas);
+      const marcar = () => { b.classList.remove('glitch'); b.classList.add('descartada'); b.disabled = true; b.setAttribute('aria-label', 'opción ' + b.dataset.k + ' descartada'); };
+      if (REDUCIDO) marcar(); else { b.classList.add('glitch'); setTimeout(marcar, 800); }
+      nivel++; seg = Math.max(seg, PASOS[nivel - 1]);
+      const quedan = restantes().length - 1;
+      if (quedan <= 2) nivel = PASOS.length;
+      Mascota.decir(quedan <= 2 ? 'searching_intenso' : 'searching', quedan <= 2 ? azar(ULTIMA) : azar(DESCARTE).replace('{L}', b.dataset.k));
+    }
+    const h = $('#asist'); h.classList.remove('pulso'); void h.offsetWidth; h.classList.add('pulso');
+    pintarHud();
+  }
+  function parar(){ clearInterval(intervalo); intervalo = 0; }
+  return {
+    activo: () => on,
+    corriendo: () => on && !examen,
+    nivel: () => nivel,
+    activar(v){ on = !!v; try { localStorage.setItem(LSK, on ? 'on' : 'off'); } catch(e) {}
+      if (on) Mascota.decir('coding_relajado', 'Si te quedas pensando, te ayudo: pistas y descartes 😉'); },
+    iniciar(q){
+      parar(); p = q; seg = 0; nivel = 0; $('#pista').innerHTML = '';
+      const h = $('#asist');
+      if (!on || examen || Object.keys(q.opciones).length < 3) { h.classList.remove('on'); p = null; return; }
+      h.classList.add('on'); pintarHud();
+      intervalo = setInterval(() => {
+        if (document.hidden) return;
+        seg++;
+        if (PASOS[nivel] != null && seg >= PASOS[nivel]) subir(); else pintarHud();
+      }, 1000);
+    },
+    ya(){ if (p && intervalo) subir(); },
+    parar(){ parar(); const b = $('#asist button'); if (b) b.disabled = true; },
+  };
+})();
+
 /* =========================== vistas =========================== */
 function vista(v){
   document.querySelectorAll('.sp-nav [data-v]').forEach(t => t.classList.toggle('on', t.dataset.v === v));
@@ -722,12 +849,18 @@ function diasAlExamen(){
   const fx = DATA.config.fecha_examen;
   return fx ? Math.ceil((new Date(fx + 'T07:00:00-05:00') - new Date())/86400000) : null;
 }
-const CODIGO = {ciudadana:'CC', lectura:'LC', razonamiento:'RC', ingles:'EN', formar:'FO'};
+const CODIGO = {ciudadana:'CC', lectura:'LC', razonamiento:'RC', ingles:'EN'};
+const codigo = a => CODIGO[a] || a.split('_').map(w => w[0]).join('').toUpperCase().slice(0, 3);
 
 function pintarMenu(){
   const porArea = {};
   DATA.preguntas.forEach(p => porArea[p.area] = (porArea[p.area]||0)+1);
-  $('#areas').innerHTML = Object.entries(porArea).map(([a, n]) => {
+  const nEsp = ESPECIFICOS.reduce((t, a) => t + porArea[a], 0);
+  $('#especifico').innerHTML = `<option value="">Ninguno: solo los genéricos</option>`
+    + ESPECIFICOS.map(a => `<option value="${a}" ${especifico===a?'selected':''}>${esc(nombreArea(a))} (${porArea[a]})</option>`).join('')
+    + `<option value="*" ${especifico==='*'?'selected':''}>Todos los específicos (${nEsp})</option>`;
+  const visibles = [...DATA.genericos, ...(especifico && especifico !== '*' ? [especifico] : [])];
+  $('#areas').innerHTML = visibles.map(a => [a, porArea[a]]).map(([a, n]) => {
     let ok = 0, mal = 0, vistas = 0;
     DATA.preguntas.filter(p => p.area === a).forEach(p => { const q = prog.q[p.id]; if (q){ ok += q.ok; mal += q.mal; vistas++; } });
     const pct = (ok + mal) ? Math.round(100*ok/(ok+mal)) : null;
@@ -736,7 +869,7 @@ function pintarMenu(){
     return `<div class="gsap-reveal"><div class="mission-patch sp-mod h-full ${areasOff.has(a)?'off':''}" data-area="${a}" data-status="${st}" role="button" tabindex="0" aria-pressed="${!areasOff.has(a)}" onclick="toggleArea('${a}')" onkeydown="if(event.key===' '||event.key==='Enter'){event.preventDefault();toggleArea('${a}')}">
       <span class="trace-border" aria-hidden="true"></span><div class="sheen"></div>
       <div class="in">
-        <span class="st-pill"><span class="${st==='active'?'status-pulse':'dot'}" style="${st==='active'?'width:6px;height:6px':''}"></span>MISIÓN-${CODIGO[a]||a} <span style="opacity:.45">· ${lbl}</span></span>
+        <span class="st-pill"><span class="${st==='active'?'status-pulse':'dot'}" style="${st==='active'?'width:6px;height:6px':''}"></span>MISIÓN-${codigo(a)} <span style="opacity:.45">· ${lbl}</span></span>
         <h3>${esc(nombreArea(a))}</h3>
         <div class="k">${n} preguntas · ${vistas}/${n} vistas</div>
         <div class="pct">${pct === null ? '—' : pct + '%'}</div>
@@ -752,6 +885,7 @@ function pintarMenu(){
   $('#sub').textContent = `${DATA.preguntas.length} preguntas de simulacros y cuadernillos oficiales, con la respuesta correcta y su explicación. `
     + 'Las que fallas vuelven a salir hasta que las domines.';
   $('#stickersOn').checked = Mascota.activo();
+  $('#asistOn').checked = Asistencia.activo();
   const ok = Object.values(prog.q).reduce((s,q)=>s+q.ok,0), mal = Object.values(prog.q).reduce((s,q)=>s+q.mal,0);
   const dias = diasAlExamen();
   telemetria([
@@ -765,6 +899,7 @@ function pintarMenu(){
 }
 
 function toggleArea(a){
+  if (!esGenerico(a)) return elegirEspecifico('');   // la tarjeta del específico se quita al tocarla
   areasOff.has(a) ? areasOff.delete(a) : areasOff.add(a);
   const el = document.querySelector(`.sp-mod[data-area="${a}"]`);
   el.classList.toggle('off', areasOff.has(a)); el.setAttribute('aria-pressed', !areasOff.has(a));
@@ -773,7 +908,7 @@ function toggleArea(a){
 function toggleFuente(f){ fuentesOff.has(f) ? fuentesOff.delete(f) : fuentesOff.add(f); pintarMenu(); }
 
 function seleccion(){
-  let qs = DATA.preguntas.filter(p => !areasOff.has(p.area) && !fuentesOff.has(p.fuente));
+  let qs = DATA.preguntas.filter(p => areaActiva(p.area) && !fuentesOff.has(p.fuente));
   if ($('#soloFallos').checked) qs = qs.filter(p => (prog.q[p.id]||{}).mal > 0);
   return qs;
 }
@@ -862,11 +997,13 @@ function pintar(){
   if (!REDUCIDO) document.querySelectorAll('#opts .opt').forEach((b, i) => b.animate(
     [{opacity:0, transform:'translateY(14px)'}, {opacity:1, transform:'none'}],
     {duration:550, delay:i*55, easing:'cubic-bezier(.16,1,.3,1)', fill:'backwards'}));
+  Asistencia.iniciar(actual);
 }
 
 function responder(L){
-  if (!actual || document.querySelector('.opt:disabled')) return;
+  if (!actual || document.querySelector('.opt:disabled:not(.descartada)')) return;
   const bien = (L === actual.correcta);
+  const ayuda = Asistencia.nivel(); Asistencia.parar();
   document.querySelectorAll('.opt').forEach(b=>{
     b.disabled = true;
     if (examen){ if (b.dataset.k === L) b.classList.add('pick'); return; }
@@ -900,6 +1037,7 @@ function responder(L){
     + (actual.explicacion ? `<div class="why">${actual.explicacion}</div>` : '')
     + (actual.afirmacion ? `<div class="sp-eval"><b>QUÉ EVALÚA</b> · ${actual.afirmacion}</div>` : '')
     + (actual.clave_discutida ? `<div class="sp-eval" style="color:var(--color-sls)">Clave oficial discutible: revisa la explicación.</div>` : '')
+    + (ayuda ? `<div class="sp-eval"><b>CON AYUDA DE HADES</b> · ${ayuda === 1 ? 'pista' : 'pista y ' + (ayuda - 1) + ' descarte' + (ayuda > 2 ? 's' : '')}</div>` : '')
     + '</div>';
   fb.style.display='block';
   $('#nav').style.display='flex';
@@ -916,7 +1054,7 @@ function siguiente(){
 
 function terminar(){
   if ($('#juego').style.display === 'none') return;
-  clearInterval(reloj); $('#pillReloj').style.display='none';
+  clearInterval(reloj); $('#pillReloj').style.display='none'; Asistencia.parar();
   prog.rondas++; guardar();
   const tot = examen ? sesion.total : sesion.ok + sesion.mal;
   const pct = tot ? Math.round(100*sesion.ok/tot) : 0;
@@ -955,7 +1093,7 @@ function contar(el){
   requestAnimationFrame(f);
 }
 
-function salir(){ clearInterval(reloj); $('#pillReloj').style.display='none'; Mascota.parar();
+function salir(){ clearInterval(reloj); $('#pillReloj').style.display='none'; Mascota.parar(); Asistencia.parar();
   $('#juego').style.display='none'; $('#fin').style.display='none';
   $('#menu').style.display='block'; pintarMenu(); window.scrollTo(0, 0); }
 
@@ -1009,7 +1147,8 @@ function pintarGuia(){
 }
 function practicarArea(a){
   vista('practicar'); salir();
-  areasOff = new Set(Object.keys(DATA.areas).filter(x => x !== a));
+  areasOff = new Set(DATA.genericos.filter(x => x !== a));
+  if (!esGenerico(a)) especifico = a; else especifico = '';
   pintarMenu(); empezar();
 }
 
@@ -1017,6 +1156,7 @@ document.addEventListener('keydown', e=>{
   if ($('#juego').style.display === 'none' || $('#vPracticar').style.display === 'none' || e.target.closest('summary,input')) return;
   const k = e.key.toUpperCase();
   if ('ABCD'.includes(k) && k.length === 1){ const b=document.querySelector(`.opt[data-k="${k}"]`); if(b && !b.disabled) b.click(); }
+  if (k === 'H' && $('#nav').style.display === 'none') Asistencia.ya();
   if (e.key === 'Enter' && $('#nav').style.display !== 'none') siguiente();
 });
 

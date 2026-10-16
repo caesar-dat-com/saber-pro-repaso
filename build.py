@@ -6,7 +6,7 @@
 
 Valida el banco antes de escribir: si algo está mal, falla y dice qué pregunta.
 """
-import argparse, base64, glob, html, json, os, re, sys
+import argparse, base64, glob, html, json, os, re, shutil, sys
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 BANCO = os.path.join(RAIZ, 'banco')
@@ -19,12 +19,17 @@ def en_linea(t):
     return re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])', r'<i>\1</i>', t)
 
 
+IMAGENES_USADAS = set()
+
+
 def imagen(nombre):
+    """Las figuras se publican como archivos aparte (docs/img/): con más de mil preguntas
+    embebidas en base64 la página pesaría decenas de MB."""
     ruta = os.path.join(BANCO, 'img', nombre)
     if not os.path.isfile(ruta):
         sys.exit(f'falta la imagen banco/img/{nombre}')
-    ext = os.path.splitext(nombre)[1].lstrip('.').lower().replace('jpg', 'jpeg')
-    return f'data:image/{ext};base64,' + base64.b64encode(open(ruta, 'rb').read()).decode()
+    IMAGENES_USADAS.add(nombre)
+    return 'img/' + nombre
 
 
 def markdown(texto):
@@ -155,7 +160,10 @@ def main():
     if set(guia['areas']) - set(areas):
         sys.exit(f'guia.json: áreas desconocidas {set(guia["areas"]) - set(areas)}')
 
-    datos = dict(config=config, areas=areas, fuentes=fuentes, contextos=contextos, preguntas=preguntas,
+    # solo las áreas que tienen preguntas (el catálogo trae todos los módulos del Icfes)
+    con_preguntas = {p['area'] for p in preguntas}
+    areas = {k: v for k, v in areas.items() if k in con_preguntas}
+    datos = dict(config=config, areas=areas, genericos=[g for g in meta.get('genericos', []) if g in areas], fuentes=fuentes, contextos=contextos, preguntas=preguntas,
                  guia=guia, stickers=stickers)
     js = json.dumps(datos, ensure_ascii=False).replace('</', '<\\/')
     plantilla = open(os.path.join(RAIZ, 'src', 'plantilla.html')).read()
@@ -166,6 +174,16 @@ def main():
                     .replace('__DATOS__', js))
     os.makedirs(os.path.dirname(os.path.abspath(a.salida)), exist_ok=True)
     open(a.salida, 'w').write(out)
+    # copiar solo las figuras que se usan, junto a la página
+    dir_img = os.path.join(os.path.dirname(os.path.abspath(a.salida)), 'img')
+    os.makedirs(dir_img, exist_ok=True)
+    for viejo in set(os.listdir(dir_img)) - IMAGENES_USADAS:
+        os.remove(os.path.join(dir_img, viejo))
+    for nombre in IMAGENES_USADAS:
+        destino = os.path.join(dir_img, nombre)
+        origen = os.path.join(BANCO, 'img', nombre)
+        if not os.path.exists(destino) or os.path.getmtime(destino) < os.path.getmtime(origen):
+            shutil.copy2(origen, destino)
     cuenta = {}
     for p in preguntas:
         cuenta[p['fuente']] = cuenta.get(p['fuente'], 0) + 1

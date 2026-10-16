@@ -1,0 +1,449 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Enseñar (cuadernillos y preguntas explicadas)",
+  "contextos": [],
+  "preguntas": [
+    {
+      "id": "icfes-ensenar-001",
+      "area": "ensenar",
+      "n": 1,
+      "contexto": null,
+      "enunciado": "El profesor de Sociales se queja ante el coordinador académico porque dos de sus estudiantes nunca escuchan instrucciones y son los que más generan desorden. El coordinador conoce la trayectoria conflictiva de los estudiantes, así como su alto desempeño académico.\n\nPara atender esta situación, el coordinador académico le sugiere al profesor como estrategia",
+      "opciones": {
+        "A": "buscar a los estudiantes en los recreos y volverse su amigo, porque la investigación educativa ha mostrado una correlación positiva entre la camaradería y la disciplina en el salón.",
+        "B": "observar los desempeños y comportamientos de los estudiantes para diseñar actividades de clase acordes con los objetivos y apropiadas para sus estilos de aprendizaje.",
+        "C": "citar a los padres semanalmente, si es necesario, para que les recuerden a sus hijos las pautas sobre la disciplina y el comportamiento apropiados para la institución.",
+        "D": "prohibir a los estudiantes que se sienten cerca, porque el problema radica en que son una influencia negativa el uno para el otro."
+      },
+      "correcta": "B",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "Son estudiantes de alto desempeño que se desconectan: la salida pedagógica es **observarlos y ajustar las actividades** a los objetivos y a sus estilos de aprendizaje. Hacerse su amigo, citar a los padres o separarlos atacan el síntoma disciplinario sin tocar la planeación de la clase.",
+      "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+    },
+    {
+      "id": "icfes-ensenar-002",
+      "area": "ensenar",
+      "n": 2,
+      "contexto": null,
+      "enunciado": "Un profesor selecciona una actividad con el fin de favorecer la participación de los estudiantes en su clase. Para llevar a cabo este objetivo, la actividad seleccionada por el profesor debe ser",
+      "opciones": {
+        "A": "interesante, para que el estudiante se reconozca como protagonista de su propio aprendizaje.",
+        "B": "creativa, para que los estudiantes atiendan la explicación del profesor durante el desarrollo de la clase.",
+        "C": "motivante, para incorporar todos los temas elegidos y para calificarlos según lo planificado.",
+        "D": "divertida, para que el estudiante considere que aprender es fácil y pueda aprobar los exámenes."
+      },
+      "correcta": "A",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "La participación se favorece cuando el estudiante se asume como **protagonista de su aprendizaje**. Las demás opciones justifican la actividad por fines centrados en el profesor (que atiendan su explicación, cubrir temas y calificar) o en aprobar exámenes.",
+      "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2"
+    },
+    {
+      "id": "icfes-ensenar-003",
+      "area": "ensenar",
+      "n": 3,
+      "contexto": null,
+      "enunciado": "Las habilidades cognitivas forman parte de las habilidades de pensamiento que deben desarrollar los estudiantes en su proceso de aprendizaje. Un profesor encontró que, luego de incorporar los desarrollos cognitivos de sus estudiantes en las actividades de enseñanza, ellos disponían y usaban más estas habilidades, y mejoraban así el desempeño en su clase.\n\nPara ello, el profesor incorpora en la clase actividades relacionadas con",
+      "opciones": {
+        "A": "contenidos procedimentales, para usar métodos de elaboración de saberes.",
+        "B": "situaciones de contexto, para favorecer la relación de un saber con otros saberes.",
+        "C": "contenidos actitudinales, para asimilar temas fundamentales de un saber.",
+        "D": "situaciones inusuales, para motivar a los estudiantes a aprender un saber."
+      },
+      "correcta": "B",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Las habilidades cognitivas se ejercitan cuando el estudiante **relaciona un saber con otros** a partir de situaciones de contexto. Los contenidos procedimentales o actitudinales y las situaciones inusuales apuntan a métodos, actitudes o motivación, no al uso de esas habilidades de pensamiento.",
+      "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+    },
+    {
+      "id": "icfes-ensenar-004",
+      "area": "ensenar",
+      "n": 4,
+      "contexto": null,
+      "enunciado": "Según el propósito del currículo, la institución educativa considera que el papel del profesorado es relevante y, para ello, ha estimulado la integración de un equipo de profesores que orienten sus procedimientos y señalen unas pautas a seguir.\n\nEl equipo conformado debe tener en cuenta los siguientes componentes:",
+      "opciones": {
+        "A": "La evaluación de la organización curricular de contenidos procedimentales y los resultados de los estudiantes en pruebas censales.",
+        "B": "La fundamentación de los modelos pedagógicos y didácticos empleados y su aplicación en el desarrollo de competencias, habilidades y capacidades.",
+        "C": "La fundamentación de los modelos pedagógicos y didácticos empleados y su aplicación en el desarrollo de contenidos conceptuales, procedimentales y actitudinales.",
+        "D": "La evaluación de la organización curricular de contenidos conceptuales y los resultados de los estudiantes en pruebas censales."
+      },
+      "correcta": "C",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "Orientar el currículo exige fundamentar los modelos pedagógicos y didácticos y aplicarlos a los **tres tipos de contenido: conceptuales, procedimentales y actitudinales**. A y D se quedan en un solo tipo de contenido y en pruebas censales; B es la trampa cercana, pero no nombra los contenidos que organiza el currículo.",
+      "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+    },
+    {
+      "id": "icfes-ensenar-005",
+      "area": "ensenar",
+      "n": 5,
+      "contexto": null,
+      "enunciado": "En el segundo período del año escolar, un profesor percibe que un porcentaje alto de estudiantes presenta problemas de construcción conceptual en su área y baja participación en clase. Al indagar sobre las posibles causas, encuentra que la mayor dificultad para comprender la materia se debe a la forma como están organizados los conceptos.\n\nLuego de analizar la situación, decide cambiar su estrategia didáctica y relacionar más los contenidos curriculares con la vida cotidiana de los estudiantes.\n\nLa implementación de esta nueva estrategia requiere un proceso educativo con énfasis en",
+      "opciones": {
+        "A": "la definición de reglas claras para las intervenciones en clase y el control de la disciplina.",
+        "B": "la adopción de estímulos para quienes más participen y demuestren mayor interés en la clase.",
+        "C": "la flexibilización del plan de estudios y el estímulo a la disposición para interactuar con otros.",
+        "D": "la incorporación de lecturas sobre la participación y la comprobación de su comprensión."
+      },
+      "correcta": "C",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Si el problema está en cómo se organizan los conceptos y la solución es conectarlos con la vida cotidiana, hay que **flexibilizar el plan de estudios** y promover la interacción, que además ataca la baja participación. Reglas, premios o lecturas sobre participación no reorganizan los contenidos.",
+      "origen": "Cuadernillo 2018 #5 · Cuadernillo 2026 #5"
+    },
+    {
+      "id": "icfes-ensenar-006",
+      "area": "ensenar",
+      "n": 6,
+      "contexto": null,
+      "enunciado": "En una institución educativa, los profesores de sexto grado consideran importante inculcar el sentido de la responsabilidad en los estudiantes y notan con preocupación que ellos no están cumpliendo con las tareas escolares asignadas. Al preguntarles su opinión, los estudiantes consideran que, para cumplir con las tareas, se deben suspender las actividades extracurriculares obligatorias que ofrece la institución en la jornada complementaria, porque estas demandan tiempo y obligaciones.\n\nLa mejor propuesta para reforzar el sentido de responsabilidad en los estudiantes es",
+      "opciones": {
+        "A": "exponer ante los padres de familia las ventajas de exigir a sus hijos el cumplimiento de las tareas escolares.",
+        "B": "considerar los compromisos que asumen los estudiantes en las dos jornadas para la asignación de tareas.",
+        "C": "premiar a los estudiantes que, además de participar en ambas jornadas, cumplen con las tareas académicas.",
+        "D": "privilegiar las tareas académicas que estimulen el intelecto, porque las demás actividades son recreativas."
+      },
+      "correcta": "B",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "La propuesta sensata es **ajustar la asignación de tareas a la carga real** que los estudiantes tienen en ambas jornadas, para que puedan cumplir con todo. Trasladar la exigencia a los padres, premiar solo a algunos o desvalorizar las actividades complementarias no responde a la causa que ellos mismos señalaron.",
+      "origen": "Cuadernillo 2018 #6 · Cuadernillo 2026 #6"
+    },
+    {
+      "id": "icfes-ensenar-007",
+      "area": "ensenar",
+      "n": 7,
+      "contexto": null,
+      "enunciado": "El plan de estudios de una institución educativa se desarrolla con prácticas pedagógicas que promuevan interdisciplinariedad, que relacionen contenidos de diferentes áreas, con el fin de que los profesores, en sus clases, hagan explícitas las condiciones socio-históricas de la producción de las disciplinas.\n\nPara favorecer la interdisciplinariedad, un profesor procura que sus estudiantes sean capaces de",
+      "opciones": {
+        "A": "aprender los saberes propios de cada área escolar.",
+        "B": "articular problemas de distintos campos del saber.",
+        "C": "identificar los objetos de conocimiento de la ciencia.",
+        "D": "integrar temas trabajados en distintos grados escolares."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende el uso de la didáctica de las disciplinas en la enseñanza.",
+      "explicacion": "La interdisciplinariedad consiste en **articular problemas de distintos campos del saber**. Aprender cada área por separado o identificar objetos de la ciencia es disciplinar, e integrar temas de distintos grados es articulación vertical dentro de un currículo, no entre disciplinas.",
+      "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #7"
+    },
+    {
+      "id": "icfes-ensenar-008",
+      "area": "ensenar",
+      "n": 8,
+      "contexto": null,
+      "enunciado": "Un estilo de aprendizaje puede definirse como un conjunto de estrategias que usa un estudiante para lograr aprender. Estas estrategias varían en relación con lo que se quiere aprender, pero, aun así, cada estudiante presenta una tendencia a utilizar unas más que otras.\n\nConocer los estilos de aprendizaje de los estudiantes forma parte de las competencias docentes, pues ello le permite al profesor",
+      "opciones": {
+        "A": "prever que los estudiantes aprendan un número adecuado de contenidos de la clase de acuerdo con los objetivos propuestos.",
+        "B": "seleccionar actividades para desarrollar en las clases y estimular el aprendizaje de teorías, conceptos, predisposiciones y prácticas.",
+        "C": "brindar una mejor asesoría a los padres de familia acerca de cómo fomentar en sus hijos habilidades para la realización de tareas.",
+        "D": "dar solución a los bajos resultados académicos de los estudiantes demostrando que todos deben aprender y al mismo ritmo."
+      },
+      "correcta": "B",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "Saber cómo aprende cada estudiante sirve para **planear: elegir actividades** acordes con esas estrategias. No sirve para fijar cuántos contenidos aprenderán ni para asesorar a los padres, y D contradice la idea misma de estilos diversos al exigir un mismo ritmo.",
+      "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8"
+    },
+    {
+      "id": "icfes-ensenar-009",
+      "area": "ensenar",
+      "n": 9,
+      "contexto": null,
+      "enunciado": "Un grupo de profesores retoma los resultados del proceso de autoevaluación institucional realizado hace cuatro años. En la gestión de la comunidad se lee: “Nos ocuparemos del desafío de repensar la relación sociedad/escuela, para poner en marcha un conjunto de estrategias que hagan visible nuestro lugar como formadores de ciudadanos; además, refundaremos la escuela para que aporte alternativas, no solo a la sociedad, sino a ella misma”. Revisar este propósito permitió reconocer que no se ha avanzado significativamente.\n\nEn cada una de las áreas, los profesores se proponen promover en los estudiantes actitudes críticas, razonando deductivamente alrededor del ejercicio ciudadano. Para ello, en sus clases, deben planear el desarrollo de habilidades cognitivas",
+      "opciones": {
+        "A": "creativas.",
+        "B": "verbales.",
+        "C": "analíticas.",
+        "D": "organizativas."
+      },
+      "correcta": "C",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Las claves del enunciado son **actitud crítica y razonamiento deductivo**: eso corresponde a habilidades **analíticas** (descomponer, inferir, evaluar argumentos). Las creativas, verbales u organizativas no son las que sostienen el razonamiento deductivo.",
+      "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9"
+    },
+    {
+      "id": "icfes-ensenar-010",
+      "area": "ensenar",
+      "n": 10,
+      "contexto": null,
+      "enunciado": "La planeación de una unidad temática que integre actividades de diversas áreas como las ciencias sociales, las artes, el lenguaje y las matemáticas requiere un proceso previo de reflexión.\n\nLa pregunta inicial que usted como profesor se formula para llevar a cabo este proceso es:",
+      "opciones": {
+        "A": "¿Cuánto tiempo debo dedicarle a cada área?",
+        "B": "¿Qué objetivos debo incluir en la unidad?",
+        "C": "¿Qué materiales voy a escoger para motivar a los estudiantes?",
+        "D": "¿Cómo voy a evaluar el desempeño de los estudiantes?"
+      },
+      "correcta": "B",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Toda planeación parte de **definir los objetivos**: de ellos dependen después el tiempo, los materiales y la evaluación. Las otras preguntas son legítimas, pero posteriores.",
+      "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10"
+    },
+    {
+      "id": "icfes-ensenar-011",
+      "area": "ensenar",
+      "n": 11,
+      "contexto": null,
+      "enunciado": "La descripción es una habilidad cognitivo-lingüística que se estimula con la mayoría de actividades que un estudiante desarrolla en su proceso de aprendizaje. Esta habilidad la utiliza el estudiante cuando encuentra regularidades, realiza una clasificación, delimita un fenómeno y ofrece datos.\n\nUn profesor considera que esta habilidad se puede estimular haciendo uso del contexto cultural de los estudiantes y para ello realiza una caracterización de este. De acuerdo con lo anterior, se puede afirmar que el propósito del profesor es",
+      "opciones": {
+        "A": "facilitar el vínculo entre los contenidos de aprendizaje de la disciplina que enseña con las características del entorno, a fin de desarrollar habilidades descriptivas en los estudiantes.",
+        "B": "identificar a los estudiantes que tienen más posibilidades de lograr buenos resultados académicos, para desarrollar en ellos habilidades descriptivas de las características del entorno.",
+        "C": "explicar, con base en las características del entorno, las razones por las cuales solo unos pocos estudiantes aprueban la asignatura, con el fin de modificar los instrumentos de evaluación.",
+        "D": "elaborar un plan de trabajo que mejore la infraestructura de la institución educativa, a fin de cambiar el entorno de los estudiantes y favorecer mejores resultados en el aprendizaje."
+      },
+      "correcta": "A",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "El profesor caracteriza el contexto cultural para **vincular los contenidos de su disciplina con el entorno** y así ejercitar la descripción. B lo restringe a unos pocos estudiantes, C lo desvía a la evaluación y D a la infraestructura.",
+      "origen": "Cuadernillo 2018 #11"
+    },
+    {
+      "id": "icfes-ensenar-012",
+      "area": "ensenar",
+      "n": 12,
+      "contexto": null,
+      "enunciado": "Un grupo de estudiantes de décimo grado le expresa al coordinador de grupo su inconformidad con uno de sus profesores, que si bien reconocen como juicioso, responsable y estudioso, afirman que su forma de enseñar es demasiado aburrida. Cuando llega a clase llama a lista, escribe en el tablero la fecha, abre el libro en algún tema e inicia la explicación correspondiente. Luego, organiza grupos para que realicen el taller del libro y al finalizar la clase siempre asigna ejercicios para la casa, informando que en la próxima clase los revisará.\n\nEl coordinador propone a su colega implementar otras estrategias de enseñanza que integren a los estudiantes en situaciones auténticas y desarrollen habilidades cognitivas. Una estrategia que se ajusta a esta intención es proponer",
+      "opciones": {
+        "A": "la identificación de problemáticas del contexto cercano de los estudiantes que involucren múltiples alternativas de explicación.",
+        "B": "una consulta de temas con base en una guía preestablecida por el profesor, en la cual los estudiantes responden a partir de un texto asignado.",
+        "C": "una serie de actividades espontáneas desarrolladas por los estudiantes con independencia de la planificación, con el propósito de centrar su atención.",
+        "D": "la asignación de exposiciones, consultas y dinámicas que motiven a los estudiantes a realizar actividades más participativas."
+      },
+      "correcta": "A",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Las problemáticas del contexto cercano son **situaciones auténticas**, y que admitan **múltiples explicaciones** obliga a pensar: cumple las dos condiciones del coordinador. B repite la enseñanza tradicional, C renuncia a planificar y D motiva y hace participar, pero sin situaciones auténticas.",
+      "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #11 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-ensenar-013",
+      "area": "ensenar",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "La formación por competencias requiere conocimientos, procedimientos, actitudes y disposiciones que deben estar relacionados entre sí para propiciar un aprendizaje retador y con sentido. La incorporación de esta propuesta al quehacer de la institución educativa requiere reflexiones individuales y conjuntas en todos los ámbitos de la intervención educativa, en especial, en la planeación, ejecución y evaluación de la enseñanza y del aprendizaje.\n\nEn el caso de las competencias transversales, estas pueden evaluarse con",
+      "opciones": {
+        "A": "un examen de comprensión de conceptos.",
+        "B": "una exposición con el uso de las TIC.",
+        "C": "una simulación de un problema.",
+        "D": "una encuesta con preguntas cerradas."
+      },
+      "correcta": "C",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Las competencias transversales se manifiestan al **movilizar conocimientos, procedimientos y actitudes a la vez ante una situación**, y eso lo permite una simulación de un problema. Un examen conceptual o una encuesta cerrada solo miden saberes aislados, y una exposición con TIC evalúa sobre todo la presentación.",
+      "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #12"
+    },
+    {
+      "id": "icfes-ensenar-014",
+      "area": "ensenar",
+      "n": 14,
+      "contexto": null,
+      "enunciado": "Según Bruner, la mejor manera de generar interés en un tema es mostrarlo a los estudiantes como algo que vale la pena saber. Esto significa hacer que ese conocimiento sea útil en situaciones distintas a las que se han usado para aprenderlo.\n\nDe acuerdo con lo anterior, las mejores actividades para enseñar un nuevo concepto, que promueva la motivación de los estudiantes, son:",
+      "opciones": {
+        "A": "Una exposición del concepto y de su importancia por parte del profesor y una investigación escrita sobre posibles aplicaciones del nuevo concepto.",
+        "B": "Un ejercicio de aplicación seguido por la resolución de un problema de la vida real de elección libre que utiliza el nuevo concepto.",
+        "C": "Una investigación sobre la importancia del tema, construida a partir de una pregunta orientadora, y un mapa conceptual de las aplicaciones del nuevo concepto en la vida real.",
+        "D": "El diseño de un video sobre el nuevo concepto para mostrar su importancia y su publicación en el blog de la asignatura."
+      },
+      "correcta": "B",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Para Bruner el conocimiento vale la pena cuando sirve en situaciones nuevas, y el estudiante aprende **descubriendo y resolviendo problemas por sí mismo**: eso hace B. A, C y D muestran la importancia o las aplicaciones del concepto, pero ninguna pone al estudiante a resolver un problema.",
+      "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #13 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-ensenar-015",
+      "area": "ensenar",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "En clase de Sociales, los estudiantes están aprendiendo sobre las formas de participación ciudadana en el país.\n\nLa actividad más pertinente para que los estudiantes apropien estos conceptos es",
+      "opciones": {
+        "A": "leer las diferentes formas de participación ciudadana que existen en el libro de texto, en internet y en revistas.",
+        "B": "ver ejemplos de participación ciudadana en el siglo XX en diferentes países del mundo.",
+        "C": "estudiar la Constitución y aprender las diferentes maneras de participación ciudadana que existen.",
+        "D": "plantear un dilema en el cual los estudiantes proponen estrategias de participación ciudadana."
+      },
+      "correcta": "D",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "Apropiarse de un concepto es **usarlo**: ante un dilema, los estudiantes tienen que proponer estrategias de participación. Leer, ver ejemplos de otros países o estudiar la Constitución son actividades receptivas que se quedan en conocer las formas de participación.",
+      "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #14"
+    },
+    {
+      "id": "icfes-ensenar-016",
+      "area": "ensenar",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "Un profesor está interesado en conocer y orientar las dudas de los estudiantes de uno de los temas de su clase. Para tal fin, decide realizar una actividad que se prevé durará dos horas y constará de tres fases. En la primera fase, mediante el empleo de marcadores (uno por estudiante) y cartulinas (tres por estudiante), el profesor busca que ellos expongan sus inquietudes.\n\n**¡Mis inquietudes!** (Fase 1)\n\n**Materiales:** Marcadores (uno por estudiante) y cartulinas de 1/16 (tres por estudiante).\n\n**Función:** Actividad para que el profesor conozca y oriente las dudas de los estudiantes de un tema en particular.\n\nLas instrucciones que el profesor debe comunicarles (de manera verbal y escrita) a sus estudiantes para la realización adecuada de la actividad individual de clase en su fase uno son:",
+      "opciones": {
+        "A": "Revisar apuntes de clase, identificar aquellos puntos que aún no comprenden, reflexionar para formularlos en forma de pregunta, escribir una pregunta en cada cartulina y entregar al profesor.",
+        "B": "Identificar cuáles son los materiales de trabajo, verificar que estos estén completos (en caso de no estarlo, informar al profesor), escribir tres preguntas de interés, revisar la redacción y entregar al profesor.",
+        "C": "Escribir una pregunta en cada cartulina, comparar sus preguntas con las de otros estudiantes, modificar las preguntas que sean muy simples, reformular las preguntas y entregar al profesor.",
+        "D": "Emplear sus conocimientos para formular preguntas novedosas, escoger las tres preguntas más difíciles, escribir las tres preguntas en las cartulinas, revisar la redacción y entregar al profesor."
+      },
+      "correcta": "A",
+      "afirmacion": "Promueve actividades de enseñanza y aprendizaje que favorezcan el desarrollo conceptual, actitudinal y procedimental de los estudiantes.",
+      "explicacion": "La función de la actividad es conocer las **dudas** de cada estudiante, y A es la única secuencia que las hace aflorar: revisar apuntes, identificar lo que no se comprende y volverlo pregunta, una por cartulina. B pide preguntas «de interés», C la vuelve grupal (la fase es individual) y D busca preguntas novedosas o difíciles, no dudas.",
+      "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #15"
+    },
+    {
+      "id": "icfes-ensenar-017",
+      "area": "ensenar",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "En el proceso de planeación del año escolar, un profesor de Sociales prepara una secuencia de enseñanza para grado noveno llamada: “Transformaciones sobre el territorio natural colombiano”, de manera que los estudiantes den cuenta de los esfuerzos progresistas de cada generación por dominar, explotar o disfrutar su territorio desde tiempos remotos hasta la actualidad. Teniendo en cuenta las innumerables muestras que permanecen como testimonio de actividades de los habitantes de cada región, los estudiantes generarán un documento audiovisual y escrito como producto de su indagación.\n\nPor tanto, la planeación de la unidad didáctica debe basarse en un enfoque",
+      "opciones": {
+        "A": "tecnológico, marcado por el pensamiento creativo para estimular la curiosidad científica útil para resolver problemas y tomar decisiones sobre la realidad local.",
+        "B": "empírico-analítico, marcado por el pensamiento sensorial e inductivo para describir, explicar y predecir sucesos mediante deducciones no contradictorias.",
+        "C": "socio-cultural, marcado por el pensamiento reflexivo para comprender y estudiar los fenómenos de las interacciones del individuo en un momento histórico dado.",
+        "D": "subjetivo, marcado por el pensamiento introspectivo, del mundo interior, para almacenar, recuperar y utilizar la información recibida a través de los sentidos."
+      },
+      "correcta": "C",
+      "afirmacion": "Comprende el uso de la didáctica de las disciplinas en la enseñanza.",
+      "explicacion": "La secuencia estudia cómo cada generación se ha relacionado con su territorio a lo largo de la historia: eso es un **enfoque socio-cultural**, centrado en las interacciones humanas en momentos históricos. El tecnológico y el empírico-analítico son propios de las ciencias naturales, y el subjetivo mira el mundo interior.",
+      "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #16"
+    },
+    {
+      "id": "icfes-ensenar-018",
+      "area": "ensenar",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "La concepción del mundo wayuu se fundamenta en la espiritualidad y el pensamiento propio mediados por la oralidad, el ejemplo, la imitación, la observación directa, la convivencia y las experiencias vividas. En la nación wayuu el saber es transmitido de manera oral y práctica mediada por la participación del individuo en la producción cultural.\n\nFuente: Mesa técnica Departamental de etnoeducación Wayuu, Comités municipales de apoyo a la Etnoeducación, Construcción colectiva de representantes de la Nación Wayuu. Proyecto Etnoeducativo de la Nación Wayuu. SF. http://www.yanama.org/wp-content/uploads/2012/06/proyecto-educativo-anaa-akuaipa.pdf\n\nSegún el anterior contexto, que describe algunos principios que enmarcan los procesos educativos de la nación wayuu, los objetivos de formación en los primeros grados de un proyecto etnoeducativo (programa de formación que respete y fortalezca la cultura étnica de la región) desarrollado en una institución educativa de La Guajira, deben orientarse a",
+      "opciones": {
+        "A": "fomentar procesos de comunicación que les permitan a los estudiantes compartir y enriquecer los conocimientos de su comunidad con los de otras culturas.",
+        "B": "promover el intercambio de experiencias con otras culturas, donde se realice la asimilación de costumbres adaptándolas a su propia identidad.",
+        "C": "fortalecer los procesos de escritura, de manera que inicie sus procesos de adquisición de una segunda lengua, que faciliten la interacción con otras culturas.",
+        "D": "favorecer, a partir de la palabra hablada y la interacción entre estudiantes, procesos de construcción de conocimiento que propendan por el fortalecimiento de la identidad cultural."
+      },
+      "correcta": "D",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "Un proyecto etnoeducativo busca ante todo **fortalecer la identidad cultural**, y en los wayuu el saber se transmite por la oralidad y la convivencia: D recoge ambas cosas. A apunta a la interculturalidad, que es secundaria; B habla de asimilación, justo lo que la etnoeducación evita; y C prioriza la escritura y una segunda lengua.",
+      "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #18 · Preguntas explicadas #3"
+    },
+    {
+      "id": "icfes-ensenar-019",
+      "area": "ensenar",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "El aprendizaje se promueve por medio de interacciones, reformulaciones y transformaciones continuas. Las ideas previas están presentes durante todo ese proceso; por ello, las actividades en clase deben permitir que los estudiantes revelen lo que ya saben o creen saber, no como mera información para el profesor, sino para hacer uso provechoso de ello. También, ellos deben buscar la forma de enriquecerla, completarla, cuestionarla, complejizarla y relacionarla con los nuevos conocimientos.\n\nEsta perspectiva de enseñanza y aprendizaje le permite al profesor",
+      "opciones": {
+        "A": "la comprensión de los aciertos y errores de los estudiantes frente a un tema.",
+        "B": "el análisis de las contradicciones y confusiones que surjan durante el proceso.",
+        "C": "la orientación a los estudiantes en la adquisición de nuevos conocimientos.",
+        "D": "el reconocimiento de ideas y percepciones preliminares de los estudiantes."
+      },
+      "correcta": "D",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "El texto gira en torno a las **ideas previas**: las actividades deben hacer que los estudiantes revelen lo que ya saben o creen saber, es decir, permiten **reconocer sus ideas y percepciones preliminares**. Aciertos y errores, contradicciones u orientación hacia lo nuevo son pasos posteriores del proceso.",
+      "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #17"
+    },
+    {
+      "id": "icfes-ensenar-020",
+      "area": "ensenar",
+      "n": 20,
+      "contexto": null,
+      "enunciado": "En general, un conocimiento disciplinar está constituido por todas aquellas leyes, teorías y conceptos que el profesor usa como referencia para organizar los contenidos que se deben enseñar y para diseñar el currículo del curso. En el desempeño de su labor, el profesor debe dominar apropiadamente este conocimiento disciplinar, porque es un elemento relevante de su profesión.\n\nEn la formación de los estudiantes, el conocimiento disciplinar le permite al profesor",
+      "opciones": {
+        "A": "transformarlo para elaborar contenidos de aprendizaje.",
+        "B": "usarlo para poner en práctica políticas educativas.",
+        "C": "aprovecharlo para mejorar niveles de motivación en la clase.",
+        "D": "tomarlo como referencia para asignar actividades extra clase."
+      },
+      "correcta": "A",
+      "afirmacion": "Comprende el uso de la didáctica de las disciplinas en la enseñanza.",
+      "explicacion": "Dominar la disciplina permite al profesor **transformarla en contenidos enseñables** (lo que se llama transposición didáctica), que es justo para lo que el texto dice que sirve. Políticas educativas, motivación o tareas extraclase no dependen directamente de ese dominio.",
+      "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #19"
+    },
+    {
+      "id": "icfes-ensenar-021",
+      "area": "ensenar",
+      "n": 21,
+      "contexto": null,
+      "enunciado": "La descripción es una habilidad cognitivo-lingüística que se estimula con la mayoría de actividades que un estudiante desarrolla en su proceso de aprendizaje. Esta habilidad la utiliza el estudiante cuando encuentra regularidades, realiza una clasificación, delimita un fenómeno y ofrece datos.\n\nUn profesor espera que sus estudiantes mejoren la manera como describen fenómenos propios de su contexto social. Para ello, ha decidido implementar en sus clases estrategias innovadoras que le permitan potenciar esta habilidad cognitivo-lingüística, al tiempo que los estudiantes aprendan.\n\nLas estrategias que el profesor implemente deberán considerar:",
+      "opciones": {
+        "A": "El modelo económico del contexto de los estudiantes, el fomento de estilos cognitivistas de aprendizaje y el uso de modelos didácticos directivistas.",
+        "B": "Los contenidos de enseñanza, el fomento de estilos de aprendizaje por resolución de problemas y las particularidades del entorno de la institución educativa.",
+        "C": "El contexto de los estudiantes, el desarrollo de metodologías que garantizan buenas explicaciones del profesor y el uso de modelos didácticos constructivistas.",
+        "D": "El currículo del curso, el uso de modelos didácticos para el aprendizaje por descubrimiento y las características del Proyecto Educativo Institucional."
+      },
+      "correcta": "B",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "B reúne lo necesario: los **contenidos** que se quieren aprender, una estrategia activa (**resolución de problemas**) y el **entorno** donde están los fenómenos sociales a describir. A y C mezclan modelos directivos o centrados en la explicación del profesor, y D se queda en documentos institucionales sin mirar el entorno.",
+      "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #20"
+    },
+    {
+      "id": "icfes-ensenar-022",
+      "area": "ensenar",
+      "n": 22,
+      "contexto": null,
+      "enunciado": "La caracterización preliminar de un grupo de estudiantes permite conocer la siguiente información:\n\nDe estas características, aquellas de mayor relevancia para un profesor a la hora de diseñar y aplicar una estrategia de enseñanza y aprendizaje son",
+      "opciones": {
+        "A": "nivel cognitivo-lingüístico y persona(s) con quien(es) viven los estudiantes.",
+        "B": "rango de edad y nivel cognitivo-lingüístico.",
+        "C": "distribución porcentual por género y persona(s) con quien(es) viven los estudiantes.",
+        "D": "rango de edad y distribución porcentual por género."
+      },
+      "correcta": "B",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "Para diseñar una estrategia de enseñanza lo que más pesa es la etapa de desarrollo (**edad**) y lo que los estudiantes pueden comprender y expresar (**nivel cognitivo-lingüístico**). El género y con quién viven son datos de contexto que no definen directamente cómo enseñar.",
+      "origen": "Cuadernillo 2018 #22 · Cuadernillo 2026 #22",
+      "imagen": "icfes_ensenar_022.png"
+    },
+    {
+      "id": "icfes-ensenar-023",
+      "area": "ensenar",
+      "n": 23,
+      "contexto": null,
+      "enunciado": "La labor docente apoyada en estrategias colaborativas entre profesores favorece los propósitos formativos de una institución educativa, pues la planeación curricular en equipo es una oportunidad para que los profesores",
+      "opciones": {
+        "A": "relacionen objetivos de enseñanza de diversas áreas de conocimiento.",
+        "B": "propongan mejoras en los medios educativos requeridos para el aprendizaje.",
+        "C": "sugieran evaluaciones acordes con las expectativas de una parte de los padres de familia.",
+        "D": "mejoren la educación en valores democráticos que reciben los estudiantes."
+      },
+      "correcta": "A",
+      "afirmacion": "Diseña proyectos curriculares, planes de estudio, y unidades de aprendizaje.",
+      "explicacion": "Planear el currículo en equipo permite **articular los objetivos de enseñanza de distintas áreas**, que es lo propio de la planeación curricular. Los medios educativos, las expectativas de algunos padres o los valores democráticos no son el aporte específico de planear juntos.",
+      "origen": "Cuadernillo 2018 #23 · Cuadernillo 2026 #21"
+    },
+    {
+      "id": "icfes-ensenar-024",
+      "area": "ensenar",
+      "n": 24,
+      "contexto": null,
+      "enunciado": "Un equipo de profesores diseña sus unidades didácticas en un ámbito interdisciplinar como instrumento de apoyo en los diversos procesos de enseñanza-aprendizaje, de modo que promuevan la lectura y se fortalezcan las habilidades en la búsqueda, análisis y tratamiento de la información y la documentación.\n\nEn este sentido, para dinamizar el desarrollo de la comprensión de lectura en relación con el objetivo de aprendizaje que favorezca transferir lo aprendido a otros contextos distintos, los profesores deberían fundamentarse en el siguiente proceso:",
+      "opciones": {
+        "A": "Explicar los objetivos relacionados con el texto, ejemplificar la estrategia y describir la habilidad comunicativa propia de la actividad, orientar las preguntas de comprensión y garantizar el uso independiente con material nuevo.",
+        "B": "Diseñar un programa de conocimientos basado en problemas de investigación, caracterizar las competencias del estudiante, establecer criterios, definir y desarrollar el proyecto y evaluar las competencias logradas.",
+        "C": "Indagar los conocimientos previos para conectarlos con los nuevos contenidos, escuchar con atención los aportes de los estudiantes, buscar que retengan lo más significativo de las explicaciones y asignar trabajo extra.",
+        "D": "Indicar las relaciones dadas en el contenido leído, sugerir técnicas para resolver problemas, verificar paso por paso la resolución de la situación planteada, analizar las soluciones obtenidas y explorar nuevos procedimientos."
+      },
+      "correcta": "A",
+      "afirmacion": "Comprende el uso de la didáctica de las disciplinas en la enseñanza.",
+      "explicacion": "A es una secuencia de enseñanza de estrategias de **lectura** que termina en el **uso independiente con material nuevo**, es decir, en la transferencia que pide el enunciado. B describe un proyecto de investigación, C se centra en retener explicaciones y D es un proceso de resolución de problemas.",
+      "origen": "Cuadernillo 2018 #24 · Cuadernillo 2026 #23"
+    },
+    {
+      "id": "icfes-ensenar-025",
+      "area": "ensenar",
+      "n": 25,
+      "contexto": null,
+      "enunciado": "Las instituciones educativas implementan diferentes métodos que cambian el concepto de enseñar. Originalmente, los estudiantes prestaban atención a las instrucciones impartidas por su profesor para seguirlas incuestionablemente. Actualmente, la labor de los profesores es propiciar los ambientes óptimos para el descubrimiento, es decir, para que el estudiante encuentre su propio conocimiento.\n\nEsta forma de enseñar puede conducir a varios caminos cognitivos, uno de ellos desemboca en el desarrollo del aprendizaje autónomo. Desde esa perspectiva, un estudiante demuestra autonomía en su aprendizaje cuando",
+      "opciones": {
+        "A": "propone objetivos, planifica actividades y aplica estrategias con el fin de lograr sus metas.",
+        "B": "tiene conciencia sobre sí mismo, autorregula el conocimiento y valora sus procesos.",
+        "C": "analiza su quehacer y se compromete a formar parte de un ciclo de mejoramiento.",
+        "D": "evalúa su comportamiento, propende por su bienestar y establece parámetros de estudio."
+      },
+      "correcta": "B",
+      "afirmacion": "Comprende el uso de la didáctica de las disciplinas en la enseñanza.",
+      "explicacion": "La autonomía en el aprendizaje es de naturaleza **metacognitiva**: conciencia de sí, **autorregulación** del conocimiento y valoración de los propios procesos. A es la trampa: describe planificación orientada a metas, que es parte del proceso pero no la autorregulación en sí; C y D hablan de mejoramiento, comportamiento o bienestar.",
+      "origen": "Cuadernillo 2018 #25 · Cuadernillo 2026 #24"
+    },
+    {
+      "id": "icfes-ensenar-026",
+      "area": "ensenar",
+      "n": 26,
+      "contexto": null,
+      "enunciado": "En una institución educativa, los profesores de Sociales consideran relevante implementar las tecnologías de la información y la comunicación (TIC) para mejorar la comprensión de conceptos de su disciplina y favorecer los aprendizajes de los estudiantes. Por esto, deciden utilizar como recurso, en algunas de sus clases, la sala de informática.\n\nDe acuerdo con lo anterior, la razón primordial de su utilización radica en que",
+      "opciones": {
+        "A": "las TIC despiertan el interés en los estudiantes, son motivadoras y atrayentes.",
+        "B": "el profesor logra mayor interactividad que con otros medios y recursos didácticos.",
+        "C": "las TIC aportan recursos de todo tipo que promueven las representaciones del entorno.",
+        "D": "el profesor garantiza la búsqueda y el análisis de información sobre diversos temas."
+      },
+      "correcta": "C",
+      "afirmacion": "Comprende el uso de la didáctica de las disciplinas en la enseñanza.",
+      "explicacion": "El propósito declarado es **mejorar la comprensión de conceptos** de Sociales, y las TIC sirven a eso porque ofrecen recursos que **representan el entorno**. La motivación (A) y la interactividad (B) son efectos secundarios, y D exagera: las TIC no «garantizan» el análisis de información.",
+      "origen": "Cuadernillo 2018 #26 · Cuadernillo 2026 #25"
+    }
+  ]
+}

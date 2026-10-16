@@ -1,0 +1,396 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Formulación de Proyectos de Ingeniería (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Actividades de la línea de transmisión",
+   "texto": "| Actividad | Precedente | Duración |\n|---|---|---|\n| LN1 | - | 3 |\n| LN2 | - | 4 |\n| LN3 | - | 3 |\n| LN4 | LN1 | 5 |\n| LN5 | LN2 | 5 |\n| LN6 | LN2 y LN3 | 2 |\n| LN7 | LN4, LN5 y LN7 | 5 |"
+  },
+  {
+   "titulo": "Tabla 1. Información de productos lácteos",
+   "texto": "| | Mantequilla | Queso azul |\n|---|---|---|\n| Costo de insumos requeridos por tonelada | $500 | $6 000 |\n| Se produce en | 1 día | 30 días |\n| Genera ingresos netos mensuales por | $30 000 | $21 000 |\n| Valor presente neto | $12 500 | $12 000 |\n| Periodo de repago | 15 días | 16 días |"
+  },
+  {
+   "titulo": "Alternativas de inversión",
+   "texto": "| Alternativa | Inversión inicial (millones de $) | VPN ($) | TIR (%) |\n|---|---|---|---|\n| 1 | (6.000) | 0 | 30 |\n| 2 | (6.000) | 1.068 | 40 |\n| 3 | (7.200) | 0 | 30 |\n| 4 | (7.200) | 1.009 | 40 |"
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-formulacion_ingenieria-001",
+   "area": "formulacion_ingenieria",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Juan trabaja en la empresa Ingenieros Consultores Ambientales. Pedro, su jefe inmediato, lo envía al campo de explotación de una empresa petrolera, que es cliente de la compañía, a desarrollar un proyecto para hacer un estudio de aguas. Juan, mientras lo realiza, encuentra que el manejo de los desechos de esa empresa es inadecuado, que la empresa está contaminando el medio ambiente y que esa acción es sancionable y multable. Al informarle esta situación a Pedro, este le ordena que reporte el estudio de aguas y que no haga comentarios sobre la situación de contaminación.\n\nFrente a su responsabilidad profesional, en el contexto dado, su acción más apropiada es:",
+   "opciones": {
+    "A": "Solicitarle a su jefe inmediato que le informe al cliente de la situación de contaminación.",
+    "B": "Solicitarle al gerente general de su empresa que informe sobre la situación de contaminación.",
+    "C": "Que Juan le informe al cliente que su empresa está contaminando el medio ambiente.",
+    "D": "Que Juan le informe al Ministerio del Medio Ambiente del caso de contaminación."
+   },
+   "correcta": "A",
+   "afirmacion": "Reconoce su papel y responsabilidad disciplinar, social y ética como ingeniero en un contexto de desempeño profesional.",
+   "explicacion": "Juan no puede callar la contaminación, pero tampoco saltarse la cadena de mando: lo ético y profesional es **insistir ante su jefe inmediato** para que la empresa consultora informe al cliente. Acudir directamente al cliente, al gerente o al Ministerio rompe el conducto regular antes de agotarlo.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-002",
+   "area": "formulacion_ingenieria",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Un hacendado recibe la licencia ambiental para la construcción y operación de una microcentral hidroeléctrica, que se instalará en una zona boscosa en la cuenca del río; esta le permitirá cubrir la demanda de una planta procesadora de alimentos.\n\nDe acuerdo con este resultado, los habitantes de la región analizaron los efectos de este proyecto y deciden objetar la licencia principalmente porque se",
+   "opciones": {
+    "A": "beneficiará al propietario de la procesadora.",
+    "B": "transformará el cauce natural de este río.",
+    "C": "afectará una zona protegida para turismo.",
+    "D": "modificará flora y fauna nativa de la zona."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce su papel y responsabilidad disciplinar, social y ética como ingeniero en un contexto de desempeño profesional.",
+   "explicacion": "La obra se ubica en una **zona boscosa**, así que su principal impacto ambiental es la alteración de la **flora y fauna nativa**. Que beneficie al propietario no es motivo de objeción, y el enunciado no dice que la zona sea protegida para turismo.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-003",
+   "area": "formulacion_ingenieria",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Durante la consolidación del informe técnico final de un proyecto del Plan de Ordenamiento Territorial (POT) de un municipio colombiano, un ingeniero copió una parte de un documento elaborado en otro estudio realizado por un profesional ajeno al presente proyecto, sin su previa autorización y sin darle los créditos a este.\n\nTeniendo en cuenta la reglamentación del ejercicio de la ingeniería y el Código de Ética Profesional, la actuación del ingeniero corresponde a una transgresión a la norma",
+   "opciones": {
+    "A": "que establece los deberes del ingeniero con sus colegas y demás profesionales.",
+    "B": "que vela por el respeto a la dignidad de su profesión.",
+    "C": "que establece el respeto a sus colegas y demás profesionales.",
+    "D": "que establece el deber general de cualquier ingeniero con su profesión."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce su papel y responsabilidad disciplinar, social y ética como ingeniero en un contexto de desempeño profesional.",
+   "explicacion": "Usar el trabajo de otro profesional sin autorización ni créditos vulnera el **respeto a la propiedad intelectual de colegas y demás profesionales**, que el Código de Ética (Ley 842 de 2003) trata como falta de respeto hacia ellos. La trampa es la opción A, que habla de deberes en general y no del respeto vulnerado.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-004",
+   "area": "formulacion_ingenieria",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "En la fase final del proyecto para la producción de un nuevo producto cerámico, se efectuaron pruebas de control de calidad, las cuales se realizaron con un equipo de laboratorio que requiere calibración semestral por una empresa certificadora.\n\nEl ingeniero a cargo del proyecto efectúa el análisis de los resultados de las pruebas realizadas en las últimas semanas, porque se aproxima la entrega del informe final ante el comité ejecutivo de la organización. El ingeniero se entera de que la certificación de calibración del equipo se venció hace un mes, por tanto, los datos registrados no son confiables.\n\nAnte esta situación y dada la premura para la entrega del informe final y las limitaciones presupuestarias, el ingeniero le propone al comité contratar un laboratorio privado que dispone de equipos calibrados y certificados, el cual cobra por prueba realizada. Como consecuencia, usted decide repetir aquellas pruebas que",
+   "opciones": {
+    "A": "se elijan de manera aleatoria, de acuerdo con el cálculo del tamaño de una muestra.",
+    "B": "hayan arrojado resultados muy alejados de los esperados en el proyecto.",
+    "C": "hayan sido establecidas en la metodología definitiva del proyecto.",
+    "D": "se consideren las más relevantes para ajustar los resultados del proyecto."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce su papel y responsabilidad disciplinar, social y ética como ingeniero en un contexto de desempeño profesional.",
+   "explicacion": "Todos los datos tomados con el equipo descalibrado son poco confiables, así que deben repetirse **las pruebas que exige la metodología definitiva** del proyecto. Repetir solo las que salieron raras, las «más relevantes» o una muestra aleatoria es escoger resultados a conveniencia, lo que no es ético.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-005",
+   "area": "formulacion_ingenieria",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Una empresa colombiana está considerando ampliar su portafolio de productos y servicios, incursionando en el sector de la construcción y ha establecido dentro de su marco estratégico la producción de ladrillos y tejas derivados de la arcilla, atendiendo al mercado nacional e internacional. Para iniciar la formulación del proyecto, los ingenieros de la empresa cuentan con la siguiente información:\n\n1. Análisis de índice de precios del productor (IPP) en los 5 últimos años.\n2. Variaciones de precios del ladrillo y tejas a nivel nacional e internacional.\n3. Análisis de índice de Desarrollo Humano (IDH) nacional, en la última década.\n4. Análisis estadístico de la variación de la TRM (Tasa de cambio representativa del mercado) en los 10 últimos años.\n\nSiendo un proyecto de inversión, la información más pertinente para iniciar el análisis del entorno es la que se presenta en los numerales,",
+   "opciones": {
+    "A": "1, 2 y 3.",
+    "B": "2, 3 y 4.",
+    "C": "1, 3 y 4.",
+    "D": "1, 2 y 4."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "Para un proyecto de inversión que vende en el país y en el exterior importan las variables económicas que afectan costos e ingresos: **IPP, precios del producto y TRM** (1, 2 y 4). El IDH mide bienestar social y no incide directamente en la viabilidad de este negocio.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-006",
+   "area": "formulacion_ingenieria",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Una entidad gubernamental está encargada de promover, financiar y ejecutar proyectos que mejoren la competitividad del país en mercados globalizados de bienes y servicios agropecuarios, con énfasis en el análisis de la eficiencia en la asignación de recursos presupuestarios y de logro de objetivos de desarrollo del país.\n\nPara efectos de clasificación del proyecto y sus correspondientes implicaciones en cuanto a enfoques, criterios y metodologías pertinentes a su formulación y evaluación, el proyecto se considera de índole",
+   "opciones": {
+    "A": "social.",
+    "B": "financiero.",
+    "C": "agrícola.",
+    "D": "económico."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "Lo promueve y financia el Estado y busca **eficiencia en la asignación de recursos y bienestar económico del país**, rasgos de un proyecto **económico**. No es social (no hay redistribución ni equidad), ni financiero (eso aplica a inversionistas privados); «agrícola» es solo su sector, no su índole.",
+   "origen": "Cuadernillo 2018 #6 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-007",
+   "area": "formulacion_ingenieria",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "En la figura se muestra la red de precedencias de un proyecto que se ha planeado y tiene 9 actividades (A, B, C, D, E, F, G, H, I).\n\nFigura. Red de actividades en los nodos-AON (activity on node).\n\nDe acuerdo con el diagrama de precedencia presentado y el tiempo de cada actividad, la duración mínima del proyecto planeado será de",
+   "opciones": {
+    "A": "18 días.",
+    "B": "20 días.",
+    "C": "23 días.",
+    "D": "24 días."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "La duración mínima es la de la ruta más larga: A‑B‑E‑H = 6 + 8 + 7 + 3 = **24 días**. Las demás rutas son más cortas (A‑D‑F‑H = 23, A‑C‑E‑H = 20, A‑C‑F‑H = 18, A‑D‑G‑I = 20).",
+   "origen": "Cuadernillo 2018 #7",
+   "imagen": "icfes_formulacion_ingenieria_007.png"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-008",
+   "area": "formulacion_ingenieria",
+   "n": 8,
+   "contexto": 0,
+   "enunciado": "Las siguientes actividades pueden formar parte de un proyecto para construir una línea de transmisión de energía eléctrica:\n\nEn las anteriores actividades, forman la ruta crítica",
+   "opciones": {
+    "A": "Inicio-LN1-LN4-LN7-Fin.",
+    "B": "Inicio-LN2-LN6-LN7-Fin.",
+    "C": "Inicio-LN2-LN5-LN7-Fin.",
+    "D": "Inicio-LN3-LN6-LN7-Fin."
+   },
+   "correcta": "C",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "La ruta crítica es la de mayor duración total: LN2‑LN5‑LN7 = 4 + 5 + 5 = **14**, frente a LN1‑LN4‑LN7 = 13, LN2‑LN6‑LN7 = 11 y LN3‑LN6‑LN7 = 10. (En la tabla, el «LN7» entre los precedentes de LN7 es una errata; no cambia el resultado.)",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-009",
+   "area": "formulacion_ingenieria",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "En el proyecto del Acueducto La Manguera, una actividad del tramo 1 de 30 m requiere un trabajo de 3 días (8 horas por día) y la utilización de los siguientes recursos:\n\n• Un soldador calificado que trabaja a un costo de $10/h, con una dedicación de 100 % a la actividad.\n• El costo de la tubería es de $50/m.\n• Un equipo de soldar cuyo costo total de movilización es de $120 y su alquiler es de $20/hora.\n• El motor del equipo de soldadura consume gasolina a una tasa de 5 galones/hora.\n• El costo de la gasolina es de $10/galón.\n\nEl costo total, el costo fijo y el costo variable de la actividad, respectivamente, son:",
+   "opciones": {
+    "A": "$3.540, $1.620, $1.920",
+    "B": "$3.540, $1.500, $2.040",
+    "C": "$2.340, $1.620, $720",
+    "D": "$2.340, $1.500, $840"
+   },
+   "correcta": "A",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "Son 24 h. **Fijos** (no dependen de las horas): tubería 30 × 50 = $1.500 + movilización $120 = **$1.620**. **Variables**: soldador 24 × 10 = $240, alquiler 24 × 20 = $480 y gasolina 24 × 5 × 10 = $1.200, que suman **$1.920**. Total: $3.540.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-010",
+   "area": "formulacion_ingenieria",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "En la producción de pantallas publicitarias móviles para el mercado nacional, con un diseño de alto brillo y que emitan mensajes llamativos, se implementan sistemas de bajo consumo de energía y que remplacen la tecnología tradicional de iluminación.\n\nPara estimar el volumen mensual de producción de pantallas publicitarias móviles, los diseñadores del proyecto deben inicialmente considerar la variación de",
+   "opciones": {
+    "A": "los precios de los dispositivos eléctricos y electrónicos.",
+    "B": "la demanda de productos publicitarios innovadores.",
+    "C": "el volumen de insumos en la fabricación de pantallas.",
+    "D": "la oferta de fuentes de energía no convencionales."
+   },
+   "correcta": "B",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "El volumen que conviene producir se fija a partir de **cuánto pide el mercado**: la demanda de productos publicitarios innovadores. Precios de componentes e insumos son costos que vienen después, y la oferta de energías alternativas no determina la producción.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-011",
+   "area": "formulacion_ingenieria",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Una empresa quiere realizar un proyecto de readecuación, modernización y puesta en operación de plantas de procesamiento de fruta, las cuales han estado fuera del servicio por varios años, por lo que se analizaron los antecedentes del mercado y de la planta en los últimos 5 años antes del cierre. Su diagnóstico identificó los siguientes aspectos como causas del cierre:\n\n• Variación de precios en el mercado, pérdidas de producto y desestimulo de los productores.\n• Bajos rendimientos y poca utilidad de los cultivos.\n• Falta de asesoría técnica al cultivador y de financiación.\n• Altos costos operativos de conservación, transporte y distribución a los centros de consumo.\n• Dificultades técnicas de procesamiento, de logística en la comercialización y deficiencias en los canales de distribución.\n• Fluctuación en volúmenes de producción, incumplimiento en entregas y aumento en la demanda insatisfecha.\n\nPara cumplir el objetivo propuesto y teniendo en cuenta lo anterior, se debe realizar un estudio de mercado. Los aspectos para tener en cuenta en ese estudio son:",
+   "opciones": {
+    "A": "La oferta actual y proyectada; la demanda insatisfecha a nivel nacional y regional; la variación de los precios en los últimos 5 años; los canales de distribución y comercialización existentes.",
+    "B": "La determinación de volúmenes y precios de venta previstos para la operación de la planta; las pérdidas por conservación y transporte; las utilidades de producción y fuentes de financiación.",
+    "C": "La determinación de la variación de precios de productos en el mercado; los rendimientos de los cultivos y los costos de producción, transporte y distribución a los centros de consumo.",
+    "D": "La oferta actual y la demanda; la variación actual de los precios; la identificación de los procesos y los recursos para la readecuación y modernización de la planta de procesamiento."
+   },
+   "correcta": "A",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "Un estudio de mercado analiza **oferta, demanda, precios y comercialización**, y la opción A los reúne. Las demás mezclan temas de otros estudios: costos, utilidades y financiación (financiero) o procesos y recursos de la planta (técnico).",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-012",
+   "area": "formulacion_ingenieria",
+   "n": 12,
+   "contexto": 1,
+   "enunciado": "Una empresa productora de lácteos analiza la rentabilidad de dos de sus productos, mantequilla y queso azul, y reúne la información que se muestra en la tabla.\n\nCon base en el análisis de esta información, el argumento más acertado es:",
+   "opciones": {
+    "A": "La mantequilla es más rentable que el queso azul, porque su valor presente neto es mayor.",
+    "B": "El queso azul es más rentable que la mantequilla, porque su periodo de repago es mayor.",
+    "C": "La mantequilla es más rentable que el queso azul, porque sus ingresos netos mensuales son mayores.",
+    "D": "El queso azul es más rentable que la mantequilla, porque el costo de sus insumos por tonelada es mayor."
+   },
+   "correcta": "A",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "El **VPN** es el indicador que recoge ingresos y costos traídos a valor presente, y el de la mantequilla ($12 500) es mayor. Un periodo de repago **mayor** es peor, no mejor; los ingresos solos ignoran los costos, y un costo de insumos alto no indica rentabilidad.",
+   "origen": "Cuadernillo 2018 #12 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-013",
+   "area": "formulacion_ingenieria",
+   "n": 13,
+   "contexto": 2,
+   "enunciado": "Con el propósito de incrementar el nivel de producción en un 20 %, una empresa Colombiana del sector privado efectúa el análisis financiero de cuatro alternativas mutuamente excluyentes, las cuales se presentan en la tabla. El gerente cuenta con autorización de la junta directiva para invertir $7.200 millones en el proyecto y la alternativa seleccionada debe ser la de mayor rentabilidad. La empresa considera que la TMAR (tasa mínima atractiva de retorno) es de 30 % anual.\n\nDe acuerdo con el análisis anterior, la alternativa que debe recomendársele a la junta directiva es la",
+   "opciones": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "correcta": "B",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "Las alternativas 1 y 3 tienen VPN = 0 (TIR igual a la TMAR), así que no agregan valor. Entre 2 y 4, ambas con TIR de 40 %, la **2 da mayor VPN (1.068)** con menor inversión ($6.000 millones), y no hace falta gastar todo el presupuesto autorizado.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-014",
+   "area": "formulacion_ingenieria",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "El equipo de ingenieros del área del diseño y desarrollo de una empresa que fabrica autopartes para vehículos automotores tiene asignado el estudio de prefactibilidad para el “Rediseño de tapas gasolina”. El comité ejecutivo de la empresa les exige que las nuevas tapas de gasolina sean una innovación y, tengan bajo costo, dada las características del producto de la competencia.\n\nEn el próximo comité ejecutivo los ingenieros expondrán los resultados del estudio técnico, para lo cual deben presentar",
+   "opciones": {
+    "A": "los bosquejos de la primera serie de tapas de gasolina con el nuevo diseño.",
+    "B": "los proveedores de equipo para el ensamble del nuevo diseño de tapa de gasolina.",
+    "C": "los diseños detallados y manuales de manufactura de las nuevas tapas de gasolina.",
+    "D": "los pronósticos financieros sobre la venta con el nuevo diseño de tapas de gasolina."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "El estudio técnico define **cómo se fabricará** el producto, así que su resultado son los **diseños detallados y los manuales de manufactura**. Los bosquejos son una etapa previa, los proveedores son solo una parte del estudio y los pronósticos de ventas pertenecen al estudio financiero o de mercado.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-015",
+   "area": "formulacion_ingenieria",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "La compañía para la cual usted trabaja le encomienda desarrollar el cronograma del nuevo proyecto de expansión de la red de telecomunicaciones del departamento de La Guajira. De acuerdo con los objetivos por cumplir se definen las actividades que se muestran en la tabla.\n\nLa ruta crítica para el proyecto de expansión de la red de telecomunicaciones es:",
+   "opciones": {
+    "A": "Inicio, A1, A4, A7, Fin.",
+    "B": "Inicio, A1, A4, A6, A7, Fin.",
+    "C": "Inicio, A2, A5, A7, Fin.",
+    "D": "Inicio, A3, A6, A7, Fin."
+   },
+   "correcta": "B",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "Se suma la duración de cada ruta: A1‑A4‑A6‑A7 = 3 + 4 + 2 + 5 = **14 semanas**, la más larga. Las otras: A2‑A5‑A7 = 13, A1‑A4‑A7 = 12 y A3‑A6‑A7 = 11.",
+   "origen": "Cuadernillo 2018 #15",
+   "imagen": "icfes_formulacion_ingenieria_015.png"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-016",
+   "area": "formulacion_ingenieria",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Un grupo de profesionales y expertos en tecnología proyecta diseñar un nuevo producto que facilite la transferencia de archivos entre dispositivos móviles. Como una parte de su desarrollo, se deberá ejecutar la formulación y evaluación que garantice la viabilidad de su objetivo. En consecuencia, el equipo decidió iniciar con la elaboración de un estudio técnico, para lo cual las principales actividades por desarrollar deben ser:",
+   "opciones": {
+    "A": "elaborar los diseños básicos del dispositivo y definir las alternativas en materiales y tipos de tecnologías para su elaboración y optimización de recursos.",
+    "B": "determinar las tendencias de demanda de las tecnologías, materiales y diseños propuestos para el dispositivo de transferencia de archivos.",
+    "C": "estimar las inversiones y los costos correspondientes al diseño tecnológico, materiales y elaboración del dispositivo de transferencia.",
+    "D": "determinar la oferta real y proyectada de las tecnologías, materiales y diseños propuestos en el diseño conceptual del dispositivo."
+   },
+   "correcta": "A",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "El estudio técnico se ocupa del **diseño, los materiales y la tecnología** con que se hará el producto. Demanda y oferta (B y D) son del estudio de mercado, y las inversiones y costos (C) del estudio financiero.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-017",
+   "area": "formulacion_ingenieria",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Una empresa realizará la instalación de un gasoducto de 20 km cuyo presupuesto asignado es de $1.000 millones. La empresa determinó que con cuatro cuadrillas cuyo horario normal es 8 horas diarias, puede construir el proyecto en 5 meses, considerando que todas las cuadrillas trabajan con la misma eficiencia. A cada cuadrilla se le paga de acuerdo con la longitud de gasoducto que entregue.\n\nDespués de preparar el plan de trabajo con las condiciones anteriores, la empresa recibió una solicitud indicando que el proyecto se debe construir en 4 meses, lo cual representa una reducción del 20 % en tiempo respecto al plan inicial.\n\nLa mejor opción que la empresa puede adoptar para cumplir este requerimiento es:",
+   "opciones": {
+    "A": "Solicitar un incremento del 20 % en el valor del presupuesto para compensar el cambio en tiempo.",
+    "B": "Asignar una cuadrilla adicional para un total de 5 cuadrillas, con el fin de aumentar el rendimiento diario.",
+    "C": "Incrementar el horario de trabajo de las 4 cuadrillas en 25 % lo cual aumentara, por cuadrilla, el costo por hora adicional en 40 %.",
+    "D": "Remplazar las 4 cuadrillas previstas inicialmente por 4 cuadrillas más experimentadas con un rendimiento 20 % mayor y un costo 20 % más alto."
+   },
+   "correcta": "B",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "Como se paga por longitud entregada, una **quinta cuadrilla** sube el avance un 25 % (5/4) sin cambiar el costo total: 20 km en 4 meses al mismo presupuesto. Las horas extra o las cuadrillas más caras sí encarecen el proyecto, y pedir más presupuesto no acelera la obra.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-018",
+   "area": "formulacion_ingenieria",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Una organización regional abre un concurso, en el que se definen varias categorías, con el objetivo de premiar proyectos innovadores que incidan positivamente en la sostenibilidad de país.\n\nUn grupo de ingenieros quiere participar y para ello propone la fabricación y comercialización de productos de limpieza biodegradables para la industria. La participación en este concurso exige inscribirse en la categoría de proyectos",
+   "opciones": {
+    "A": "de interés social.",
+    "B": "económicos.",
+    "C": "productivos.",
+    "D": "de servicios."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "Fabricar y comercializar un bien (productos de limpieza) es un **proyecto productivo**, aunque su beneficio ambiental lo haga sostenible. No presta un servicio ni es de interés social, y «económico» es una clasificación más general.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-019",
+   "area": "formulacion_ingenieria",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "En un proyecto de construcción, una tarea cuya duración se estima en 5 semanas requiere para su realización:\n\n• La compra inicial de equipos por valor de $5 millones.\n• Alquiler de otros equipos a razón de $1 millón por mes. El periodo mínimo de alquiler es un mes.\n• Mano de obra de un equipo de trabajo a razón de $400.000 por día.\n\nSi una semana consta de 5 días hábiles y un mes consta de 4 semanas, el costo de ejecución de esta tarea en 5 semanas es de $17 millones.\n\nAl efectuar un levantamiento detallado de las condiciones del proyecto, se identifica que la tarea no se puede cumplir en 5 semanas y que para completarla realmente se requieren 7 semanas. En estas condiciones, el costo de la actividad será",
+   "opciones": {
+    "A": "$22 millones, debido al incremento en los costos de mano de obra y compra de equipos.",
+    "B": "$21 millones, debido a mayores costos de alquiler de equipos y mano de obra.",
+    "C": "$21 millones, debido al incremento en los costos de mano de obra.",
+    "D": "$22 millones, debido al incremento en todos los costos variables."
+   },
+   "correcta": "C",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "En 7 semanas: compra $5 M (igual), alquiler 2 meses = $2 M (igual que con 5 semanas, porque se cobran meses completos) y mano de obra 35 días × $0,4 M = $14 M. Total **$21 millones**; solo sube la **mano de obra** (de $10 M a $14 M).",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-020",
+   "area": "formulacion_ingenieria",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Para un proyecto de remodelación de una vivienda se elabora el siguiente diagrama con sus actividades, interdependencias y duraciones en días, de forma que las actividades que corresponden a la ruta crítica son A, D, E y F.\n\nLos ingenieros que tienen a cargo el proyecto evalúan la posibilidad de modificar la duración de algunas actividades, con el fin de ajustarse a algunas condiciones del proyecto. Ante estas modificaciones, es correcto afirmar que",
+   "opciones": {
+    "A": "la duración del proyecto se mantendrá igual y las actividades críticas serán A, D, E y F, si B se hace en 4 días.",
+    "B": "la duración del proyecto se incrementará en 8 días y las actividades críticas serán A, C y F, si C se hace en 15 días.",
+    "C": "la duración del proyecto se reducirá en 1 día y las actividades críticas serán B, D, E y F, si A se hace en 1 día.",
+    "D": "la duración del proyecto se reducirá en 6 días y las actividades críticas serán A, C y F, si D se hace en 2 días."
+   },
+   "correcta": "C",
+   "afirmacion": "Formula y evalúa el proyecto, apoyándose en un marco metodológico pertinente, a partir de las consideraciones del entorno y del análisis de alternativas.",
+   "explicacion": "Hoy A‑D‑E‑F = 26 días, B‑D‑E‑F = 25 y A‑C‑F = 19. Si A dura 1 día, A‑D‑E‑F baja a 24 y la ruta más larga pasa a ser **B‑D‑E‑F con 25 días**: el proyecto se reduce 1 día. (Con B en 4 días la crítica sería B‑D‑E‑F de 27; con C en 15, A‑C‑F de 27, solo 1 día más; con D en 2 el proyecto baja 6 días, pero la crítica sigue siendo A‑D‑E‑F con 20.)",
+   "origen": "Cuadernillo 2018 #20",
+   "imagen": "icfes_formulacion_ingenieria_020.png"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-021",
+   "area": "formulacion_ingenieria",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Un diagnóstico efectuado a una plantación de hortalizas evidenció los bajos rendimientos en la productividad, los altos periodos entre la siembra y cosecha que no permiten atender la demanda del mercado, las altas pérdidas de hortalizas debido a la variación de temperatura y altos consumos de energía.\n\nAnte esta situación, se debe mejorar los resultados en la producción e invertir en",
+   "opciones": {
+    "A": "la construcción de un invernadero automatizado de hortalizas.",
+    "B": "un estudio técnico para optimizar la producción de hortalizas.",
+    "C": "la construcción de una bodega climatizada para el almacenar hortalizas.",
+    "D": "un estudio financiero para evaluar los costos por consumo de energía."
+   },
+   "correcta": "B",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "Hay varios problemas a la vez (rendimiento, tiempos, pérdidas por temperatura y energía), y solo un **estudio técnico** permite comparar alternativas y elegir la mejor. El invernadero o la bodega atacan problemas puntuales antes de estudiarlos, y el estudio financiero solo cuantifica el costo de la energía.",
+   "origen": "Cuadernillo 2018 #21 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-formulacion_ingenieria-022",
+   "area": "formulacion_ingenieria",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Un proyecto de desarrollo local que incrementará la producción de alimentos permitirá, además de mejorar la infraestructura de la región, la electrificación de áreas agrícolas y la introducción de nuevas tecnologías. Teniendo en cuenta el efecto del proyecto en el contexto de las comunidades campesinas de la región, en su formulación será necesario",
+   "opciones": {
+    "A": "aislar el proyecto alimentario del contexto actual, dado que se están consdirerando variables que son independientes del proyecto.",
+    "B": "velar para que el proyecto se ejecute como un proceso autosuficiente y aislado a los variables cambiantes en el que se desarrolla.",
+    "C": "considerar en el proyecto las variables económicos, sociales, culturales y otras que puedan incidir en el desarrollo del proyecto alimentario.",
+    "D": "proponer un proyecto abierto y dinámico respecto a las comunidades campesinas y sectores económicos relacionados con el proyecto."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce e identifica condiciones políticas, legislativas, socioeconómicas, técnicas y ambientales del entorno, relevantes para la caracterización y formulación de proyectos.",
+   "explicacion": "Un proyecto que transforma la vida de comunidades campesinas debe formularse **considerando su entorno económico, social y cultural**, porque esas variables inciden en su éxito. Aislarlo del contexto (A y B) es un error, y D es vaga: no dice qué analizar.",
+   "origen": "Cuadernillo 2018 #22"
+  }
+ ]
+}

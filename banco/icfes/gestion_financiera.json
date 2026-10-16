@@ -1,0 +1,346 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Gestión Financiera (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-gestion_financiera-001",
+   "area": "gestion_financiera",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Uno de los conceptos que afecta el resultado de las operaciones es la depreciación. Si una máquina cuesta $30.000.000 y produce 20.000 unidades, el valor de su depreciación por el método de unidades por producir después de fabricar 1.000 unidades sería",
+   "opciones": {
+    "A": "$1.200.000",
+    "B": "$1.500.000",
+    "C": "$1.050.000",
+    "D": "$1.400.000"
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "Por unidades producidas, la depreciación por unidad es $30.000.000 / 20.000 = $1.500. Tras 1.000 unidades: 1.000 × $1.500 = **$1.500.000**. Las demás cifras no salen de esa proporción.",
+   "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-gestion_financiera-002",
+   "area": "gestion_financiera",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "La compañía ABC adquiere maquinaria a crédito por valor de $20.000.000. En el balance general, la anterior decisión reflejará un aumento del",
+   "opciones": {
+    "A": "pasivo y un aumento en el patrimonio.",
+    "B": "activo y un aumento del pasivo.",
+    "C": "activo y un aumento del patrimonio.",
+    "D": "patrimonio y una disminución del pasivo."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "Por la ecuación contable (Activo = Pasivo + Patrimonio): la maquinaria **aumenta el activo**, y como se compró a crédito, surge una obligación que **aumenta el pasivo** en el mismo valor. El patrimonio no cambia, porque no hay aporte de socios ni resultado.",
+   "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-gestion_financiera-003",
+   "area": "gestion_financiera",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "La gerencia moderna enfoca su gestión hacia la reducción del ciclo de efectivo, es decir, que el flujo de caja que se genera de la operación propia de la empresa genere suficiente liquidez para disminuir el requerimiento de capital de trabajo.\n\nDe acuerdo con lo anterior, una estrategia efectiva para lograr los resultados antes mencionados corresponde a",
+   "opciones": {
+    "A": "aumentar el plazo de pago que se les otorga a los clientes.",
+    "B": "mejorar el indicador de recaudo de la cartera.",
+    "C": "acelerar el pago a los proveedores.",
+    "D": "aumentar el presupuesto de desembolsos."
+   },
+   "correcta": "B",
+   "afirmacion": "Evaluar el impacto de las decisiones de inversión, comprender la estructura de operación y evaluar el impacto de la estructura de financiación de la organización.",
+   "explicacion": "Ciclo de efectivo = días de inventario + días de cartera − días de proveedores. **Recaudar la cartera más rápido** reduce los días de cartera y acorta el ciclo. Dar más plazo a los clientes (A) o pagar antes a los proveedores (C) lo alargan, y gastar más (D) consume liquidez.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-gestion_financiera-004",
+   "area": "gestion_financiera",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "En una empresa que produce y vende un solo producto, el margen de contribución unitario es $5.000 y los costos y gastos fijos son $5.000.000.\n\nSi el pronóstico de ventas es de 2.000 unidades, esto indica que",
+   "opciones": {
+    "A": "la empresa tendrá pérdidas si se cumple el pronóstico de ventas en 100 %.",
+    "B": "el margen de seguridad es del 50 %.",
+    "C": "las utilidades serán de $500.000 si se cumple el pronóstico de ventas en 100 %.",
+    "D": "el margen de seguridad es de 40 %."
+   },
+   "correcta": "B",
+   "afirmacion": "Evaluar el impacto de las decisiones de inversión, comprender la estructura de operación y evaluar el impacto de la estructura de financiación de la organización.",
+   "explicacion": "Punto de equilibrio = $5.000.000 / $5.000 = 1.000 unidades. Margen de seguridad = (2.000 − 1.000) / 2.000 = **50 %**. Si se cumple el pronóstico, la utilidad es 2.000 × 5.000 − 5.000.000 = $5.000.000, no pérdida ni $500.000.",
+   "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-gestion_financiera-005",
+   "area": "gestion_financiera",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Una empresa proyecta producir y vender 40.000 unidades a un precio de $25.000 la unidad con un costo variable de $12.000 y costos fijos de $85.000.000. Al realizar la operación, realmente se producen y venden 44.000 unidades, manteniendo los costos fijos iguales.\n\nComo consecuencia de esta operación, el flujo de efectivo proyectado se modifica de la siguiente forma:",
+   "opciones": {
+    "A": "Los costos variables totales se incrementan y las utilidades disminuyen.",
+    "B": "Los costos fijos no se modifican y las utilidades se mantienen iguales.",
+    "C": "Los costos variables totales no se modifican y las utilidades se mantienen iguales.",
+    "D": "Los costos variables totales se incrementan y las utilidades se incrementan."
+   },
+   "correcta": "D",
+   "afirmacion": "Evaluar el impacto en la posición futura de la organización de las modificaciones en los supuestos de inversión, operación y financiación, evaluar las alternativas de inversión y financiación y examinar la sensibilidad del valor de la organización ante cambios en los supuestos de sus componentes.",
+   "explicacion": "Al vender 4.000 unidades más, los costos variables totales suben (4.000 × $12.000), pero cada unidad deja un margen de contribución de $13.000. Con costos fijos iguales, la utilidad **aumenta** en 4.000 × $13.000 = $52.000.000.",
+   "origen": "Cuadernillo 2018 #5 · Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-gestion_financiera-006",
+   "area": "gestion_financiera",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "La estructura de capital de una empresa esta conformada por 60 % de recursos propios y 40 % de deudas, siendo el costo de las deudas mayor al de los recursos propios.\n\nLa empresa paga el 50 % de sus deudas, por consiguiente el CPPC (costo promedio ponderado de capital) y el valor de la organización se modifican así:",
+   "opciones": {
+    "A": "CPPC disminuye y valor de la empresa aumenta.",
+    "B": "CPPC aumenta y valor de la empresa disminuye.",
+    "C": "CPPC disminuye y valor de la empresa disminuye.",
+    "D": "CPPC aumenta y valor de la empresa aumenta."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar el impacto en la posición futura de la organización de las modificaciones en los supuestos de inversión, operación y financiación, evaluar las alternativas de inversión y financiación y examinar la sensibilidad del valor de la organización ante cambios en los supuestos de sus componentes.",
+   "explicacion": "En este caso la deuda es la fuente **más cara**. Al pagar la mitad, pierde peso en la mezcla y el **CPPC baja**. Como los flujos se descuentan a una tasa menor, el **valor de la empresa sube**. El costo de capital y el valor se mueven en sentido contrario, lo que descarta C y D.",
+   "origen": "Cuadernillo 2018 #6 · Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-gestion_financiera-007",
+   "area": "gestion_financiera",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Una empresa posee la siguiente información: Costo total de producción: $10.000.000; Inventario inicial de productos terminados: $5.000.000. Inventario final de productos terminados: $7.000.000.\n\nSi los ingresos por ventas corresponden a $10.000.000 y los gastos operacionales a $1.000.000, entonces la utilidad operacional de la empresa es",
+   "opciones": {
+    "A": "$1.000.000",
+    "B": "$2.000.000",
+    "C": "$3.000.000",
+    "D": "$4.000.000"
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar el impacto de las decisiones de inversión, comprender la estructura de operación y evaluar el impacto de la estructura de financiación de la organización.",
+   "explicacion": "Costo de ventas = inventario inicial + producción − inventario final = 5 + 10 − 7 = $8.000.000. Utilidad bruta = 10 − 8 = $2.000.000; menos gastos operacionales de $1.000.000 da una utilidad operacional de **$1.000.000**. B es la utilidad bruta.",
+   "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-gestion_financiera-008",
+   "area": "gestion_financiera",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Se entrega un préstamo por $100.000, pagadero en 5 cuotas anuales iguales a capital a una tasa del 5 % anual. Según estos datos, los intereses del año 3 son",
+   "opciones": {
+    "A": "$3.000",
+    "B": "$3.750",
+    "C": "$5.000",
+    "D": "$2.500"
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar el impacto en la posición futura de la organización de las modificaciones en los supuestos de inversión, operación y financiación, evaluar las alternativas de inversión y financiación y examinar la sensibilidad del valor de la organización ante cambios en los supuestos de sus componentes.",
+   "explicacion": "Con abonos iguales a capital se amortizan $20.000 por año. Al empezar el año 3 ya se han pagado dos abonos, así que el saldo es $60.000, y el interés es 60.000 × 5 % = **$3.000**. $5.000 sería el interés del año 1.",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-gestion_financiera-009",
+   "area": "gestion_financiera",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Con el ánimo de tomar una decisión financiera orientada a entender cuál empresa, A o B, tuvo mejores resultados en términos de su margen neto (Utilidad neta del ejercicio / Ventas netas), se cuenta con la información de la tabla\n\n| Cuenta | Empresa A Año 1 | Empresa A Año 2 | Empresa B Año 1 | Empresa B Año 2 |\n|---|---|---|---|---|\n| Ventas netas | 200 | 250 | 400 | 500 |\n| Utilidad neta del ejercicio | 5 | 50 | 10 | 50 |\n\nSe puede concluir que, para el año",
+   "opciones": {
+    "A": "1, la empresa A tuvo mayor margen neto que la empresa B.",
+    "B": "1, la empresa B tuvo mayor margen neto que la empresa A.",
+    "C": "2, la empresa A tuvo mayor margen neto que la empresa B.",
+    "D": "2, la empresa B tuvo mayor margen neto que la empresa A."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "Año 1: A = 5/200 = 2,5 % y B = 10/400 = 2,5 %; son iguales, lo que descarta A y B. Año 2: A = 50/250 = **20 %** y B = 50/500 = 10 %, así que en el año 2 A tuvo mayor margen neto. La trampa es pensar que B es mejor porque vende más o tiene igual utilidad absoluta.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-gestion_financiera-010",
+   "area": "gestion_financiera",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Una empresa industrial con dificultades de efectivo y restricciones a su financiación de corto plazo evalúa planes de inversión en inventarios. Después de analizar el conjunto de oportunidades de inversión, usted, como gerente financiero de la firma, se acerca a la junta directiva para proponer financiar la inversión con",
+   "opciones": {
+    "A": "recursos propios disponibles en caja e inversiones temporales.",
+    "B": "pasivos de largo plazo a través de la emisión de bonos en el mercado de capitales.",
+    "C": "pasivos de corto plazo con entidades financieras nacionales.",
+    "D": "depreciación de activos fijos utilizados en la operación de la firma."
+   },
+   "correcta": "B",
+   "afirmacion": "Evaluar el impacto de las decisiones de inversión, comprender la estructura de operación y evaluar el impacto de la estructura de financiación de la organización.",
+   "explicacion": "Según el Icfes, es la única salida compatible con las restricciones. No hay caja (A), no se puede tomar más deuda de corto plazo (C) y la depreciación es un gasto que no genera efectivo nuevo (D). Queda la **deuda de largo plazo mediante bonos**.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-gestion_financiera-011",
+   "area": "gestion_financiera",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Una compañía productora de celulares tiene un costo de producción unitario de $50 y un costo de administración al año de $8.500. Los clientes compraron 200 unidades a $120 cada una, lo cual permite alcanzar una utilidad operacional de $5.500.\n\nSin embargo, si le piden mejorar este resultado en $2.000, sin modificar la cantidad vendida, usted aceptaría",
+   "opciones": {
+    "A": "incrementar el precio de venta en $50.",
+    "B": "disminuir el costo variable unitario a $40.",
+    "C": "aumentar el margen de contribución en $2.500.",
+    "D": "reducir los costos fijos a $7.500."
+   },
+   "correcta": "B",
+   "afirmacion": "Evaluar el impacto de las decisiones de inversión, comprender la estructura de operación y evaluar el impacto de la estructura de financiación de la organización.",
+   "explicacion": "Hoy: 200 × (120 − 50) − 8.500 = $5.500. Bajar el costo variable a $40 da 200 × 80 − 8.500 = **$7.500**, justo $2.000 más. Subir el precio $50 agrega $10.000 (A), C agrega $2.500 y bajar los fijos a $7.500 solo agrega $1.000 (D).",
+   "origen": "Cuadernillo 2018 #11 · Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-gestion_financiera-012",
+   "area": "gestion_financiera",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Un proyecto de expansión empresarial en el que se hace una inversión de $400 millones se evalúa con la tasa de rendimiento esperada por el inversionista del 20 % anual. Al realizar la evaluación financiera del proyecto, se obtiene como resultado que la relación beneficio costo es 1,15, la tasa interna de rentabilidad es del 25 % anual y el valor presente neto es $40 millones.\n\nDado que usted debe emitir una recomendación respecto a este proyecto, la afirmación que explica en forma correcta los resultados de la evaluación financiera del proyecto es:",
+   "opciones": {
+    "A": "El VPN neto indica que solo se recuperan $40 millones del total invertido, por consiguiente, la relación beneficio costo y TIR son incorrectos.",
+    "B": "TIR del 25 % indica que se está generando un rendimiento superior al 20 % esperado, por lo que el VPN y la relación beneficio costo son incorrectos.",
+    "C": "El VPN indica que se está obteniendo un rendimiento del 10 %, la relación beneficio costo un rendimiento del 15 % más TIR da una rentabilidad total del 50 %.",
+    "D": "Al ser la relación beneficio costo mayor a 1,0, la TIR mayor del 20 % y el VPN mayor que $0.0; indica que la actividad es conveniente para el inversionista."
+   },
+   "correcta": "D",
+   "afirmacion": "Evaluar el impacto en la posición futura de la organización de las modificaciones en los supuestos de inversión, operación y financiación, evaluar las alternativas de inversión y financiación y examinar la sensibilidad del valor de la organización ante cambios en los supuestos de sus componentes.",
+   "explicacion": "Los tres criterios coinciden: **B/C > 1**, **TIR > tasa de oportunidad** y **VPN > 0**, así que el proyecto conviene. El VPN es valor creado por encima de recuperar la inversión y del 20 % exigido, no lo único que se recupera (A). Los indicadores no se contradicen (B) ni se suman (C).",
+   "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-gestion_financiera-013",
+   "area": "gestion_financiera",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Como gerente de la empresa ABC, usted decide reducir el apalancamiento total (total pasivo/total patrimonio) de la empresa. Su decisión será",
+   "opciones": {
+    "A": "reducir los pasivos, movimiento que aumenta los activos.",
+    "B": "reducir los pasivos, movimiento que reduce los activos.",
+    "C": "aumentar los pasivos, movimiento que aumenta los activos.",
+    "D": "aumentar los pasivos, movimiento que reduce los activos."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "Para bajar pasivo/patrimonio hay que **reducir los pasivos**. Pagar deuda usa efectivo, así que el activo **disminuye** en el mismo monto, como exige la ecuación contable. Aumentar pasivos subiría el apalancamiento (C, D).",
+   "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-gestion_financiera-014",
+   "area": "gestion_financiera",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "La empresa ABC presenta un ciclo de efectivo de 90 días. Los objetivos organizacionales definidos por la junta directiva buscan bajar este indicador financiero a 80 días. Para ello, usted propondría",
+   "opciones": {
+    "A": "una política de inversiones con el fin de aumentar las cuentas del activo a largo plazo.",
+    "B": "refinanciar las deudas mayores a un año, con el fin de disminuir el pago de intereses actual.",
+    "C": "negociar con los proveedores un menor plazo de financiación con el fin de disminuir las cuentas por pagar.",
+    "D": "disminuir el plazo de pago de los compradores con el fin de agilizar la recuperación de cartera."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "El ciclo de efectivo se acorta cobrando antes: **menos días de cartera**. Reducir el plazo de los proveedores (C) lo alarga, porque se paga antes, y las decisiones de largo plazo (A, B) no afectan el ciclo operativo.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-gestion_financiera-015",
+   "area": "gestion_financiera",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Su empresa desea adquirir un préstamo e investiga opciones de crédito en diferentes instituciones financieras. Al recopilar información sobre las tasas de interés cobradas en estas instituciones, cuenta con las opciones que se muestran en la tabla.\n\n| Banco | Tasa de interés cobrada |\n|---|---|\n| 1 | 24 % efectiva anual. |\n| 2 | 24 % nominal anual con capitalización mensual. |\n| 3 | 2 % efectiva mensual vencida. |\n| 4 | 24 % nominal anual con capitalización semestral. |\n\nSi los demás términos y condiciones del crédito son los mismos en todos los bancos, y la empresa quiere tomar el crédito con la entidad que le ofrece el menor costo financiero, usted recomendaría que se tomara el préstamo en el banco",
+   "opciones": {
+    "A": "1, que cobra una tasa del 24 % efectiva anual, ya que representa la menor tasa efectiva anual equivalente de todas las alternativas.",
+    "B": "2, que cobra una tasa del 24 % nominal anual con capitalización mensual, ya que tiene el menor período de capitalización de todas las alternativas.",
+    "C": "3, que cobra una del 2 % efectiva mensual vencida, ya que representa la tasa de menor valor de todas las alternativas.",
+    "D": "4, que cobra una tasa del 24 % nominal anual con capitalización semestral, ya que tiene el mayor período de capitalización posible."
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar el impacto en la posición futura de la organización de las modificaciones en los supuestos de inversión, operación y financiación, evaluar las alternativas de inversión y financiación y examinar la sensibilidad del valor de la organización ante cambios en los supuestos de sus componentes.",
+   "explicacion": "Hay que llevar todo a **tasa efectiva anual**. Banco 2 y banco 3: 2 % mensual, (1,02)¹² − 1 ≈ 26,8 % EA. Banco 4: 12 % semestral, (1,12)² − 1 = 25,44 % EA. El banco 1 cobra 24 % EA, el **menor costo**. Mientras más frecuente la capitalización, mayor la tasa efectiva, por eso B y C engañan.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-gestion_financiera-016",
+   "area": "gestion_financiera",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Como gerente, usted decidió acudir a un préstamo por un valor de $5.000.000 a seis meses, cuyos intereses fueron $680.000. De acuerdo con esta información, el efecto de ese préstamo en los resultados periódicos de la compañía es",
+   "opciones": {
+    "A": "una disminución de las utilidades por $5.680.000.",
+    "B": "una reducción del efectivo por $5.000.000.",
+    "C": "un aumento de las obligaciones por $4.320.000.",
+    "D": "un incremento de los gastos por $680.000."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "En el estado de resultados solo impactan los **intereses**: un gasto financiero de **$680.000**. El capital prestado es un pasivo, no un gasto (A), al recibirlo el efectivo aumenta en lugar de reducirse (B), y la obligación sube por $5.000.000, no por $4.320.000 (C).",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-gestion_financiera-017",
+   "area": "gestion_financiera",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Un grupo de cuatro compañías en las que existe la posibilidad de invertir registra las cifras que muestra la tabla:\n\n| Cuenta | Empresa 1 | Empresa 2 | Empresa 3 | Empresa 4 |\n|---|---|---|---|---|\n| Utilidad neta del ejercicio | 10 | 15 | 20 | 10 |\n| Total activos | 100 | 100 | 100 | 100 |\n| Total pasivos | 50 | 60 | 40 | 40 |\n| Total patrimonio | 50 | 40 | 60 | 60 |\n\nDe acuerdo con los datos de la tabla, la empresa más atractiva en términos de Rentabilidad del Patrimonio (ROE = utilidad neta del ejercicio / total patrimonio) es la",
+   "opciones": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "ROE: empresa 1 = 10/50 = 20 %; empresa 2 = 15/40 = **37,5 %**; empresa 3 = 20/60 = 33,3 %; empresa 4 = 10/60 = 16,7 %. La 3 tiene la mayor utilidad absoluta, pero la 2 rinde más por peso de patrimonio.",
+   "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-gestion_financiera-018",
+   "area": "gestion_financiera",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "En un año de operación, la empresa El Cocuyo tuvo un índice de rotación de activos fijos (ingresos ventas / activos fijos) de 6 veces al año, con un nivel de activos fijos por valor de $100.000.000. En el próximo periodo, la gerencia incrementará los activos fijos en 50 %. Por consiguiente, para mantener el mismo índice de rotación de activos el valor de los ingresos por ventas debe ser (considerar año comercial de 360 días):",
+   "opciones": {
+    "A": "$900.000.000",
+    "B": "$600.000.000",
+    "C": "$400.000.000",
+    "D": "$150.000.000"
+   },
+   "correcta": "A",
+   "afirmacion": "Evaluar el impacto de las decisiones de inversión, comprender la estructura de operación y evaluar el impacto de la estructura de financiación de la organización.",
+   "explicacion": "Los nuevos activos fijos son $150.000.000. Para mantener una rotación de 6, las ventas deben ser 6 × 150.000.000 = **$900.000.000**. $600.000.000 son las ventas actuales, y el dato de 360 días no interviene.",
+   "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-gestion_financiera-019",
+   "area": "gestion_financiera",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Usted es el gerente financiero de una empresa industrial. Para el próximo año, usted decide recortar el plazo que se da a sus clientes para el pago de los productos de 60 a 45 días. Además, les pide a sus proveedores que aumenten el plazo de pago de materias primas de 90 a 120 días.\n\nSi todo lo demás permanece constante, usted espera que",
+   "opciones": {
+    "A": "la utilidad operacional de la empresa aumente por una aceleración del ciclo de conversión de efectivo.",
+    "B": "la utilidad operacional de la empresa se reduzca, porque el plazo de pago a proveedores aumenta más de lo que se reduce el plazo de cobro a clientes.",
+    "C": "el efectivo de la empresa se reduzca, porque el plazo de pago a proveedores aumenta más de lo que se reduce el plazo de cobro a clientes.",
+    "D": "el efectivo de la empresa aumente por una aceleración del ciclo de conversión de efectivo."
+   },
+   "correcta": "D",
+   "afirmacion": "Evaluar el impacto en la posición futura de la organización de las modificaciones en los supuestos de inversión, operación y financiación, evaluar las alternativas de inversión y financiación y examinar la sensibilidad del valor de la organización ante cambios en los supuestos de sus componentes.",
+   "explicacion": "Cobrar 15 días antes y pagar 30 días después acorta el ciclo de conversión del efectivo en 45 días, así que la empresa **dispone de más efectivo**. Los plazos de cobro y pago afectan la liquidez, no la utilidad operacional (A, B). C invierte el efecto: pagar más tarde retiene caja.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-gestion_financiera-020",
+   "area": "gestion_financiera",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Como analista de costos de la Empresa Tornillos & Más, usted prepara una licitación que podría incrementar las ventas de tornillos en un 20 %. Para establecer el precio de la oferta, usted debe costear los tornillos y, como primer paso, debe seleccionar y separar los costos y gastos asociados a la producción. De acuerdo con su estudio, los principales pagos han sido: (1) pago de materiales de producción; (2) pago de nómina de producción; (3) pago de nómina de ventas; (4) pago de transporte del producto al cliente; (5) pago por almacenamiento del producto. Después de efectuar un análisis detallado, usted responde que, en su orden respectivo, los desembolsos realizados se deben clasificar así:",
+   "opciones": {
+    "A": "Costo - Gasto - Gasto - Costo - Costo.",
+    "B": "Costo - Costo - Costo - Gasto - Gasto.",
+    "C": "Costo - Costo - Gasto - Costo - Gasto.",
+    "D": "Costo - Costo - Gasto - Gasto - Gasto."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender el impacto de las decisiones organizacionales en los estados financieros (principios contables, ecuación contable, estructura estados financieros) y analizar la información financiera en relación con el entorno, el sector y los objetivos organizacionales.",
+   "explicacion": "Son **costo** los desembolsos ligados a fabricar: materiales (1) y nómina de producción (2). La nómina de ventas (3), el transporte al cliente (4) y el almacenamiento del producto terminado (5) ocurren después de la producción, en la venta y distribución, y son **gastos**.",
+   "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #20"
+  }
+ ]
+}

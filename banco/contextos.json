@@ -1,10 +1,43 @@
 {
  "areas": {
-  "ciudadana": "Competencias Ciudadanas",
   "lectura": "Lectura Crítica",
   "razonamiento": "Razonamiento Cuantitativo",
+  "ciudadana": "Competencias Ciudadanas",
   "ingles": "Inglés",
-  "formar": "Formar (licenciaturas)"
+  "analisis_economico": "Análisis Económico",
+  "psicologia": "Análisis de Problemáticas Psicológicas",
+  "atencion_salud": "Atención en Salud",
+  "comunicacion_juridica": "Comunicación Jurídica",
+  "enfermeria": "Cuidado de Enfermería",
+  "salud_oral": "Diagnóstico y Tratamiento en Salud Oral",
+  "diseno_infraestructura": "Diseño de Obras de Infraestructura",
+  "diseno_procesos": "Diseño de Procesos Industriales",
+  "diseno_control": "Diseño de Sistemas de Control",
+  "diseno_ambiental": "Diseño de Sistemas de Manejo de Impacto Ambiental",
+  "diseno_mecanicos": "Diseño de Sistemas Mecánicos",
+  "diseno_agroindustriales": "Diseño de Sistemas, Procesos y Productos Agroindustriales",
+  "diseno_logisticos": "Diseño de Sistemas Productivos y Logísticos",
+  "diseno_software": "Diseño de Software",
+  "ensenar": "Enseñar",
+  "estudio_proyectual": "Estudio Proyectual",
+  "evaluar": "Evaluar",
+  "formar": "Formar",
+  "gestion_proyectos": "Formulación, Evaluación y Gestión de Proyectos",
+  "formulacion_ingenieria": "Formulación de Proyectos de Ingeniería",
+  "diagnostico_medico": "Fundamentación en Diagnóstico y Tratamiento Médico",
+  "generacion_artefactos": "Generación de Artefactos",
+  "gestion_financiera": "Gestión Financiera",
+  "gestion_organizaciones": "Gestión de Organizaciones",
+  "gestion_conflicto": "Gestión del Conflicto",
+  "control_contable": "Información y Control Contable",
+  "procesos_sociales": "Intervención en Procesos Sociales",
+  "investigacion_juridica": "Investigación Jurídica",
+  "investigacion_sociales": "Investigación en Ciencias Sociales",
+  "pensamiento_cientifico": "Pensamiento Científico",
+  "produccion_agricola": "Producción Agrícola",
+  "produccion_pecuaria": "Producción Pecuaria",
+  "promocion_salud": "Promoción de la Salud y Prevención de la Enfermedad",
+  "bienestar_animal": "Salud y Bienestar Animal"
  },
  "contextos": {
   "ciudadana": [
@@ -91,5 +124,11 @@
     "texto": "Seguridad en Cali\n\nContexto Local\n\nLos delitos contra la vida corresponden a aquellas conductas que producen daño al bien jurídico de la vida de una persona, entendido este como la vida misma o la indemnidad de ella (integridad física y salud).\n\nSegún el observatorio de seguridad de Cali, en materia de homicidios, se destaca que entre enero y marzo de 2022 se registraron 249 homicidios, 7 casos más frecuente al mismo periodo de 2021 y en promedio se registro 3 homicidios por día. Desagregado por mes, en enero de 2022 se registraron 74 homicidios en la ciudad, 17 menos frente a enero de 2021; en febrero de 2022 ocurrieron 87 homicidios, 24 más que en el mismo mes de 2021; y en marzo de 2022 igual cantidad que en 2021 (Gráfico 1).\n\nGráfico 1: Número de homicidios en Cali\n\nenero – marzo 2021 – marzo 2022.\n\nFuente: Observatorio de Seguridad (Informes Mensuales) – Elaboración Cali como Vamos\n\nLos delitos contra el patrimonio son aquellos destinados a menoscabar el activo de bienes y derechos de un particular, persona jurídica o institución pública, con ánimo de lucro ya sea propio o beneficio de un tercero.\n\nDe acuerdo con las estadísticas delictivas reportadas por la policía nacional, entre enero y marzo de 2022 se reportaron 4.693 denuncias de hurtos a personas en Cali, cifra 19.7% superior a las denuncias registradas en el mismo periodo de 2021 (3.920). Todos los meses de 2022 incrementaron el número de denuncias de hurtos a personas respecto al 2021 (Gráfico 2).\n\nGráfico 2: Número de denuncias de hurtos a personas en Cali.\n\nenero – marzo (2021 – 2022).\n\nFuente: Estadísticas delictivas Policía Nacional – Cálculos Cali como Vamos\n\nEn denuncias a hurto a personas aumentó 19.7%, 14.6% en denuncias por hurto a motocicletas y en 3.8% en denuncias de hurto a automóviles. Se evidenció una disminución de 42.9% en las denuncias de hurtos a entidades financieras, de 33.6% en las denuncias de hurto a residencias y de 31.1% en las denuncias de hurto a comercios.\n\nSegún las estadísticas delictivas de la Policía Nacional, en el primer trimestre de 2022 en Cali se registraron 698 denuncias de hurto a motocicletas, 14.6% más frente al mismo período de 2021 (609 denuncias) (Gráfica 3).\n\nGráfico 3: Número de denuncias de hurtos a motocicletas en Cali.\n\nEnero – Marzo (2021 – 2022).\n\nFuente: Estadísticas delictivas Policía Nacional – Cálculos Cali como Vamos\n\nA marzo de 2022, en Cali se registraron 441 denuncias de hurtos a automóviles según la Policía Nacional, el dato es 3.8% mayor al registrado en 2021 (425 denuncias). Por mes, aunque en enero de 2022 se vio una reducción en las denuncias frente al 2021.\n\nGráfico 4: Número de denuncias de hurtos de automóviles en Cali.\n\nEnero – Marzo (2021 – 2022).\n\nFuente: Estadísticas delictivas Policía Nacional – Cálculos Cali como Vamos\n\n     De acuerdo con la información responda las siguientes cinco preguntas:\n\n{{img:rc_q31_e0.png}}\n\n{{img:rc_q31_e1.png}}\n\n{{img:rc_q31_e2.png}}\n\n{{img:rc_q31_e3.png}}"
    }
   ]
- }
+ },
+ "genericos": [
+  "lectura",
+  "razonamiento",
+  "ciudadana",
+  "ingles"
+ ]
 }

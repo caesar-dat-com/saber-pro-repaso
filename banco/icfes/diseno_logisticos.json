@@ -1,0 +1,492 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Diseño de Sistemas Productivos y Logísticos (cuadernillos y preguntas explicadas)",
+  "contextos": [
+    {
+      "titulo": "Caso 1: centros de producción y distribución para el sector petrolífero",
+      "texto": "Una empresa que presta servicios al sector petrolífero y se especializa en el suministro de productos líquidos para el rompimiento de emulsiones planea abrir nuevos centros de producción y distribución para atender las necesidades de los pozos petrolíferos ubicados en dos regiones del país.\n\nLos ingenieros del departamento de producción y logística realizaron estudios de costos y pronósticos de demanda que les permitieron estimar parámetros para ayudar a la toma de decisiones en cuanto al tamaño y ubicación de las nuevas instalaciones. En la tabla 1 se presentan los parámetros relevantes para tomar las decisiones.\n\n**Tabla 1.** Parámetros necesarios para la toma de decisiones.\n\n| Región | Costo de producción, mantenimiento y transporte a la región 1 (miles de $/t) | Costo de producción, mantenimiento y transporte a la región 2 (miles de $/t) | Planta pequeña: costo fijo anual en miles de $ | Planta pequeña: capacidad (t/año) | Planta grande: costo fijo anual en miles de $ | Planta grande: capacidad (t/año) | Demanda (t/año) |\n|---|---|---|---|---|---|---|---|\n| Región 1 | 442 | 487 | 23.350 | 150 | 44.300 | 200 | 190 |\n| Región 2 | 626 | 408 | 35.500 | 150 | 38.400 | 200 | 130 |\n\nLos ingenieros encargados del diseño de la cadena de suministros formularon el siguiente modelo para tomar las correspondientes decisiones:\n\nVariables:\n\n- X1,1 = toneladas de producto por producir en la región 1 y por comercializar en la región 1\n- X1,2 = toneladas de producto por producir en la región 1 y por comercializar en la región 2\n- X2,1 = toneladas de producto por producir en la región 2 y por comercializar en la región 1\n- X2,2 = toneladas de producto por producir en la región 2 y por comercializar en la región 2\n\n- Y1,p = 1 si se abre la planta pequeña en la región 1; 0 no se abre la planta pequeña en la región 1\n- Y2,p = 1 si se abre la planta pequeña en la región 2; 0 no se abre la planta pequeña en la región 2\n- Y1,g = 1 si se abre la planta grande en la región 1; 0 no se abre la planta grande en la región 1\n- Y2,g = 1 si se abre la planta grande en la región 2; 0 no se abre la planta grande en la región 2\n\nFunción objetivo y restricciones:\n\n*Minimizar:*\n\n*Costos* = 442X1,1 + 487X1,2 + 626X2,1 + 408X2,2 + 23350Y1,p + 35500Y2,p + 44300Y1,g + 38400Y2,g\n\n*sujeto a:*\n\n- X1,1 + X2,1 = 190\n- X1,2 + X2,2 = 130\n- X1,1 + X1,2 ≤ 150Y1,p + 200Y1,g\n- X2,1 + X2,2 ≤ 150Y2,p + 200Y2,g\n\nLa solución óptima del modelo es:\n\nX1,1 = 150 · X1,2 = 0 · X2,1 = 40 · X2,2 = 130 · Y1,p = 1 · Y2,p = 0 · Y1,g = 0 · Y2,g = 1\n\nEl valor de la función objetivo correspondiente es $206.145.706\n\nAsí mismo, se obtuvo la información que se presenta en la tabla 2.\n\n**Tabla 2.** Información adicional sobre la solución al modelo.\n\n| Restricción | Precio sombra* | Lado derecho** | Desde | Hasta |\n|---|---|---|---|---|\n| Demanda en la región 1 | 626.000 | 190 | 150 | 220 |\n| Demanda en la región 2 | 408.000 | 130 | 0 | 160 |\n| Restricción 1 de capacidad | -184.000 | 150 | 120 | 190 |\n| Restricción 2 de capacidad | 0 | 200 | 170 | ∞ |\n\n\\* Precio sombra: indica cuánto cambia el valor de la función objetivo ante una variación marginal del lado derecho de una restricción.\n\n\\*\\* Lado derecho: indica la disponibilidad de recursos para cada una de las restricciones del modelo."
+    },
+    {
+      "titulo": "Caso 2: domicilios de Pizza Direct",
+      "texto": "La empresa Fast S.A. presta el servicio de transporte a la empresa Pizza Direct, que vende *pizzas* a a domicilio. Fast S.A. recibe la solicitud de transporte en su centro de operaciones y envía la motocicleta a recoger el pedido, la dirección de entrega y la factura. La tabla 1 recoge las actividades requeridas para atender un pedido y el tiempo que se ha definido en Pizza Direct para cada una de ellas. Estos tiempos que se consideran estándares le permiten a la pizzería ofrecerles a sus clientes la entrega de la *pizza* en 45 minutos.\n\n**Tabla 1.** Actividades y tiempos.\n\n| Actividad | Tiempo (min) | Costo ($) |\n|---|---|---|\n| Registrar información de pedido | 2 | 500 |\n| Elaborar *pizzas* | 15 | 10.000 |\n| Empacar pedido | 2 | 1.500 |\n| Elaborar factura | 1 | 1.000 |\n| Solicitar transporte | 10 | 2.000 |\n| Transporte y entrega de pedido | 15 | 5.000 |\n\nEl tiempo de transporte y entrega registrados se entrega a la pizzería por Fast S.A., y se obtuvo de un estudio cuyos resultados se presentan en la tabla 2.\n\n**Tabla 2.** Resultados estudio de tiempos de domicilio.\n\n| Estadística | Valor (min) |\n|---|---|\n| Promedio | 15 |\n| Máximo | 20 |\n| Mínimo | 12 |\n| Desviación | 3 |\n\nDebido a las quejas de los clientes, referidas a la entrega de las *pizzas* en tiempo superior al prometido, además de equivocaciones en los sabores y a entrega del producto frío, Pizza Direct decidió realizar un estudio para determinar las causas y así implementar estrategias para mejorar el servicio. En la tabla 3 se muestran los principales problemas que se detectaron y su porcentaje de ocurrencia.\n\n**Tabla 3.** Problemas detectados en el servicio.\n\n| Principales problemas | % |\n|---|---|\n| Desabastecimiento de cajas para empaque | 20 |\n| Errores en facturación que generan reproceso | 10 |\n| Desabastecimiento de ingredientes | 5 |\n| Daño en hornos | 5 |\n| Problemas con transporte y entrega del pedido | 60 |\n\nEn cuanto al transporte y entrega se detectó que, en promedio, se demoran 30 minutos, por lo que la pizzería encarga a Fast S.A. realizar un análisis sobre las causas de las demoras y halló los resultados que se presentan en la tabla 4, los cuales evidencian que la situación es diferente de la que se tenía cuando se realizó el estudio de tiempo de entrega que se registró en la tabla 2.\n\n**Tabla 4.** Frecuencia en la ocurrencia de problemas en el servicio de transporte del domicilio.\n\n| No. | Principales problemas | Frecuencia |\n|---|---|---|\n| 1 | Dirección registrada en el pedido no corresponde. | 65 |\n| 2 | Mantenimiento de los vehículos y motos. | 15 |\n| 3 | Los conductores (domiciliarios) no conocen las direcciones. | 10 |\n| 4 | Tráfico en las horas pico. | 5 |\n| 5 | Falta de capacitación a los conductores. | 5 |"
+    },
+    {
+      "titulo": "Caso 3: ampliación de capacidad de una compañía de alimentos",
+      "texto": "Una compañía productora de alimentos descubre que las ventas de sus dos últimos años han sido mejores que lo esperado en sus proyecciones, y que la capacidad de producción instalada está utilizándose con un exceso de horas extras en los últimos meses para satisfacer la demanda.\n\nEl gerente decide que es hora de tomar una decisión definitiva al respecto, porque de lo contrario se afectaría la estructura financiera de la empresa a mediano plazo.\n\nEn este momento se consideran varias alternativas entre las que se incluyen la construcción de una nueva planta en una de tres posibles localizaciones o realizar unas pequeñas modificaciones a la planta actual. En un análisis preliminar se recopila la información de cada una de estas alternativas, según se muestra en la tabla 1.\n\n**Tabla 1.** Costos por alternativa.\n\n| | Alternativa | Costos fijos ($/año) | Costo de producción ($/tonelada) |\n|---|---|---|---|\n| 1 | Construir una planta en la localización 1 | 250 | 30 |\n| 2 | Construir una planta en la localización 2 | 300 | 25 |\n| 3 | Construir una planta en la localización 3 | 600 | 20 |\n| 4 | Modificar la planta actual | 0 | 40 |\n\nSegún estimaciones preliminares, existen dos posibles escenarios en el futuro de la empresa: (1) el optimista indica que la demanda de los próximos años puede ser de 75 toneladas por año; (2) el pesimista indica que la demanda puede ser de 15 toneladas por año.\n\nEn un análisis adicional se identificaron y evaluaron cuatro factores cualitativos que pueden afectar la decisión, tal como se muestra en la tabla 2.\n\nLos valores de las calificaciones otorgadas a cada factor en cada una de las alternativas van de 1 a 5, donde 1 indica que el factor evaluado es deficiente o inadecuado en la alternativa, y 5 indica que el factor evaluado es excelente o ideal en la alternativa evaluada.\n\n**Tabla 2.** Calificación de factores de localización.\n\n| Factor | Evaluación Alternativa 1 | Evaluación Alternativa 2 | Evaluación Alternativa 3 | Evaluación Alternativa 4 |\n|---|---|---|---|---|\n| Calidad de los servicios públicos | 4 | 5 | 2 | 4 |\n| Incentivos tributarios | 4 | 3 | 3 | 3 |\n| Disponibilidad de materia prima | 3 | 3 | 5 | 4 |\n| Infraestructura de transporte | 2 | 4 | 4 | 2 |"
+    },
+    {
+      "titulo": "Tabla 1. Solución óptima al problema de ruteo",
+      "texto": "| | Bogotá | Quibdó | V/dupar | Medellín | Ibagué | Neiva | Cali | Tunja | Yopal |\n|---|---|---|---|---|---|---|---|---|---|\n| **Bogotá** | ----- | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |\n| **Quibdó** | 0 | ----- | 0 | 0 | 1 | 0 | 0 | 0 | 0 |\n| **V/dupar** | 0 | 0 | ----- | 1 | 0 | 0 | 0 | 0 | 0 |\n| **Medellín** | 0 | 0 | 1 | ----- | 0 | 0 | 0 | 0 | 0 |\n| **Ibagué** | 0 | 0 | 0 | 0 | ----- | 1 | 0 | 0 | 0 |\n| **Neiva** | 0 | 0 | 0 | 0 | 0 | ----- | 1 | 0 | 0 |\n| **Cali** | 0 | 1 | 0 | 0 | 0 | 0 | ----- | 0 | 0 |\n| **Tunja** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | ----- | 1 |\n| **Yopal** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | ----- |"
+    },
+    {
+      "titulo": "Tabla. Parámetros de los trabajos",
+      "texto": "| Trabajo | Tiempo de proceso | Tiempo pactado de entrega |\n|---|---|---|\n| *W* | 5 | 6 |\n| *X* | 6 | 7 |\n| *Y* | 9 | 16 |\n| *Z* | 6 | 10 |"
+    },
+    {
+      "titulo": "Tabla 1. Opciones de políticas para el sistema de cajeros",
+      "texto": "| Número de cajeros | Número promedio de personas en fila |\n|---|---|\n| 4 | 20 |\n| 5 | 15 |\n| 6 | 8 |\n| 7 | 4 |"
+    },
+    {
+      "titulo": "Tabla 2. Unidades por fabricar, tiempos por unidad y tiempo disponible por máquina",
+      "texto": "| Tipo de pedestales | Cantidad por fabricar en unidades | Tiempo de maquinado (hora/unidad) Máquina 1 | Tiempo de maquinado (hora/unidad) Máquina 2 | Tiempo de maquinado (hora/unidad) Máquina 3 |\n|---|---|---|---|---|\n| *P1* | 200 | 0,26 | 0,27 | 0,25 |\n| *P2* | 150 | 0,28 | 0,25 | 0,30 |\n| *P3* | 240 | 0,24 | 0,26 | 0,20 |\n| **Horas Disponibles / Máquina** | | 80 | 72 | 50 |"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "icfes-diseno_logisticos-001",
+      "area": "diseno_logisticos",
+      "n": 1,
+      "contexto": 0,
+      "enunciado": "La empresa considera que debe hacer presencia en cada una de las regiones, por lo cual se debe garantizar la apertura de una planta en cada región. Al modelo original se le debe agregar el siguiente conjunto de restricciones:",
+      "opciones": {
+        "A": "Y1,p + Y2,p = 1; Y1,g + Y2,g = 1",
+        "B": "Y1,p + Y1,g = 1; Y2,p + Y2,g = 1",
+        "C": "Y1,p + Y2,g = 1; Y1,g + Y2,p = 1",
+        "D": "Y1,p + Y2,g = 1; Y1,g + Y2,g = 1"
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Para obligar a que en **cada región** se abra exactamente una planta, se suman las binarias de una misma región: Y1,p + Y1,g = 1 (región 1) y Y2,p + Y2,g = 1 (región 2). Las otras opciones mezclan variables de regiones distintas, que solo controlan el tamaño, no la presencia regional.",
+      "origen": "Cuadernillo 2018 #1"
+    },
+    {
+      "id": "icfes-diseno_logisticos-002",
+      "area": "diseno_logisticos",
+      "n": 2,
+      "contexto": 0,
+      "enunciado": "De acuerdo con la solución del modelo presentado por los ingenieros para el diseño de la cadena de abastecimiento, y a fin de minimizar los costos totales, se debe:",
+      "opciones": {
+        "A": "Abrir una planta en la región 2 y dos plantas en la región 1.",
+        "B": "Abrir una planta en la región 1 y dos plantas en la región 2.",
+        "C": "Abrir una planta en la región 1 y otra planta en la región 2.",
+        "D": "Abrir una planta en la región 2 y no abrir ninguna planta en la región 1."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "En la solución óptima Y1,p = 1 y Y2,g = 1, mientras Y2,p = Y1,g = 0: se abre la planta pequeña en la región 1 y la planta grande en la región 2, es decir, **una planta en cada región**.",
+      "origen": "Cuadernillo 2018 #2"
+    },
+    {
+      "id": "icfes-diseno_logisticos-003",
+      "area": "diseno_logisticos",
+      "n": 3,
+      "contexto": 0,
+      "enunciado": "Basándose en el modelo formulado por los ingenieros para el diseño de la cadena de abastecimiento y su respectiva solución, la demanda de la región",
+      "opciones": {
+        "A": "1 se debe satisfacer solamente con producto fabricado en la región 1.",
+        "B": "2 se debe satisfacer solamente con producto fabricado en la región 1.",
+        "C": "1 se debe satisfacer solamente con producto fabricado en la región 2.",
+        "D": "2 se debe satisfacer solamente con producto fabricado en la región 2."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "La demanda de la región 2 (130 t) se cubre con X2,2 = 130 y X1,2 = 0, así que **toda** viene de la región 2. La región 1, en cambio, recibe 150 t propias y 40 t de la región 2 (X2,1 = 40), por eso A y C son falsas.",
+      "origen": "Cuadernillo 2018 #3"
+    },
+    {
+      "id": "icfes-diseno_logisticos-004",
+      "area": "diseno_logisticos",
+      "n": 4,
+      "contexto": 0,
+      "enunciado": "Si en la cadena de abastecimiento diseñada la demanda en la región 2 se incrementa a 131 toneladas, la tonelada adicional se",
+      "opciones": {
+        "A": "puede vender al mismo precio.",
+        "B": "debe vender a un precio mínimo de $626.000",
+        "C": "puede rebajar en $160.000",
+        "D": "debe vender a un precio mínimo de $408.000"
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "El precio sombra de la demanda de la región 2 es 408.000 y 131 está dentro del rango (0 a 160), así que esa tonelada extra aumenta el costo en **$408.000**; para no perder dinero hay que venderla al menos a ese precio. $626.000 es el precio sombra de la región 1, no de la 2.",
+      "origen": "Cuadernillo 2018 #4"
+    },
+    {
+      "id": "icfes-diseno_logisticos-005",
+      "area": "diseno_logisticos",
+      "n": 5,
+      "contexto": 0,
+      "enunciado": "Los ingenieros también resolvieron el modelo solamente considerando los costos de producción, mantenimiento y transporte, y obtuvieron como resultado que los valores de las variables asociadas con la producción y comercialización mantienen el mismo valor, aunque la función objetivo toma un valor de $144.395.706.\n\nCon la información obtenida de dos de las soluciones al modelo matemático para la cadena de abastecimiento, los costos",
+      "opciones": {
+        "A": "fijos representan aproximadamente el 70 % de los costos totales.",
+        "B": "de producción, mantenimiento y transporte representan cerca del 70 % de los costos totales.",
+        "C": "fijos representan aproximadamente el 50 % de los costos totales.",
+        "D": "de producción, mantenimiento y transporte representan cerca del 30 % de los costos totales."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Costos variables: 144.395.706 / 206.145.706 ≈ **70 %**. Los fijos son la diferencia, 61.750.000 (= 23.350.000 + 38.400.000), cerca del 30 %. La trampa es invertir los porcentajes (opciones A y D).",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes-diseno_logisticos-006",
+      "area": "diseno_logisticos",
+      "n": 6,
+      "contexto": 1,
+      "enunciado": "Dada la importancia que tiene para el cliente el cumplimiento en la promesa de entrega, sin cambiar el proceso y asumiendo que los tiempos estándares controlados por la pizzería se cumplen, al igual que los definidos por Fast S.A., se le recomendaría a la pizzería, para minimizar el riesgo de incumplimiento, prometer la entrega en menos de",
+      "opciones": {
+        "A": "35 minutos.",
+        "B": "40 minutos.",
+        "C": "45 minutos.",
+        "D": "50 minutos."
+      },
+      "correcta": "D",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Los tiempos estándar suman 2 + 15 + 2 + 1 + 10 + 15 = 45 min, pero usan el **promedio** de transporte (15 min). Para cubrir el peor caso hay que usar el máximo (20 min): 30 + 20 = **50 minutos**. Prometer 45 deja expuesta a la pizzería cada vez que el transporte supera el promedio.",
+      "origen": "Cuadernillo 2018 #6"
+    },
+    {
+      "id": "icfes-diseno_logisticos-007",
+      "area": "diseno_logisticos",
+      "n": 7,
+      "contexto": 1,
+      "enunciado": "De acuerdo con la información de los estudios que se presentan en las tablas 2 y 3, se evidencia que el mayor efecto en la mejora del servicio de Pizza Direct se podría lograr con una estrategia orientada a",
+      "opciones": {
+        "A": "cambiar la empresa encargada de llevar los domicilios.",
+        "B": "mejorar el proceso de elaboración de pizzas y reducir el tiempo.",
+        "C": "asegurar la calidad de la información de registro de direcciones.",
+        "D": "mejorar el suministro garantizando la existencia de ingredientes."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "El 60 % de los problemas está en transporte y entrega, y dentro de ellos la causa dominante (65) es que la dirección registrada no corresponde. Atacar el **registro de direcciones** ataca la causa raíz; cambiar de transportador no la resuelve, porque el error nace en el pedido.",
+      "origen": "Cuadernillo 2018 #7"
+    },
+    {
+      "id": "icfes-diseno_logisticos-008",
+      "area": "diseno_logisticos",
+      "n": 8,
+      "contexto": 1,
+      "enunciado": "Dentro de las alternativas estudiadas para mejorar el servicio de Pizza Direct se consideran los cambios en los procesos e inversiones. Se debe mantener un margen de utilidad mínimo, por lo que las soluciones no deben generar un incremento en los costos superior al 10 %. La mejor alternativa para la empresa sería",
+      "opciones": {
+        "A": "adquirir un sistema de verificación de direcciones que garantice el correcto registro y envío del pedido; el costo de registro sería $1.500.",
+        "B": "adquirir una flota de motocicletas propia, y mantener control de la actividad de entrega. El costo de cada entrega sería $8.000.",
+        "C": "contratar otra persona para la actividad de empaque, y así reducir el tiempo de esa actividad a la mitad para generar un costo de $2.500.",
+        "D": "adquirir otro horno, que se reduciría el tiempo de preparación a 13 minutos, lo cual generaría un costo de $11.000 por pizza."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "El costo actual es $20.000 por pedido, así que el tope es $22.000. Verificar direcciones sube el registro de $500 a $1.500 (+$1.000, 5 %) y ataca el problema más frecuente. La flota propia supera el tope (+$3.000, 15 %); empaque y horno caben en el 10 %, pero atacan causas menores.",
+      "origen": "Cuadernillo 2018 #8"
+    },
+    {
+      "id": "icfes-diseno_logisticos-009",
+      "area": "diseno_logisticos",
+      "n": 9,
+      "contexto": 1,
+      "enunciado": "Se plantea la opción de que Fast S.A. mantenga una cuadrilla de sus motos en la pizzería, y así se eliminaría la actividad de solicitud de transporte. Si se garantiza un tiempo máximo de entrega de 22 minutos, y dado que los clientes siempre quieren su producto en el menor tiempo, la pizzería podría comprometerse con sus clientes a entregarles el producto en un tiempo máximo de:",
+      "opciones": {
+        "A": "35 minutos.",
+        "B": "40 minutos.",
+        "C": "42 minutos.",
+        "D": "45 minutos."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Sin solicitar transporte quedan 2 + 15 + 2 + 1 = 20 min internos; con el máximo garantizado de 22 min de entrega: 20 + 22 = **42 minutos**. Prometer menos (35 o 40) sería incumplible, y 45 desaprovecha la mejora.",
+      "origen": "Cuadernillo 2018 #9"
+    },
+    {
+      "id": "icfes-diseno_logisticos-010",
+      "area": "diseno_logisticos",
+      "n": 10,
+      "contexto": 2,
+      "enunciado": "Una acción en el escenario optimista es modificar la planta actual, para que esta produzca 25 toneladas, y construir nuevas plantas en dos de las alternativas de localización. Si se tiene un presupuesto máximo de $2.900 por año, la mejor decisión para localizar las nuevas plantas sería:",
+      "opciones": {
+        "A": "Alternativa 1, produciendo 20 toneladas, y alternativa 2, produciendo 30 toneladas.",
+        "B": "Alternativa 2, produciendo 30 toneladas, y alternativa 3, produciendo 20 toneladas.",
+        "C": "Alternativa 2, produciendo 20 toneladas, y alternativa 3, produciendo 30 toneladas.",
+        "D": "Alternativa 1, produciendo 30 toneladas, y alternativa 2, produciendo 20 toneladas."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "La planta actual cuesta 0 + 40·25 = 1.000. Opción A: (250 + 30·20) + (300 + 25·30) = 850 + 1.050 → total **2.900**, justo el presupuesto. B da 3.050, C 3.000 y D 2.950: todas lo exceden.",
+      "origen": "Cuadernillo 2018 #10"
+    },
+    {
+      "id": "icfes-diseno_logisticos-011",
+      "area": "diseno_logisticos",
+      "n": 11,
+      "contexto": 2,
+      "enunciado": "Teniendo en cuenta la información acerca de los costos, se puede afirmar que la alternativa",
+      "opciones": {
+        "A": "1 no es la mejor en los dos escenarios de demanda.",
+        "B": "2 es la mejor para cualquier nivel de demanda.",
+        "C": "3 es la mejor en los dos escenarios de demanda.",
+        "D": "4 no es la mejor en ningún nivel de demanda."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Con 15 t: alt. 1 = 700, alt. 2 = 675, alt. 3 = 900, alt. 4 = 600 (gana la 4). Con 75 t: 2.500, 2.175, 2.100 y 3.000 (gana la 3). La alternativa 1 **no gana en ninguno** de los dos escenarios.",
+      "origen": "Cuadernillo 2018 #11"
+    },
+    {
+      "id": "icfes-diseno_logisticos-012",
+      "area": "diseno_logisticos",
+      "n": 12,
+      "contexto": 2,
+      "enunciado": "Todos los estudios realizados han suscitado en la empresa la necesidad de mejorar su imagen en el mercado. Para ello consideran implementar estrategias de producción más limpia, sin importar la decisión que se tome respecto a la localización.\n\nLa empresa espera que la estrategia seleccionada pueda desarrollarse con los recursos disponibles, es decir, financieros, de personal, equipos y tiempo, para evitar inversiones adicionales. La alternativa con la cual se logran los objetivos esperados por la empresa es",
+      "opciones": {
+        "A": "la reutilización de residuos sin procesos de refinación adicionales.",
+        "B": "la capacitación y formación del recurso humano.",
+        "C": "cambiar equipos por unos más eficientes en el uso de la energía.",
+        "D": "la producción de subproductos a partir de los residuos."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Reutilizar residuos **sin refinación adicional** es producción más limpia que no exige equipos, procesos ni tiempo nuevos. Cambiar equipos o fabricar subproductos sí requiere inversión, y la capacitación consume tiempo y recursos de personal.",
+      "origen": "Cuadernillo 2018 #12"
+    },
+    {
+      "id": "icfes-diseno_logisticos-013",
+      "area": "diseno_logisticos",
+      "n": 13,
+      "contexto": 2,
+      "enunciado": "Considerando que los factores cualitativos evaluados tienen la misma importancia para la empresa, la mejor alternativa es la",
+      "opciones": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Con pesos iguales basta sumar las calificaciones: alt. 1 = 13, alt. 2 = 5 + 3 + 3 + 4 = **15**, alt. 3 = 14, alt. 4 = 13. Gana la alternativa 2.",
+      "origen": "Cuadernillo 2018 #13"
+    },
+    {
+      "id": "icfes-diseno_logisticos-014",
+      "area": "diseno_logisticos",
+      "n": 14,
+      "contexto": 2,
+      "enunciado": "En el escenario optimista y considerando los costos asociados, la mejor alternativa es la",
+      "opciones": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4."
+      },
+      "correcta": "C",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Con 75 t/año: alt. 1 = 250 + 30·75 = 2.500; alt. 2 = 300 + 25·75 = 2.175; alt. 3 = 600 + 20·75 = **2.100**; alt. 4 = 40·75 = 3.000. A alto volumen conviene el mayor costo fijo con menor costo variable: la 3.",
+      "origen": "Cuadernillo 2018 #14"
+    },
+    {
+      "id": "icfes-diseno_logisticos-015",
+      "area": "diseno_logisticos",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "Una empresa productora de filtros está en el punto de equilibrio con una producción de 2.500 unidades, lo que corresponde a un 50% de su capacidad instalada.\n\nSe tienen:\n\nCostos fijos: $50.000,\nCosto variable: $10/unidad,\nPrecio de venta: $30/unidad.\n\nLa gerencia general le indica al ingeniero de producción que por razones de competencia en el mercado debe reducirse en un 20% el precio, pero mantenerse una utilidad mínima de $20.000. Para atender esta solicitud, respecto al volumen de producción y venta, se debe incrementar",
+      "opciones": {
+        "A": "la producción al doble de la situación de equilibrio actual.",
+        "B": "la capacidad instalada en un 50 % de la situación actual.",
+        "C": "los ingresos en un 35 % de la situación actual.",
+        "D": "la producción en un 25 % de la situación de equilibrio actual."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Nuevo precio: 30 × 0,8 = $24, con margen de 24 − 10 = $14 por unidad. Se necesita (50.000 + 20.000) / 14 = **5.000 unidades**, el doble de las 2.500 del equilibrio (y justo el 100 % de la capacidad, que no hay que ampliar).",
+      "origen": "Cuadernillo 2018 #15"
+    },
+    {
+      "id": "icfes-diseno_logisticos-016",
+      "area": "diseno_logisticos",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "Una de las competencias más importantes de cualquier profesional es su capacidad de entender la realidad de una manera que le permita abordarla adecuadamente.\n\nEn este sentido, la teoría general de sistemas ha tomado especial importancia en las investigaciones y en los análisis realizados en diversas disciplinas, porque",
+      "opciones": {
+        "A": "identifica la necesidad de estudiar por separado las partes del sistema para facilitar su análisis.",
+        "B": "recomienda alejar el sistema de los demás sistemas que puedan afectarlo.",
+        "C": "incluye las partes del sistema, sus interrelaciones y el entorno para entenderlo mejor.",
+        "D": "inhibe la comprensión de la función de cada una de las partes del sistema."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La teoría general de sistemas tiene un enfoque **holístico**: estudia las partes, cómo se relacionan y su interacción con el entorno. Analizar las partes por separado o aislar el sistema es justo el enfoque reduccionista que critica.",
+      "origen": "Cuadernillo 2018 #16"
+    },
+    {
+      "id": "icfes-diseno_logisticos-017",
+      "area": "diseno_logisticos",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "La siguiente ilustración presenta los costos asociados con un inventario, en un modelo con demanda constante y aprovisionamientos instantáneos. Los elementos del modelo que se tendrán en cuenta son\n\nD = Demanda anual.\nCₒ = Costo de hacer una orden o pedido.\nQ = Cantidad a ordenar.\nCₘ = Costo de mantenimiento del inventario, en pesos por unidad por año.\n\nEl valor mínimo de la función costo total está dado por el punto (Q₁, C₁), donde\n\nQ₁ = √(2DCₒ / Cₘ)\n\ny\n\nC₁ = (D / Q₁)Cₒ + (Q₁ / 2)Cₘ\n\nSi la demanda es 100.000 unidades anuales, el costo de hacer un pedido es $10 y el costo de mantenimiento del inventario es $2 pesos por unidad por año, entonces, la cantidad óptima de pedido es",
+      "opciones": {
+        "A": "500",
+        "B": "1.000",
+        "C": "2.000",
+        "D": "100.000"
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Q₁ = √(2 · 100.000 · 10 / 2) = √1.000.000 = **1.000** unidades. Un error típico es olvidar la raíz o el factor 2.",
+      "origen": "Cuadernillo 2018 #17",
+      "imagen": "icfes_diseno_logisticos_017.png"
+    },
+    {
+      "id": "icfes-diseno_logisticos-018",
+      "area": "diseno_logisticos",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "La siguiente expresión corresponde a un problema de programación lineal acotado:\n\nMín(W) = 4y₁ + 12y₂\ns.a.\ny₁ ≥ 4\ny₂ ≥ 2\ny₁ + 2y₂ ≥ 8\ny₁ ≥ 0, y₂ ≥ 0,\n\nLa razón correcta para esta afirmación, es que",
+      "opciones": {
+        "A": "corresponde a un problema de minimización y los valores de la función objetivo y₁ y y₂ harán que crezca en una proporción de acuerdo a los coeficientes que tiene.",
+        "B": "corresponde a un problema donde, por la forma como están definidas las y₁ ≥ 0, y₂ ≥ 0, hace que estas puedan tener infinitas soluciones.",
+        "C": "corresponde a un problema de minimización y por el sentido de las desigualdades la zona de factibilidad crece infinitamente, creando infinitas soluciones.",
+        "D": "corresponde a un problema que tiene solución finita."
+      },
+      "correcta": "D",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Aunque la región factible es no acotada, se minimiza una función con coeficientes positivos, que tiene un mínimo finito: en y₁ = 4, y₂ = 2 (cumple y₁ + 2y₂ = 8) da W = 16 + 24 = **40**. Que la región sea infinita no implica infinitas soluciones óptimas.",
+      "origen": "Cuadernillo 2018 #18"
+    },
+    {
+      "id": "icfes-diseno_logisticos-019",
+      "area": "diseno_logisticos",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "Una máquina que no cuenta con un freno se desliza durante 30 segundos después de terminar cada pieza, lo que impide mover oportunamente su trabajo. El tiempo de elaboración por pieza es de 30 segundos. La máquina se utiliza para producir 1.000 piezas al mes. Si se consigue un dispositivo que disminuya el tiempo de frenado en 50 % el porcentaje de tiempo ahorrado será del",
+      "opciones": {
+        "A": "25 %.",
+        "B": "50 %.",
+        "C": "75 %.",
+        "D": "100 %."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Hoy cada pieza toma 30 + 30 = 60 s. Con el freno, el deslizamiento baja a 15 s y el ciclo a 45 s: se ahorran 15 de 60 s, es decir, **25 %**. El 50 % es la reducción del frenado, no del ciclo total.",
+      "origen": "Cuadernillo 2018 #19"
+    },
+    {
+      "id": "icfes-diseno_logisticos-020",
+      "area": "diseno_logisticos",
+      "n": 20,
+      "contexto": 3,
+      "enunciado": "Una empresa de servicios para el sector petrolero tiene sucursales en las ciudades de Bogotá, Cali, Ibagué, Quibdó, Medellín, Neiva, Tunja, Yopal y Valledupar. Para obtener el diseño óptimo de su esquema de ruteo, el Departamento de Métodos formuló un problema que tuvo en cuenta toda la información disponible en la compañía y reporta la solución óptima que se presenta en la tabla 1, donde cada casilla se asocia a una variable binaria que vale 1 si se debe ir directamente de la ciudad de la fila a la ciudad de la columna y 0, si no se debe hacer ese recorrido.\n\nPor cada ruta cíclica obtenida, si esta incluye tres o menos ciudades, se debe asignar un camión y dos conductores; si incluye más de tres ciudades, se debe asignar dos camiones y cinco conductores.\n\nDe acuerdo con la solución óptima presentada, el número requerido de camiones y conductores es",
+      "opciones": {
+        "A": "2 y 5, respectivamente.",
+        "B": "9 y 18, respectivamente.",
+        "C": "4 y 9, respectivamente.",
+        "D": "3 y 6, respectivamente."
+      },
+      "correcta": "C",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Siguiendo los 1 de la tabla salen tres ciclos: Bogotá–Tunja–Yopal–Bogotá (3 ciudades: 1 camión, 2 conductores), Quibdó–Ibagué–Neiva–Cali–Quibdó (4 ciudades: 2 camiones, 5 conductores) y Valledupar–Medellín–Valledupar (2 ciudades: 1 camión, 2 conductores). Total: **4 camiones y 9 conductores**.",
+      "origen": "Cuadernillo 2018 #20 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-diseno_logisticos-021",
+      "area": "diseno_logisticos",
+      "n": 21,
+      "contexto": 4,
+      "enunciado": "Una estación de trabajo, que consta de una sola máquina, tiene que realizar cuatro trabajos, a cuatro clientes con los parámetros mostrados en la tabla. Cada trabajo debe entregarse de acuerdo con los tiempos pactados. Por supuesto que la empresa no va a poder cumplir, pero pretende al menos que la entrega más atrasada tenga el menor retraso posible, razón por la cual decide fijar el orden en que debe procesar los trabajos (programar la producción) para cumplir el propósito planteado.\n\nTeniendo en cuenta que la máquina solo puede procesar un trabajo a la vez y que una vez empieza este debe terminarse, la secuencia de programación con que deben realizarse los trabajos es",
+      "opciones": {
+        "A": "Z - Y - X - W.",
+        "B": "Z - X - Y - W.",
+        "C": "W - X - Y - Z.",
+        "D": "W - X - Z - Y."
+      },
+      "correcta": "D",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Para minimizar el **retraso máximo** se ordena por fecha de entrega más próxima (regla EDD): W (6), X (7), Z (10), Y (16). Así terminan en 5, 11, 17 y 26, con retraso máximo de 10; por ejemplo, W-X-Y-Z deja a Z con 16 de retraso.",
+      "origen": "Cuadernillo 2018 #21"
+    },
+    {
+      "id": "icfes-diseno_logisticos-022",
+      "area": "diseno_logisticos",
+      "n": 22,
+      "contexto": null,
+      "enunciado": "Una empresa elabora su plan de producción de dos fábricas diferentes para satisfacer una demanda total de 100 unidades de producto. La capacidad de producción de la fábrica 1 es 50 unidades y tiene un costo de $3 por cada producto; la capacidad de la fábrica 2 es 45 unidades de producto y cada uno de estos tiene un costo de $4. Se determina que el modelo matemático de programación lineal que tiene en cuenta estos requerimientos es:\n\nmin 3x1 + 4x2\nSujeto a:\nx1 + x2 ≥ 100\nx1 ≤ 50\nx2 ≤ 45\nx1, x2 ∈ Z\n\nEn donde x1 representa el número de unidades producidas en la fábrica 1 y x2 representa el número de unidades producidas en la fábrica 2. Como analista de producción, usted le manifiesta a la empresa que los requerimientos de la demanda NO se pueden cumplir porque:",
+      "opciones": {
+        "A": "Al ser las variables enteras, no permite cumplir los requerimientos de demanda.",
+        "B": "Al presentar mayores costos los productos fabricados en la planta 2, hace inviable fabricar los productos.",
+        "C": "No es viable cumplir la restricción de demanda, ya que la capacidad de las dos plantas es menor que lo requerido.",
+        "D": "La capacidad de la planta 2 es menor que la capacidad de la planta 1, por lo que no se pueden cumplir los requerimientos de demanda."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Entre las dos fábricas se producen como máximo 50 + 45 = 95 unidades, menos que las 100 exigidas: el modelo es **infactible** por capacidad. Ni la integralidad ni los costos impiden cumplir la demanda.",
+      "origen": "Cuadernillo 2018 #22"
+    },
+    {
+      "id": "icfes-diseno_logisticos-023",
+      "area": "diseno_logisticos",
+      "n": 23,
+      "contexto": null,
+      "enunciado": "Una empresa dedicada a la distribución de productos diseña su proceso de distribución. Quiere conocer con cuánta holgura cuenta para empezar a distribuir nuevos productos. El siguiente modelo de programación lineal muestra cómo es la situación actual de la empresa:\n\nCon base en el modelo anterior, se puede concluir que la manera correcta de escribir el modelo adicionando las variables de holgura es",
+      "opciones": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Para pasar a igualdades, a una restricción ≥ se le **resta** una variable de excedente (Σ aᵢⱼxⱼ − wⱼ = bⱼ) y a una ≤ se le **suma** una de holgura (Σ xⱼ + s = d), todas no negativas. B conserva desigualdades, C elimina las holguras y D invierte los signos.",
+      "origen": "Cuadernillo 2018 #23",
+      "imagen": "icfes_diseno_logisticos_023.png",
+      "imagenes": {
+        "A": "icfes_diseno_logisticos_023_A.png",
+        "B": "icfes_diseno_logisticos_023_B.png",
+        "C": "icfes_diseno_logisticos_023_C.png",
+        "D": "icfes_diseno_logisticos_023_D.png"
+      }
+    },
+    {
+      "id": "icfes-diseno_logisticos-024",
+      "area": "diseno_logisticos",
+      "n": 24,
+      "contexto": 5,
+      "enunciado": "Un punto de atención de servicios médicos quiere establecer una política para su sistema de cajeros. Se determina que, en promedio, llegan 100 clientes por hora; además se sabe que un cajero se demora en atender aproximadamente 2 minutos por cada cliente. Actualmente, el costo de cada cajero es $10 y el costo por tener a una persona en fila es de $2. Se tienen cuatro opciones de políticas que se resumen en la tabla.\n\nSegún la tabla, se puede concluir que la opción que minimiza costos y satisface la demanda es utilizar",
+      "opciones": {
+        "A": "4 cajeros.",
+        "B": "5 cajeros.",
+        "C": "6 cajeros.",
+        "D": "7 cajeros."
+      },
+      "correcta": "C",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Costo total = 10 × cajeros + 2 × personas en fila: 4 → 80; 5 → 80; 6 → 10·6 + 2·8 = **76**; 7 → 78. Con 100 clientes/h y 30 clientes/h por cajero, todas cubren la demanda, así que gana la de menor costo: 6 cajeros.",
+      "origen": "Cuadernillo 2018 #24 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-diseno_logisticos-025",
+      "area": "diseno_logisticos",
+      "n": 25,
+      "contexto": null,
+      "enunciado": "Para la selección de proveedores, se ha definido una estrategia de análisis de factores ponderados, considerando los factores presentes en la tabla 1, en la que también se presentan los resultados obtenidos por cada uno de los cuatro proveedores evaluados.\n\nTeniendo en cuenta los resultados del desempeño de los proveedores y la ponderación de cada factor de la tabla, y considerando que el criterio de selección se ha definido en el mayor puntaje obtenido, los mejores proveedores por su desempeño logístico son",
+      "opciones": {
+        "A": "proveedor A y proveedor B.",
+        "B": "proveedor C y proveedor D.",
+        "C": "proveedor B y proveedor C.",
+        "D": "proveedor A y proveedor D."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Puntaje = Σ factor × calificación. A: 8·3 + 5·5 + 4·1 + 3·3 = 62. B: 8·5 + 5·0 + 4·5 + 3·4 = **72**. C: 0 + 5·4 + 0 + 3·2 = 26. D: 8·2 + 5·2 + 4·3 + 0 = 38. Los dos mejores son **B y A**.",
+      "origen": "Cuadernillo 2018 #25",
+      "imagen": "icfes_diseno_logisticos_025.png"
+    },
+    {
+      "id": "icfes-diseno_logisticos-026",
+      "area": "diseno_logisticos",
+      "n": 26,
+      "contexto": 6,
+      "enunciado": "La compañía ARPE recibió un pedido para fabricar tres tipos de pedestales (P1, P2, P3). Los pedestales se fabrican de hierro fundido y el proceso de acabados se realiza en una de tres máquinas con que cuenta la compañía. En la tabla 2, además de las cantidades requeridas, se muestran los tiempos de maquinado y las horas disponibles por máquina.\n\nEl concepto de logística de distribución se relaciona con los costos de preparación y tiempo de fabricación de bienes o servicios. Por tal razón, la alternativa viable para la asignación de máquinas de manera que minimice el tiempo total de fabricación es:",
+      "opciones": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correcta": "D",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "D asigna cada pedestal a una máquina rápida sin exceder capacidades: P1→M1 200·0,26 = 52 h (≤ 80), P2→M2 150·0,25 = 37,5 h (≤ 72), P3→M3 240·0,20 = 48 h (≤ 50). Total **137,5 h**, menor que A (159), B (156,6) o C (144).",
+      "origen": "Cuadernillo 2018 #26 · Preguntas explicadas #3",
+      "imagenes": {
+        "A": "icfes_diseno_logisticos_026_A.png",
+        "B": "icfes_diseno_logisticos_026_B.png",
+        "C": "icfes_diseno_logisticos_026_C.png",
+        "D": "icfes_diseno_logisticos_026_D.png"
+      }
+    }
+  ]
+}

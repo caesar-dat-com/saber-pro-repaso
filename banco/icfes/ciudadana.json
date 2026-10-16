@@ -1,0 +1,432 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Competencias ciudadanas (cuadernillo 2018 y preguntas explicadas 2019)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes18-ciudadana-01",
+   "area": "ciudadana",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Un grupo de activistas que defiende los derechos de los animales busca evitar que un centro de investigación siga utilizando cerdos para sus experimentos, pues los tratamientos incluyen procedimientos que se consideran maltrato y que en algunos casos terminan en la muerte de los animales. Por su parte, los investigadores defienden su uso, pues estos animales proveen la mejor plataforma para desarrollar sus medicinas sin poner en riesgo vidas humanas. Además, mencionan que el laboratorio no viola ninguna de las normas existentes sobre investigación con animales y que su labor permite proteger la vida de las personas.\n\nLas divergencias de intereses entre científicos y activistas radican en que",
+   "opciones": {
+    "A": "los activistas quieren oponerse al desarrollo económico, mientras que los científicos quieren mejorar la vida de todos.",
+    "B": "los activistas quieren cuestionar la efectividad de la ciencia, mientras que los científicos quieren evadir el control a su trabajo.",
+    "C": "los científicos quieren utilizar a los animales como instrumentos de investigación, mientras que los activistas quieren que todos desarrollen sentimientos de apego hacia los animales.",
+    "D": "los científicos quieren priorizar la vida humana, mientras que los activistas quieren proteger lo que consideran un derecho de los animales a su propia vida."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce la existencia de diferentes perspectivas en situaciones en donde interactúan diferentes partes.",
+   "explicacion": "La divergencia está en qué vida se prioriza: los investigadores defienden los experimentos porque permiten avanzar en medicina **sin arriesgar vidas humanas**, y los activistas se oponen porque defienden lo que consideran el **derecho de los animales a su vida** y a no ser maltratados. Las demás opciones les atribuyen intenciones que el texto no sostiene: los activistas no rechazan el desarrollo ni la ciencia en sí, sino el método, y los científicos no evaden controles (dicen cumplir las normas).",
+   "origen": "Cuadernillo 2018 #1 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes18-ciudadana-02",
+   "area": "ciudadana",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Después de una fuerte temporada de lluvias, el Gobierno nacional despliega ayudas para atender a la población afectada. No obstante, los daños materiales y de afectación a la vida y a la salud de las personas son muy grandes. Se hace un llamado a la ciudadanía para que aporte dinero y materiales y así poder brindar una mejor respuesta a la emergencia. Tras este llamado, la respuesta de la ciudadanía es casi nula.\n\nTeniendo en cuenta lo planteado en la Constitución política colombiana, esta respuesta de la ciudadanía refleja",
+   "opciones": {
+    "A": "la incapacidad del Gobierno nacional para atender la emergencia.",
+    "B": "la deficiencia en la infraestructura nacional para la prevención de desastres.",
+    "C": "la inobservancia del principio de solidaridad por parte de los ciudadanos.",
+    "D": "la libertad de los ciudadanos para decidir el uso de sus recursos propios."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce los derechos y deberes que la Constitución consagra.",
+   "explicacion": "La Constitución establece como deber de la persona y del ciudadano obrar conforme al **principio de solidaridad social**, respondiendo ante situaciones que pongan en peligro la vida o la salud de las personas. Una respuesta casi nula ante la emergencia refleja que ese deber no se está cumpliendo.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes18-ciudadana-03",
+   "area": "ciudadana",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Durante las épocas de lluvias, en muchas zonas rurales de Colombia se inundan escuelas y se interrumpen los caminos para llegar a estas.\n\n¿Cuál de las siguientes soluciones vulnera el derecho a la educación?",
+   "opciones": {
+    "A": "Organizar esquemas de transporte para que los estudiantes vayan a clases en escuelas no afectadas por las inundaciones.",
+    "B": "Ajustar el calendario para incluir los sábados como día escolar y que no haya clases en las épocas de inundación.",
+    "C": "Dar una parte de las clases a través de tutores a domicilio para reducir los días en que los niños tienen que asistir presencialmente al colegio.",
+    "D": "Trasladar a los niños a escuelas no inundadas dos veces por semana y reducir el número de horas de clases."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce los derechos y deberes que la Constitución consagra.",
+   "explicacion": "Trasladar a los niños solo **dos veces por semana** y **reducir las horas de clase** recorta directamente la formación que reciben, así que vulnera el derecho a la educación. Las otras opciones (transporte a escuelas no afectadas, clases los sábados, tutores a domicilio) cambian el cómo o el cuándo, pero garantizan el acceso a las clases.",
+   "origen": "Cuadernillo 2018 #3 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes18-ciudadana-04",
+   "area": "ciudadana",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Algunas personas critican a los policías de tránsito y los culpan de grandes congestiones de vehículos en las ciudades, porque observan que cuando hay una gran congestión es frecuente que haya un policía guiando el tránsito.\n\n¿Cuál de los siguientes es un argumento válido para contradecir la postura expuesta?",
+   "opciones": {
+    "A": "Los policias no deben ser cuestionados, ya que representan a una institución que está hecha para ayudar.",
+    "B": "El hecho de que los policías estén donde hay grandes congestiones de vehículos no quiere decir que ellos sean quienes los originan.",
+    "C": "Los policías hacen adecuadamente su labor, pero no son suficientes para evitar todas las congestiones de vehículos que se presentan.",
+    "D": "El hecho de que haya grandes congestiones vehiculares no significa que los policías no estén capacitados adecuadamente."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "La postura confunde **coincidencia con causa**: que los policías estén presentes en las congestiones no implica que las provoquen (probablemente están ahí para atenderlas). Las demás opciones no atacan esa falla del razonamiento.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes18-ciudadana-05",
+   "area": "ciudadana",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Un Gobierno ofreció reducir impuestos a las empresas privadas que generen nuevos empleos. El gerente de una reconocida empresa que anualmente paga importantes sumas de dinero en impuestos, dijo: \"Para acogerse al beneficio, mi empresa puede abrir 100 nuevas plazas para operarios, siempre y cuando quienes se postulen hayan nacido en municipios de tierra fría, porque los habitantes de tierra caliente no trabajan igual. Estoy seguro de que la junta directiva de la empresa estará de acuerdo conmigo\".\n\n¿Cuál de los siguientes es una consecuencia de lo dicho por el gerente?",
+   "opciones": {
+    "A": "Los miembros de la junta directiva de la empresa respaldarían el pronunciamiento porque implica seleccionar a los mejores trabajadores.",
+    "B": "Los empresarios del país respaldarían el pronunciamiento porque significaría un aumento de empleo en los municipios de tierra fría.",
+    "C": "Representantes del Gobierno se opondrían a la pretensión de la empresa de aprovechar la política para reducir sus impuestos.",
+    "D": "Representantes de los trabajadores se opondrían porque se basa en un prejuicio personal en contra de los empleados de tierra caliente."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "La afirmación del gerente de que «los habitantes de tierra caliente no trabajan igual» es un **prejuicio** sin sustento, por lo que es esperable el rechazo de quienes representan a los trabajadores. Acogerse al beneficio tributario es legítimo, así que la oposición del Gobierno (C) no es la consecuencia directa de lo dicho.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes18-ciudadana-06",
+   "area": "ciudadana",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Un estudio reveló que el 30 % de las mujeres en Colombia son víctimas de violencia física. A partir de este estudio varias organizaciones feministas solicitaron el endurecimiento de las penas para las personas que ejercían violencia contra las mujeres. Ante esta petición un funcionario del Gobierno señaló que el estudio no era confiable, porque no consideraba los distintos contextos de estas agresiones y que era muy importante tener en cuenta la justificación de los hechos.\n\nSegún la información presentada, la afirmación del funcionario podría tener como consecuencia que:",
+   "opciones": {
+    "A": "se cuestione la idoneidad de los investigadores que realizaron el estudio.",
+    "B": "se entienda la necesidad de contar con estrategias efectivas para prevenir la violencia contra las mujeres.",
+    "C": "se reconozca la gravedad de los actos de violencia en contra de las mujeres.",
+    "D": "se minimice la responsabilidad de los victimarios en los casos de violencia en contra de las mujeres."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "Al sugerir que hay que considerar la **«justificación de los hechos»**, el funcionario abre la puerta a excusar las agresiones, lo que reduce la responsabilidad de quienes las cometen. Su crítica apunta al estudio, no a la idoneidad de los investigadores.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes18-ciudadana-07",
+   "area": "ciudadana",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Ante los crecientes robos a residencias en algunos sectores de estratos altos de una ciudad, el alcalde está considerando autorizar el cierre de grandes sectores residenciales que agrupen varios barrios de la ciudad, para que sean vigilados por seguridad privada y para que solo se permita la entrada a los residentes o a personas autorizadas por estos.\n\nA la hora de evaluar la propuesta, ¿qué intereses podrían entrar en conflicto?",
+   "opciones": {
+    "A": "Los de las empresas de seguridad privada que buscan expandir su negocio y los de los residentes de los barrios cerrados quienes tendrían que soportar controles de seguridad a diario.",
+    "B": "Los de los residentes que buscan su seguridad, y los de los demás habitantes de la ciudad que dejarían de tener acceso a las vías y otros espacios públicos de los sectores encerrados.",
+    "C": "Los de los residentes que buscan su beneficio particular y los intereses del gobierno local que debe encargarse del bienestar de la comunidad.",
+    "D": "Los de las empresas de seguridad privada que serían contratadas para cuidar los sectores encerrados, y los de la Policía encargada de la seguridad en la ciudad."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza las diferentes perspectivas presentes en situaciones en donde interactúan diferentes partes.",
+   "explicacion": "Cerrar barrios enteros protege a sus residentes, pero priva al resto de la ciudad del uso de **vías y espacios públicos**: ese es el choque de intereses. El gobierno local (C) es quien propone la medida, así que no está en oposición a los residentes.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes18-ciudadana-08",
+   "area": "ciudadana",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "A raíz de la autocensura de varios medios europeos acerca de temas de religión, en 2005 un periódico danés le pidió a varios caricaturistas expresar sus impresiones y sentimientos sobre el Islam. Como resultado, el periódico publicó doce caricaturas sobre Mahoma, los cuales despertaron la rabia de muchos musulmanes que protestaron por este hecho.\n\nEn esta situación, ¿qué aspectos están en conflicto?",
+   "opciones": {
+    "A": "La libertad de expresión a través de los medios y el uso de caricaturas para tratar temas religiosos.",
+    "B": "Las democracias de los países europeos industrializados y las teocracias de algunos países de Oriente.",
+    "C": "La libertad de expresión de los caricaturistas y las creencias religiosas de un grupo de personas.",
+    "D": "Las religiones occidentales como el Cristianismo y el Judaísmo, y las religiones orientales como el Islam."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+   "explicacion": "El conflicto se da entre el derecho de los caricaturistas a **expresarse libremente** y las **creencias religiosas** de los musulmanes que se sintieron ofendidos. La opción A no plantea dos aspectos opuestos, pues las caricaturas son una forma de esa misma libertad de expresión.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes18-ciudadana-09",
+   "area": "ciudadana",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "El Gobierno ha anunciado que otorgará beneficios a las empresas que contraten a personas que hayan dejado de consumir sustancias psicoactivas y se hayan rehabilitado. Una empresa decide acogerse a este beneficio y, tras un proceso de selección, contrata a varias personas rehabilitadas. En un conversatorio con los empleados, uno de los directivos dice lo siguiente: “Esta empresa tiene gran compromiso social. Aunque es muy difícil que los nuevos puedan tener un nivel de desempeño alto en la compañía, dadas sus adicciones anteriores, nosotros cumplimos con darles el beneficio de la duda\".\n\n¿Cuál podría ser un efecto de lo que dijo este directivo?",
+   "opciones": {
+    "A": "Que los nuevos trabajadores sientan el respaldo de la compañía.",
+    "B": "Que los demás trabajadores duden de las capacidades laborales de los nuevos.",
+    "C": "Que los nuevos trabajadores les colaboren en sus labores a los demás.",
+    "D": "Que los demás trabajadores desconfíen de las habilidades sociales de los nuevos."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "El directivo afirma que es difícil que los nuevos tengan un **desempeño alto**, lo que siembra dudas sobre sus capacidades **laborales** ante sus compañeros. No habla de sus habilidades sociales (D), y su comentario no transmite respaldo (A).",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes18-ciudadana-10",
+   "area": "ciudadana",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Para solucionar los problemas de basura de la capital del departamento, se decidió construir un relleno sanitario en un lote de otro municipio cercano, al cual se le compensaría económicamente por prestar este servicio a la capital. Según el gobierno departamental, la escogencia del lote se hizo conjuntamente con las autoridades ambientales y con la alcaldía del municipio. El proyecto del relleno sanitario cuenta con todas las licencias ambientales requeridas y su construcción es necesaria para la salubridad de la capital. En una consulta popular, los habitantes del municipio cercano votaron 96 % en contra de la construcción del relleno, porque consideran que este es una amenaza para la salud de la población y el ecosistema, y disminuiría el valor de la tierra circundante.\n\nEn esta situación, ¿cuáles de los siguientes aspectos están en conflicto?",
+   "opciones": {
+    "A": "El medio ambiente en la capital y la voluntad del gobierno departamental.",
+    "B": "La economía del municipio y las políticas medioambientales de la capital.",
+    "C": "La salubridad de la capital y la voluntad de los habitantes del municipio.",
+    "D": "Las políticas económicas de la alcaldía del municipio y la salubridad de la capital."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+   "explicacion": "Construir el relleno favorece la **salubridad de la capital**, pero va en contra de la **voluntad de los habitantes del municipio**, que votaron 96 % en contra en la consulta popular. Las demás parejas no chocan: el Gobierno departamental, la alcaldía del municipio (que recibe la compensación) y la capital están del mismo lado.",
+   "origen": "Cuadernillo 2018 #10 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes18-ciudadana-11",
+   "area": "ciudadana",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "El problema del tráfico de drogas ilícitas ha generado que gobernantes, académicos y miembros de la sociedad civil de países productores debatan sobre el asunto con el fin de encontrar soluciones. Algunos proponen que, para defender el bien común, se deben legalizar las drogas.\n\n¿Cuál de los siguientes es el argumento que está a favor de la propuesta de legalización?",
+   "opciones": {
+    "A": "Una gran parte de la violencia mundial está asociada al tráfico y consumo de drogas, por tanto, su comercialización debe tener estrictos controles.",
+    "B": "En los países productores no existe ninguna responsabilidad en el tráfico de drogas; la responsabilidad debe recaer sobre los controles de los países consumidores.",
+    "C": "Una gran parte quienes consumen drogas son personas enfermas que necesitan que el Estado garantice ambientes sanos para que puedan superar su adicción.",
+    "D": "En los países productores, la prohibición ha generado problemas sociales más graves que aquellos efectos económicos que se querían evitar con esta medida."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "Si la **prohibición** causa más daños sociales que los que pretende evitar, eliminarla (legalizar) favorecería el bien común: es el argumento que apoya la propuesta. Las demás opciones hablan de controles, de responsabilidades o de salud, pero no justifican la legalización.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes18-ciudadana-12",
+   "area": "ciudadana",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Durante siglos, los practicantes judíos y musulmanes les han practicado la circuncisión a sus hijos. En Alemania, un juez tomó la decisión de prohibir la circuncisión a niños menores de 14 años de edad. A esa edad, cada niño decidirá por sí mismo si se la realiza. Las grandes comunidades de judíos y musulmanes piensan que este es un ataque en contra de sus creencias e invitan a seguir practicando circuncisiones a temprana edad. El asunto ha generado polémica, pues se considera un nuevo ataque a las costumbres y herencia judía y musulmana, pueblos que siguen siendo discriminados por su cultura a pesar de sus grandes aportes económicos a los países europeos.\n\nEn la descripción de esta situación, se le da mayor énfasis a",
+   "opciones": {
+    "A": "las consecuencias económicas de la discriminación a un pueblo con grandes capitales.",
+    "B": "los efectos de la decisión del juez en las relaciones internacionales alemanas.",
+    "C": "las creencias religiosas y tradiciones que respaldan la práctica de la circuncisión.",
+    "D": "los derechos de los menores de edad y la responsabilidad de sus padres de respetarlos."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+   "explicacion": "La mayor parte del texto describe la circuncisión como práctica de siglos y la reacción de las comunidades que ven la prohibición como un ataque a sus **creencias, costumbres y herencia**. Lo económico aparece solo como mención secundaria y los derechos del menor no se desarrollan.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes18-ciudadana-13",
+   "area": "ciudadana",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Recientemente se propuso un proyecto de ley ordinaria que condena el satanismo, porque es contrario a las creencias religiosas de la mayoría de la población colombiana.\n\n¿Por qué este proyecto no podría aprobarse?",
+   "opciones": {
+    "A": "Porque contradice lo dicho en la Constitución, la cual protege todas las creencias religiosas y no solo las de la mayoría.",
+    "B": "Porque contradice los derechos de los legisladores que pertenezcan a una religión minoritaria, quienes tendrían que renunciar al Congreso.",
+    "C": "Porque contradice las normas internacionales, las cuales establecen que las creencias religiosas son del dominio de las iglesias y no de los estados.",
+    "D": "Porque contradice las leyes actuales, las cuales establecen que la religión es un asunto privado que no interesa al Estado."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende qué es la Constitución Política de Colombia y sus principios fundamentales.",
+   "explicacion": "La Constitución garantiza la **libertad de cultos** para todas las personas, sin importar si su creencia es mayoritaria o minoritaria. Una ley ordinaria no puede contradecir la Constitución, que es la norma de mayor jerarquía.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes18-ciudadana-14",
+   "area": "ciudadana",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Un municipio turístico colombiano está altamente afectado por el manejo incontrolado de las basuras. La administración municipal decide trabajar en una solución que contempla varias dimensiones. En lo político se implementan acuerdos y ordenanzas en cuanto al mejoramiento del medio ambiente; en lo social se brinda capacitación a los habitantes del lugar en el manejo de residuos y se comienza a reciclar; en lo económico se asignan recursos del presupuesto municipal a la adecuación de los edificios públicos para facilitar el reciclaje y la separación de las basuras.\n\n¿Cuál de las siguientes opciones muestra un aspecto que NO se contempló en la solución propuesta?",
+   "opciones": {
+    "A": "El poco compromiso de la administración con la conservación del medio ambiente.",
+    "B": "El desconocimiento del manejo de residuos sólidos por parte de la población.",
+    "C": "La inversión de dineros públicos para llevar a cabo las obras de infraestructura necesarias.",
+    "D": "La existencia de turistas poco comprometidos con el manejo de las basuras en el lugar."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+   "explicacion": "La solución atiende a la administración (acuerdos y ordenanzas), a los **habitantes** (capacitación) y a la inversión pública, pero ninguna medida se dirige a los **turistas**, aunque se trata de un municipio turístico. Las opciones B y C sí corresponden a dimensiones contempladas.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes18-ciudadana-15",
+   "area": "ciudadana",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Suponga que en el país se discute la conveniencia de reformar la Constitución para permitir la pena de muerte.\n\nDe acuerdo con la Constitución política de Colombia, ¿podrían los ciudadanos acudir a un mecanismo de participación directa para pronunciarse sobre este tema?",
+   "opciones": {
+    "A": "No, los asuntos penales son competencia exclusiva de la Rama Judicial.",
+    "B": "No, la decisión debe ser tomada por el presidente vía decreto.",
+    "C": "Sí, a través de un referendo constitucional.",
+    "D": "Sí, a través de un plebiscito convocado por el presidente."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce la organización del Estado de acuerdo con la Constitución.",
+   "explicacion": "La Constitución puede reformarse mediante **referendo**, mecanismo en el que los ciudadanos aprueban o rechazan un proyecto de reforma. El plebiscito sirve para pronunciarse sobre decisiones del Ejecutivo y no para reformar la Constitución.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes18-ciudadana-16",
+   "area": "ciudadana",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Una paciente debe someterse a cirugía. El médico tratante conoce las prohibiciones que por su religión tiene la paciente en cuanto a las trasfusiones de sangre y le advierte que podría haber hemorragia durante la intervención quirúrgica. El médico diligencia los formularios de rutina y la paciente firma el \"consentimiento informado\" para recibir transfusiones si las llegara a necesitar.\n\nDías después de la cirugía presenta una fuerte hemorragia, por lo que se hacen necesarias las trasfusiones. Los padres de la paciente le dicen a los médicos que para ellos es más importante la salud de su hija que la religión. Sin embargo, la paciente le dice al cirujano que cambió de opinión y que no autoriza la transfusión.\n\nAl tomar esta decisión final, ¿qué dimensión está privilegiando la paciente?",
+   "opciones": {
+    "A": "sus creencias religiosas y el estilo de vida que ellas exigen.",
+    "B": "las consecuencias en su salud y estado físico en un futuro tras la cirugía.",
+    "C": "las recomendaciones médicas y evidencia científica que respalda las transfusiones.",
+    "D": "sus relaciones familiares y el concepto que tienen sus padres."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+   "explicacion": "Al negar la transfusión, la paciente actúa conforme a las **prohibiciones de su religión**, por encima de su salud, de la recomendación médica y de la opinión de sus padres, que privilegian la salud.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes18-ciudadana-17",
+   "area": "ciudadana",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Los autores de un tiroteo fueron identificados como tres personas que dedicaban largas horas de sus días a jugar videojuegos de acción y violencia. Como consecuencia de esto, se prohibió la comercialización de todo videojuego de carácter violento como medida de prevención para este tipo de atentados.\n\nSobre la justificación de esta propuesta, se puede afirmar que realiza",
+   "opciones": {
+    "A": "una demostración de la relación casual entre el uso de videojuegos y comportamientos violentos, lo cual permite saber cómo fortalecer la seguridad.",
+    "B": "un argumento acerca de la comercialización de los juegos de video como problema de fondo, pues si están disponibles los jóvenes siempre los jugarán.",
+    "C": "un juicio hacia los jóvenes que juegan cualquier tipo de videojuego, acusándolos de ser muy poco empáticos y de tener actitudes violentas con las personas que los rodean.",
+    "D": "una generalización sobre la coincidencia del uso de videojuegos violentos y un comportamiento violento, pues aplica en este caso en particular, pero nada garantiza que siempre sea así."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "La medida parte de **un solo caso** (tres personas) y concluye que los videojuegos violentos causan atentados en general: es una **generalización apresurada**. Una coincidencia en un caso no demuestra una relación causal (A).",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes18-ciudadana-18",
+   "area": "ciudadana",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Entre el 2007 y 2008, la Corte Constitucional extendió a parejas homosexuales los beneficios del régimen contributivo de salud y del derecho a la pensión de sobrevivientes.\n\n¿Cuál de los siguientes argumentos respalda esta decisión de la Corte?",
+   "opciones": {
+    "A": "Se requiere garantizar la igualdad de derechos para todos los ciudadanos.",
+    "B": "Es necesaria la protección de los derechos de los ciudadanos pensionados.",
+    "C": "Se requieren proteger los derechos derivados del matrimonio entre hombres y mujeres.",
+    "D": "Es necesario que las instituciones garanticen la preservación de los valores tradicionales."
+   },
+   "correcta": "A",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "Extender a las parejas homosexuales los mismos beneficios que tienen las heterosexuales se fundamenta en el **derecho a la igualdad** y la no discriminación. Las opciones C y D irían en contra de la decisión, y B no explica por qué se extienden los beneficios a estas parejas.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes18-ciudadana-19",
+   "area": "ciudadana",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "El Fondo Monetario Internacional (FMI) enfatizó que en América Latina se evidencian altas tasas de participación laboral y resaltó la necesidad de una mayor innovación tecnológica como principal reto para el desarrollo económico. En respuesta a estas afirmaciones, una analista económica sostuvo que “el verdadero problema en esta región es que el 50 % de las mujeres en edad de trabajar, en promedio más educadas que los hombres, se dedican a la economía del cuidado, es decir, a la atención del hogar, sin ningún tipo de salario o reconocimiento económico ni social”.\n\nEn relación con lo anterior, se podría afirmar que el argumento de la analísta económica es válido para",
+   "opciones": {
+    "A": "respaldar el concepto del FMI, pues ella muestra que se subutiliza el potencial que las mujeres tienen para hacer de la región un área más tecnificada.",
+    "B": "refutar el análisis del FMI, pues ella demuestra que la desigualdad de género es el principal obstáculo para el desarrollo económico y no la falta de tecnología.",
+    "C": "rechazar el diagnóstico de FMI, pues demuestra que para el caso de América Latina la innovación tecnológica no tiene ningún efecto en el desarrollo económico.",
+    "D": "apoyar la explicación de FMI, pues ambos muestran que la población femenina de América Latina ha aumentado su participación en el mercado laboral."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "La analista llama «el **verdadero problema**» a que la mitad de las mujeres trabaje sin remuneración ni reconocimiento, con lo que contradice al FMI sobre cuál es el principal reto. La opción C exagera: ella no afirma que la tecnología no tenga **ningún** efecto.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes18-ciudadana-20",
+   "area": "ciudadana",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Una comunidad indígena ha preservado su cultura durante los últimos siglos. En donde viven no hay escuelas, carreteras ni presencia de personas ajenas a la comunidad. Un grupo de sacerdotes católicos decide fundar una escuela en la zona para educar a los niños indígenas. Un grupo de antropólogos se opone y les pide que no intervengan en esa comunidad.\n\nEn este caso se presenta un conflicto, porque",
+   "opciones": {
+    "A": "los antropólogos quieren que los niños indígenas no reciban ningún tipo de educación, mientras que los sacerdotes quieren enseñarles la religión católica.",
+    "B": "los sacerdotes quieren priorizar el derecho a la educación de los niños indígenas, mientras que los antropólogos privilegian el derecho a la libertad de culto.",
+    "C": "los antropólogos van en contra del derecho a la libertad de culto, mientras que los sacerdotes buscan que a los niños se les respete ese derecho.",
+    "D": "los sacerdotes buscan formar a los niños indígenas dentro de la educación católica, mientras que los antropólogos buscan proteger su cultura ancestral."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce la existencia de diferentes perspectivas en situaciones en donde interactúan diferentes partes.",
+   "explicacion": "Los sacerdotes quieren **educar** a los niños desde su visión católica, y los antropólogos se oponen para **preservar la cultura** que la comunidad ha mantenido por siglos. Nada en el texto indica que los antropólogos rechacen toda educación (A).",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes18-ciudadana-21",
+   "area": "ciudadana",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Colombia, por ser un Estado social de derecho constitucional, se caracteriza por su división y control recíproco entre los poderes públicos. ¿Cuál de las siguientes decisiones sería una acción en contra del principio de equilibrio de poderes y por qué?",
+   "opciones": {
+    "A": "Que el presidente anunciara el cierre del Congreso, porque sería injerencia del Poder Ejecutivo en el Legislativo.",
+    "B": "Que el presidente decidiera las principales políticas de seguridad en el país, porque esto es potestad del poder Legislativo.",
+    "C": "Que la Corte Constitucional revisara si los decretos presidenciales cumplen con la Constitución, porque esto no hace parte de las funciones del Poder Judicial.",
+    "D": "Que el Congreso de la República discutiera y aprobara leyes sobre el sistema educativo del país, pues esto no hace parte de las funciones del Poder Legislativo."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende qué es la Constitución Política de Colombia y sus principios fundamentales.",
+   "explicacion": "Cerrar el Congreso sería una **intromisión del Ejecutivo** en otra rama del poder y rompería el equilibrio entre ellas. Las demás acciones (políticas de seguridad del presidente, control constitucional de la Corte, leyes del Congreso) son funciones propias de cada rama, por lo que sus justificaciones son falsas.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes18-ciudadana-22",
+   "area": "ciudadana",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "“El Estado y la Iglesia deben estar separados”.\n\n¿Cuál de los siguientes enunciados es coherente con la afirmación anterior?",
+   "opciones": {
+    "A": "El único matrimonio válido frente al Estado es el matrimonio por la Iglesia católica.",
+    "B": "El diezmo será descontado automáticamente del salario de los empleados públicos.",
+    "C": "Los estudiantes de colegios públicos no están obligados a asistir a clase de religión.",
+    "D": "La fe de bautismo es el único documento que equivale al registro civil de los ciudadanos."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza y evalúa la pertinencia y solidez de enunciados-discursos.",
+   "explicacion": "Que los estudiantes de colegios públicos **no estén obligados** a asistir a clase de religión es un ejemplo de separación entre Estado e Iglesia: una institución estatal no impone una formación religiosa. Las otras opciones hacen lo contrario, pues convierten prácticas o documentos religiosos (matrimonio católico, diezmo, fe de bautismo) en obligaciones o requisitos del Estado.",
+   "origen": "Cuadernillo 2018 #22 · Preguntas explicadas #4"
+  },
+  {
+   "id": "icfes18-ciudadana-23",
+   "area": "ciudadana",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "En vista de las dificultades para ofrecer educación de calidad a todos los pobladores de un municipio, el secretario de Educación local decretó que el número mínimo de estudiantes en el salón de clases debía pasar de 35 a 50 estudiantes. Según su opinión, la solución “es una situación gana-gana en la que más niños entran en el colegio y los colegios reciben más dinero al aumentar la cantidad de estudiantes atendidos.\n\n¿Cuál de los siguientes elementos se prioriza en la solución del secretario de Educación?",
+   "opciones": {
+    "A": "El bienestar de los estudiantes de las instituciones educativas del departamento.",
+    "B": "Las cifras de cobertura que presentan las instituciones educativas y el departamento.",
+    "C": "El impacto social de la educación en las comunidades de este departamento.",
+    "D": "La calidad de la educación ofrecida por las instituciones educativas del departamento."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+   "explicacion": "La clave oficial es la **A**: el secretario presenta la medida como algo bueno para los estudiantes, porque permite que **más niños entren al colegio**. Ojo: esta clave es discutible. El argumento gira en torno a la cantidad de estudiantes y al dinero que reciben los colegios, así que la **B** (cobertura) también es muy defendible; lo que claramente no prioriza es la calidad (D).",
+   "clave_discutida": true,
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes18-ciudadana-24",
+   "area": "ciudadana",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "¿Cuál de los siguientes es el organismo encargado de elegir al contralor General de la República?",
+   "opciones": {
+    "A": "La Presidencia de la República.",
+    "B": "La Corte Constitucional.",
+    "C": "El Congreso de la República.",
+    "D": "La Procuraduría General de la Nación."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce la organización del Estado de acuerdo con la Constitución.",
+   "explicacion": "El contralor General de la República es elegido por el **Congreso en pleno**. La Presidencia, la Corte Constitucional y la Procuraduría no tienen esa función.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes18-ciudadana-25",
+   "area": "ciudadana",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Una colombiana es devota del islam y todos los días cubre su cabeza con una pañoleta. En una entrevista, después de aprobar con éxito una convocatoria para un cargo en la alcaldía de su ciudad, el funcionario entrevistador le advierte que no puede tomar el trabajo si no acepta llevar la cabeza descubierta en las horas laborales.\n\n¿Tiene razón el funcionario al hacerle a la mujer esta solicitud?",
+   "opciones": {
+    "A": "Sí, porque Colombia es un país católico.",
+    "B": "Sí, porque el Estado colombiano es laico.",
+    "C": "No, porque le está vulnerando el derecho a la privacidad.",
+    "D": "No, porque le está vulnerando el derecho a la igualdad."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce los derechos y deberes que la Constitución consagra.",
+   "explicacion": "Condicionar el cargo a que renuncie a una práctica de su religión es un **trato discriminatorio** por motivos religiosos, lo que vulnera el derecho a la igualdad. Que el Estado sea laico (B) no lo autoriza a restringir las creencias de las personas, sino que le exige neutralidad.",
+   "origen": "Cuadernillo 2018 #25"
+  }
+ ]
+}

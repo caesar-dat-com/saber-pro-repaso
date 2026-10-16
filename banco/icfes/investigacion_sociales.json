@@ -1,0 +1,499 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Investigación en Ciencias Sociales (cuadernillos 2018 y 2026, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-investigacion_sociales-001",
+   "area": "investigacion_sociales",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "En un estudio cuyo objetivo principal es comprender las concepciones acerca del amor y las relaciones de poder en los vínculos afectivos, la técnica de recopilación de información más pertinente que debe implementarse es:",
+   "opciones": {
+    "A": "una encuesta cerrada con opciones de selección múltiple a diferentes parejas y en la que solo puedan marcar una opción de respuesta.",
+    "B": "una entrevista en profundidad a un número limitado de parejas interesadas en responder en detalle a las preguntas formuladas.",
+    "C": "unos relatos de hombres y mujeres en relaciones de pareja que narren sus trayectorias amorosas en perspectiva de historia de vida.",
+    "D": "unos grupos focales con diferentes parejas para que intercambien sus experiencias y concepciones sobre sus relaciones afectivas de manera colectiva."
+   },
+   "correcta": "B",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "Comprender **concepciones** y **relaciones de poder** íntimas exige una técnica cualitativa que profundice en el sentido que cada pareja da a su vínculo: la **entrevista en profundidad**. La encuesta cerrada (A) no capta significados; las historias de vida (C) se centran en trayectorias y no en las concepciones actuales del vínculo, y en un grupo focal (D) las relaciones de poder se ven inhibidas o distorsionadas por la presencia de otros.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-investigacion_sociales-002",
+   "area": "investigacion_sociales",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Un proyecto de investigación sobre el funcionamiento del Estado se formula como pregunta de investigación: ¿cuáles son los mecanismos burocráticos, normas internas y sistemas jerárquicos de poder y de dominación que median la resolución de conflictos en oficinas estatales con trabajadores de rango medio?\n\nEste planteamiento está inspirado en una perspectiva conceptual que privilegia:",
+   "opciones": {
+    "A": "El análisis organizacional de las instituciones y la correspondencia entre medios, funciones y fines.",
+    "B": "La descripción e interpretación de los imaginarios sobre el Estado y el clima organizacional de las entidades estatales.",
+    "C": "El análisis de las diferencias de clase social como aquello que motiva la resolución de conflictos en el Estado y en la sociedad.",
+    "D": "Las concepciones sobre el poder de los funcionarios estatales y sus representaciones sociales sobre el aparato burocrático."
+   },
+   "correcta": "A",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "La pregunta se enfoca en **mecanismos burocráticos, normas internas y jerarquías**, es decir, en la estructura y el funcionamiento de la organización (una perspectiva de corte weberiano/organizacional). Las opciones B y D desplazan el foco a imaginarios y representaciones subjetivas, y la C a las clases sociales, categorías que la pregunta no menciona.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-investigacion_sociales-003",
+   "area": "investigacion_sociales",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Con el fin de indagar sobre la estructura interna de los partidos políticos, un grupo de investigadores sociales plantean la siguiente pregunta de investigación: ¿por qué los partidos políticos que tienen disciplina interna (los miembros obedecen lo que dicen sus líderes) son mejores?\n\nEn su formulación, la pregunta de investigación tiene un error, principalmente, porque",
+   "opciones": {
+    "A": "no guarda relación con el objetivo último de la investigación planteado.",
+    "B": "define la categoría disciplina interna sin apoyarse en referencias teóricas.",
+    "C": "contiene un sesgo de valor al suponer que unos partidos son mejores que otros.",
+    "D": "no menciona cuáles son los partidos políticos ni los líderes que serán objeto de comparación."
+   },
+   "correcta": "C",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "La pregunta da por sentado que los partidos disciplinados «son mejores»: es un **juicio de valor** que la investigación debería examinar, no presuponer, y además «mejores» no es una categoría observable. La pregunta sí se relaciona con la estructura interna de los partidos (A), y la falta de referencias teóricas o de casos concretos (B, D) no es un error de la pregunta en sí.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-investigacion_sociales-004",
+   "area": "investigacion_sociales",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Un grupo de investigadores sociales se propone responder la siguiente pregunta de investigación: ¿variables tales como la renta per cápita, la tasa de analfabetismo y la tasa de mortalidad pueden explicar con suficiencia el fenómeno de la pobreza en dos países latinoamericanos?\n\nDe los siguientes objetivos de investigación, ¿cuál es coherente con esta pregunta de investigación?",
+   "opciones": {
+    "A": "Determinar la influencia de los patrones culturales en la reproducción del fenómeno de la pobreza.",
+    "B": "Comparar la renta per cápita, la tasa de analfabetismo y la tasa de mortalidad de dos familias latinoamericanas en situación de pobreza.",
+    "C": "Realizar una medición de la pobreza, la renta per cápita, la tasa de analfabetismo y la tasa de mortalidad de un país.",
+    "D": "Determinar el alcance de variables cuantificables en la explicación del fenómeno de la pobreza."
+   },
+   "correcta": "D",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "La pregunta indaga si ciertas **variables cuantificables** explican **con suficiencia** la pobreza; el objetivo coherente es determinar el alcance explicativo de esas variables. A introduce patrones culturales que la pregunta no plantea, B cambia la unidad de análisis (familias en vez de países) y C se limita a medir, sin explicar, y en un solo país.",
+   "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-investigacion_sociales-005",
+   "area": "investigacion_sociales",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Una investigación busca determinar si la conformación de movimientos sociales de la segunda mitad del siglo XX en Colombia siguió algunos patrones propios de las luchas indígenas de la Colonia. Usted debe seleccionar una parte de la bibliografía que permite construir el estado del arte.\n\n¿Cuál de las referencias bibliográficas es la más pertinente para iniciar la construcción de un estado del arte para la investigación?",
+   "opciones": {
+    "A": "Santamaría, Á. (1992) Luchas indígenas, trayectorias poscoloniales: Américas y Pacífico. Bogotá: Editorial Universidad del Rosario.",
+    "B": "ONIC (2000). Memorias del V Congreso Nacional Indígena: los pueblos indígenas de Colombia un reto hacia el nuevo milenio. Bogotá: Editorial Santafé de Bogotá.",
+    "C": "Segovia Mora, G. (1999). Movimientos sociales en la historia de Colombia: pueblos indígenas, resistencia milenaria. Utopías N.5 (2), 31.",
+    "D": "Espinosa Arango, M.L. (2009). La civilización montés: la visión india y el trasegar de Manuel Quintín Lame en Colombia. Bogotá: Universidad de los Andes, CESO."
+   },
+   "correcta": "C",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "La referencia de Segovia Mora vincula directamente las dos variables de la investigación: **movimientos sociales en la historia de Colombia** y la **resistencia indígena de larga duración**. Santamaría (A) trata luchas poscoloniales en América y el Pacífico, sin foco en Colombia; las memorias de la ONIC (B) son una fuente primaria de un congreso de 2000, y Espinosa (D) se centra en un único líder de comienzos del siglo XX.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-investigacion_sociales-006",
+   "area": "investigacion_sociales",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "En una investigación sociológica sobre espacio y política se buscó caracterizar la vida política de un barrio popular de una ciudad latinoamericana. El objetivo de la investigación consistía en indagar por las dinámicas urbanas y políticas contemporáneas en un barrio popular y describir la manera en que, en ese contexto particular, operaba la política más allá del ejercicio del deber ciudadano de votar en temporada electoral. La información recolectada arrojó detallados relatos sobre la participación política de líderes comunitarios y mujeres cabeza de familia, sobre iniciativas de participación política adelantadas en veinte colegios del barrio, y sobre las acciones emprendidas por la Junta de Acción Comunal (JAC) de la localidad en materia de gestión y uso de espacios para actividades culturales y recreativas. También se obtuvieron datos estadísticos sobre el número de personas que no votaron en las últimas elecciones presidenciales y de quienes se postularon y votaron en las elecciones para presidente y vicepresidente de la JAC de la localidad del barrio en los últimos diez años.\n\nTeniendo en cuenta los objetivos de la investigación, ¿qué técnica resulta más pertinente para analizar la información recolectada?",
+   "opciones": {
+    "A": "Una técnica mixta que combine el análisis de la información cualitativa y cuantitativa obtenida.",
+    "B": "Una técnica cuantitativa que permita contabilizar los hallazgos cualitativos para plantear generalizaciones.",
+    "C": "Una técnica cualitativa que facilite categorizar y sistematizar la información dada por los habitantes del barrio.",
+    "D": "Una técnica de geolocalización que permita establecer vínculos entre participación política y los lugares del barrio en los que esta ocurre."
+   },
+   "correcta": "A",
+   "afirmacion": "Analiza e interpreta la información recogida de acuerdo con los objetivos y conceptos establecidos.",
+   "explicacion": "Se recogieron datos de **dos tipos**: relatos cualitativos sobre prácticas de participación y estadísticas sobre votaciones. Según el Icfes, para aprovecharlos todos conviene una **técnica mixta**: las estadísticas permiten relacionar el comportamiento electoral con la participación comunitaria. Una técnica solo cuantitativa (B) pierde la comprensión de las prácticas, una solo cualitativa (C) desecha las estadísticas, y la geolocalización (D) desborda el propósito y desconoce los datos recogidos.",
+   "origen": "Cuadernillo 2018 #6 · Cuadernillo 2026 #6 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-investigacion_sociales-007",
+   "area": "investigacion_sociales",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Una investigación sobre el divorcio arrojó los siguientes resultados:\n\n- El 70 % de los hombres consultados asegura que el divorcio es la solución para que las personas vivan en paz y no se hagan daño, mientras que el 85 % de las mujeres opina que el divorcio se da porque se acabó el amor o porque nunca existió.\n- El 89 % de los hombres piensa que el divorcio favorece económicamente a las mujeres, mientras que 76 % de las mujeres piensan que ellas adquieren más deudas cuando se divorcian.\n- El 64 % de las mujeres manifiesta haberse divorciado por problemas económicos, mientras que el 72 % de los hombres dice haberlo hecho porque querían establecer otros proyectos de vida.\n\nA partir de estos resultados, el equipo de investigadores se propone adelantar una nueva investigación. ¿Cuál de las siguientes preguntas NO se deriva correctamente de los hallazgos de la primera fase de este estudio?",
+   "opciones": {
+    "A": "¿Cómo se transforma el proyecto de vida de los hombres que han pasado por la experiencia de un divorcio?",
+    "B": "¿Bajo qué condiciones la inestabilidad económica deja de ser un factor que incide en la decisión de divorciarse?",
+    "C": "¿Cómo se resignifican los imaginarios sobre el amor y la vida en pareja después de un divorcio?",
+    "D": "¿Qué tipos de maltrato físico y psicológico trae consigo tomar la decisión e iniciar un proceso de divorcio?"
+   },
+   "correcta": "D",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "Los hallazgos tratan de proyectos de vida (A), factores económicos (B) y concepciones sobre el amor (C), así que esas preguntas sí se derivan de ellos. El **maltrato físico y psicológico** derivado de divorciarse no aparece en los resultados (el 70 % de los hombres ve el divorcio como solución para *no* hacerse daño, que es otra cosa); por eso D no se deriva de la primera fase.",
+   "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-investigacion_sociales-008",
+   "area": "investigacion_sociales",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Una investigación cuya estrategia metodológica se basó en un análisis comparado entre dos (2) barrios de una ciudad, arrojó que los jóvenes del barrio con mayor cantidad de parques construidos obtienen mejores resultados en las pruebas escolares. Las condiciones de vida de los jóvenes de ambos barrios era similar en cuanto al rango salarial de los padres, el número de hermanos por familia, y la disponibilidad de recursos escolares para el aprendizaje. Sin embargo, quienes tenían acceso a parques, y los visitaban mínimo tres veces por semana con fines de esparcimiento, puntuaban mejor en las pruebas escolares que quienes no.\n\n¿Cuál de los siguientes podría ser un posible uso práctico de este hallazgo de la investigación?",
+   "opciones": {
+    "A": "El diseño de un plan de acción para reformar la infraestructura de los parques públicos existentes en la ciudad.",
+    "B": "La necesidad de perfeccionar los instrumentos de evaluación de la calidad escolar en la ciudad.",
+    "C": "El cambio en el currículo académico del colegio que obtuvo peores resultados en la prueba escolar.",
+    "D": "El diseño de una política pública que incentive la creación de espacios de recreación en los barrios de la ciudad."
+   },
+   "correcta": "D",
+   "afirmacion": "Utiliza los resultados de investigaciones.",
+   "explicacion": "La investigación relaciona el **acceso y uso frecuente de parques** con el rendimiento escolar; según el Icfes, un uso práctico es una **política pública que cree nuevos espacios recreativos**, que parecen cumplir una función más allá de lo lúdico. Reformar los parques existentes (A) solo beneficia a quienes ya los tienen, y B y C ignoran la variable de los espacios recreativos (C además introduce el currículo, que no se estudió).",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-investigacion_sociales-009",
+   "area": "investigacion_sociales",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "En una investigación se quiere establecer patrones a partir de la relación entre el nivel educativo y el salario devengado por un grupo de personas. La hipótesis de la investigación sugiere que, en promedio, a mayor nivel educativo, mayores salarios.\n\n¿Qué técnica de recopilación de información resulta más adecuada para probar esta hipótesis de investigación y por qué?",
+   "opciones": {
+    "A": "Entrevistas en profundidad, porque permiten analizar en detalle las trayectorias laborales de un grupo significativo de personas.",
+    "B": "Elaboración de una base de datos, porque esto permite centralizar la información de las empresas que mejores salarios ofrecen a sus trabajadores calificados y no calificados.",
+    "C": "Historias de vida, porque permiten comprender las razones por las que las personas escogieron sus carreras y las condiciones laborales por las que han pasado a lo largo de sus vidas.",
+    "D": "Implementación de encuestas a una muestra representativa de personas, porque es necesario cruzar distintas variables como el salario, la edad y el sexo, con la profesión y el nivel educativo alcanzado."
+   },
+   "correcta": "D",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "La hipótesis habla de **promedios** de dos variables (nivel educativo y salario), por lo que se requiere una técnica cuantitativa: una **encuesta a una muestra representativa** permite recopilar muchos datos y cruzarlos con otras variables de control. Según el Icfes, entrevistas e historias de vida (A, C) son cualitativas y de alcance reducido, y una base de datos de empresas (B) es una actividad de apoyo, no una técnica para probar la hipótesis.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-investigacion_sociales-010",
+   "area": "investigacion_sociales",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Un grupo de congresistas decide tramitar una reforma al sistema electoral para lograr partidos políticos más fuertes e institucionalizados. Para tal fin, los congresistas convocan a líderes de diferentes partidos políticos, representantes de distintos estamentos del Gobierno, académicos, periodistas y miembros de la sociedad civil para presentarles su propuesta. Ese grupo de congresistas espera llegar a un acuerdo sobre la necesidad de realizar esta reforma y tender alianzas en el Congreso que faciliten su trámite.\n\nA partir de la información presentada, ¿cuál de los siguientes problemas de investigación sería pertinente abordar, desde las ciencias sociales, para comprender el modo de acción de los congresistas?",
+   "opciones": {
+    "A": "¿Hasta qué punto las instancias de participación de la sociedad civil, que los congresistas crean e impulsan para mejorar la vida política del país, son objeto de disputa?",
+    "B": "¿Cuáles son los límites legales que los partidos políticos imponen a los congresistas que desean tramitar reformas constitucionales?",
+    "C": "¿Qué relación existe entre el fortalecimiento de los partidos políticos, los congresistas que los representan, y la institucionalización del sistema electoral?",
+    "D": "¿Cuáles son los mecanismos a los que recurren los congresistas para resolver problemas de representación política frente a otros actores estatales y no estatales?"
+   },
+   "correcta": "D",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "Lo que se quiere comprender es el **modo de acción** de los congresistas: convocan a actores estatales y no estatales para lograr acuerdos y alianzas. La pregunta D indaga justamente por esos **mecanismos** frente a otros actores. A se centra en la disputa por instancias de participación, B en límites legales (un enfoque jurídico) y C en la relación entre partidos y sistema electoral, que es el objetivo de la reforma, no la acción de los congresistas.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-investigacion_sociales-011",
+   "area": "investigacion_sociales",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Como problema de investigación, un estudio se propone indagar acerca del papel que juega la herencia de capital político familiar (entendida como transferencia de recursos por parte de personas que se desempeñaron en cargos políticos de relevancia nacional y partidaria hacia familiares directos) a favor de individuos (que llamaremos “herederos”) que se desempeñaron como representantes y senadores en el periodo 2010-2014, contrastándolos con quienes no exhiben recursos heredados.\n\nDe los siguientes objetivos de investigación, ¿cuál NO es coherente con el problema planteado?",
+   "opciones": {
+    "A": "Identificar las redes de poder de las que forman parte representantes y senadores que carecen de capital político familiar heredado.",
+    "B": "Analizar las disputas internas de familias herederas de capital político en las regiones y su efecto en la transferencia de capital simbólico.",
+    "C": "Establecer un mapa del capital político familiar distinguiendo entre tipos y número de parientes de quienes se heredan los recursos.",
+    "D": "Contribuir a la discusión teórica sobre el capital político familiar heredado y las trayectorias de los actores políticos en América Latina."
+   },
+   "correcta": "B",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "El problema se centra en **congresistas 2010-2014** que heredaron capital político de figuras **nacionales**, contrastados con quienes no lo heredaron. Analizar **disputas internas de familias en las regiones** y el capital simbólico desplaza el foco a otro nivel y otro fenómeno. A corresponde al grupo de contraste, C caracteriza la herencia y D es un objetivo teórico general coherente con el problema.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-investigacion_sociales-012",
+   "area": "investigacion_sociales",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Un estudio adelantado en un país latinoamericano concluyó que, durante el 2016, 5 % de su población emigró a otros países en busca de mejores oportunidades de empleo y calidad de vida. Este 5 % de la población, afirma el estudio, envió remesas de manera constante a sus familias de origen que, a su vez, representaron ingresos económicos para el país de cerca del 10 % del PIB (Producto Interno Bruto). A manera de conclusión, el estudio llamó la atención sobre los estragos que causaría en el país una crisis económica y financiera mundial en la que el 2,5 % de los migrantes decidiera retornar al país latinoamericano.\n\nUn equipo de investigadores sociales desea retomar los resultados de este estudio y formular un proyecto de investigación. ¿Cuál de las siguientes preguntas de investigación sería la más adecuada para orientar el proyecto, desde la perspectiva de la investigación social?",
+   "opciones": {
+    "A": "¿Cuáles son las razones por las que 5 % de la población decide migrar a otros países?",
+    "B": "¿Cómo prever y mitigar el impacto financiero de una posible crisis financiera mundial?",
+    "C": "¿Por qué la tasa poblacional que migra a otros países es inferior al número de inmigrantes extranjeros que ingresó al país durante el 2016?",
+    "D": "¿Qué cambios en las familias trae consigo la emigración de uno de sus integrantes y la recepción de remesas por parte de quienes las reciben?"
+   },
+   "correcta": "D",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "La pregunta D retoma los resultados (emigración y remesas) y los lleva al plano de las **relaciones sociales**: los cambios en las familias, un objeto propio de la investigación social. A ya está respondida por el estudio (buscar empleo y calidad de vida), B es un problema de gestión económica y financiera, y C introduce datos de inmigración que el estudio no aporta.",
+   "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-investigacion_sociales-013",
+   "area": "investigacion_sociales",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "En una investigación, financiada por el Gobierno, sobre acceso a la justicia por parte de la comunidad LGBTI, se encuentra que algunos prejuicios que ciertos jueces y funcionarios tienen frente a esta comunidad limitan sus posibilidades para denunciar y reclamar justicia cuando sienten que sus derechos han sido vulnerados. También se encuentra que, en muchas ocasiones, cuando una persona que pertenece a esta comunidad accede a la justicia, miente acerca de su identidad sexual por temor de ser juzgado o juzgada.\n\nPara la presentación del informe financiado por el Gobierno el grupo de investigadores debe proteger la identidad personal de los miembros de la comunidad LGBTI que participaron del estudio. ¿Cuál de las siguientes opciones es la mejor alternativa para lograrlo?",
+   "opciones": {
+    "A": "Omitir los nombres de las personas entrevistadas y la referencia directa a los procesos judiciales que cada una de ellas adelantó.",
+    "B": "Omitir los nombres de las personas entrevistadas y sustentar con procesos judiciales específicos su necesidad de mentir para acceder a la justicia.",
+    "C": "Solicitar a quienes no hayan mentido en sus procesos judiciales que autoricen revelar sus nombres verdaderos y que esto sirva para soportar las conclusiones presentadas.",
+    "D": "Utilizar casos inventados que ilustren las dificultades de la comunidad LGBTI para acceder a la justicia y revelar los nombres de los jueces y funcionarios que impusieron trabas a los procesos."
+   },
+   "correcta": "A",
+   "afirmacion": "Utiliza los resultados de investigaciones.",
+   "explicacion": "Para garantizar el anonimato no basta omitir los nombres: los **procesos judiciales específicos** son datos que permiten identificar a las personas. Por eso hay que omitir ambos (A). B deja expuestos a los participantes a través de sus procesos, C rompe la confidencialidad sin necesidad, y D falsea los datos con casos inventados y expone a terceros.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-investigacion_sociales-014",
+   "area": "investigacion_sociales",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Una investigación sobre la calidad de la educación analizó el perfil de los profesores de secundaria. Los resultados revelaron que el desempeño de los profesores mejora con el número de años de trabajo, mientras que se mantiene estable con el número de años de formación o de estudio.\n\nDe las siguientes opciones, ¿cuál es el uso práctico más plausible que puede derivarse de los resultados de esta investigación?",
+   "opciones": {
+    "A": "Que se reglamenten mecanismos para restringir la contratación de profesores sin experiencia laboral.",
+    "B": "Que se aumente el presupuesto nacional destinado a investigaciones sobre la calidad de la educación.",
+    "C": "Que se diseñen medidas orientadas a incentivar la permanencia de profesores con más experiencia en el sistema escolar.",
+    "D": "Que las facultades de educación dejen de ofertar programas de especialización y de formación de posgrado para docentes."
+   },
+   "correcta": "C",
+   "afirmacion": "Utiliza los resultados de investigaciones.",
+   "explicacion": "Si el desempeño mejora con la **experiencia**, lo razonable es **retener** a los docentes con más años de trabajo. Restringir la contratación de profesores nuevos (A) impediría que alguien gane experiencia, más presupuesto para investigación (B) no se deriva de los resultados, y eliminar los posgrados (D) es una conclusión exagerada: que la formación no mejore el desempeño no implica que sea inútil.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-investigacion_sociales-015",
+   "area": "investigacion_sociales",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Una investigadora social se propone como problema de investigación en su tesis de maestría en ciencias sociales entender por qué se ha incrementado el número de adolescentes embarazadas, con problemas psiquiátricos, en un municipio de Colombia. Lo anterior obedece a que en el hospital psiquiátrico de ese municipio se ha presentado el incremento, durante el último año, del número de pacientes adolescentes embarazadas.\n\nEste es un problema de investigación pertinente para las ciencias sociales, porque",
+   "opciones": {
+    "A": "permite disminuir el número de pacientes adolescentes ingresadas en el hospital por alteración de la salud mental.",
+    "B": "genera conocimiento acerca de la relación entre maternidad adolescente y salud mental y posibles estrategias de acción.",
+    "C": "facilita el mejoramiento de las condiciones de atención en salud de las adolescentes del municipio.",
+    "D": "formula políticas públicas para mejorar la atención de este sector poblacional en los hospitales de ese departamento."
+   },
+   "correcta": "B",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "La justificación de una investigación social es **producir conocimiento** sobre un fenómeno (aquí, la relación entre maternidad adolescente y salud mental) que luego pueda orientar acciones. Disminuir ingresos hospitalarios (A), mejorar la atención (C) o formular políticas (D) son posibles usos o intervenciones posteriores, no lo que hace una tesis por sí misma.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-investigacion_sociales-016",
+   "area": "investigacion_sociales",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Una investigación tiene como objetivo establecer la relación e influencia de la Iglesia católica en la política y el Estado colombianos, a lo largo del siglo XIX.\n\nPara desarrollar esta investigación, resulta prioritario consultar",
+   "opciones": {
+    "A": "políticos contemporáneos y jerarcas de Iglesia católica.",
+    "B": "políticas públicas emitidas durante el siglo XIX en Colombia.",
+    "C": "documentos de archivo producidos por la Iglesia y por el Estado en el siglo XIX.",
+    "D": "documentos académicos que analicen la producción literaria de los intelectuales colombianos del siglo XIX."
+   },
+   "correcta": "C",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "Para un problema histórico sobre la relación Iglesia-Estado en el siglo XIX, las fuentes prioritarias son las **fuentes primarias** de ambos actores: documentos de archivo de la Iglesia y del Estado de esa época. Los actores contemporáneos (A) no vivieron el periodo, las políticas públicas (B) solo muestran la voz del Estado (y el concepto es anacrónico), y la producción literaria (D) es un objeto distinto.",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-investigacion_sociales-017",
+   "area": "investigacion_sociales",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Una investigación se propone estudiar las razones por las que, en la literatura política latinoamericana, Colombia se considera un país paradigmático por la solidez de sus instituciones políticas. En efecto, los periodos de estabilidad política en Colombia han sido mayores que en los demás países de la región: la celebración de elecciones ha sido recurrente y no se ha visto amenazada por largas dictaduras militares.\n\n¿Cuál de los siguientes conceptos resultaría más útil para dar inicio a esta investigación?",
+   "opciones": {
+    "A": "Democracias republicanas.",
+    "B": "Estabilidad económica.",
+    "C": "Inclusión social.",
+    "D": "Participación política."
+   },
+   "correcta": "A",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "El fenómeno que se quiere explicar es la **solidez institucional**: elecciones recurrentes y ausencia de largas dictaduras, rasgos que se analizan con el concepto de **democracias republicanas** (régimen político e instituciones). La estabilidad económica y la inclusión social son otras dimensiones, y la participación política es solo un componente del régimen, no el marco que explica su estabilidad.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-investigacion_sociales-018",
+   "area": "investigacion_sociales",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Los siguientes son algunos resultados de la investigación llevada a cabo por Javier Pineda Duque y Luisa Otero Peña en 2004:\n\n“Existe un número importante de evidencias que revelan la transmisión intergeneracional de la violencia. A través de un extendido maltrato infantil las nuevas generaciones adoptan pautas violentas de relación y solución de conflictos que, como adultos, extienden hacia sus propios cónyuges, hijos e hijas (…). Según patrones de socialización por género, los comportamientos violentos resultan más aceptables para los varones. Existe una clara relación entre la violencia y la demostración de patrones culturales que indican qué es ser hombre en la sociedad contemporánea”.\n\n*Tomado y adaptado de: Pineda, Javier; Otero, Luisa. (2004). Género, violencia intrafamiliar e intervención pública en Colombia. En Revista de Estudios Sociales, 17, 19-31).*\n\n¿Cuál de los siguientes pares de conceptos resulta más útil para analizar estos hallazgos?",
+   "opciones": {
+    "A": "Maltrato infantil y violencia intrafamiliar.",
+    "B": "Masculinidades y relaciones intergeneracionales.",
+    "C": "Género y reproducción social de la violencia.",
+    "D": "Cultura de la violencia y convivencia ciudadana."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza e interpreta la información recogida de acuerdo con los objetivos y conceptos establecidos.",
+   "explicacion": "Los hallazgos combinan dos ideas: la violencia se **transmite entre generaciones** (reproducción social) y se ve modelada por **patrones de socialización de género**. «Género y reproducción social de la violencia» abarca ambas. A describe manifestaciones de la violencia, no su análisis; B se acerca, pero «masculinidades» deja por fuera la socialización por género en conjunto y «relaciones intergeneracionales» no habla de violencia; D se refiere al espacio público, no al ámbito familiar.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-investigacion_sociales-019",
+   "area": "investigacion_sociales",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Una investigadora busca determinar si la construcción de una nueva carretera en un municipio explica el hecho de que 500 habitantes, de ese municipio, hayan abandonado sus casas y se hayan trasladado a zonas montañosas de la misma región. La pregunta de investigación es: ¿El cambio de residencia de los habitantes impactados por la construcción de la carretera es producto de esta acción de mejoramiento de la infraestructura vial?\n\n¿Cuál de las siguientes fuentes de información es la más apropiada para responder esa pregunta de investigación?",
+   "opciones": {
+    "A": "Documentos históricos que describan los cambios sufridos en la infraestructura de la zona.",
+    "B": "Grupos de personas pertenecientes a las familias que han trasladado sus lugares de vivienda.",
+    "C": "Dirigentes políticos locales y encargados de la ejecución de obras civiles en el municipio.",
+    "D": "Mapas que muestren la evolución histórica de la distribución de asentamientos en el municipio."
+   },
+   "correcta": "B",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "Para saber si la carretera **motivó** el traslado, la fuente más directa son las **familias que se trasladaron**: ellas conocen las razones de su decisión. Los documentos y mapas (A, D) muestran cambios en infraestructura o asentamientos, pero no las causas del desplazamiento, y los dirigentes y contratistas (C) tienen una visión indirecta e interesada.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-investigacion_sociales-020",
+   "area": "investigacion_sociales",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Una investigación sobre racismo se propuso develar los mecanismos sutiles que legitiman las prácticas racistas hacia las y los estudiantes afrocolombianos en el ámbito escolar. Para ello, investigadores encuestaron a maestros y directivas de las instituciones partícipes del estudio. Estas encuestas arrojaron que, en la misma proporción en que maestros y maestras negaban el racismo en sus instituciones, reconocían que las y los estudiantes afrocolombianos tenían “cualidades naturales” para la danza y el deporte y pocas habilidades para las asignaturas básicas del plan curricular. Estas encuestas también mostraron que, en su gran mayoría, las instituciones partícipes el estudio celebraban la diversidad étnica y racial representando a las poblaciones afrocolombianas a partir de los imaginarios sobre la esclavización, o sobre lo folclórico. Durante la realización de las encuestas, un grupo de estudiantes afrocolombianos señaló de manera verbal al equipo de investigación que solo identificaban prácticas racistas cuando eran descalificados por sus pares a través de apodos y burlas referidas a su apariencia física.\n\n*Tomado y adaptado de: Carmen Cecilia Vásquez González (2007). “Aquí ellos también son iguales”: una aproximación al racismo en el ámbito escolar. En: Afro-reparaciones: Memorias de la Esclavitud y Justicia Reparativa para negros, afrocolombianos y raizales. Centro de Estudios Sociales (CES).*\n\n¿Cuál es la acción más pertinente que el equipo de investigación debe emprender a partir de la información dada por el grupo de estudiantes afrocolombianos?",
+   "opciones": {
+    "A": "Omitirla y trabajar solamente con la información recogida, porque de lo contrario se perdería de vista el objetivo de la investigación.",
+    "B": "Incorporarla y considerar la posibilidad de ampliar los sujetos de indagación y los métodos de recolección de información.",
+    "C": "Solicitar a los estudiantes que diligencien la encuesta para saber si se sienten o no cómodos al ser catalogados como buenos bailarines o deportistas.",
+    "D": "Indicarles a los estudiantes cómo enfrentar las posibles consecuencias psicológicas que pueden derivarse de la descalificación verbal de la que son objeto."
+   },
+   "correcta": "B",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "El testimonio de los estudiantes revela que ellos solo reconocen el racismo explícito y no los mecanismos sutiles, que es justamente lo que se investiga; además muestra que faltaba su voz. Lo pertinente es **incorporar** esa información y **ampliar sujetos y métodos** (p. ej., entrevistas o grupos focales con estudiantes). Omitirla (A) empobrece el estudio, la encuesta cerrada (C) no capta esa experiencia, y D es una intervención psicológica, no una acción investigativa.",
+   "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-investigacion_sociales-021",
+   "area": "investigacion_sociales",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Si una investigación busca indagar sobre la manera como la sociedad civil narra los hechos de violencia ocurridos en medio del conflicto armado en una región del país, ¿cuál de las siguientes fuentes de información es la más apropiada para el desarrollo de la investigación?",
+   "opciones": {
+    "A": "Las bases de datos de las instituciones públicas, pues en ellas se guardan los testimonios de los hechos violentos, y desde esos datos se puede reconstruir la memoria.",
+    "B": "Las víctimas y los victimarios en escenarios comunes donde puedan evocar y enunciar los hechos ocurridos en el pasado para construir una narrativa lo más ajustada posible a los hechos.",
+    "C": "Los ejercicios grupales facilitados por las organizaciones sociales de víctimas, pues en ellos se pueden desarrollar ejercicios de comunicación y pedagogía de la memoria.",
+    "D": "La Unidad Nacional de Reparación y Atención a Víctimas en tanto escenario que permite encontrar las víctimas de la violencia en Colombia."
+   },
+   "correcta": "C",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "El interés es la **narración de la sociedad civil**, por lo que la fuente apropiada son los espacios donde la propia sociedad civil construye y comunica su memoria: los **ejercicios grupales de las organizaciones de víctimas**. Las bases de datos y la Unidad de Víctimas (A, D) son fuentes institucionales del Estado, y reunir víctimas y victimarios (B) busca reconstruir los hechos «tal como fueron», no la narración civil, además de plantear problemas éticos.",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #21"
+  },
+  {
+   "id": "icfes-investigacion_sociales-022",
+   "area": "investigacion_sociales",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "En una investigación sobre dedicación laboral se encontró que las personas solteras que viven solas trabajan más tiempo que las personas con hijos, que las que viven con su familia o las que tienen pareja estable. Además, se halló que las personas que viven solas tienen mayor probabilidad de padecer agotamiento físico por causa del trabajo.\n\n¿Cuál de las siguientes preguntas es más relevante para profundizar en los resultados obtenidos en esta investigación?",
+   "opciones": {
+    "A": "¿Influyen las funciones desempeñadas por las personas solteras en sus expectativas de matrimonio?",
+    "B": "¿Qué factores del ambiente laboral tienen mayor incidencia en la dedicación laboral de la población económicamente activa?",
+    "C": "¿Qué factores del ambiente laboral contribuyen más al agotamiento físico de los empleados?",
+    "D": "¿Cuáles son las expectativas sociales y los estilos de vida de las personas que viven solas y tienen algún tipo de vinculación laboral?"
+   },
+   "correcta": "D",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "El hallazgo central es que **vivir solo** se asocia con más horas de trabajo y más agotamiento; profundizar exige estudiar a ese grupo: sus **expectativas sociales y estilos de vida**, que pueden explicar esa relación. A cambia el tema (expectativas de matrimonio), y B y C desplazan la explicación al ambiente laboral y a toda la población, dejando de lado la variable «vivir solo» que distingue los resultados.",
+   "origen": "Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-investigacion_sociales-023",
+   "area": "investigacion_sociales",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Una investigación se plantea la siguiente pregunta: “¿Qué relación hay entre el aumento de embarazos adolescentes y las demandas por violencia intrafamiliar en la localidad de Kennedy de la ciudad de Bogotá?”.\n\nUn objetivo pertinente para esta investigación es:",
+   "opciones": {
+    "A": "Crear una red de apoyo para las adolescentes en estado de embarazo, entre las instituciones educativas y los hospitales locales.",
+    "B": "Describir el entorno familiar de adolescentes en estado de embarazo, que sean miembros de familias donde se hayan presentado denuncias por violencia intrafamiliar.",
+    "C": "Analizar prácticas de victimización, producto del matoneo, en familias donde se han presentado denuncias por violencia intrafamiliar.",
+    "D": "Indagar por los planes de prevención de los embarazos tempranos existentes en la ciudad de Bogotá y, concretamente, en la localidad de Kennedy."
+   },
+   "correcta": "B",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "Un objetivo de investigación debe apuntar a **conocer** las variables de la pregunta: describir el entorno familiar de adolescentes embarazadas en familias con denuncias de violencia intrafamiliar conecta directamente **embarazo adolescente** y **violencia intrafamiliar**. Crear una red de apoyo (A) es una intervención, el matoneo (C) es otra variable, y los planes de prevención (D) dejan por fuera la violencia intrafamiliar.",
+   "origen": "Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-investigacion_sociales-024",
+   "area": "investigacion_sociales",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "A principios de la década de los años 1950 se libró una de las primeras batallas de la Guerra Fría en la península coreana. En 1953 se pactó el fin de la guerra de Corea y como resultado se dividió la península y se crearon dos estados: Corea del Norte y Corea del Sur. Este fue el resultado de un conflicto de vieja data del pueblo coreano que compartía una misma historia, cultura y geografía. Si bien ambos países adoptaron regímenes autoritarios después de la guerra, Corea del Sur adoptó un modelo capitalista y gradualmente hizo una transición a un régimen democrático. Por su parte, Corea del Norte adoptó un modelo comunista y totalitario que aún se mantiene. Seis décadas después de la división, las diferencias entre los dos países son abismales. El sur es democrático y desarrollado, el norte es autoritario y uno de los países más pobres del mundo.\n\nSegún el problema planteado, ¿cuál de las siguientes se considera la pregunta de investigación más pertinente para las ciencias sociales?",
+   "opciones": {
+    "A": "¿Por qué la guerra tuvo efectos nocivos para las dos Coreas?",
+    "B": "¿Hasta qué punto la intervención internacional contribuye a la resolución de los conflictos domésticos?",
+    "C": "¿Qué factores explican las diferencias en el desarrollo económico de las dos Coreas?",
+    "D": "¿Qué factores explican que Corea del Sur haya adoptado un régimen autoritario?"
+   },
+   "correcta": "C",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "El problema plantea un contraste: dos países con la misma historia, cultura y geografía que hoy presentan **diferencias abismales de desarrollo**. La pregunta pertinente busca explicar esas diferencias (un diseño comparado casi «natural»). A se limita a los efectos de la guerra, B introduce la intervención internacional, que el texto no discute, y D se centra en un rasgo que el sur ya superó y que compartían ambos países.",
+   "origen": "Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-investigacion_sociales-025",
+   "area": "investigacion_sociales",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Se ha observado que los docentes sufren de problemas de fatiga o cansancio agudo, y esto genera que, en ocasiones, preparen y realicen sus clases en estas condiciones.\n\nSegún los docentes, las largas jornadas de trabajo, la carga académica, la exigencia de cualificación, la remuneración y el clima laboral se convierten en las principales causas de la fatiga.\n\nSi se quiere realizar una investigación al respecto, ¿cuál de los siguientes sería el problema de investigación más pertinente?",
+   "opciones": {
+    "A": "Incidencia del tiempo de preparación de las clases en la calidad de la enseñanza.",
+    "B": "Relación entre el tipo de organización interna del plantel con la cualificación de los docentes.",
+    "C": "Efecto del sistema de incentivos a los docentes con la calidad de la enseñanza impartida.",
+    "D": "Relación de las condiciones laborales de los docentes con la calidad de la enseñanza impartida."
+   },
+   "correcta": "D",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "Todas las causas de fatiga mencionadas (jornadas, carga académica, exigencia de cualificación, remuneración, clima laboral) son **condiciones laborales**, y la consecuencia es que las clases se dictan en malas condiciones. El problema D recoge ambos elementos. A, B y C toman solo un aspecto parcial (tiempo de preparación, organización del plantel o incentivos) y dejan por fuera el conjunto de causas.",
+   "origen": "Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-investigacion_sociales-026",
+   "area": "investigacion_sociales",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "Los habitantes de un municipio, donde hasta hace pocos años hicieron presencia diferentes grupos armados en confrontación, han logrado evitar el desplazamiento forzado, a pesar de la presión violenta de esos actores. En este contexto, un investigador quiere identificar qué tipo de prácticas individuales y colectivas les permitieron a estas personas permanecer en su territorio y sobrevivir a la confrontación.\n\n¿Cuál de los siguientes conceptos resulta más relevante para abordar este problema de investigación?",
+   "opciones": {
+    "A": "Cohesión social.",
+    "B": "Capital cultural.",
+    "C": "Tradiciones ancestrales.",
+    "D": "Derechos colectivos."
+   },
+   "correcta": "A",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "Resistir colectivamente la presión armada y permanecer en el territorio remite a los **lazos de confianza, solidaridad y organización** de la comunidad, es decir, a la **cohesión social**. El capital cultural (B) alude a saberes y credenciales individuales, las tradiciones ancestrales (C) no aplican necesariamente a esta población, y los derechos colectivos (D) son un marco jurídico, no las prácticas que permitieron resistir.",
+   "origen": "Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-investigacion_sociales-027",
+   "area": "investigacion_sociales",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Durante la primera mitad de la administración de un presidente, el gasto militar en el país fue del 0,3 % del PIB. En la segunda mitad, ese mismo gasto ascendió al 2,5 %. La justificación para tomar esa decisión fue que este incremento se traduciría en el fortalecimiento de la lucha que la fuerza pública (Policía y Fuerzas Militares) llevaba a cabo contra grupos armados ilegales. Meses después de efectuada esta reforma en la asignación de los recursos del Estado, un estudio que realizó un periódico nacional halló que las muertes en combate de los integrantes de la fuerza pública se habían incrementado en un 30 % respecto al año anterior.\n\n¿Cuál de los siguientes problemas de investigación sería más pertinente formular a partir de la información presentada?",
+   "opciones": {
+    "A": "Analizar los elementos centrales de una política pública para las familias de militares muertos en combate.",
+    "B": "Identificar patrones comunes en los reportes sobre muertes en combate de integrantes de la fuerza pública.",
+    "C": "Comparar resultados de experiencias internacionales sobre aumento del gasto militar.",
+    "D": "Establecer si existe una relación entre aumento del gasto militar y el fortalecimiento de la fuerza pública."
+   },
+   "correcta": "D",
+   "afirmacion": "Formula problemas, preguntas y objetivos de investigación pertinentes que contribuyan a la descripción y comprensión de prácticas, discursos y problemas sociales.",
+   "explicacion": "La situación contrasta una justificación (más gasto **fortalecería** a la fuerza pública) con un dato que parece contradecirla (más muertes en combate). El problema pertinente es verificar si existe esa **relación entre gasto militar y fortalecimiento**. A plantea una intervención, B se queda en los reportes de muertes sin vincularlos al gasto, y C desplaza el foco a otros países.",
+   "origen": "Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-investigacion_sociales-028",
+   "area": "investigacion_sociales",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "En una investigación sobre factores que inciden en la violencia presentada en un barrio, se halló como resultado que entre los factores determinantes de esa conducta se encuentran el aislamiento del barrio respecto a los otros, las largas jornadas de trabajo de los habitantes, la escasa presencia de la autoridad y el deterioro de las relaciones familiares.\n\n¿Cuál sería el alcance a corto plazo de los resultados de investigación presentados anteriormente?",
+   "opciones": {
+    "A": "Que se implemente un sistema integrado de transporte para el barrio.",
+    "B": "Que se reduzca la jornada laboral para los habitantes del barrio.",
+    "C": "Que se disminuyan los divorcios en el barrio.",
+    "D": "Que los habitantes del barrio soliciten mayor presencia de las autoridades."
+   },
+   "correcta": "D",
+   "afirmacion": "Utiliza los resultados de investigaciones.",
+   "explicacion": "De los factores hallados, el único sobre el que la comunidad puede actuar **de inmediato** con base en los resultados es la escasa presencia de la autoridad: los habitantes pueden **solicitar más presencia** institucional. Un sistema de transporte (A) o reducir la jornada laboral (B) son cambios estructurales de largo plazo que no dependen del barrio, y los divorcios (C) no son lo mismo que el deterioro de las relaciones familiares ni se modifican a corto plazo.",
+   "origen": "Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-investigacion_sociales-029",
+   "area": "investigacion_sociales",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "Dada la pregunta de investigación “¿Cómo influye el consumo de telenovelas sobre el fenómeno del narcotráfico (llamadas narconovelas) en la convivencia escolar juvenil en instituciones educativas públicas de la ciudad de Bogotá?”, ¿qué información es más relevante para abordarla?",
+   "opciones": {
+    "A": "Datos sobre el impacto del conflicto armado colombiano en adolescentes y niños bogotanos desde la década de los años 1980.",
+    "B": "Resultados de proyectos de intervención, en instituciones públicas bogotanas, alrededor del consumo crítico de televisión.",
+    "C": "Datos sobre los índices de violencia escolar, en las épocas de trasmisión de narconovelas, en instituciones públicas bogotanas.",
+    "D": "Perfiles psicológicos de estudiantes violentos aportados por los orientadores escolares de instituciones públicas bogotanas."
+   },
+   "correcta": "C",
+   "afirmacion": "Hace la conceptualización del problema o la pregunta y establece métodos de investigación teniendo en cuenta contextos sociales específicos y antecedentes de investigación (resultados de investigaciones previas).",
+   "explicacion": "La pregunta relaciona dos variables: **consumo de narconovelas** y **convivencia escolar** en colegios públicos de Bogotá. Los índices de violencia escolar en las épocas de transmisión permiten vincular directamente ambas. El conflicto armado (A) es otra variable, los proyectos sobre consumo crítico de televisión (B) no tratan de narconovelas ni de convivencia, y los perfiles psicológicos (D) dejan por fuera el consumo de telenovelas.",
+   "origen": "Cuadernillo 2026 #18"
+  }
+ ]
+}

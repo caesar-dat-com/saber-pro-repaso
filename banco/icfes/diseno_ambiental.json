@@ -1,0 +1,430 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Diseño de Sistemas de Manejo de Impacto Ambiental (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Caso 1 — Cría de aves de corral",
+   "texto": "La empresa San Agustín cuenta con 350 empleados para la cría y el beneficio de aves de corral; en promedio produce 700 toneladas mensuales de pollo beneficiado. El área de planta de proceso comprende los procesos de colgado, escaldado, desplume, línea de evisceración, lavado y preenfriado, clarificación, empaque, túneles de congelación y almacenes de conservación, con maquinaria y equipo controlados automáticamente por computador en las líneas de clarificación, empaque, despresado y en el sistema de refrigeración industrial con compresores de tornillo para amoniaco. Dentro de sus procesos, la empresa pretende implementar un sistema de gestión ambiental en el marco de la ISO 14001, ya cuenta con una política ambiental y quiere continuar con las fases establecidas en la norma.\n\nAspectos ambientales por controlar:\n\n- Reducción en el consumo de agua.\n- Reducción en la generación de residuos sólidos.\n\n**Tabla 1. Resultados**\n\n| Indicador | Actual | % de reducción esperada | Reducción |\n|---|---|---|---|\n| Consumo total de agua (m³/año) | 80.000 m³/año | 5 | 4.000 |\n| Residuos sólidos dispuestos en relleno sanitario | 70 t/año | 90 | 63 |\n\n**Diagrama. Balance de la operación**\n\n{{img:icfes_diseno_ambiental_ctx1_diagrama.png}}"
+  },
+  {
+   "titulo": "Caso 2 — Eficiencia de remoción en la PTAR de un trapiche panelero",
+   "texto": "Un trapiche panelero tiene una planta de tratamiento de aguas residuales (PTAR) que consta de 1 sedimentador primario que remueve el 20 % de la carga contaminante del agua residual a partir de su ingreso a la planta, seguido de una laguna de oxidación aireada que por su comportamiento se puede comparar con el de un reactor de mezcla completa (RMC), a la que se le adiciona un coagulante, cuyo efluente se conduce a un último sedimentador que alcanza una eficiencia de remoción del 50 %. En la actualidad, se presenta una disminución en la eficiencia de remoción del sistema diseñado y se requiere identificar y contrarrestar las causas. En la tabla se presentan algunas de las condiciones de diseño.\n\n{{img:icfes_diseno_ambiental_ctx2_tabla.png}}"
+  },
+  {
+   "titulo": "Caso 3 — Residuos generados",
+   "texto": "El municipio de Macondo cuenta actualmente con 260 habitantes. El 90 % de los residuos provienen del sistema de recolección tradicional, el cual se efectúa con un vehículo de recolección de 20 m³ de capacidad con una densidad de compactación de 450 kg/m³, y el resto de los residuos sólidos proviene de rechazos originados en la planta de aprovechamiento El Ingenioso S.A.S. En esta planta se logra aprovechar el 75 % de los residuos y el resto es llevado al relleno sanitario Mariposas Amarillas.\n\nEl relleno sanitario recibió, en los años anteriores (2010 a 2013), 45, 49, 54 y 60 toneladas, con una densidad de compactación en el frente de trabajo de 600 kg/m³, a pesar de que el crecimiento de la población fue inferior al 0,2 % anual. Este relleno sanitario ha operado durante 10 años y desde su inicio ha presentado problemas en el manejo por las continuas precipitaciones en el área de influencia directa del proyecto. Actualmente, para el manejo de sus lixiviados, el relleno opera con dos pondajes ubicados en la zona oriental del sitio de disposición final y, debido al elevado caudal de lixiviados generado, se efectúa recirculación y reinyección de estos lixiviados en las celdas ya clausuradas."
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-diseno_ambiental-001",
+   "area": "diseno_ambiental",
+   "n": 1,
+   "contexto": 0,
+   "enunciado": "El ecodiseño es la metodología para el diseño de productos industriales en que el ambiente es tenido en cuenta durante el proceso de desarrollo del producto como un factor adicional a los que tradicionalmente se utilizan para la toma de decisiones (Van Hemel, 1995). En la implementación de las alternativas de producción más limpia, el ecodiseño para la empresa San Agustín se enfocaría a",
+   "opciones": {
+    "A": "definir sus procesos administrativos y comerciales, garantizando el beneficio de las generaciones futuras, mediante el principio de sostenibilidad.",
+    "B": "implementar alternativas de producción garantizando estándares internacionales en el marco de la ISO 14040.",
+    "C": "garantizarles a los consumidores una información completa sobre el contenido y la composición de esos productos, a fin de proteger su salud y sus intereses.",
+    "D": "reducir el impacto ambiental de los procesos en planta y producto durante su ciclo de vida, asegurando a su vez la obtención de un beneficio para los actores involucrados y el usuario final."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "El ecodiseño busca **reducir el impacto ambiental del producto y de sus procesos a lo largo de todo el ciclo de vida**, sin perder el beneficio para los actores y el usuario. A se queda en lo administrativo y comercial, B confunde el ecodiseño con cumplir una norma (la ISO 14040 es de análisis de ciclo de vida) y C describe el etiquetado o la protección al consumidor.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-diseno_ambiental-002",
+   "area": "diseno_ambiental",
+   "n": 2,
+   "contexto": 0,
+   "enunciado": "Al planificar el sistema de gestión ambiental, se determinó que los impactos ambientales significativos generados por la empresa no la afectan internamente, pero sí a su entorno, es decir, afectan a la comunidad aledaña. En cumplimiento de la ISO 14001, la organización deberá",
+   "opciones": {
+    "A": "formular programas, metas y objetivos teniendo en cuenta las partes interesadas, para minimizar o mitigar estos impactos ambientales.",
+    "B": "solucionar sus impactos ambientales dentro de la organización y reportar a la autoridad ambiental para que se encargue del manejo y prevención de impactos ambientales en la comunidad aledaña.",
+    "C": "modificar su matriz de impactos ambientales y retirar los impactos ambientales que afecten a las partes interesadas por no ser de competencia de la organización.",
+    "D": "trabajar en algunas acciones para colaborarles en mejorar las condiciones ambientales, pero no es responsabilidad de la empresa solucionar estos asuntos."
+   },
+   "correcta": "A",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La ISO 14001 obliga a considerar las **necesidades y expectativas de las partes interesadas** y a fijar objetivos y programas para los aspectos ambientales significativos, también los que afectan al entorno. B, C y D trasladan o niegan la responsabilidad de la empresa sobre impactos que ella misma genera.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-diseno_ambiental-003",
+   "area": "diseno_ambiental",
+   "n": 3,
+   "contexto": 0,
+   "enunciado": "La estrategia de PILOT propone herramientas específicas para cada fase del ciclo de vida del producto, por tanto, primero hay que analizar en cuál de sus fases se producen los impactos negativos más importantes.\n\nEn el proceso de la cría especializada de aves de corral (ver diagrama), la estrategia a priorizar según los impactos negativos es",
+   "opciones": {
+    "A": "cambiar de la situación actual a la propuesta, porque la materia prima en la etapa de alistamiento genera el mayor impacto negativo.",
+    "B": "modificar el proceso de la planta de proceso de beneficio, porque su mayor impacto ocurre en la etapa de desplazamiento.",
+    "C": "controlar los residuos generados en el levantamiento y engorde, porque su mayor impacto negativo se da por el olor del pollino.",
+    "D": "ajustar mecanismos de disposición de material en la planta de beneficio, por ser el área de mayor impacto durante el proceso."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "En el diagrama, la **planta de beneficio** es la etapa que concentra los residuos (sangre, plumas, cutícula, vísceras), y la propuesta precisamente les da un destino (harina proteica, concentrado). Por eso lo prioritario es ajustar la disposición del material allí. A culpa a la materia prima, B habla de un desplazamiento que no aparece en el caso y C se fija en el olor de la pollinaza, que es un impacto menor.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-diseno_ambiental-004",
+   "area": "diseno_ambiental",
+   "n": 4,
+   "contexto": 0,
+   "enunciado": "En el área de planta de proceso se hace un rediseño en el que los residuos generados por la línea de evisceración, lavado y preenfriado se reutilizan en la producción de harina proteica y concentrados. Esto beneficia la planta, ya que solo generan el 10 % de los residuos que antes producía; sin embargo, de estos residuos siguen generándose plumas, cutícula y vísceras no comestibles que equivalen al 20 %. En toneladas anuales estos residuos son",
+   "opciones": {
+    "A": "1,4 t/año.",
+    "B": "0,14 t/año.",
+    "C": "7 t/año.",
+    "D": "70 t/año."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Hoy se disponen 70 t/año; tras el rediseño queda el 10 %: 70 × 0,10 = **7 t/año**. De eso, el 20 % son plumas, cutícula y vísceras: 7 × 0,20 = **1,4 t/año**. C se queda en el primer paso, D es el valor actual y B corre mal la coma.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-diseno_ambiental-005",
+   "area": "diseno_ambiental",
+   "n": 5,
+   "contexto": 0,
+   "enunciado": "Si la empresa San Agustín pretende establecer el sistema de gestión ambiental, teniendo en cuenta el avance de la empresa y cumpliendo con lo establecido en el ciclo planificar, hacer, verificar y actuar (PHVA) determinado en la norma ISO 14001, la organización debe",
+   "opciones": {
+    "A": "diseñar los objetivos y programas para cumplir con esta norma y establecer propiamente el sistema de gestión ambiental en cumplimiento de la política ambiental de la organización.",
+    "B": "contar con un sistema de medición y evaluación de los avances de los resultados obtenidos en el sistema de gestión ambiental y posteriormente formular los objetivos y metas por cumplir.",
+    "C": "determinar los mecanismos para implementar el sistema, identificar los recursos necesarios y establecer medios de comunicación, con el propósito de formular una política alcanzable y objetivos tangibles según el presupuesto.",
+    "D": "formular la política ambiental para empezar con los requisitos estipulados en la ISO 14001, como requisito de una buena planificación ambiental."
+   },
+   "correcta": "A",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La empresa **ya tiene política ambiental**, así que el siguiente paso de la planificación es fijar **objetivos y programas** coherentes con ella. D repite un paso ya cumplido, B pone la verificación antes de planificar y C invierte el orden al formular la política al final.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-diseno_ambiental-006",
+   "area": "diseno_ambiental",
+   "n": 6,
+   "contexto": 0,
+   "enunciado": "En la implementación de producción más limpia, la empresa San Agustín requiere reducir su consumo de agua; por tanto, se formuló un plan de ahorro del agua con la meta de reducción establecida por la compañía, que se expresa en la siguiente ecuación:\n\nNota: la producción es constante en los diferentes meses.\n\n| Mes analizado posterior a la formulación e implementación del plan de ahorro del agua | Consumo en m³ |\n|---|---|\n| 1 | 79.600 |\n| 2 | 76.800 |\n| 3 | 75.200 |\n| 4 | 72.200 |\n\nEl mes en que se logra el cumplimiento de la meta establecida en el plan es el",
+   "opciones": {
+    "A": "primero.",
+    "B": "segundo.",
+    "C": "tercero.",
+    "D": "cuarto."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La meta de la Tabla 1 es reducir un **5 %** sobre 80.000 m³, es decir, bajar a 76.000 m³ o menos (como la producción es constante, el indicador por ave se reduce en la misma proporción). El mes 2 (76.800 m³; −4 %) aún no llega; el **mes 3** (75.200 m³; −6 %) es el primero que cumple. El mes 4 también cumple, pero no es el primero.",
+   "origen": "Cuadernillo 2018 #6",
+   "imagen": "icfes_diseno_ambiental_006.png"
+  },
+  {
+   "id": "icfes-diseno_ambiental-007",
+   "area": "diseno_ambiental",
+   "n": 7,
+   "contexto": 0,
+   "enunciado": "Para implementar un proceso de producción más limpia en la empresa, se deberá",
+   "opciones": {
+    "A": "efectuar una administración de procesos de producción, sustitución de materiales, cambio de tecnología, aprovechamiento de residuos y rediseño de productos.",
+    "B": "identificar e implementar procesos de reducción de residuos, optimización de recursos y materias primas, reducción en costos de tratamiento, modernización de la estructura productiva y cambio de tecnología.",
+    "C": "realizar un cambio de tecnología, sustitución de materiales, reducción de residuos, administración de procesos y rediseño de productos.",
+    "D": "iniciar por la sustitución de materiales, reducción de residuos, cambio de tecnología, rediseño de productos, aprovechamiento de residuos y modernización de la estructura productiva."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La producción más limpia es preventiva: **reducir residuos en la fuente, optimizar el uso de recursos y materias primas** y, con eso, bajar los costos de tratamiento, apoyándose en modernizar y cambiar tecnología. B es la que reúne ese enfoque completo. A, C y D mezclan acciones sueltas o imponen un orden rígido que arranca por sustituir materiales.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-diseno_ambiental-008",
+   "area": "diseno_ambiental",
+   "n": 8,
+   "contexto": 1,
+   "enunciado": "La PTAR, después de operar satisfactoriamente por más de cuatro años, ha disminuido su eficiencia de remoción, principalmente por la baja eficiencia de remoción en el sedimentador secundario debido a una acumulación excesiva de lodos que modifican su volumen efectivo de diseño y el inicio de la anaerobiosis por la cantidad de oxígeno disuelto.\n\nComo solución, se sacará de funcionamiento ese sedimentador temporalmente para hacer la correspondiente extracción de lodos, se revisarán las condiciones de mezcla del RMC y se modificará la dosis de coagulante en el RMC. El plan de pruebas necesario para validar la solución de diseño planteada incluye",
+   "opciones": {
+    "A": "disminuir el volumen total del sedimentador secundario hasta la condición de diseño y aumentar la potencia de mezcla en el RMC.",
+    "B": "aumentar el volumen total del sedimentador secundario hasta la condición de diseño y disminuir la potencia de mezcla en el RMC.",
+    "C": "aumentar el volumen total del sedimentador secundario hasta la condición de diseño y aumentar la potencia de mezcla en el RMC.",
+    "D": "disminuir el volumen total del sedimentador secundario hasta la condición de diseño y disminuir la potencia de mezcla en el RMC."
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Los lodos acumulados le **quitan volumen útil** al sedimentador; al extraerlos, el volumen efectivo **aumenta** de nuevo hasta el de diseño. La anaerobiosis indica falta de oxígeno, que se corrige **aumentando la mezcla y la aireación** en el RMC. Las demás opciones invierten al menos uno de los dos sentidos.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-diseno_ambiental-009",
+   "area": "diseno_ambiental",
+   "n": 9,
+   "contexto": 1,
+   "enunciado": "En general, los sistemas de tratamiento de agua residual que utilizan lagunas deben tener en cuenta algunas de las siguientes especificaciones para su diseño, operación y funcionamiento:\n\n1. Cortos tiempos de retención.\n2. Alta densidad.\n3. Tener suministro continuo de energía.\n4. Profundidad entre 2 y 5 metros.\n\nEn el caso del trapiche mencionado, la laguna existente, en su proceso de desarrollo normal, debe tener en cuenta las especificaciones",
+   "opciones": {
+    "A": "1 y 2.",
+    "B": "2 y 3.",
+    "C": "3 y 4.",
+    "D": "4 y 1."
+   },
+   "correcta": "C",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La laguna del caso es **aireada**: necesita energía continua para los aireadores (3) y se construye con profundidades del orden de **2 a 5 m** (4). Los tiempos de retención de las lagunas son largos (días; el propio caso da del orden de 30 d), no cortos, y la \"alta densidad\" no es un criterio de diseño de lagunas.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-diseno_ambiental-010",
+   "area": "diseno_ambiental",
+   "n": 10,
+   "contexto": 1,
+   "enunciado": "La PTAR del trapiche mencionado fue diseñada para obtener una eficiencia de remoción del 90 % de su carga de DBO desde el ingreso al primer sedimentador hasta la salida del último sedimentador. Para garantizar esta remoción, el volumen útil mínimo que debe tener el agua en la laguna es de",
+   "opciones": {
+    "A": "1.500 m³.",
+    "B": "2.000 m³.",
+    "C": "3.500 m³.",
+    "D": "4.500 m³."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Salida final con 90 %: 200 × 0,10 = 20 mg/L. El sedimentador final remueve 50 %, así que a la salida de la laguna debe haber 40 mg/L; el primario deja 200 × 0,8 = 160 mg/L a la entrada de la laguna. Con el RMC de orden 1: t = (1/0,1)(160/40 − 1) = **30 d**, y V = Q·t = 50 × 30 = **1.500 m³**.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-diseno_ambiental-011",
+   "area": "diseno_ambiental",
+   "n": 11,
+   "contexto": 2,
+   "enunciado": "El municipio de Macondo presentó en los últimos cuatro años un crecimiento mínimo de la población y una generación de residuos superior al 51 % entre el 2010 y 2013. La tabla muestra los indicadores de ventas del comercio minorista, el número de operaciones con tarjetas de crédito y la cantidad de residuos, lo cual es un indicativo del nivel de consumo.\n\n| Año | Ventas del comercio minorista | Número de operaciones con tarjetas de crédito | Empresas con desempeño ambiental | Residuos recibidos en el relleno sanitario (t) | Porcentaje de aprovechamiento |\n|---|---|---|---|---|---|\n| 2013 | $550.000.000 | 212.300 | 28 | 60 | 15 |\n| 2012 | $425.000.000 | 158.525 | 20 | 54 | 12 |\n| 2011 | $350.000.000 | 126.700 | 13 | 49 | 14 |\n| 2010 | $280.000.000 | 100.240 | 9 | 45 | 13 |\n\nSegún la tabla, la principal causa del crecimiento en la generación de residuos en el municipio se debe a la",
+   "opciones": {
+    "A": "falta de la responsabilidad social en la producción de los residuos.",
+    "B": "falta de optimización de la planta de aprovechamiento de residuos.",
+    "C": "falta de desarrollo de los mercados que les permitan a los habitantes alternativas de adquisición de productos reciclables.",
+    "D": "cultura de aprovechamiento y de reciclaje en el municipio que está limitada a sectores de estratos bajos."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Con la población casi estable, los residuos crecen al mismo ritmo que las **ventas y las compras con tarjeta**: es un problema de consumo, no de la planta. El aprovechamiento casi no cambia (13-15 %), así que lo que falla es la **responsabilidad social en la generación** de los residuos. B, C y D no se pueden sustentar con los datos de la tabla.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-diseno_ambiental-012",
+   "area": "diseno_ambiental",
+   "n": 12,
+   "contexto": 2,
+   "enunciado": "Para prevenir el riesgo de deslizamiento de las celdas ya clausuradas en el relleno sanitario es necesario",
+   "opciones": {
+    "A": "modificar el sistema de manejo por un sistema para tratamiento de lixiviados.",
+    "B": "regular el caudal del lixiviado mediante cajas reguladoras de caudal.",
+    "C": "agilizar las actividades de clausura de la celda y su reforestación.",
+    "D": "recircular el lixiviado y regular el sistema de aspersión."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "El riesgo viene de **reinyectar lixiviados** en celdas clausuradas: eso las satura de líquido, sube la presión de poros y las vuelve inestables. La solución es dejar de recircular y **tratar los lixiviados**. D mantiene justo la causa, B solo regula el caudal sin sacarlo de la masa de residuos y C no actúa sobre el exceso de líquido.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-diseno_ambiental-013",
+   "area": "diseno_ambiental",
+   "n": 13,
+   "contexto": 2,
+   "enunciado": "Debido a la creciente generación de residuos, el municipio de Macondo está interesado en conocer el área de enterramiento de residuos sólidos para el último año de recepción. Para ello, estima que la profundidad de la celda sea 5 metros.\n\nDe acuerdo con lo anterior, el área de enterramiento de residuos sólidos para el último año sería de",
+   "opciones": {
+    "A": "20,0 m².",
+    "B": "26,7 m².",
+    "C": "400,0 m².",
+    "D": "533,3 m²."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "En el último año (2013) llegaron 60 t = 60.000 kg. Con la densidad del frente de trabajo (600 kg/m³) el volumen es 100 m³, y con 5 m de profundidad el área es 100/5 = **20 m²**. B usa la densidad del vehículo (450 kg/m³), y C y D olvidan dividir por la profundidad.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-diseno_ambiental-014",
+   "area": "diseno_ambiental",
+   "n": 14,
+   "contexto": 2,
+   "enunciado": "Los datos requeridos y las restricciones para determinar la producción per cápita del municipio son:",
+   "opciones": {
+    "A": "Requerimientos: el número de habitantes y las cantidades de residuos generados.\nRestricción: el número de viviendas totales.",
+    "B": "Requerimientos: la capacidad del relleno sanitario y las cantidades de residuos generados.\nRestricción: el número de viviendas por piso.",
+    "C": "Requerimientos: la distribución de habitantes en el municipio y el porcentaje de material reciclado.\nRestricción: el número de días de producción de residuos sólidos.",
+    "D": "Requerimientos: el número de viviendas y el crecimiento de la población.\nRestricción: el número de viviendas por piso."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "La producción per cápita (PPC) es la **cantidad de residuos generados dividida por el número de habitantes** (por unidad de tiempo), así que esos dos datos son los requerimientos. Las otras opciones piden datos que no entran en la definición, como la capacidad del relleno, el porcentaje reciclado o el crecimiento poblacional.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-diseno_ambiental-015",
+   "area": "diseno_ambiental",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Un hospital debe realizar el inventario de emisiones atmosféricas, para presentarlas a la autoridad ambiental en los plazos establecidos por la normatividad nacional. El hospital cuenta con un incinerador de diferentes tipos de residuos.\n\nSegún las metodologías comúnmente aplicadas y aceptadas internacionalmente, en la elaboración del inventario de emisiones generadas durante la incineración, la alternativa que NO se recomienda es",
+   "opciones": {
+    "A": "medición directa en la fuente.",
+    "B": "balance de masas.",
+    "C": "factores de emisión.",
+    "D": "sistema de predicción continuo."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Los inventarios de emisiones se construyen con **medición directa en la fuente, balances de masa o factores de emisión** (metodologías tipo EPA/AP-42). Un \"sistema de predicción continuo\" es un modelo y no mide lo que realmente sale de un incinerador que quema residuos de composición muy variable, así que no se recomienda.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-diseno_ambiental-016",
+   "area": "diseno_ambiental",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Se pretende diseñar un desarenador aireado que se utilizará en el tratamiento de agua residual de una población, y que maneje un caudal medio (Qm) de 9.000 L/min. Para su diseño, se estima una profundidad (h) de 2 m, un tiempo de retención a caudal de punta (Tr) de 3 min, un factor de punta (Fp) de 2,17, una relación anchura:profundidad (RAP) de 1,25:1 y una relación largo:ancho (RLA) de 4,6:1.\n\nDe acuerdo con lo anterior, los cálculos adecuados para determinar las dimensiones máximas del desarenador son:",
+   "opciones": {
+    "A": "Volumen V = Qm * Tr = 27 m³\nAncho b = RAP * h = 2,5 m\nLongitud L = V / (b * h) = 5,4 m",
+    "B": "Caudal de punta Qp = Qm * Fp = 0,32 m³/s\nVolumen V = Qp * Tr = 57,6 m³\nAncho b = RAP * h = 2,5 m\nLongitud L = V / (b * h) = 11,52 m",
+    "C": "Caudal de punta Qp = Qm * Fp = 0,32 m³/s\nVolumen V = Qp * Tr = 57,6 m³\nAncho b = RLA * h = 9,2 m\nLongitud L = V / (b * h) = 3,13 m",
+    "D": "Volumen V = Qm * Tr = 27 m³\nAncho b = RLA * h = 9,2 m\nLongitud L = V / (b * h) = 1,47 m"
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Se diseña con el **caudal de punta**: 9.000 L/min = 0,15 m³/s, y Qp = 0,15 × 2,17 ≈ 0,32 m³/s. Así, V = 0,32 × 180 s = 57,6 m³, b = 1,25 × 2 = 2,5 m y L = 57,6/(2,5 × 2) = 11,52 m; además, L/b = 4,6 coincide con la RLA dada. A y D usan el caudal medio, y C y D sacan el ancho con la relación largo:ancho.",
+   "origen": "Cuadernillo 2018 #16 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-diseno_ambiental-017",
+   "area": "diseno_ambiental",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "El alcalde municipal quiere ejecutar un proyecto para la construcción y operación de un sistema de tratamiento de aguas residuales STAR, para una población de 12.000 habitantes. ¿Cuál de las siguientes operaciones es factible para el emplazamiento del STAR?",
+   "opciones": {
+    "A": "Un área establecida en el Plan de Ordenamiento Territorial (POT).",
+    "B": "Un área definida aguas arriba del vertimiento.",
+    "C": "Un área ubicada en una zona de alto riesgo, sin presencia de comunidades.",
+    "D": "Un área con presencia de comunidades indígenas."
+   },
+   "correcta": "A",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La localización de infraestructura de saneamiento debe respetar el **uso del suelo definido en el POT**; ese es el punto de partida legal y técnico. Ubicarla aguas arriba del vertimiento no tiene sentido hidráulico, una zona de alto riesgo compromete la obra y un territorio indígena exige consulta previa, así que no es la opción factible.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-diseno_ambiental-018",
+   "area": "diseno_ambiental",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Para el diseño de un sistema de trampa de grasas de un vertimiento generado por un restaurante es necesario conocer: el caudal (L/s), la densidad de grasas y aceites (mg/L), y",
+   "opciones": {
+    "A": "los tensoactivos (mg SAAM/L).",
+    "B": "los coliformes totales (NMP/100 mL).",
+    "C": "la demanda bioquímica de oxígeno (mg O₂/L).",
+    "D": "los sólidos suspendidos totales (mg/L)."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Los **tensoactivos (SAAM)** bajan la tensión superficial y **emulsionan las grasas**, que entonces ya no flotan y la trampa pierde eficiencia; por eso hay que medirlos. Los coliformes indican patógenos, la DBO corresponde a un tratamiento biológico (la trampa es solo preliminar) y los SST tampoco se remueven en una trampa de grasas.",
+   "origen": "Cuadernillo 2018 #18 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-diseno_ambiental-019",
+   "area": "diseno_ambiental",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "En el país, el factor de mayor impacto que contribuye a la disminución y pérdida de la biodiversidad y de los servicios que de ella se derivan es el cambio en el uso del suelo que se ocasiona, entre otros, por el desarrollo de proyectos de infraestructura (vías) y minería.\n\nTeniendo en cuenta la priorización de criterios sociales como equidad, beneficio y participación en el desarrollo de proyectos que contribuyan a compensar la pérdida de la biodiversidad por el cambio del uso del suelo, la alternativa de solución más adecuada es",
+   "opciones": {
+    "A": "conservar el ecosistema por un tiempo igual a la duración del proyecto.",
+    "B": "conservar otro ecosistema equivalente al afectado.",
+    "C": "restaurar el ecosistema con sistemas productivos sostenibles.",
+    "D": "restaurar el ecosistema con medidas de manejo del paisaje."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La **compensación** por pérdida de biodiversidad (manual de compensaciones del país) consiste en **conservar o restaurar un ecosistema equivalente** al que se afecta, buscando que no haya pérdida neta. A es temporal y no compensa nada. C y D se refieren a restaurar el mismo sitio, lo cual corresponde a medidas de mitigación o corrección y no de compensación.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-diseno_ambiental-020",
+   "area": "diseno_ambiental",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Se pretende seleccionar un punto de captación de agua para su potabilización y uso en los procesos de una industria de jugos naturales. Se proponen los puntos 1, 2 y 3, señalados en la figura, de los cuales no es viable el punto 1.\n\nSegún los datos aportados en la figura y considerando criterios de tipo sanitario y económico, el punto 1 no es viable debido a",
+   "opciones": {
+    "A": "la instalación de tuberías subterráneas en la zona de humedales.",
+    "B": "su ubicación y cercanía del sitio de descarga de aguas residuales domésticas.",
+    "C": "la distancia desde el punto 1 a la planta de tratamiento de la industria.",
+    "D": "la cercanía a poblaciones inconformes con el proyecto."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "El punto 1 queda **inmediatamente aguas abajo de la descarga de aguas residuales domésticas** (el flujo va de derecha a izquierda), así que el agua llegaría contaminada, que es el criterio sanitario decisivo. El paso por humedales y los 6 km de tubería encarecen la obra, pero no la hacen inviable por sí solos, y la población inconforme queda lejos del punto 1.",
+   "origen": "Cuadernillo 2018 #20",
+   "imagen": "icfes_diseno_ambiental_020_b.png"
+  },
+  {
+   "id": "icfes-diseno_ambiental-021",
+   "area": "diseno_ambiental",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "En una zona rural es muy común encontrar la falta de abastecimiento de agua potable para la población. Como solución se emprenderá el diseño de un sistema sencillo de potabilización aprovechando la existencia de un río de agua muy cristalina que pasa cerca de la población para usarse como fuente de abastecimiento y que, de acuerdo con estudios previos, debe cumplir con la remoción de la presencia ocasional de organismos patógenos. De acuerdo con lo anterior, el diseño debe tener en cuenta los siguientes análisis de laboratorio e información técnica:",
+   "opciones": {
+    "A": "Medición de turbiedad y alcalinidad, prueba de sedimentación, dosificación de coagulante y medición de coliformes totales.",
+    "B": "Prueba de jarras, dosificación de coagulante, medición del caudal del agua a tratar y sistema de captación y distribución.",
+    "C": "Medición del caudal del agua a tratar, dosificación de coagulante, medición de coliformes totales, dosificación y medición de cloro.",
+    "D": "Medición del caudal del agua a tratar, medición de coliformes totales, dosificación y medición de cloro, y sistema de captación y distribución."
+   },
+   "correcta": "D",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Como el agua es **muy cristalina** (poca turbiedad), no se necesitan coagulación ni sedimentación; el único problema son los **patógenos**, que se resuelven con **desinfección con cloro**. Para eso hay que conocer el caudal, los coliformes y la dosis de cloro, además del sistema de captación y distribución. A, B y C incluyen coagulante, que aquí sobra.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-diseno_ambiental-022",
+   "area": "diseno_ambiental",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Un conjunto residencial de 600 apartamentos cuenta con una población residente de 3.000 habitantes y la empresa de servicios públicos realiza la actividad de recolección una vez al día, tres días a la semana. Los aforos de residuos sólidos realizados en esta comunidad demostraron que la producción de residuos sólidos por habitante es 0,80 kg/hab-día.\n\nSi la densidad de los residuos sólidos es de 200 kg/m³, y el cuarto de almacenamiento de estos residuos debe tener un ancho máximo de 6 metros y un alto de 2 metros, más una altura libre de 1 metro para ventilación y luz natural, la profundidad de este cuarto debe ser de",
+   "opciones": {
+    "A": "1 metro.",
+    "B": "2 metros.",
+    "C": "3 metros.",
+    "D": "6 metros."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Generación diaria: 3.000 × 0,8 = 2.400 kg/d, que equivalen a 12 m³/d con 200 kg/m³. La clave oficial supone **2 días** de acumulación entre recolecciones: 24 m³ / (6 m × 2 m) = **2 m**. Sin embargo, con tres recolecciones por semana siempre hay un intervalo de 3 días (por ejemplo, de viernes a lunes), y con ese criterio de diseño saldrían 36 m³ y una profundidad de 3 m (opción C). Por eso la clave es discutible.",
+   "origen": "Cuadernillo 2018 #22",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-diseno_ambiental-023",
+   "area": "diseno_ambiental",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Para expresar cartográficamente objetos o fenómenos ambientales se requiere definir una escala de representación adecuada, para lo cual se debe tener en cuenta que la escala seleccionada",
+   "opciones": {
+    "A": "permita una salida gráfica con un tamaño manejable.",
+    "B": "permita la representación de la geometría real de los objetos.",
+    "C": "se adecúe a las escalas de representación de las entidades territoriales.",
+    "D": "represente el fenómeno asociado a los objetivos establecidos para el estudio."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La escala se elige según el **nivel de detalle que exigen los objetivos del estudio**, de modo que el fenómeno quede bien representado. El tamaño de salida (A) es un criterio secundario, ninguna escala reproduce la geometría real (B) y las escalas oficiales de las entidades (C) no garantizan que se vea el fenómeno de interés.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-diseno_ambiental-024",
+   "area": "diseno_ambiental",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Una comunidad indígena de 790 habitantes ubicada en una zona rural, con arraigadas costumbres de su cultura, bajos ingresos económicos, bajo nivel educativo, dispone sus residuos sólidos en un botadero a cielo abierto, lo que ha provocado la contaminación de la quebrada cercana, proliferación de vectores y la ocurrencia de enfermedades respiratorias y de la piel.\n\nLa alternativa más factible para solucionar la problemática, y que represente ingresos adicionales para esta comunidad es implementar un",
+   "opciones": {
+    "A": "relleno sanitario manual con separación de la fracción orgánica e inorgánica de los residuos producidos.",
+    "B": "sistema de aprovechamiento del 50 % de material orgánico (compostaje), reciclaje del 50 % de los residuos inorgánicos y disposición final en un relleno sanitario mecánico.",
+    "C": "sistema de aprovechamiento basado en el compostaje del 100 % de material orgánico producido por la comunidad.",
+    "D": "sistema de aprovechamiento del 100 % de material orgánico (compostaje), reciclaje del 20 % de los residuos inorgánicos y disposición final en un relleno sanitario manual."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "En una comunidad rural pequeña y de bajos ingresos la mayor parte de los residuos es **orgánica**: compostarla toda sirve para sus cultivos, el reciclaje genera algo de ingreso y lo que no se aprovecha va a un **relleno manual, que es de bajo costo**. A no aprovecha nada, B desperdicia la mitad de lo orgánico y exige un relleno mecánico costoso, y C deja sin manejo la fracción inorgánica y la disposición final.",
+   "origen": "Cuadernillo 2018 #24 · Preguntas explicadas #2"
+  }
+ ]
+}

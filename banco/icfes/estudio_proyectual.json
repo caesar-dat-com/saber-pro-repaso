@@ -1,0 +1,539 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Estudio Proyectual (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-estudio_proyectual-001",
+   "area": "estudio_proyectual",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Un material se considera isotrópico cuando tiene las mismas propiedades físicas y mecánicas en todas las direcciones, es decir, su resistencia no depende de la dirección en la cual se aplican las cargas. Los materiales anisotrópicos tienen propiedades distintas en direcciones diferentes. Estos conceptos inciden en el comportamiento de los materiales de construcción y definen la manera como se deben disponer arquitectónicamente y estructuralmente los elementos de un sistema.\n\nLa propiedad de anisotropía se debe considerar de manera preponderante cuando se diseña una edificación en la que se incluye",
+   "opciones": {
+    "A": "acero.",
+    "B": "madera.",
+    "C": "aluminio.",
+    "D": "concreto reforzado."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La **madera** es el material anisótropo por excelencia: por sus fibras, resiste mucho más en dirección paralela a la veta que en dirección perpendicular, y eso obliga a orientar cada pieza según la carga. El acero y el aluminio son prácticamente isótropos, y en el concreto reforzado la orientación del refuerzo es una decisión de diseño, no una propiedad del material.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-estudio_proyectual-002",
+   "area": "estudio_proyectual",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "En el año 1141, el abad Suger y los constructores de Saint-Denis recopilaron una serie de mejoras alcanzadas por la arquitectura tardorrománica, incluidos los arcos apuntados y las bóvedas nervadas. Pusieron a trabajar todos estos elementos juntos, reforzando mutuamente sus respectivos potenciales en la creación de una arquitectura más liviana y transparente al interior. Gracias a esta unión de técnicas constructivas, el abad Suger pudo sustituir los pesados muros de las construcciones anteriores por grandes vidrieras. Su intención original era que estas vidrieras de color",
+   "opciones": {
+    "A": "dejaran pasar la luz para iluminar cada uno de los altares destinados a los diferentes santos e iluminaran las capillas laterales.",
+    "B": "filtraran y transformaran la luz solar en una representación simbólica de la iluminación divina.",
+    "C": "aumentaran la iluminación de la nave central en los momentos de las peregrinaciones anuales a Saint-Denis.",
+    "D": "iluminaran los diferentes espacios de la catedral con el uso de los colores primarios para darles la jerarquía correspondiente."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "En la teología medieval que inspiró a Suger, la **luz es símbolo de Dios y de la verdad**. Las vidrieras no buscaban iluminar más, sino **transformar la luz natural en luz divina**. Iluminar altares o la nave (A, C) no era su función principal, y la idea de jerarquizar con colores primarios (D) no pertenece a la Edad Media.",
+   "origen": "Cuadernillo 2018 #2 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-estudio_proyectual-003",
+   "area": "estudio_proyectual",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "El arte y la arquitectura del barroco se dirigen siempre a los sentidos del espectador. El ilusionismo y el dinamismo de sus formas pretenden impresionar, convencer, provocar un movimiento interior. La característica principal de la arquitectura barroca fue la utilización de composiciones basadas en",
+   "opciones": {
+    "A": "horizontalidad, equilibrio, predominio del vano sobre el lleno.",
+    "B": "verticalidad, fachadas planas, líneas rectas.",
+    "C": "movimiento, líneas curvas, claro oscuro, decoración.",
+    "D": "equilibrio, sobriedad, sencillez, axialidad."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "El barroco busca conmover al espectador con **movimiento, curvas y contracurvas, claroscuro y abundante decoración** (Borromini, Bernini). Equilibrio, sobriedad y axialidad (D) son rasgos renacentistas o neoclásicos, y las fachadas planas de líneas rectas (B) son lo opuesto al dinamismo barroco.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-estudio_proyectual-004",
+   "area": "estudio_proyectual",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Desde el diseño arquitectónico se deben incluir estrategias que permitan el uso eficaz de la energía, tanto en la construcción como en el uso de la edificación. Esta debe proporcionar habitabilidad con alto nivel de confort: se trata de adaptar el objeto arquitectónico al medio ambiente y a su entorno, generar el apropiado uso de los recursos naturales circundantes, responder a la incidencia solar y a los vientos por medio de una adecuada orientación y el uso de cerramientos pertinentes, para culminar en un objeto implantado que genere el menor uso energético en aparatos mecánicos y el menor impacto ambiental por la generación de residuos o desperdicios. En nuestro medio, lo anterior suele llamarse bioclimática o bioarquitectura.\n\nA continuación se describen, en texto e imágenes, cuatro viviendas; de estas, la que responde mejor a exigencias de la bioclimática es:",
+   "opciones": {
+    "A": "Shell House, llamada casa verde, de Kataro Ide, de formas elípticas -cáscaras de concreto- se integra al entorno mediante sus fachadas acristaladas.",
+    "B": "Casa de la cascada o casa Kaufmann, de F. L. Wright, diseñada para integrar los espacios habitables con el entorno natural, es funcional y racional.",
+    "C": "Casa Tronco, de Paul Morgan, casa de alquiler de fin de semana, diseñada como árboles que se ramifican y se integran al entorno, es un bosque natural.",
+    "D": "Chuckanut Ridge House, de Prentiss Architects, que se adapta al terreno, con espacios iluminados y acabados con materiales del sector."
+   },
+   "correcta": "D",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La **Chuckanut Ridge House** se adapta al terreno, está orientada al sol, tiene cubiertas verdes, **paneles fotovoltaicos** (visibles en la foto) y acabados con **materiales locales**, es decir, cumple las estrategias bioclimáticas. A y B son obras de arquitectura orgánica hechas en concreto, un material no local y de alto impacto. C se integra al bosque solo en lo formal y depende de energía convencional.",
+   "origen": "Cuadernillo 2018 #4 · Preguntas explicadas #2",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_004_A.png",
+    "B": "icfes_estudio_proyectual_004_B.png",
+    "C": "icfes_estudio_proyectual_004_C.png",
+    "D": "icfes_estudio_proyectual_004_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-005",
+   "area": "estudio_proyectual",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Fanelli y Gargiani, en sus estudios sobre el revestimiento, plantean que a mediados del siglo XX, con los textos Der Stijl y Entretiens sur l´Architecture de Semper y Viollet-le-Duc, se definen dos líneas teóricas fundadoras de la historia de la cultura arquitectónica, centradas, la de Semper, en la idea de la transfiguración de la estructura y de los materiales constructivos a través del revestimiento, y la de Viollet-le-Duc, en la idea de una directa correspondencia entre estructura y forma arquitectónica en la configuración del espacio. Basado en lo anterior, de los proyectos mostrados en las fotos, el que responde a los principios planteados por Viollet-le-Duc es",
+   "opciones": {
+    "A": "Biblioteca Virgilio Barco, Bogotá.",
+    "B": "Aula Magna, ciudad universitaria de Caracas.",
+    "C": "Museo Solomon R. Guggenheim, Nueva York.",
+    "D": "Terminal de transportes, Cali."
+   },
+   "correcta": "D",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Viollet-le-Duc defiende que la **forma sea la expresión directa de la estructura**. En la Terminal de Cali los **pórticos inclinados de concreto quedan a la vista** y definen el espacio. En el Aula Magna, la Biblioteca Virgilio Barco y el Guggenheim mandan los revestimientos, las nubes acústicas o la envolvente continua sobre la estructura, que es más bien la línea de Semper.",
+   "origen": "Cuadernillo 2018 #5",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_005_A.png",
+    "B": "icfes_estudio_proyectual_005_B.png",
+    "C": "icfes_estudio_proyectual_005_C.png",
+    "D": "icfes_estudio_proyectual_005_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-006",
+   "area": "estudio_proyectual",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "La tipología está relacionada con la configuración plástico-espacial del edificio y se entiende como un tipo espacial atemporal de orden genérico pero adaptativo. En la historia de la arquitectura, una de las tipologías utilizada con frecuencia es la llamada estructura claustral, como la mostrada en los tres ejemplos de las fotos.\n\nDel análisis a los proyectos presentados en las fotos, se puede definir que los aspectos que determinan ese tipo plástico-espacial son:",
+   "opciones": {
+    "A": "Galería porticada, sistema estructural de arcos, espacios contiguos a la galería y sistema circulatorio lineal.",
+    "B": "Patio central y galería porticada, sistema estructural de arcos, espacios contiguos a la galería y sistema circulatorio perimetral.",
+    "C": "Galería porticada que se organiza alrededor de un patio, sistema estructural de arcos, espacios contiguos a la galería y sistema circulatorio perimetral.",
+    "D": "Patio central con galería porticada, sistema estructural de arcos, espacios contiguos a la galería y sistema circulatorio lineal."
+   },
+   "correcta": "C",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "El claustro se define porque la **galería porticada se organiza alrededor de un patio** y genera una **circulación perimetral** que sirve a los espacios contiguos. La diferencia con B es sutil: B pone el patio y la galería como elementos sueltos, mientras que en C la galería se ordena en torno al patio. A y D hablan de una circulación lineal, que no corresponde a esta tipología.",
+   "origen": "Cuadernillo 2018 #6",
+   "imagen": "icfes_estudio_proyectual_006.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-007",
+   "area": "estudio_proyectual",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "La Piazza Navona -Plaza Navona-, en Roma, se consolidó como un importante espacio público de esa ciudad durante el Renacimiento.\n\nActualmente, debido a sus particulares características, es una de las plazas romanas más concurridas y visitadas por los habitantes de la ciudad y los turistas.\n\nLa geometría y las inusuales proporciones de la Piazza Navona de 276 m de largo * 54 m de ancho, como se aprecia en la vista aérea de la foto, se deben a",
+   "opciones": {
+    "A": "los trazados de Miguel Ángel Bounaroti, quien por encargo de Ludovico Sforza diseñó una serie de espacios públicos de formas diversas en Roma.",
+    "B": "la preservación del área que ocupaba el estadio construido por el emperador romano Domiciano, en el año 86, siglo I.",
+    "C": "los trazados de Bernini, escultor y arquitecto barroco que propuso esa plaza para la Roma del siglo XVII como parte de sus propuestas urbanas.",
+    "D": "la preservación del área que ocupaban las termas construidas por orden del emperador romano Nerón, en el año 60, siglo I."
+   },
+   "correcta": "B",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La plaza conserva la huella del **estadio de Domiciano** (siglo I): las casas se construyeron sobre sus graderías y la arena quedó como espacio libre, de ahí su forma alargada con un extremo curvo. Bernini (C) solo hizo la Fuente de los Cuatro Ríos, Miguel Ángel no trazó la plaza (y Sforza fue mecenas en Milán) y las termas de Nerón (D) estaban en otro sitio.",
+   "origen": "Cuadernillo 2018 #7",
+   "imagen": "icfes_estudio_proyectual_007.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-008",
+   "area": "estudio_proyectual",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "La arquitectura republicana recibe este nombre debido a que sus primeras manifestaciones coinciden, en términos generales, con la etapa formativa de la república, la cual vino a ser la expresión plástica de los ideales políticos y sociales del país en el momento de su formación. Esta arquitectura tuvo influencias francesas, italianas y anglosajonas. Los estilos como el neoclasicismo francés y el neogótico inglés, cuya denominación en el país se simplificó cuando se señaló sencillamente como \"estilo francés\" y \"estilo inglés\", emplearon elementos decorativos que incluían desde cornisas, capiteles, columnas, balaustres, molduras hasta calados.\n\nAnalizando las edificaciones y el enunciado anterior, se puede suponer que el origen de la arquitectura republicana, y la edificación como referente, se dio en",
+   "opciones": {
+    "A": "Asiria. Puerta exterior de Nínive.",
+    "B": "Grecia antigua. Tholos, en Delfos.",
+    "C": "Mesopotamia. Templo de Nippur.",
+    "D": "El periodo Medo-Persa. Capitel de doble toro del palacio de Darío."
+   },
+   "correcta": "B",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La arquitectura republicana bebe del **neoclasicismo**, que retoma el lenguaje clásico grecorromano: columnas, capiteles, cornisas y entablamentos. El **tholos de Delfos**, con sus columnas y su entablamento, es el referente de ese repertorio. La arquitectura asiria, mesopotámica y persa no forma parte de la tradición clásica que heredó el neoclasicismo.",
+   "origen": "Cuadernillo 2018 #8",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_008_A.png",
+    "B": "icfes_estudio_proyectual_008_B.png",
+    "C": "icfes_estudio_proyectual_008_C.png",
+    "D": "icfes_estudio_proyectual_008_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-009",
+   "area": "estudio_proyectual",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "La forma de asentarse de algunas comunidades precolombinas consistía en una construcción que se situaba a una altitud de 900 - 1.200 m, compuesta de plataformas, que se conectan a través de caminos empedrados, escaleras y muros. Las plataformas y terrazas eran lugares llanos sobre los que se construyeron estructuras de madera que se utilizaban como centros ceremoniales, almacenes y viviendas. Las dimensiones de las plataformas varían pero podrían estimarse para una vivienda, en 15,50 m de largo y 3,00 m de ancho, siempre delimitadas por un muro de contención de altura mayor a 0,80 m y el espesor medio de 1,00 m. Además de estas estructuras habitacionales, existen canales y sistemas de drenaje en la zona urbana, así como puentes de madera, realizados con complicadas celosías primarias.\n\nTodo lo anterior, así como las figuras 1 y 2, está relacionado con un asentamiento habitado por una población como los",
+   "opciones": {
+    "A": "muiscas.",
+    "B": "panches.",
+    "C": "taironas.",
+    "D": "quimbayas."
+   },
+   "correcta": "C",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Las **terrazas circulares con muros de contención en piedra**, unidas por caminos empedrados y escaleras y con canales de drenaje, a entre 900 y 1.200 m de altitud, describen **Ciudad Perdida (Teyuna)** en la Sierra Nevada de Santa Marta, construida por los **taironas**. Los muiscas vivían en el altiplano, a más de 2.500 m, en bohíos sin este sistema de terrazas líticas, y los panches y quimbayas no dejaron obras de este tipo.",
+   "origen": "Cuadernillo 2018 #9",
+   "imagen": "icfes_estudio_proyectual_009.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-010",
+   "area": "estudio_proyectual",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "La ciudad, entendida como arquitectura, supone reconocer que el proceso arquitectónico conduce a la configuración de los tipos y se realiza, en aquella, de modo que se establece una relación entre tipología edilicia y morfología urbana. La relación tipología morfología, identificada por Carlo Aymonino como una relación dialéctica y no casual sobre la cual se basa la existencia de la ciudad como un conjunto, se inscribe dentro de una dialéctica más amplia, la que enfrenta el tipo con la realidad. Esta relación compleja, que vincula las condiciones técnicas, culturales, económicas, sociales, con el tipo arquitectónico constituye la estructura de los hechos urbanos. Desde esta perspectiva, la morfología urbana aparece como uno de los componentes de la realidad que entra en relación directa con",
+   "opciones": {
+    "A": "la forma arquitectónica.",
+    "B": "el prototipo.",
+    "C": "el modelo.",
+    "D": "la temática."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Para Aymonino y Rossi, el tipo se hace realidad a través de la **forma arquitectónica**, y esa forma es la que se relaciona dialécticamente con la morfología de la ciudad. El prototipo y el modelo son objetos para copiar tal cual, lo contrario del tipo, que es abstracto y adaptable, y la temática no es una categoría formal.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-estudio_proyectual-011",
+   "area": "estudio_proyectual",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Al comenzar el siglo XX, uno de los aspectos de la forma más analizado en arquitectura ha sido “*la destrucción de la caja*”, cuya interpretación esencial es la disolución de la condición compacta del volumen arquitectónico transformando el edificio monolítico, e incluso simétrico en su ordenamiento compositivo, en uno descompuesto, horadado y articulado.\n\nDe los siguientes arquitectos, con su respectiva obra ejemplo, el más radical en sus diseños en este proceso de transformación hacia la descomposición volumétrica de la forma fue",
+   "opciones": {
+    "A": "Charles Rennie Mackintosh. Hill House (1902 – 1904), Helensburgh, Escocia.",
+    "B": "Mies van der Rohe. Casa Lange (1927-30), Krefeld, Alemania.",
+    "C": "Frank Lloyd Wright. Casa Robie (1908 - 1909), Chicago, Estados Unidos.",
+    "D": "Josef Hofman. Palacio Stoclet (1910), Bruselas, Bélgica."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "En la **Casa Robie**, Wright rompe la caja: los planos horizontales se separan, los aleros vuelan, no hay un perímetro continuo y la planta se articula en torno a la chimenea central, en tensión entre lo horizontal y lo vertical. La Hill House y el Palacio Stoclet mantienen volúmenes prismáticos macizos. En la Casa Lange, Mies hace el volumen más sutil sin llegar a descomponerlo.",
+   "origen": "Cuadernillo 2018 #11 · Preguntas explicadas #3",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_011_A.png",
+    "B": "icfes_estudio_proyectual_011_B.png",
+    "C": "icfes_estudio_proyectual_011_C.png",
+    "D": "icfes_estudio_proyectual_011_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-012",
+   "area": "estudio_proyectual",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Desde la antigüedad, el ser humano ha procurado la construcción de una morada confortable. Al cabo del tiempo, diferentes estilos en arquitectura han modificado los materiales y sistemas constructivos, por lo que la arquitectura se ha materializado según estos estilos: gótico, barroco, neoclásico, entre otros. El estilo arquitectónico refleja algunos valores o necesidades sociales, independientemente de la tipología, es decir, de la obra que se construye. En todo caso, la arquitectura no se rige solo por el gusto o los cánones estéticos, sino que tiene en cuenta una serie de cuestiones prácticas, estrechamente relacionadas entre sí: la elección de los materiales y su puesta en obra, la disposición estructural de las cargas y el precepto fundamental del uso al que se destine el edificio. Contrario a lo anterior, la arquitectura que se caracteriza por no seguir ningún estilo específico ni estar proyectada por un especialista, sino que la construyen los usuarios y normalmente utiliza los materiales disponibles en la región en la que se construye, basada en resultados de siglos de experimentación, es intemporal y adecuada al clima, a la topografía y a la forma de vida de sus habitantes, se conoce como arquitectura",
+   "opciones": {
+    "A": "orgánica.",
+    "B": "ecléctica.",
+    "C": "vernácula.",
+    "D": "bioclimática."
+   },
+   "correcta": "C",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La arquitectura **vernácula** es la que levantan los propios usuarios, sin arquitecto, con **materiales locales** y técnicas tradicionales probadas durante siglos y adaptadas al clima y al modo de vida. La orgánica (Wright) y la bioclimática son corrientes proyectadas por especialistas, y la ecléctica mezcla estilos históricos.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-estudio_proyectual-013",
+   "area": "estudio_proyectual",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "En su planteamiento de Ciudad Jardín, Ebenezer Howard buscó resolver algunos de los problemas que la Revolución Industrial había generado en los entornos urbanos, entre ellos, la densificación, la inequidad social y la contaminación. Dentro de la estructura de movilidad planteada por Howard, se pretendía evitar la congestión y garantizar la eficiencia en la circulación, para lo cual implementó los “*cul de sac*”, elementos que se usan hoy y que se ilustran en",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Un ***cul de sac*** es una calle sin salida que remata en una pequeña glorieta de retorno, para que solo circule por ella el tráfico local. En la imagen A se ven muchas calles residenciales que terminan en círculos con viviendas alrededor. B y D muestran glorietas o intercambios viales de tráfico de paso, y C una retícula de manzanas.",
+   "origen": "Cuadernillo 2018 #13",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_013_A.png",
+    "B": "icfes_estudio_proyectual_013_B.png",
+    "C": "icfes_estudio_proyectual_013_C.png",
+    "D": "icfes_estudio_proyectual_013_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-014",
+   "area": "estudio_proyectual",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Como arquitecto, a usted se le encarga realizar el diseño de una vivienda en un clima cálido seco, para lo cual debe plantear las estrategias para desarrollar el proyecto en este contexto ambiental. De las siguientes estrategias, la que favorece en menor medida el diseño bioclimático en este caso es",
+   "opciones": {
+    "A": "la incorporación de masa térmica, a través de muros gruesos y pesados para asegurar una temperatura estable.",
+    "B": "la protección de la radiación solar, a través de voladizos que sombreen los vanos y las fachadas.",
+    "C": "el enfriamiento radiante, a través de huecos pequeños y protección con celosías, contraventanas y cortinas.",
+    "D": "el enfriamiento evaporativo, a través de patios que permitan la presencia de vegetación y cuerpos de agua."
+   },
+   "correcta": "C",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La clave oficial es C. El **enfriamiento radiante** consiste en que la envolvente pierda calor hacia el cielo nocturno, y los huecos pequeños con celosías y cortinas en realidad corresponden a protección solar, no a enfriamiento radiante, así que la estrategia está mal planteada. En cambio, la **masa térmica** (A), el sombreado (B) y el enfriamiento evaporativo con patios y agua (D) son estrategias típicas del clima cálido seco. Aun así, la clave es discutible: los huecos pequeños con celosías también son una medida válida en ese clima, aunque esté mal llamada \"enfriamiento radiante\".",
+   "origen": "Cuadernillo 2018 #14",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-estudio_proyectual-015",
+   "area": "estudio_proyectual",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "La arquitectura de fin del siglo XIX tuvo diversas manifestaciones, las cuales responden a las necesidades de la producción industrial, a la ruptura de la tradición historicista, e incluso a coyunturas originadas por desastres, como el incendio de Chicago en 1871 que desencadenó, entre otros cambios o desarrollos, la Escuela de Chicago, liderada por William Le Baron Jenney y Louis Sulivan. Esta escuela basó su trabajo en innovaciones como",
+   "opciones": {
+    "A": "estructura aporticada en concreto reforzado, técnicas artesanales mejoradas, desarrollo de la iluminación artificial y ventanas de variadas formas.",
+    "B": "estructura aporticada metálica, procesos de industrialización en las obras, desarrollo del ascensor y sustitución del muro en piedra por ladrillo y ventanería.",
+    "C": "estructura de muros y diagonales, nuevas técnicas de construcción, desarrollo equipos mecánicos y desarrollo del muro cortina.",
+    "D": "estructura dual o híbrida, procesos de prefabricación, desarrollo de sistemas contraincendios y fachada continua."
+   },
+   "correcta": "B",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Los rascacielos de la Escuela de Chicago (como el Home Insurance Building de Jenney) se apoyan en el **esqueleto metálico aporticado**, en la **industrialización** de la obra y en el **ascensor**. Los gruesos muros de piedra se reemplazan por fachadas de ladrillo con grandes ventanas (la \"ventana Chicago\"). El concreto reforzado en pórticos y el muro cortina pleno llegan después.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-estudio_proyectual-016",
+   "area": "estudio_proyectual",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "En la Villa Savoye se propone que el sujeto entre en una dinámica casi cinematográfica, en la que la estructura espacial tiene que ver con la simultaneidad entre el interior y el exterior, para generar múltiples percepciones del espacio. La planta baja apoyada en pilotes que conforman un esqueleto independiente de los muros permiten libertad en su configuración; las fachadas funcionan de forma independiente de la estructura del edificio, y las ventanas corridas establecen una relación directa y generosa con el entorno. Su volumetría se levanta del primer piso haciendo uso preciso de un repertorio de formas regulares que se destacan por la intervención de la luz natural y articulan los diferentes niveles.\n\nBasado en lo anterior, de las siguientes plantas arquitectónicas, la que corresponde a las características formales y espaciales con las que Le Corbusier diseñó y construyó la Villa Savoye es",
+   "opciones": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "correcta": "A",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Las plantas A son las de la **Villa Savoye**: una retícula regular de **pilotes**, una planta baja curva (el radio de giro del automóvil) y la **rampa central** que articula los niveles, con planta libre y una terraza en la cubierta. B es la Casa Farnsworth de Mies, C la Casa de la Cascada de Wright y D una casa con bóvedas curvas que no corresponde a la villa.",
+   "origen": "Cuadernillo 2018 #16",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_016_A.png",
+    "B": "icfes_estudio_proyectual_016_B.png",
+    "C": "icfes_estudio_proyectual_016_C.png",
+    "D": "icfes_estudio_proyectual_016_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-017",
+   "area": "estudio_proyectual",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "El título A del Reglamento Colombiano de Construcción Sismorresistente, NSR-10, en su capítulo A.3, establece los requisitos generales de diseño sismorresistente, define los tipos de sistemas estructurales y su aplicabilidad dependiendo de la zona de amenaza sísmica y la altura permitida. De estos requisitos y tipos de sistemas estructurales, la tabla 3-1 muestra una parte del reglamento.\n\n**Tabla A.3-1** (realizada a partir de NSR-10 página A-51) — A. Sistema de muros de carga. El sistema de resistencia para cargas verticales es, en todos los casos, el mismo.\n\n| 2. Muros estructurales | Alta: uso | Alta: altura máx. | Intermedia: uso | Intermedia: altura máx. | Baja: uso | Baja: altura máx. |\n|---|---|---|---|---|---|---|\n| a. Muros de concreto con capacidad especial de disipación de energía (DES) | Sí | 50 m | Sí | Sin límite | Sí | Sin límite |\n| b. Muros de concreto con capacidad mínima de disipación de energía (DMO) | No se permite | — | Sí | 50 m | Sí | Sin límite |\n| c. Muros de concreto con capacidad moderada de disipación de energía (DMI) | No se permite | — | No se permite | — | Sí | 50 m |\n| d. Muros de mampostería reforzada de bloque de perforación vertical (DES) con todas las celdas rellenas | Sí | 50 m | Sí | Sin límite | Sí | Sin límite |\n| e. Muros de mampostería reforzada de bloque de perforación vertical (DMO) | Sí | 30 m | Sí | 50 m | Sí | Sin límite |\n| f. Muros de mampostería reforzada de bloque de perforación vertical | grupo I | 2 pisos | Sí | 12 m | Sí | 18 m |\n| g. Muros de mampostería confinada | grupo I | 2 pisos | grupo I | 12 m | grupo I | 18 m |\n| h. Muros de mampostería de cavidad reforzada | Sí | 45 m | Sí | 60 m | Sí | Sin límite |\n| i. Muros de mampostería no reforzada (no tiene capacidad de disipación de energía) | No se permite | — | No se permite | — | grupo I | 2 pisos |\n\n*La mampostería no reforzada solo se permite en las regiones de las zonas de amenaza sísmica baja, donde Aa sea menor o igual a 0,05.\n\nUsted está diseñando un proyecto de vivienda de 35 m de altura en una ciudad localizada en zona de amenaza sísmica intermedia y define que el sistema estructural que mejor se adapta a su planteamiento arquitectónico es el de muros de carga. Luego de revisar la Tabla A.3-1 concluye que puede seleccionar muros",
+   "opciones": {
+    "A": "en mampostería confinada (DMO), en concreto (DMO) o de cavidad reforzada (DES).",
+    "B": "en concreto (DMO), de cavidad reforzada (DES) o de mampostería parcialmente reforzada (DMO).",
+    "C": "en mampostería parcialmente reforzada (DMO), en concreto (DMO) o en mampostería confinada (DMO).",
+    "D": "en concreto (DMO), de cavidad reforzada (DES) o en mampostería reforzada (DMO)."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "En zona intermedia, para 35 m sirven los muros de **concreto DMO** (hasta 50 m), los de **cavidad reforzada** (hasta 60 m) y los de **mampostería reforzada DMO** (hasta 50 m). La mampostería confinada y la parcialmente reforzada solo llegan a 12 m en zona intermedia, y eso descarta A, B y C.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-estudio_proyectual-018",
+   "area": "estudio_proyectual",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Mies van der Rohe diseñó para la Feria Universal de 1929, en Barcelona, el edificio conocido como “Pabellón de Alemania”, que se muestra en la figura. Para la composición de este edificio, el arquitecto tomó referencias de un templo griego.\n\nAnalizando las imágenes de la figura, el elemento referente predominante de la arquitectura antigua presente en el Pabellón es el",
+   "opciones": {
+    "A": "arquitrabe.",
+    "B": "estilóbato.",
+    "C": "entablamento.",
+    "D": "friso."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "El Pabellón se levanta sobre un **gran basamento de travertino** con escalinata, el equivalente del **estilóbato** o crepidoma sobre el que se asienta el templo griego, y eso es lo que muestra la foto. La cubierta es una losa plana, sin arquitrabe, friso ni entablamento, que son las partes horizontales que van sobre las columnas.",
+   "origen": "Cuadernillo 2018 #18",
+   "imagen": "icfes_estudio_proyectual_018.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-019",
+   "area": "estudio_proyectual",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Aldo Rossi comprende la ciudad como arquitectura, no como la imagen visible de esta y el conjunto de su arquitectura, sino como construcción permanente, dinámica y cambiante a través del tiempo; la concibe como una materialización simbiótica de la vida civil y la sociedad en la que se manifiesta; por tanto, es colectiva por naturaleza propia. Considera que la ciudad se desarrolla sobre ella misma, obtiene sentido propio y conciencia de su evolución. Afirma que en su construcción se mantienen aún sus motivos originales; sin embargo, a medida que pasa el tiempo va materializándolos, actualizándolos y modificándolos de acuerdo con su misma evolución; por tanto, la ciudad se convierte en el testigo físico y material del paso del hombre en su interior, de los acontecimientos públicos y de las tragedias privadas.\n\nEn este contexto, Rossi considera la importancia del rito, su naturaleza colectiva y su esencia, y el mito, como elementos claves para la comprensión y valoración del",
+   "opciones": {
+    "A": "hecho urbano.",
+    "B": "*locus*.",
+    "C": "*genius loci*.",
+    "D": "monumento."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "En *La arquitectura de la ciudad*, Rossi vincula el **monumento** con el rito y el mito: el monumento es un elemento primario y permanente que conserva la memoria colectiva, igual que el rito mantiene vivo el mito. El hecho urbano (A) es la categoría general, el *locus* (B) es la relación singular entre un lugar y sus construcciones, y el *genius loci* (C) es una noción de Norberg-Schulz.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-estudio_proyectual-020",
+   "area": "estudio_proyectual",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Han encargado proyectar un edificio de oficinas de 8 pisos, en concreto, ubicado en un predio de forma rectangular. Una de las principales preocupaciones del arquitecto es establecer criterios de configuración estructural acordes con los parámetros de desempeño frente a las cargas horizontales establecidos por la NSR-10. En este sentido, teniendo en cuenta el uso del edificio, la geometría del predio y la localización geográfica, la solución esquemática en planta de mayor pertinencia para configurar la estructura es un",
+   "opciones": {
+    "A": "Sistema de pórticos con columnas de sección circular y punto fijo lateral, confinado en pantallas estructurales.",
+    "B": "Sistema de pórticos con columnas redondas, punto fijo central confinado en pantallas estructurales y tramos en voladizo.",
+    "C": "Sistema de pórticos con columnas rectangulares en dos direcciones y punto fijo lateral, confinado en pantallas estructurales.",
+    "D": "Sistema de pórticos con columnas rectangulares perimetrales y punto fijo central, confinado en pantallas estructurales."
+   },
+   "correcta": "D",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Frente a cargas horizontales conviene una planta **simétrica**: el **punto fijo central** con pantallas pone la rigidez en el centro de masa y evita torsión, y las columnas rectangulares perimetrales orientadas en ambas direcciones con muros en las esquinas reparten la rigidez. Un punto fijo lateral (A, C) genera excentricidad y torsión, y los voladizos (B) son una irregularidad que la NSR-10 penaliza.",
+   "origen": "Cuadernillo 2018 #20",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_020_A.png",
+    "B": "icfes_estudio_proyectual_020_B.png",
+    "C": "icfes_estudio_proyectual_020_C.png",
+    "D": "icfes_estudio_proyectual_020_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-021",
+   "area": "estudio_proyectual",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "El concepto de *composición* ha variado a lo largo de los siglos desde una expresión relacionada directamente con el diseño integral en el mundo clásico hasta referirse solo al manejo de formas geométricas en el último siglo.\n\nUna de las definiciones es: “...todos los elementos del diseño se componen según una posición apropiada, una exacta proporción, una disposición conveniente y un orden armonioso de tal manera que todas las partes se corresponden entre sí, la derecha con la izquierda, las inferiores con las superiores, sin que interfiera nada que pueda afear el orden de los materiales”. *Leon Battista Alberti.*\n\nDe los cuatro edificios religiosos, mostrados en las figuras, el que evidencia esta afirmación es",
+   "opciones": {
+    "A": "Iglesia de San Carlos de las Cuatro Fuentes, Roma, 1768.",
+    "B": "Basílica de Santa María Novella, Florencia, 1470.",
+    "C": "Iglesia de Santo Domingo, Soria, finales del siglo XII.",
+    "D": "Iglesia de Notre Dame de Raincy, París, 1922."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La fachada de **Santa María Novella es obra del propio Alberti**: está compuesta con cuadrados y proporciones exactas, con simetría perfecta y volutas que unen el cuerpo bajo con el alto. Así aplica su definición de concinnitas, en la que todas las partes se corresponden. San Carlino es barroco y dinámico, Santo Domingo de Soria es románico y Notre Dame du Raincy es moderna, de concreto.",
+   "origen": "Cuadernillo 2018 #21",
+   "imagenes": {
+    "A": "icfes_estudio_proyectual_021_A.png",
+    "B": "icfes_estudio_proyectual_021_B.png",
+    "C": "icfes_estudio_proyectual_021_C.png",
+    "D": "icfes_estudio_proyectual_021_D.png"
+   }
+  },
+  {
+   "id": "icfes-estudio_proyectual-022",
+   "area": "estudio_proyectual",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "El Imperio romano, por medio de su poderío militar, logró dominar de manera eficiente un extenso territorio con sus pobladores. Una de esas civilizaciones conquistadas fue la griega, de la cual adquirieron conocimientos sobre sus artes, que influenciaron la arquitectura y el urbanismo romano. Sin embargo, algunas edificaciones tienen su origen en el contexto de la vida urbana romana.\n\nEn este contexto, la vida urbana de las ciudades romanas demandaba tipos de espacios y edificaciones específicos que permitieran llevar a cabo las actividades diarias. En tal sentido, los edificios y espacios que tienen su origen en las ciudades romanas son",
+   "opciones": {
+    "A": "teatro, santuario, ágora y propileo.",
+    "B": "anfiteatro, foro, ágora y propileo.",
+    "C": "terma, teatro, santuario y basílica.",
+    "D": "terma, anfiteatro, basílica y foro."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "**Termas, anfiteatro, basílica y foro** son tipologías nacidas de la vida urbana romana. El teatro, el santuario, el ágora y el propileo son de origen griego, y por eso todas las demás opciones incluyen al menos uno de ellos.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-estudio_proyectual-023",
+   "area": "estudio_proyectual",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "A los planes de ordenamiento territorial, la Ley 388 de 1997 los clasifica como Planes de Ordenamiento Territorial (POT), Planes Básicos de Ordenamiento Territorial (PBOT) y Esquemas de Ordenamiento Territorial (EOT).\n\nAunque todos son el instrumento principal para desarrollar los procesos de ordenamiento de su respectivo territorio, hay un aspecto que los diferencia y que exige que cada municipio y distrito del país adopten uno en particular, es decir, un POT, un PBOT o un EOT. Este aspecto es el número de habitantes",
+   "opciones": {
+    "A": "asentados en el suelo de expansión urbana.",
+    "B": "asentados en el suelo urbano.",
+    "C": "total, sin importar en qué suelo se asienten.",
+    "D": "asentados en suelo rural."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "El artículo 9 de la Ley 388 asigna el instrumento según la **población total** del municipio: POT para más de 100.000 habitantes, PBOT entre 30.000 y 100.000 y EOT para menos de 30.000. No distingue entre suelo urbano, rural o de expansión.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-estudio_proyectual-024",
+   "area": "estudio_proyectual",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "En las imágenes de la figura se muestran dos espacios públicos de la ciudad antigua, los cuales corresponden a centros del comercio, comúnmente rodeados por los edificios privados y públicos más importantes, que desde el punto de vista económico y comercial llegaron a ser el inicio de las polis, y que se constituyeron en el centro de la vida administrativa. Por otra parte, se situaban en la ciudad baja.\n\nDesde el punto de vista de las actividades desarrolladas en estos sitios y su localización en la ciudad, el espacio que **NO** corresponde a la descripción anterior es",
+   "opciones": {
+    "A": "la acrópolis.",
+    "B": "el ágora.",
+    "C": "el foro.",
+    "D": "la plaza."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "La **acrópolis** es la ciudad alta: un recinto fortificado y religioso en la cima de una colina, no un centro comercial de la ciudad baja. El ágora griega, el foro romano y la plaza sí son espacios públicos de comercio y administración en la parte baja.",
+   "origen": "Cuadernillo 2018 #24",
+   "imagen": "icfes_estudio_proyectual_024.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-025",
+   "area": "estudio_proyectual",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "La civilización romana se reconoce por haber logrado de manera efectiva difundir su pensamiento en los territorios conquistados. En este contexto, las ciudades fundadas por los romanos que toman como referencia el plano de las ciudades de Grecia antigua y los campamentos militares romanos eran el centro de la vida política, social y comercial de esta civilización.\n\nTeniendo en cuenta el origen militar de las ciudades fundadas por los romanos, los dos ejes perpendiculares entre sí que determinan la estructura urbana de la ciudad romana son el",
+   "opciones": {
+    "A": "damero y el *holitorium*.",
+    "B": "cardo y el *decumanus*.",
+    "C": "*velabrun* y el palatino.",
+    "D": "*domus* y la insula."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el proyecto arquitectónico y urbano de manera integral desde dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "Heredados del *castrum* (campamento militar), el **cardo** (norte-sur) y el **decumanus** (este-oeste) se cruzan en el foro y ordenan la retícula, como en la figura. El damero es la retícula en sí y el *forum holitorium* era un mercado, el Velabro y el Palatino son lugares de Roma, y la *domus* y la *insula* son tipos de vivienda.",
+   "origen": "Cuadernillo 2018 #25",
+   "imagen": "icfes_estudio_proyectual_025.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-026",
+   "area": "estudio_proyectual",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "La Fábrica de Turbinas de la AEG de Peter Behrens (Berlín – 1909) y la Fábrica Fagus de Walter Gropius y Adolf Meyer (Alfeld an der Leine - 1911) son consideradas obras pioneras del movimiento moderno, entre otras razones, porque se aplicaron nuevos sistemas constructivos para la estructura, como lo fue en esa época el uso de pórticos, lo que permitió en términos de composición distinguir la estructura de los cerramientos.\n\nNo obstante, en los dos edificios referenciados y mostrados en las figuras 1 y 2, el resultado en términos compositivos fue distinto. La Fábrica Fagus se diferencia de la Fábrica de Turbinas de la AEG en que",
+   "opciones": {
+    "A": "extiende los ventanales más allá de las columnas y logra una mayor sensación de transparencia al desmaterializar la estructura.",
+    "B": "las columnas guardan la misma distancia entre ellas, sostienen la cubierta y marcan un ritmo en la fachada longitudinal del edificio.",
+    "C": "propone un cambio de diseño en la fachada más corta de la nave industrial, pues la diferencia de su fachada longitudinal.",
+    "D": "emplea en sus planos de fachada, y a través del uso de distintos materiales, paños opacos en contraste con grandes superficies acristaladas."
+   },
+   "correcta": "A",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "En la Fagus, el vidrio **dobla la esquina sin columna**, porque la estructura queda retrasada detrás del cerramiento. Así la fachada se vuelve una piel transparente y la estructura parece desmaterializarse. En la AEG, en cambio, los pilares y las esquinas macizas se ven con claridad. El ritmo de columnas (B), el tratamiento de la fachada corta (C) y el contraste entre partes opacas y vidrio (D) se dan en ambos edificios.",
+   "origen": "Cuadernillo 2018 #26",
+   "imagen": "icfes_estudio_proyectual_026.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-027",
+   "area": "estudio_proyectual",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Analizando los trazados urbanos de los centros históricos de algunas ciudades de la antigüedad, unas europeas y algunas hispanoamericanas, se infiere que generalmente están asociados a formas geométricas derivadas principalmente del cuadrado y sus posibles progresiones matemáticas y relacionadas con formas derivadas de este. Es el caso de ciudades francesas de los siglos XVIII y XIX, donde se encuentran al menos cuatro características que definen su forma y disposición urbana: recta, uniforme, regular y monumental, conceptos relativos a la geometría que definen lo que se conoce como cuadrícula, de donde se derivan ciertos nombres como plano ortogonal o plano equirrectangular, referenciados en las figuras 1 y 2.\n\nLos trazos regulados de la planta urbana son susceptibles de interpretarse como mensajes asociados a aspectos y prácticas culturales y, en algunos casos, sus nombres tipológicos derivan de ellas, como en las ciudades españolas que implementan esta forma y la denominan damero, por asociación a un plano o tablero de damas. Sin embargo, el origen de este planteamiento urbano que define la forma de la ciudad en su asentamiento primitivo se conoce con el nombre de",
+   "opciones": {
+    "A": "cuadrícula española.",
+    "B": "retícula hipodámica.",
+    "C": "trazado poligeométrico.",
+    "D": "malla organicista."
+   },
+   "correcta": "B",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "El trazado ortogonal tiene su origen teórico en **Hipodamo de Mileto** (siglo V a. C.), que planificó ciudades como El Pireo con calles perpendiculares: es la **retícula hipodámica**. La cuadrícula española de las Leyes de Indias es una aplicación posterior, y la malla organicista es justamente lo contrario de un trazado regular.",
+   "origen": "Cuadernillo 2018 #27",
+   "imagen": "icfes_estudio_proyectual_027.png"
+  },
+  {
+   "id": "icfes-estudio_proyectual-028",
+   "area": "estudio_proyectual",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "En arquitectura no existe una sola definición de lugar. La antigüedad clásica concibe el lugar desde la perspectiva del *genius loci*, el dios del lugar, que es la identificación divina de la idea de que cada lugar es irrepetible y constituye una identidad única. Los lugares, en la arquitectura y el diseño urbano, se componen de una serie de elementos estructurales que crean carácter, dictan la función y facilitan o limitan el movimiento. “Es un fenómeno físico que se modifica permanentemente a través de la historia y paralelamente con el desarrollo de la ciudad”.\n\nLos elementos básicos que componen un lugar son",
+   "opciones": {
+    "A": "las señas culturales de cada época que constituyen una forma de documento histórico en el espacio urbano.",
+    "B": "las montañas, planicies, playas y riveras, los parques, el comercio, los edificios públicos, los barrios, la periferia y el centro.",
+    "C": "los accidentes geográficos más importantes que moldean el paisaje, los conjuntos habitacionales, la orientación de la trama frente al paisaje, las instituciones cívicas, los parques, los atractivos turísticos y los espacios naturales.",
+    "D": "los accidentes geográficos que moldean el paisaje, componentes de enlace entre las partes de la ciudad, los edificios que forman calles y parques, los monumentos, los espacios abiertos y plazas, el mobiliario urbano, la vegetación y la gente."
+   },
+   "correcta": "D",
+   "afirmacion": "Argumenta el proyecto arquitectónico y urbano a partir de relaciones entre las dimensiones espaciales, técnicas, urbanas y teóricas.",
+   "explicacion": "D es la lista completa: el **paisaje natural**, los elementos de **enlace**, los edificios que conforman calles y parques, los monumentos, plazas, mobiliario y vegetación, y además **la gente**, que es la que da vida y carácter al lugar. A se queda solo en lo histórico. B y C mezclan usos como el comercio o los atractivos turísticos y dejan por fuera a las personas y los elementos de enlace.",
+   "origen": "Cuadernillo 2018 #28"
+  }
+ ]
+}

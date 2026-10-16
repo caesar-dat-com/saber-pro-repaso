@@ -1,0 +1,414 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Información y Control Contable (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-control_contable-001",
+   "area": "control_contable",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "El paradigma de la utilidad de la información tiene como objetivo responder a los requerimientos de usuarios indeterminados, como suministro de información contable para la toma de decisiones eficientes; lo anterior se logra mediante la emisión de regulaciones que tengan en cuenta los intereses de diferentes grupos de interés. De igual forma, este paradigma posibilita en las investigaciones la unificación de conceptos y atiende a los criterios de la investigación empírica, por lo que sus resultados se aplican en la práctica y tienen marcada incidencia en las bases de la educación contable.\n\nLas razones antes expuestas y argumentadas dan cuenta de que este paradigma estudia la realidad",
+   "opciones": {
+    "A": "de la información financiera útil para los propietarios, proveedores, clientes, inversionistas, el gobierno y la sociedad.",
+    "B": "para determinar la valoración de los activos, pasivos, ingresos, costos y gastos acorde a bases razonables.",
+    "C": "para combinar diferentes bases de valuación de los recursos para que los estados financieros sean confiables.",
+    "D": "de una información financiera, que al ser utilizada incidirá en los cambios futuros del sistema de información contable."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende la Teoría y Epistemología contable como el referente conceptual del desarrollo disciplinar.",
+   "explicacion": "El paradigma de la utilidad se centra en el **usuario**: la información contable vale en la medida en que sirve para decidir a los distintos grupos de interés (propietarios, proveedores, clientes, inversionistas, Estado, sociedad). B y C tratan de valuación, que es una cuestión técnica, y D confunde el propósito con la retroalimentación del sistema.",
+   "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-control_contable-002",
+   "area": "control_contable",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Al operar como un sistema de recaudo anticipado, la retención en la fuente puede ser deducida al momento que un contribuyente realiza el pago del impuesto que genera dicha retención.\n\nFrente a la anterior afirmación, la retención en la fuente se constituye en impuesto exceptuando",
+   "opciones": {
+    "A": "la deducción a las entidades pertenecientes al régimen tributario especial de renta.",
+    "B": "las erogaciones a las entidades señaladas en la ley tributaria como no contribuyentes.",
+    "C": "las erogaciones a las personas jurídicas cuyo domicilio se encuentre en zonas francas.",
+    "D": "la deducción a las personas naturales no obligadas a presentar declaración de renta."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplica la regulación tributaria en las organizaciones.",
+   "explicacion": "Para quien no está obligado a declarar renta, la retención que le practicaron no se descuenta en una declaración posterior: es su **impuesto definitivo**. Por eso la persona natural no declarante es el caso en que la retención deja de ser un anticipo. En los demás casos (régimen especial, no contribuyentes, zonas francas) o no se practica retención o sigue siendo un anticipo imputable.",
+   "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-control_contable-003",
+   "area": "control_contable",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Una fábrica de pasteles artesanales describe el siguiente proceso productivo:\n\n- Se requieren dos tipos de insumos: A (ingredientes secos) y B (ingredientes líquidos), cuyo costo por unidad fabricada es $3.800 y $2.200, respectivamente.\n- A quienes preparan el producto se les paga por unidad $9.000, y se sabe que esta empresa paga por alquiler en el local de operación $600.000 mensuales.\n- Se pagan unos gastos fijos de administración y ventas de $900.000. Su nivel de ventas mensuales es 300 unidades.\n\nPara afianzar su estrategia comercial se procede a analizar el precio de venta del mercado, con la pretensión de que brinde un mayor margen de maniobra y mejor posicionamiento en un mercado muy competitivo. Para ello, se procede a comparar el costo de sus productos por el sistema de costeo total y el sistema de costeo variable.\n\nPor tanto, corresponde al cálculo para el comparativo entre los sistemas de costeo:",
+   "opciones": {
+    "A": "Por costeo total: $20.000 y por costeo variable: $15.000.",
+    "B": "Por costeo total: $17.000 y por costeo variable: $18.000.",
+    "C": "Por costeo total: $17.000 y por costeo variable: $15.000.",
+    "D": "Por costeo total: $18.000 y por costeo variable: $20.000."
+   },
+   "correcta": "A",
+   "afirmacion": "Considera la importancia del sistema de información de gestión como apoyo en la toma de decisiones en las organizaciones.",
+   "explicacion": "Costo variable por unidad: 3.800 + 2.200 + 9.000 = **$15.000**. En el «costeo total» el Icfes reparte **todas** las erogaciones fijas de la empresa (que solo tiene este negocio): (600.000 + 900.000) / 300 = $5.000, lo que da **$20.000**. La C ($17.000) corresponde al costeo absorbente, que solo carga el alquiler y deja la administración y ventas como gasto del periodo; esa es la trampa.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-control_contable-004",
+   "area": "control_contable",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Las normas contables establecen, por un lado, el reconocimiento de los hechos económicos en el periodo en el cual suceden; por tanto, gastos como la fiesta de fin de año, las multas, el impuesto de vehículos, las sanciones, la música ambiental, entre otros, forman parte de la depuración para determinar la utilidad o pérdida del ejercicio. Por otro lado, la normativa tributaria no los considera gastos indispensables para el desarrollo da la actividad generadora de renta, por lo que no admite su deducción en la determinación de la renta líquida gravable. Lo anterior se entiende en virtud de que",
+   "opciones": {
+    "A": "la regulación contable hace uso del principio de asociación y la regulación tributaria del principio de relación de causalidad.",
+    "B": "la regulación tributaria desconoce el efecto de los principios de contabilidad generalmente aceptados en Colombia.",
+    "C": "el principio de asociación es también aplicado en la legislación tributaria, con limitación de ciertas expensas.",
+    "D": "el principio de relación de causalidad mide la injerencia que tiene el gasto en la productividad de la empresa."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica la regulación tributaria en las organizaciones.",
+   "explicacion": "En contabilidad, los gastos se reconocen **asociándolos** al periodo en que ocurren. En lo tributario, una expensa solo es deducible si tiene **relación de causalidad** con la actividad productora de renta (además de necesidad y proporcionalidad). Por eso multas o fiestas reducen la utilidad contable pero no la renta gravable. B exagera, porque la norma tributaria no desconoce la contable, sino que aplica otro criterio.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-control_contable-005",
+   "area": "control_contable",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "En la evolución de la contabilidad se aceptan tres periodos: el empírico, el clásico y el científico. Durante el periodo empírico aparecen las bases pragmáticas que le dan a la contabilidad un estatus de legalidad y se enfocan en el arte de la teneduría de libros. En los dos periodos siguientes hay claras evidencias de avances hacia un cuerpo disciplinar con características propias.\n\nDe este modo, se consideran diferencias fundamentales del periodo clásico, con relación al periodo científico y el empírico:",
+   "opciones": {
+    "A": "La promulgación de reglas para el manejo de las cuentas, el control hacendal y la determinación del beneficio verdadero; en el periodo científico se configura el paradigma de la utilidad de la información y un enfoque disciplinar teleológico.",
+    "B": "Se consolida el registro contable escrito, surge el principio del costo histórico y emergen los informes financieros básicos; en el periodo científico aparecen las diferentes escuelas contables y el desarrollo disciplinar es ontológico.",
+    "C": "Se estructura la profesión contable en Estados Unidos y aparecen diversos órganos de regulación; en el período científico hay enfoque empírico y se consolidan diversos métodos de valuación de inventarios.",
+    "D": "La promoción de la investigación positivista contable, se propone la axiomatización contable, y se da el modelo circulatorio de flujos; en el periodo científico se generaliza la partida doble, y se orienta hacia el beneficio verdadero."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende la Teoría y Epistemología contable como el referente conceptual del desarrollo disciplinar.",
+   "explicacion": "El periodo **clásico** se caracteriza por las reglas para el manejo de cuentas, el control de la hacienda y la búsqueda del **beneficio verdadero**. En el **científico** se impone el **paradigma de la utilidad** de la información, con un enfoque **teleológico** (orientado a fines). D invierte los periodos: la partida doble se generaliza mucho antes y la axiomatización es moderna.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-control_contable-006",
+   "area": "control_contable",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Un contribuyente persona natural presentó su declaración de renta y complementarios un mes antes de su fecha de vencimiento; sin embargo, 15 días después, al consultar la información que la DIAN le reportó por concepto de ingresos, se percató de que no declaro 5 millones de pesos producto de una asesoría que realizó durante el periodo gravable de la declaracion.\n\nSiguiendo el procedimiento tributario, frente a esta situación el contribuyente, además de la corrección de la declaración debe cancelar",
+   "opciones": {
+    "A": "sanción mínima.",
+    "B": "no aplica ninguna sanción.",
+    "C": "sanción por no declarar.",
+    "D": "sanción por extemporaneidad."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica la regulación tributaria en las organizaciones.",
+   "explicacion": "La corrección se hace **antes del vencimiento del plazo para declarar** (presentó un mes antes y corrige 15 días después). Una corrección dentro del plazo no genera sanción: el contribuyente solo paga el mayor impuesto. No hay extemporaneidad ni omisión de la declaración. En el cuadernillo 2018 esta pregunta tenía como opción B «la sanción por corrección»; la versión 2026 la reemplazó por «no aplica ninguna sanción».",
+   "origen": "Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-control_contable-007",
+   "area": "control_contable",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "La fábrica de celulares “La panela y la Flecha S.A.S”, presenta en la tabla la siguiente distribución de sus costos totales de fabricación, para el periodo 20X1:\n\n| Concepto | Valor |\n|---|---|\n| Vigilancia y aseo de la planta de producción | $3.000 |\n| Insumos y materiales | $50.000 |\n| Depreciación de las ensambladoras | $11.000 |\n| Mano de obra de los operarios | $30.000 |\n| Salarios de gerencia y personal de apoyo | $15.000 |\n| Promoción y publicidad | $9.000 |\n\nEn su encargo como nuevo director del departamento de contabilidad de costos de la organización, se le solicita verificar la contabilización de estas partidas y e identificar aquellas que están asociadas directamente al producto.\n\nAtendiendo a este requerimiento, corresponde a los valores que deben reflejar las cuentas de costos y gastos después de la reclasificación.",
+   "opciones": {
+    "A": "Costos de producción por $80.000 y gastos del período por $38.000.",
+    "B": "Costos de producción por $94.000 y gastos del período por $24.000.",
+    "C": "Costos de producción por $83.000 y gastos del período por $35.000.",
+    "D": "Costos de producción por $91.000 y gastos del período por $27.000."
+   },
+   "correcta": "B",
+   "afirmacion": "Considera la importancia del sistema de información de gestión como apoyo en la toma de decisiones en las organizaciones.",
+   "explicacion": "Son costos de producción las partidas de la planta: vigilancia y aseo (3.000), insumos (50.000), depreciación de las ensambladoras (11.000) y mano de obra de operarios (30.000), que suman **$94.000**. Los salarios de gerencia y apoyo (15.000) y la publicidad (9.000) son **gastos** del periodo: $24.000. El error típico es dejar la vigilancia o la depreciación de planta como gasto.",
+   "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-control_contable-008",
+   "area": "control_contable",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "La regulación sobre auditoría y control, junto a los postulados teóricos en esa materia, afirman que el control interno de una organización, al estar integrado a sus actividades operativas, contribuye al aseguramiento de la razonabilidad y la fiabilidad de la información financiera de la organización.\n\nFrente a esta aseveración, constituye una imprecisión, al aludir a la relación de la auditoría de control interno y las técnicas de auditoria financiera",
+   "opciones": {
+    "A": "el propósito de expresar una opinión sobre el sistema de control interno contable de una entidad difiere del propósito del estudio y evaluación de los controles internos contables hechos en una auditoría financiera.",
+    "B": "existe un punto de contacto muy fuerte entre la auditoría financiera y el control interno, de tal manera que al expresar una opinión desfavorable sobre el control interno se tiene que expresar una opinión equivalente sobre la información contable.",
+    "C": "el estudio y evaluación del control interno hechos por el auditor financiero es un paso intermedio para formarse una opinión de los estados financieros, ya que establece una base para determinar los límites dentro de los cuales el auditor aplicará los procedimientos de auditoría y lo ayuda a planear y a realizar su examen.",
+    "D": "aunque el alcance del estudio y evaluación de los controles internos contables, cuando se va a expresar una opinión sobre el sistema de control interno contable, generalmente difiere del de una auditoría financiera, los procedimientos son similares en ambos casos."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa los conceptos de control y aseguramiento de la información financiera y no financiera, sus tendencias y los elementos desde la óptica organizacional y profesional.",
+   "explicacion": "Se pide la afirmación **falsa**. Una opinión desfavorable sobre el control interno **no obliga** a dar una opinión equivalente sobre los estados financieros: el auditor puede ampliar sus pruebas sustantivas y concluir que las cifras son razonables. A, C y D describen bien la relación entre ambos trabajos.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-control_contable-009",
+   "area": "control_contable",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Según la sección 2 de las NIIF para pymes, se alude a aquellos ingresos que son incrementos en los beneficios económicos durante el período de presentación del reporte, en la forma de entradas o mejoramientos de activos o disminuciones de pasivos, que produce incrementos del patrimonio, distintos de los que se relacionan con contribuciones de los inversionistas de patrimonio, incluidos ingresos ordinarios y ganancias.\n\nCon base en la explicación anterior, se considera ganancia el incremento en los beneficios económicos",
+   "opciones": {
+    "A": "derivado de la venta de inventarios.",
+    "B": "proveniente de la prestación de servicios.",
+    "C": "proveniente de los intereses financieros recibidos.",
+    "D": "derivado de la venta de maquinaria usada en la producción."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los modelos regulativos que se aplican en el desempeño profesional, en las relaciones con las organizaciones y la sociedad en general.",
+   "explicacion": "La NIIF para pymes divide los ingresos en **ingresos de actividades ordinarias** y **ganancias**, que son partidas no recurrentes, ajenas al giro normal. Vender maquinaria de producción (propiedad, planta y equipo) es un hecho excepcional, así que es una ganancia. La venta de inventarios, los servicios y los intereses son ingresos ordinarios, aunque los intereses a veces se presenten como no operacionales.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-control_contable-010",
+   "area": "control_contable",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Para Cerboni, citado por Tua-Pereda (1995), la contabilidad es: “... La doctrina de las responsabilidades jurídicas que se establecen entre las personas que participan en la administración del patrimonio de las empresas”, otorgándole a la contabilidad un enfoque personalista.\n\nEn el anterior concepto, le compete a la contabilidad",
+   "opciones": {
+    "A": "estudiar el nexo jurídico que se establece en el desarrollo de las operaciones administrativas.",
+    "B": "justificar los fenómenos que se relacionan con el patrimonio de empresa.",
+    "C": "exponer las reglas de funcionamiento de los movimientos de cuentas.",
+    "D": "interpretar la dinámica de las haciendas que se generan por su interés hacia la obtención del lucro."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende la Teoría y Epistemología contable como el referente conceptual del desarrollo disciplinar.",
+   "explicacion": "En el **personalismo** de Cerboni, las cuentas representan relaciones de **derechos y obligaciones** entre personas, así que la contabilidad estudia el **nexo jurídico** que surge al administrar el patrimonio. B y D corresponden a enfoques patrimonialista y hacendal, y C a la visión técnica de las reglas de las cuentas.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-control_contable-011",
+   "area": "control_contable",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Usted firma un contrato como gerente de control interno de una compañía y se le solicita la evaluación de los componentes del control interno, de forma que se identifiquen factores de riesgo en ciertas áreas y se posibilite que dichos controles contribuyan al logro de las metas organizacionales.\n\nPara dar alcance a su encargo, en lo referente a la evaluación del ambiente de control, es necesario",
+   "opciones": {
+    "A": "realizar revisiones, seguimiento y análisis de los resultados reales con los presupuestos, así mismo con los pronósticos y los resultados del periodo anterior.",
+    "B": "propiciar la estructura en la que se deben cumplir los objetivos y la preparación de las personas que harán que se cumpla.",
+    "C": "establecer el mecanismo para identificar y analizar riesgos, cuantificarlos, y prever la probabilidad de que ocurran, así como las posibles consecuencias.",
+    "D": "generar instrumentos para el libre flujo de ideas y el intercambio de información a través de toda la organización."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa los conceptos de control y aseguramiento de la información financiera y no financiera, sus tendencias y los elementos desde la óptica organizacional y profesional.",
+   "explicacion": "En COSO, el **ambiente de control** es la base del sistema: la estructura organizacional, la asignación de responsabilidades y la competencia e integridad de las personas. A es supervisión o actividades de control, C es evaluación de riesgos y D es información y comunicación, que son otros componentes.",
+   "origen": "Cuadernillo 2018 #11 · Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-control_contable-012",
+   "area": "control_contable",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "El nuevo presidente de una entidad muy reconocida en el mercado de crédito ha propuesto un marco de gobierno corporativo exclusivo para atender los conflictos presentados entre la administración y los accionistas. Sin embargo, al enterarse de esto, un grupo de clientes y empleados han solicitado ser incluidos en el diseño e implementación de los mecanismos de control, recurriendo a su derecho de conocer la integridad de los resultados de la administración, de manera transparente y oportuna.\n\nEn su calidad de responsable del área financiera de esta entidad, es consultado por el presidente de la compañía para que oriente la decisión que debe tomarse.\n\nTeniendo presente los principios de gobierno corporativo, le corresponde recomendar al presidente de la compañía:",
+   "opciones": {
+    "A": "El apoyo al cambio sugerido, porque solo los propietarios arriesgan su capital en la organización.",
+    "B": "La implementación de iniciativas de responsabilidad social que mitiguen las demandas de los consumidores.",
+    "C": "Que incentive a todos los ejecutivos de la compañía con una participación de los beneficios económicos.",
+    "D": "Que formule mecanismos para atender los requerimientos de información de todos los agentes interesados."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los modelos regulativos que se aplican en el desempeño profesional, en las relaciones con las organizaciones y la sociedad en general.",
+   "explicacion": "Los principios de gobierno corporativo (OCDE) incluyen reconocer a los **grupos de interés** y garantizar **transparencia y revelación** de información. Lo que piden clientes y empleados se atiende con mecanismos de información para **todos los interesados**. A vuelve a un enfoque exclusivo para accionistas, B solo calma demandas y C no responde a la solicitud.",
+   "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-control_contable-013",
+   "area": "control_contable",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Una entidad desarrolla un proyecto de creación de un software, que se encuentra en fase de desarrollo, el cual se registra en el estado de situación financiera como un intangible. Para este proyecto se ha incurrido en gastos como transporte, alimentación, viajes y otros gastos menores.\n\nDe acuerdo con lo anterior, según el enfoque establecido por las Normas Internacionales de Información Financiera (IFRS), estos gastos",
+   "opciones": {
+    "A": "se pueden registrar en la cuenta del intangible, porque los gastos incurridos en este proyecto cumplen la definición de activo.",
+    "B": "no se pueden registrar en la cuenta del intangible, porque el gasto de alimentación no cumple con esta definición.",
+    "C": "se pueden registrar en la cuenta del intangible, porque los gastos de un proyecto que se encuentre en fase de desarrollo se reconocen como intangibles.",
+    "D": "no se pueden registrar en la cuenta del intangible, porque los gastos indirectos generales no son componentes del costo de un intangible generado internamente."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los modelos regulativos que se aplican en el desempeño profesional, en las relaciones con las organizaciones y la sociedad en general.",
+   "explicacion": "Según la NIC 38, el costo de un intangible generado internamente incluye solo los desembolsos **directamente atribuibles** a crearlo. Los gastos generales, de viaje, alimentación y similares **no se capitalizan** y van a resultados. B llega a la conclusión correcta pero da una razón incompleta, porque no es solo la alimentación.",
+   "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-control_contable-014",
+   "area": "control_contable",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "La empresa ABC implementó un sistema de información contable que genera reportes para la toma de decisiones de usuarios internos y externos. Dentro de los reportes generados por el sistema de información contable, se encuentran dos: (1) el estado de resultado integral y otros resultados, que puede ser consultado por usuarios externos y; (2) el informe de costos fijos y variables durante un periodo, que solo puede consultarse por usuarios internos.\n\nPor lo antes descrito corresponden a las características de la información financiera para usuarios externos:",
+   "opciones": {
+    "A": "Datos administrativos detallados de tal forma que se conozcan situaciones especiales, según las necesidades específicas de los diferentes niveles de autoridad.",
+    "B": "Aspectos generales de los resultados económicos de las actuaciones, políticas y directrices fijadas por los responsables de la empresa, para apoyar la toma de decisiones de los interesados.",
+    "C": "Datos sobre aspectos estratégicos y tácticos, de tal forma que si se equivocan en la decisión tomada pueden sufrir una fuerte pérdida y poner en peligro la permanencia de la empresa.",
+    "D": "Aspectos operativos de la organización, de tal forma que, si se equivocan en la decisión tomada, se dispongan de los recursos para subsanar un incidente mínimo."
+   },
+   "correcta": "B",
+   "afirmacion": "Considera la importancia del sistema de información de gestión como apoyo en la toma de decisiones en las organizaciones.",
+   "explicacion": "La información para **usuarios externos** (contabilidad financiera) es **general y agregada**: muestra los resultados de la gestión para que inversionistas, acreedores y otros interesados decidan. Los datos detallados, estratégicos u operativos de A, C y D son propios de la contabilidad de gestión, para usuarios internos.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-control_contable-015",
+   "area": "control_contable",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "En una empresa privada, Sociedad Anónima (S.A), un grupo de directivos han discutido por la relevancia y utilidad de los presupuestos como apoyo en la toma de decisiones de sus respectivos departamentos, pues, al parecer, la anterior administración no los tuvo en cuenta en sus actuaciones estratégicas y orientaciones operativas.\n\nFrente a la posición del grupo de directivos en mención le compete al director financiero justificar la pertinencia de los presupuestos",
+   "opciones": {
+    "A": "en tanto permiten coordinar las metas entre las áreas funcionales sin suministrar información oportunamente.",
+    "B": "permiten prevenir de manera eficaz cualquier variación entre los recursos planeados y los realmente ejecutados.",
+    "C": "permiten establecer ventajas comparativas frente a las organizaciones incluyendo la planeación financiera de ser inexistente.",
+    "D": "en tanto facilitan la planeación y el control monetario de los objetivos y estrategias organizacionales."
+   },
+   "correcta": "D",
+   "afirmacion": "Considera la importancia del sistema de información de gestión como apoyo en la toma de decisiones en las organizaciones.",
+   "explicacion": "El presupuesto expresa en dinero los planes, así que sirve para **planear** y para **controlar** comparando lo real con lo presupuestado. No puede *prevenir cualquier* variación (B exagera), justamente las detecta. A se contradice al decir «sin suministrar información», y C no tiene sentido sin planeación.",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-control_contable-016",
+   "area": "control_contable",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "El 30 de marzo de 20X2 el contador de la Cooperativa “Juntos y Solidarios” renunció a su cargo, negándose a firmar los estados financieros con corte 31 de diciembre de 20X1, pese a que fue él quien los preparó y que en su contrato de trabajo así se establecía.\n\nPara adelantar los trámites legales pertinentes, la compañía lo contrata a usted como asesor contable. Frente a esta negativa, usted deberá, amparado en el Código de Ética Nacional, conceptuar que la entidad",
+   "opciones": {
+    "A": "obligue al nuevo contador a firmar los estados financieros que se negó a firmar el anterior contador y que se requieren presentar ante la asamblea general.",
+    "B": "informe de esta situación a la Junta Central de Contadores para que adelanten las acciones disciplinarias pertinentes.",
+    "C": "retenga la liquidación de las prestaciones del contador, hasta tanto no entregue sus compromisos contractuales.",
+    "D": "presente los estados financieros sin la firma del contador, y se deja salvedad sobre esta situación."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende los modelos regulativos que se aplican en el desempeño profesional, en las relaciones con las organizaciones y la sociedad en general.",
+   "explicacion": "Negarse sin justificación a firmar lo que uno mismo preparó y se comprometió a certificar es una posible **falta ética** del contador. La autoridad disciplinaria de la profesión es la **Junta Central de Contadores**. Obligar al nuevo contador a firmar algo que no preparó (A) sería contrario a la ética, retener prestaciones (C) es ilegal, y los estados financieros requieren firma (D).",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-control_contable-017",
+   "area": "control_contable",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "La retención en la fuente es un mecanismo de recaudo anticipado del impuesto de renta que consiste en restar de cada pago o abono en cuenta un porcentaje previamente establecido por las normas tributarias.\n\nCon base en lo anterior, un contribuyente quiere calcular el monto total de sus deducciones con el fin de disminuir la base gravable de este porcentaje de retención.\n\nEl detalle de sus gastos es:\n\n| Concepto | Valor |\n|---|---|\n| Intereses por préstamos en adquisición de vivienda | $500.000 |\n| Aportes al plan obligatorio de salud POS | $200.000 |\n| Aporte a pensión obligatoria | $200.000 |\n| Dependientes | $800.000 |\n| Educación | $400.000 |\n\nA partir de la información y del análisis respectivo, corresponde al total de las deducciones de ley del contribuyente",
+   "opciones": {
+    "A": "$1.300.000",
+    "B": "$1.500.000",
+    "C": "$1.700.000",
+    "D": "$2.100.000"
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica la regulación tributaria en las organizaciones.",
+   "explicacion": "La clave suma como **deducciones** los intereses de vivienda (500.000), los aportes a salud (200.000) y los dependientes (800.000): **$1.500.000**. El aporte a pensión obligatoria es un ingreso no constitutivo de renta, no una deducción, y la educación no es deducible para efectos de retención. Ojo: con la normativa actual los aportes obligatorios a salud también se tratan como ingreso no constitutivo de renta; la pregunta refleja la regla vigente cuando se elaboró.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-control_contable-018",
+   "area": "control_contable",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Una firma de auditoría estableció la siguiente política de calidad: Todo el personal de la organización deberá actualizar anualmente el formato de declaración de independencia, el cual se entregará una copia al auditor y otra copia deberá reposar en el archivo de la dirección de recursos humanos, quien se encargará de llevar el registro de todo el personal. De acuerdo con ello, corresponde al objetivo de esta política del sistema de control de calidad de la firma",
+   "opciones": {
+    "A": "demostrar que se dispone de personal suficiente, con la competencia y capacidad requeridas.",
+    "B": "divulgar el cumplimiento de las normas profesionales requeridas para la emisión de los informes.",
+    "C": "exponer la evaluación objetiva de los juicios significativos dados por el equipo de auditoría.",
+    "D": "evidenciar el mantenimiento de los requerimientos de ética aplicables en el desarrollo de la auditoría."
+   },
+   "correcta": "D",
+   "afirmacion": "Evalúa los conceptos de control y aseguramiento de la información financiera y no financiera, sus tendencias y los elementos desde la óptica organizacional y profesional.",
+   "explicacion": "La **declaración de independencia** responde al elemento de la NICC 1 sobre **requerimientos de ética aplicables**: la firma debe tener seguridad razonable de que su personal mantiene la independencia. A es el elemento de recursos humanos, que trata de competencia, y C es la revisión de calidad del encargo.",
+   "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-control_contable-019",
+   "area": "control_contable",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Una entidad no registraba las utilidades reales debido a que los socios, al conocer los costos de la compañía, pretendían que se les facturaran a precio de costo cuando actuaban como clientes, lo cual generaba que la organización no tuviera un margen de rentabilidad positivo; por tanto, dependían de terceros para su sostenimiento.\n\nLo anterior da cuenta de que esta compañía presenta problemas en su estructura de gobierno corporativo",
+   "opciones": {
+    "A": "dado que delegó en una persona la definición, vigilancia y ejecución de los procesos de la empresa.",
+    "B": "dado que mantuvo la empresa de auditoría externa por un periodo ininterrumpido.",
+    "C": "porque cumplió todo lo que exige la ley del país en que opera la empresa.",
+    "D": "porque generó información insuficiente y errónea de la empresa para el público."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende los modelos regulativos que se aplican en el desempeño profesional, en las relaciones con las organizaciones y la sociedad en general.",
+   "explicacion": "Facturar a precio de costo a los socios esconde las utilidades reales: hay operaciones con partes relacionadas que distorsionan los estados financieros y dan **información insuficiente y errónea** a terceros. El caso no menciona concentración de funciones (A) ni la rotación del auditor (B), y cumplir la ley (C) no es un problema.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-control_contable-020",
+   "area": "control_contable",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "El gobierno corporativo (GC) identifica algunos arquetipos, que representan esquemas convencionales para estudiar el tema. Los dos arquetipos principales son el financiero, principal-agente y el pluralista o de relación con sus stakeholders (grupos de interés).\n\nDe acuerdo con lo anterior, una organización que establece el arquetipo pluralista en su gobierno corporativo, tendrá mejores opciones para administrar sus relaciones con sus stakeholders",
+   "opciones": {
+    "A": "cuando implemente programas y prácticas que promuevan la estabilidad laboral.",
+    "B": "cuando implemente políticas y estrategias de responsabilidad social corporativa.",
+    "C": "con la incorporación de programas y prácticas de auditoría social.",
+    "D": "con la incorporación de políticas y estrategias que promuevan la transparencia corporativa."
+   },
+   "correcta": "B",
+   "afirmacion": "Evalúa los conceptos de control y aseguramiento de la información financiera y no financiera, sus tendencias y los elementos desde la óptica organizacional y profesional.",
+   "explicacion": "El arquetipo **pluralista** pasa de los indicadores financieros a la relación con **todos** los grupos de interés. La herramienta que recoge esas relaciones de forma integral es la **responsabilidad social corporativa**. Según el Icfes, la estabilidad laboral (A), la auditoría social (C) y la transparencia (D) son componentes valiosos, pero parciales.",
+   "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #20 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-control_contable-021",
+   "area": "control_contable",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "La obligación tributaria del pago por concepto del impuesto al valor agregado (IVA) implica entregarle a la autoridad tributaria la diferencia entre lo recaudado por el cobro del impuesto en las ventas menos lo pagado por el impuesto en las compras. De acuerdo con lo anterior, si en un bimestre una empresa realizó compras cuyo impuesto a las ventas sumó $1.000 y en el mismo periodo recaudó impuestos a las ventas de los clientes por valor de $1.500, la cuenta Impuestos a las ventas tendría que registrarse como",
+   "opciones": {
+    "A": "débitos por $1.500 y créditos por $1.000.",
+    "B": "débitos por $2.500 y créditos por $1.500.",
+    "C": "débitos por $2.000 y créditos por $1.000.",
+    "D": "débitos por $1.000 y créditos por $1.500."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplica la regulación tributaria en las organizaciones.",
+   "explicacion": "El IVA pagado en compras es un IVA **descontable** y se registra como **débito** ($1.000). El IVA cobrado a los clientes es un **pasivo** con la DIAN y se registra como **crédito** ($1.500). El saldo crédito de $500 es lo que se paga. A invierte las naturalezas.",
+   "origen": "Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-control_contable-022",
+   "area": "control_contable",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Los costos variables son aquellos que aumentan o disminuyen en forma directa al volumen de producción. Por su parte, los costos fijos, normalmente, se mantienen inalterables ante las fluctuaciones en el nivel de actividad.\n\nEn la asignación de estos costos por unidad, una empresa que incrementa cada periodo su producción, sin tener cambios de estructura operativa, la opción que mejor describe el estado de la compañía durante el crecimiento es",
+   "opciones": {
+    "A": "el costo total por unidad no cambia.",
+    "B": "el costo variable por unidad aumenta.",
+    "C": "el costo fijo por unidad disminuye.",
+    "D": "el costo total por unidad aumenta."
+   },
+   "correcta": "C",
+   "afirmacion": "Considera la importancia del sistema de información de gestión como apoyo en la toma de decisiones en las organizaciones.",
+   "explicacion": "Si los costos fijos totales no cambian y la producción crece, se reparten entre más unidades: el **costo fijo unitario baja**. El costo variable unitario se mantiene constante (B es falsa), y por eso el costo total unitario disminuye, lo que descarta A y D.",
+   "origen": "Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-control_contable-023",
+   "area": "control_contable",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Según el marco de información financiera aplicable, al cierre del periodo deben reconocerse las contingencias por la pérdida del valor de los inventarios. En la compañía ABC, se encontró que no existen procedimientos que permitan identificar y estimar el inventario dañado con el fin de provisionarlo.\n\nDe acuerdo con lo anterior, la aseveración sobre inventarios que está siendo afectada es",
+   "opciones": {
+    "A": "el corte de operaciones.",
+    "B": "la clasificación.",
+    "C": "la valuación.",
+    "D": "la comprensibilidad."
+   },
+   "correcta": "C",
+   "afirmacion": "Evalúa los conceptos de control y aseguramiento de la información financiera y no financiera, sus tendencias y los elementos desde la óptica organizacional y profesional.",
+   "explicacion": "Si no se identifica ni provisiona el inventario dañado, el inventario queda registrado por encima de su valor recuperable (deterioro). La aseveración afectada es la **valuación**. El corte se refiere al periodo correcto, la clasificación a la cuenta correcta, y la comprensibilidad es una característica cualitativa, no una aseveración de auditoría.",
+   "origen": "Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-control_contable-024",
+   "area": "control_contable",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "La información relativa a la actividad económica de un contribuyente para un determinado periodo se debe plasmar en formatos y declaraciones tributarias establecidas por la autoridad competente. En algunos casos, el contribuyente puede incurrir en errores o inconsistencias que se pueden corregir en las respectivas declaraciones tributarias.\n\nDe acuerdo con las normas tributarias vigentes, se afecta la liquidación del impuesto o sanción por pagar cuando a una declaración tributaria o recibo de pago se le corrige",
+   "opciones": {
+    "A": "el valor total de las retenciones declaradas.",
+    "B": "el código de actividad económica del contribuyente.",
+    "C": "la razón social del contribuyente, el NIT o nombres y apellidos.",
+    "D": "los saldos a favor o anticipo del impuesto de renta."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica la regulación tributaria en las organizaciones.",
+   "explicacion": "Las retenciones declaradas forman parte de la **liquidación**: si cambian, cambia el impuesto o la sanción a pagar. Corregir el código de actividad, la razón social, el NIT o el nombre (B, C) son correcciones formales que no alteran el valor a pagar. La clave oficial es A.",
+   "origen": "Cuadernillo 2026 #17"
+  }
+ ]
+}

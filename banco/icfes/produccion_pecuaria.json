@@ -1,0 +1,449 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Producción Pecuaria (cuadernillo 2018 y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-produccion_pecuaria-001",
+   "area": "produccion_pecuaria",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "La inmunidad activa natural es una estrategia que puede aplicarse en el desarrollo del manejo integral de algunas enfermedades prevalentes. En este sentido, el mantenimiento de la estabilidad enzoótica busca",
+   "opciones": {
+    "A": "estimular el sistema inmune y los mecanismos de defensa a patógenos.",
+    "B": "bloquear la transferencia de inmunidad desde la madre al hijo.",
+    "C": "evitar el contacto de animales susceptibles a agentes patógenos.",
+    "D": "incorporar agentes patógenos susceptibles al control químico o biológico."
+   },
+   "correcta": "A",
+   "afirmacion": "Diseñar, implementar y/o validar los sistemas de producción pecuaria para lograr productos de calidad, inocuos y trazables, provenientes de animales en condiciones de bienestar.",
+   "explicacion": "La **estabilidad enzoótica** (típica en hemoparásitos como babesiosis y anaplasmosis) consiste en permitir una exposición temprana y controlada al agente, cuando los terneros tienen resistencia natural, para que **desarrollen inmunidad activa** y la enfermedad clínica sea rara. Evitar el contacto (C) rompe esa estabilidad y deja animales susceptibles; bloquear la inmunidad materna (B) o incorporar patógenos al control químico (D) no corresponden al concepto.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-002",
+   "area": "produccion_pecuaria",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "En rumiantes, la alimentación con dietas fibrosas depende de la actividad metabólica del tracto gastrointestinal, la cual está relacionada con características propias del rumen, que deben corresponder en promedio a un:",
+   "opciones": {
+    "A": "Medio anaeróbico, temperatura 37 ºC, pH 5,5.",
+    "B": "Medio anaeróbico, temperatura 37 ºC, pH 6,2.",
+    "C": "Medio anaeróbico, temperatura 39 ºC, pH 5,5.",
+    "D": "Medio anaeróbico, temperatura 39 ºC, pH 6,2."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los principios de la nutrición y la alimentación para las diferentes especies de interés zootécnico y comprender y desarrollar sistemas de alimentación en contexto con la particularidad de los nichos productivos.",
+   "explicacion": "El rumen es un fermentador **anaeróbico** a unos **39 ºC** (temperatura corporal del bovino) con pH entre 6,0 y 6,8; alrededor de **6,2** las bacterias celulolíticas digieren bien la fibra. Un pH de 5,5 indica acidosis ruminal, que inhibe la digestión de la fibra, y 37 ºC es la temperatura humana, no la del rumen.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-003",
+   "area": "produccion_pecuaria",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "En la producción de leche, las Buenas Prácticas de Manejo (BPM) hacen referencia a todas las condiciones y medidas necesarias durante su obtención, transporte, transformación, almacenamiento y distribución para garantizar la inocuidad del producto. Cuando se detectan sustancias de origen mineral, orgánico o biológico en una muestra, el producto se considera contaminado si",
+   "opciones": {
+    "A": "se superan los niveles permitidos por las normas vigentes.",
+    "B": "el análisis reporta presencia de calcio.",
+    "C": "se detecta la presencia de unidades formadoras de colonias (UFC).",
+    "D": "se reporta presencia de bacterias del género Butiryvibrio."
+   },
+   "correcta": "A",
+   "afirmacion": "Diseñar, implementar y/o validar los sistemas de producción pecuaria para lograr productos de calidad, inocuos y trazables, provenientes de animales en condiciones de bienestar.",
+   "explicacion": "La leche contiene naturalmente minerales y cierta carga microbiana; se considera contaminada solo cuando las sustancias **superan los límites máximos** fijados por la normativa sanitaria. El calcio es un componente normal de la leche, la mera presencia de UFC es inevitable (lo que importa es su número), y *Butyrivibrio* es una bacteria ruminal, no un criterio de contaminación.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-004",
+   "area": "produccion_pecuaria",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "En Colombia, el Instituto Colombiano Agropecuario (ICA), en su Resolución 991 de 2001, prohíbe el uso de harinas vaporizadas de carne, de sangre, de hueso y de despojos de mamíferos para la alimentación de rumiantes y elaboración de fertilizantes.\n\nEsta medida zoosanitaria evita",
+   "opciones": {
+    "A": "sobrecarga de nitrógeno en dietas animales.",
+    "B": "contaminación con priones de la dieta y fertilizantes.",
+    "C": "desbalance nutricional y fertilizantes ineficaces.",
+    "D": "dietas y fertilizantes con nitrógeno no asimilable."
+   },
+   "correcta": "B",
+   "afirmacion": "Diseñar, implementar y/o validar los sistemas de producción pecuaria para lograr productos de calidad, inocuos y trazables, provenientes de animales en condiciones de bienestar.",
+   "explicacion": "La prohibición de harinas de origen mamífero busca prevenir la **encefalopatía espongiforme bovina** («vacas locas»), transmitida por **priones** que resisten el procesamiento térmico y se propagan al reciclar tejidos de rumiantes. Es una medida zoosanitaria, no nutricional: no tiene que ver con exceso o calidad del nitrógeno.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-005",
+   "area": "produccion_pecuaria",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "En Colombia, el sistema meteorológico que condiciona en mayor grado el clima, que propicia el régimen monomodal y bimodal de lluvias y la diversidad de ecosistemas es",
+   "opciones": {
+    "A": "el fenómeno de El Niño.",
+    "B": "la circulación de la atmósfera.",
+    "C": "la zona de confluencia intertropical.",
+    "D": "los vientos alisios."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los efectos de los factores ecofisiológicos sobre los diferentes elementos constitutivos de los sistemas integrados de producción animal, en forma aislada, conjunta y en interacción.",
+   "explicacion": "La **Zona de Confluencia Intertropical** (ZCIT), donde convergen los alisios de ambos hemisferios, se desplaza al norte y al sur a lo largo del año; al pasar dos veces por buena parte del país genera el régimen **bimodal** y, en zonas donde pasa una vez, el **monomodal**. El Niño es una anomalía interanual, y los alisios y la circulación general son componentes de ese sistema, no el condicionante directo.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-006",
+   "area": "produccion_pecuaria",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "La consanguinidad en los animales es una característica que en muchos sistemas productivos se evita, dadas sus consecuencias morfológicas y productivas.\n\nEn el esquema, el individuo consanguíneo es",
+   "opciones": {
+    "A": "X.",
+    "B": "Y.",
+    "C": "Z.",
+    "D": "W."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "Un individuo es **consanguíneo** cuando sus dos progenitores tienen un ancestro común. Las flechas van de progenitor a descendiente: X es hijo de H y de W, y W a su vez desciende de Z, que es hijo de H. Así, H aparece por ambas líneas (padre directo y bisabuelo por la vía de W), por lo que X es consanguíneo. Y, Z y W tienen un solo progenitor conocido en el esquema, sin ancestro repetido.",
+   "origen": "Cuadernillo 2018 #6",
+   "imagen": "icfes_produccion_pecuaria_006.png"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-007",
+   "area": "produccion_pecuaria",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "La proteína cruda hace referencia al porcentaje de nitrógeno total presente en una dieta o materia prima y la decisión de su uso; para las diferentes especies, se basa en la forma estructural en que el nitrógeno se encuentre presente.\n\nUna dieta con un alto contenido de nitrógeno no proteico puede utilizarse eficientemente en las siguientes especies:",
+   "opciones": {
+    "A": "Aves, ovinos y caprinos.",
+    "B": "Bovinos, camélidos e impalas.",
+    "C": "Cerdos, búfalos y equinos.",
+    "D": "Peces, aves y ovinos."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los principios de la nutrición y la alimentación para las diferentes especies de interés zootécnico y comprender y desarrollar sistemas de alimentación en contexto con la particularidad de los nichos productivos.",
+   "explicacion": "El **nitrógeno no proteico** (p. ej., urea) solo lo aprovechan especies con fermentación pregástrica, cuyos microorganismos lo convierten en proteína microbiana: **bovinos, camélidos e impalas** son todos fermentadores de estómago anterior. Las demás opciones mezclan rumiantes con monogástricos (aves, cerdos, peces) o fermentadores posgástricos (equinos), que no lo utilizan eficientemente.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-008",
+   "area": "produccion_pecuaria",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "El consumo voluntario de alimento está determinado por múltiples factores inherentes al animal, al alimento y al medio, entre otros. De acuerdo con diversos estudios y evaluaciones sobre la alimentación de rumiantes, se puede afirmar que",
+   "opciones": {
+    "A": "la suplementación con grasas disminuye la producción de colecistoquininas en el intestino delgado, lo que incrementa el apetito y por ende el consumo voluntario.",
+    "B": "la tasa de pasaje está relacionada con la digestibilidad del alimento, aunque carece de efectos en el consumo voluntario.",
+    "C": "los forrajes aumentan su digestibilidad al incrementarse la temperatura ambiental en la cual se desarrollan, lo que mejora el consumo voluntario.",
+    "D": "niveles de proteína por debajo del 7 % en la dieta forrajera, generalmente, limitan el consumo voluntario."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer los principios de la nutrición y la alimentación para las diferentes especies de interés zootécnico y comprender y desarrollar sistemas de alimentación en contexto con la particularidad de los nichos productivos.",
+   "explicacion": "Con menos de **7 % de proteína** en el forraje, la microbiota ruminal no tiene nitrógeno suficiente, la digestión de la fibra se hace lenta y el consumo cae. Según el Icfes, las grasas **aumentan** (no disminuyen) la colecistoquinina y reducen el consumo (A); la tasa de pasaje sí afecta el consumo (B), y los forrajes que crecen a mayor temperatura son **menos** digestibles (C).",
+   "origen": "Cuadernillo 2018 #8 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-009",
+   "area": "produccion_pecuaria",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "La prevención de enfermedades requiere el conocimiento de factores de riesgo asociados a su presentación. En este sentido, se espera que la presencia de un factor de riesgo de una enfermedad X a nivel poblacional",
+   "opciones": {
+    "A": "reduzca la presencia de casos de la enfermedad.",
+    "B": "evita la exposición de los animales a otros factores de riesgo.",
+    "C": "incremente la frecuencia de casos de la enfermedad.",
+    "D": "promueva la exposición de los animales a otros factores de riesgo."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los efectos de los factores ecofisiológicos sobre los diferentes elementos constitutivos de los sistemas integrados de producción animal, en forma aislada, conjunta y en interacción.",
+   "explicacion": "Por definición, un **factor de riesgo** es una característica o exposición asociada a una **mayor probabilidad** de enfermar; en la población, su presencia aumenta la frecuencia (incidencia o prevalencia) de casos. Reducir casos sería un factor protector, y la relación con otros factores de riesgo no forma parte de la definición.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-010",
+   "area": "produccion_pecuaria",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "En genética de poblaciones, la ley del equilibrio de Hardy-Weinberg indica que en una población las frecuencias genotípicas y alélicas permanecen constantes de generación en generación.\n\nUna característica que altera este equilibrio es la presentación de",
+   "opciones": {
+    "A": "heterosis.",
+    "B": "selección.",
+    "C": "epistasis.",
+    "D": "cruzamiento."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "El equilibrio de Hardy-Weinberg supone apareamiento aleatorio y ausencia de **selección**, mutación, migración y deriva; la selección cambia las frecuencias alélicas porque unos genotipos dejan más descendencia. La heterosis y la epistasis son fenómenos de expresión génica que no modifican por sí mismos las frecuencias, y «cruzamiento» es demasiado genérico (el apareamiento aleatorio es parte del supuesto).",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-011",
+   "area": "produccion_pecuaria",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "La intensidad de la lluvia es un factor meteorológico importante en la producción pecuaria y la conservación del recurso suelo.\n\nDesde el punto de vista de pérdida y conservación de suelos, la intensidad de la lluvia es un factor que se tiene en cuenta para el cálculo de",
+   "opciones": {
+    "A": "la cobertura vegetal, asociada a la interceptación de lluvia.",
+    "B": "la erosividad, asociada a la cinética de la lluvia.",
+    "C": "la erodabilidad, asociada a la materia orgánica.",
+    "D": "el balance hídrico, asociado a la evapotranspiración."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender los efectos de los factores ecofisiológicos sobre los diferentes elementos constitutivos de los sistemas integrados de producción animal, en forma aislada, conjunta y en interacción.",
+   "explicacion": "La **erosividad** (factor R de la ecuación universal de pérdida de suelo) mide la capacidad de la lluvia de causar erosión y se calcula con la **energía cinética** e intensidad de los aguaceros. La erodabilidad (factor K) es una propiedad del suelo, no de la lluvia; la cobertura y el balance hídrico dependen de otras variables.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-012",
+   "area": "produccion_pecuaria",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "De acuerdo con las recomendaciones estipuladas en la Guía de Buenas Prácticas Ganaderas (BPG), generadas por el Instituto Colombiano Agropecuario en Colombia, en el momento de realizar la planeación estratégica del lugar donde se establecerá el sistema de producción animal, el profesional debe revisar, prioritariamente en la zona,",
+   "opciones": {
+    "A": "las condiciones climáticas para el confort animal.",
+    "B": "el plan de ordenamiento territorial del municipio.",
+    "C": "la disponibilidad y el costo de materias primas.",
+    "D": "el plan organizacional de los recursos humanos."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender los efectos de los factores ecofisiológicos sobre los diferentes elementos constitutivos de los sistemas integrados de producción animal, en forma aislada, conjunta y en interacción.",
+   "explicacion": "Antes de cualquier consideración técnica, las BPG exigen verificar que el uso del suelo esté permitido: el **plan de ordenamiento territorial** define si en esa zona puede instalarse una explotación pecuaria (distancia a fuentes de agua, áreas urbanas o de protección). Clima, materias primas y recursos humanos se evalúan después, una vez es legalmente viable ubicar allí el sistema.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-013",
+   "area": "produccion_pecuaria",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "La hipocalcemia clínica se presenta en vacas recién paridas por una alta demanda de calcio de la glándula mamaria. Así, la homeostasis del calcio involucra un incremento de su absorción a nivel intestinal, reabsorción de Ca del filtrado del glómerulo renal y reabsorción del mismo en los osteoclastos del hueso. Las hormonas involucradas en estos procesos son",
+   "opciones": {
+    "A": "somatomedina C y somatotropina (GH).",
+    "B": "hormona luteinizante ( LH) y hormona estimulante del folículo (FSH).",
+    "C": "paratohormona (PTH) y 1,25-hidroxivitamina D3.",
+    "D": "hormonas adrenocorticotropas (ACTH)."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los principios de la nutrición y la alimentación para las diferentes especies de interés zootécnico y comprender y desarrollar sistemas de alimentación en contexto con la particularidad de los nichos productivos.",
+   "explicacion": "Ante la hipocalcemia, la paratiroides secreta **PTH**, que aumenta la reabsorción renal y la resorción ósea de calcio e induce en el riñón la 1α-hidroxilasa, que produce **1,25-dihidroxivitamina D₃**; esta estimula la absorción intestinal de calcio. Según el Icfes, GH y somatomedina se asocian al crecimiento, LH y FSH a la función gonadal y la ACTH a las glándulas suprarrenales.",
+   "origen": "Cuadernillo 2018 #13 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-014",
+   "area": "produccion_pecuaria",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Para la selección de un lugar donde se van a construir reservorios de agua y estanques para cultivo de peces, técnicamente se debería buscar que el suelo posea primordialmente",
+   "opciones": {
+    "A": "mesoporos.",
+    "B": "microporos.",
+    "C": "bajo potencial de compactación.",
+    "D": "una estructura prismática y orgánica."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender los aspectos y condiciones administrativas y socioeconómicas de los sistemas de producción animal, para el análisis, diseño, formulación y aplicación de propuestas de gestión de la tecnología, mediante el análisis de los factores internos y externos de la empresa pecuaria para generar viabilidad técnica, administrativa y financiera.",
+   "explicacion": "Un estanque debe **retener el agua**, por lo que se buscan suelos arcillosos con predominio de **microporos**, de baja permeabilidad. Los mesoporos permiten el movimiento del agua (filtración), un suelo con bajo potencial de compactación no forma diques impermeables, y la materia orgánica y la estructura prismática favorecen la infiltración.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-015",
+   "area": "produccion_pecuaria",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Con el mantenimiento de bancos de germoplasma se busca la conservación de la diversidad genética animal, por ejemplo, de las razas criollas.\n\nLas estrategias de conservación in situ de los recursos genéticos implica",
+   "opciones": {
+    "A": "el mantenimiento de animales vivos en zoológicos certificados, en jaulas confortables para aparearlos.",
+    "B": "el almacenaje de material germinal en forma de semen, bajo condiciones de criocongelación.",
+    "C": "el mantenimiento de animales vivos en condiciones agroecológicas y de manejo, similares a su ambiente natural.",
+    "D": "la conservación de material genético en cámaras frías (1 ºC - 20 ºC), que en un futuro permita regenerar un individuo o una población."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "Conservar **in situ** es mantener poblaciones vivas en su propio ambiente y sistema productivo (p. ej., razas criollas en fincas de su región), para que sigan adaptándose. Los zoológicos son conservación *ex situ in vivo* (A), y el semen congelado o el material en cámaras frías (B, D) son conservación *ex situ in vitro*.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-016",
+   "area": "produccion_pecuaria",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Una firma procesadora de leche le envía los datos de la composición de la leche de 3 hatos en los que usted presta asesoría técnica. De acuerdo con los análisis reportados, debe identificar los problemas más probables en cada una de ellas para tomar acciones de mejora.\n\n**Tabla.** Características de la leche de tres hatos lecheros.\n\n| | Hato B | Hato C | Hato D |\n|---|---|---|---|\n| Proteina, % MS | 2,9 | 3,1 | 2,8 |\n| Grasa, % MS | 3,7 | 3,0 | 3,6 |\n| Conteo de células somáticas (miles/ml) | 200 | 300 | 800 |\n| Unidades formadoras de colonias (miles) | 20 | 20 | 1000 |\n\nDe acuerdo con la composición de la leche, se puede inferir que",
+   "opciones": {
+    "A": "el hato B tiene problemas de mastitis.",
+    "B": "el hato D tiene problemas en la rutina de ordeño.",
+    "C": "el hato C no presenta problemas de acidosis ruminal.",
+    "D": "el hato B presenta problemas en la rutina de ordeño."
+   },
+   "correcta": "B",
+   "afirmacion": "Diseñar, implementar y/o validar los sistemas de producción pecuaria para lograr productos de calidad, inocuos y trazables, provenientes de animales en condiciones de bienestar.",
+   "explicacion": "El hato D tiene **800.000 células somáticas/ml** (indicio de mastitis) y **1.000.000 UFC**, una carga bacteriana muy alta que refleja fallas de higiene en la **rutina de ordeño** (presellado, secado, limpieza de equipos). El hato B tiene recuentos bajos (sin mastitis ni problemas de ordeño), y el hato C muestra grasa baja (3,0 %), que sugiere justamente riesgo de acidosis ruminal.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-017",
+   "area": "produccion_pecuaria",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En una finca ganadera doble propósito, en trópico bajo, con dos épocas de sequía por año, altas temperaturas, pastoreo extensivo y bajos indicadores productivos, se requiere mitigar el estrés calórico que padecen los animales y mejorar su productividad.\n\nLa mejor opción de manejo es",
+   "opciones": {
+    "A": "la rotación de potreros.",
+    "B": "la producción de ensilaje.",
+    "C": "la suplementación estratégica.",
+    "D": "el silvopastoreo intensivo."
+   },
+   "correcta": "D",
+   "afirmacion": "Diseñar, implementar y/o validar los sistemas de producción pecuaria para lograr productos de calidad, inocuos y trazables, provenientes de animales en condiciones de bienestar.",
+   "explicacion": "El **silvopastoreo intensivo** (árboles y arbustos forrajeros con pasturas) brinda **sombra**, que reduce el estrés calórico, y aporta forraje de buena calidad que se mantiene en la sequía, mejorando la productividad. Rotar potreros, ensilar o suplementar ayudan con la oferta de alimento, pero no resuelven el estrés calórico.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-018",
+   "area": "produccion_pecuaria",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "La intensidad de selección se define como el diferencial de selección en unidades de desviación estándar. El progreso genético o ganancia genética corresponde al valor del diferencial de selección por la heredabilidad. En una población de 1.000 vacas cebú se seleccionan el 50 % de estas; la intensidad de selección es 0,8 y el peso al destete fue de 200 kg (desviación estándar S = 10). Si la heredabilidad de esta característica es 0,25, el peso promedio de las terneras al destete en la próxima generación será de",
+   "opciones": {
+    "A": "202 kg.",
+    "B": "204 kg.",
+    "C": "206 kg.",
+    "D": "208 kg."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "Diferencial de selección = i × S = 0,8 × 10 = 8 kg. Ganancia genética = h² × diferencial = 0,25 × 8 = **2 kg**. Peso esperado = 200 + 2 = **202 kg**. Las opciones mayores resultan de omitir la heredabilidad (208 kg) o de aplicarla mal.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-019",
+   "area": "produccion_pecuaria",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "La evaluación reproductiva del macho permite predecir el valor reproductivo de este y la toma de decisión sobre su utilización en programas de reproducción natural y asistida. Uno de los parámetros evaluados en el macho es la circunferencia escrotal.\n\nDe las siguientes afirmaciones sobre el valor predictivo de la circunferencia escrotal, NO es cierto que",
+   "opciones": {
+    "A": "se relaciona con la capacidad de producir espermatozoides.",
+    "B": "tiene alta relación con el comienzo de la pubertad.",
+    "C": "es una variable con alto grado de heredabilidad.",
+    "D": "varía con la actividad reproductiva del macho."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "La circunferencia escrotal refleja la masa testicular y por tanto la **producción espermática** (A), se asocia a la **precocidad sexual** del toro y de sus hijas (B) y tiene **heredabilidad alta** (≈0,4-0,5) (C). Lo que no es cierto es que dependa de la actividad reproductiva: es un rasgo morfológico ligado a edad y peso, no a la frecuencia de servicios.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-020",
+   "area": "produccion_pecuaria",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Una ganadería doble propósito presenta las siguientes características: 100 ha de extensión, se localiza en un bosque seco tropical, con baja oferta y calidad forrajera, suelos compactados e inundables. 25 vacas cruzadas que producen 100 litros de leche/día. Alta infestación de ectoparásitos e incidencia de anaplasmosis. Alta demanda por leche cruda y cuajada. Exigencia de autoridades sanitarias por buenas prácticas de producción e instalaciones adecuadas.\n\nSe realizó un análisis DOFA y dio como resultado que la mejor estrategia ofensiva (aprovechamiento de oportunidades y fortalezas) a corto plazo es",
+   "opciones": {
+    "A": "el establecimiento de sistemas silvopastoriles y la producción de más leche cruda.",
+    "B": "la fertilización de potreros y la adecuación de instalaciones para procesar cuajada.",
+    "C": "la suplementación de vacas por rendimiento lechero y la producción de cuajada.",
+    "D": "el establecimiento del control de ectoparásitos y la implementación de buenas prácticas."
+   },
+   "correcta": "C",
+   "afirmacion": "Entender los sistemas de producción pecuaria locales en los contextos socioeconómicos globales y regionales para su proyección en un ambiente de gestión tecnológica como base para el desarrollo de la sociedad.",
+   "explicacion": "Una estrategia **FO** (ofensiva) usa las fortalezas para aprovechar oportunidades; la oportunidad es la **alta demanda de leche y cuajada**. A **corto plazo**, suplementar según producción eleva rápidamente la leche y transformarla en cuajada le agrega valor. Los silvopastoriles y la adecuación de instalaciones son de mediano o largo plazo, y el control de ectoparásitos y las BPG atienden debilidades y amenazas (estrategias defensivas).",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-021",
+   "area": "produccion_pecuaria",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "En una evaluación genética realizada en diferentes fincas dedicadas a la cría de bovinos doble propósito, se calcularon parámetros genéticos para las características producción de leche y conversión alimenticia.\n\nSi la correlación genética para estas características es de +0,8, esto indica que para un programa de mejoramiento genético de las dos características,",
+   "opciones": {
+    "A": "solo se necesita seleccionar una de las características de interés.",
+    "B": "la selección de una de ellas no interfiere en la selección de la otra.",
+    "C": "la selección de una de ellas implica una reducción de la otra.",
+    "D": "de todas maneras es necesario seleccionar para las dos características."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "Una correlación genética **positiva y alta** (+0,8) indica que ambas características están afectadas en buena parte por los mismos genes; según el Icfes, seleccionar por una produce una respuesta correlacionada en la otra, así que **basta con seleccionar una**. B ignora esa relación, C supone una correlación negativa y D no aprovecha la correlación.",
+   "origen": "Cuadernillo 2018 #21 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-022",
+   "area": "produccion_pecuaria",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "En la espermiogénesis el objetivo es crear espermatozoides; en este proceso, las células madres pasarán por diferentes fases de maduración. Las características básicas que diferencian una espermatida de un espermatozoide son:",
+   "opciones": {
+    "A": "El alargamiento del núcleo, acumulación de mitocondrias y sinapsis de cromosomas homólogos.",
+    "B": "El desarrollo del flagelo, separación del epitelio germinal e intercambio de nutrientes con las células de Sertoli.",
+    "C": "La condensación de la cromatina nuclear, formación del acrosoma y desarrollo de las estructuras del flagelo.",
+    "D": "La replicación del ADN, reorganización de mitocondrias en la pieza intermedia y separación del epitelio germinal."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "La espermiogénesis transforma la espermátida redonda en espermatozoide sin más divisiones: se **condensa la cromatina**, el aparato de Golgi forma el **acrosoma** y se desarrolla el **flagelo** (con las mitocondrias en la pieza intermedia). La sinapsis de homólogos y la replicación del ADN ocurren antes, en la meiosis y en los espermatocitos, por lo que A y D fallan; B mezcla procesos de espermiación y soporte celular.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-023",
+   "area": "produccion_pecuaria",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "La prevención de enfermedades requiere el conocimiento de factores de riesgo asociados a su presentación. En este sentido, se espera que la presencia de un factor de riesgo de una enfermedad X a nivel poblacional",
+   "opciones": {
+    "A": "reduzca la presencia de casos de la enfermedad.",
+    "B": "evite la presencia casos de la enfermedad.",
+    "C": "incremente la frecuencia de casos de la enfermedad.",
+    "D": "aumente la exposición de los animales al agente patógeno."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los efectos de los factores ecofisiológicos sobre los diferentes elementos constitutivos de los sistemas integrados de producción animal, en forma aislada, conjunta y en interacción.",
+   "explicacion": "Un **factor de riesgo** se asocia, en la población, a una **mayor frecuencia de casos** de la enfermedad. A y B describen un factor protector. D es una trampa: algunos factores de riesgo actúan aumentando la exposición, pero no todos (pueden aumentar la susceptibilidad del hospedero); lo que define a cualquier factor de riesgo es el aumento de casos. (Versión casi idéntica a la pregunta 9 del mismo cuadernillo, con distractores distintos.)",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-024",
+   "area": "produccion_pecuaria",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Los procesos de fermentación y sus productos finales son esencialmente idénticos en el rumen de los bovinos que en el ciego de los caballos. No obstante, la posición en la cual se encuentra la fermentación respecto al intestino delgado tiene importantes implicaciones fisiológicas y nutricionales.\n\nDe acuerdo con lo anterior, NO tiene una implicación nutricional en rumiantes",
+   "opciones": {
+    "A": "la posibilidad de aprovechar la proteína de origen microbial.",
+    "B": "la habilidad para extraer eficientemente la energía a partir de celulosa.",
+    "C": "la habilidad para utilizar directamente la fuente dietaria de hexosas.",
+    "D": "la posibilidad de aprovechar fuentes de nitrógeno de baja calidad."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer los principios de la nutrición y la alimentación para las diferentes especies de interés zootécnico y comprender y desarrollar sistemas de alimentación en contexto con la particularidad de los nichos productivos.",
+   "explicacion": "En el rumiante la fermentación ocurre **antes** del intestino delgado: los microorganismos fermentan casi todos los azúcares y almidones a ácidos grasos volátiles, de modo que el animal **no absorbe directamente las hexosas** de la dieta (el caballo sí, en el intestino delgado, antes del ciego). En cambio, sí son ventajas del rumiante digerir la proteína microbiana en el intestino, aprovechar la celulosa y usar nitrógeno de baja calidad.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-025",
+   "area": "produccion_pecuaria",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "La conversión alimenticia es un indicador que permite determinar la eficiencia de una dieta en términos del producto final obtenido. Al realizar la comparación de las dietas A y B los valores de conversión alimenticia obtenidos fueron 1,8 y 2,3, respectivamente, lo cual indica que la dieta",
+   "opciones": {
+    "A": "A es económicamente menos favorable que la dieta B.",
+    "B": "A presenta una mayor eficiencia que la dieta B.",
+    "C": "B es nutricionalmente de mejor calidad que B.",
+    "D": "B presenta una mayor eficiencia que la dieta A."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer los principios de la nutrición y la alimentación para las diferentes especies de interés zootécnico y comprender y desarrollar sistemas de alimentación en contexto con la particularidad de los nichos productivos.",
+   "explicacion": "La conversión alimenticia es **kg de alimento consumido por kg de producto** (p. ej., ganancia de peso): cuanto menor, más eficiente. La dieta A necesita 1,8 kg por kg producido y la B, 2,3 kg; por tanto A es **más eficiente**. Lo económico (A) depende además del precio de cada dieta, y la conversión no mide directamente la calidad nutricional (la opción C trae una errata en el original).",
+   "origen": "Cuadernillo 2018 #26 (posición 25 en la tabla de claves)"
+  },
+  {
+   "id": "icfes-produccion_pecuaria-026",
+   "area": "produccion_pecuaria",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "En producción animal, los logros de un programa de cruzamientos dependerán de la magnitud del vigor híbrido y de la productividad de las razas que originaron los mestizos. Existirá vigor híbrido cuando al aparearse individuos de diferente",
+   "opciones": {
+    "A": "genotipo, el comportamiento de los mestizos es igual al promedio de los padres.",
+    "B": "procedencia, se expresa la habilidad materna produciendo crías de mejor peso.",
+    "C": "origen genético, se produce un aumento de la heterocigosis.",
+    "D": "fenotipo, se produce un aumento de la homocigosis."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los principios genéticos y reproductivos para el mejoramiento animal y la estructuración de los ciclos productivos.",
+   "explicacion": "El **vigor híbrido** (heterosis) aparece al cruzar individuos de **origen genético distinto** (razas o líneas diferentes), lo que **aumenta la heterocigosis** y hace que los mestizos superen el promedio de sus padres. Si el mestizo iguala el promedio (A) no hay heterosis; la homocigosis (D) es efecto de la consanguinidad, y la habilidad materna (B) es solo una de las características en que se puede expresar.",
+   "origen": "Cuadernillo 2018 #27 (posición 26 en la tabla de claves)"
+  }
+ ]
+}

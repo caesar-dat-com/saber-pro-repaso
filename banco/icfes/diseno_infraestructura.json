@@ -1,0 +1,387 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Diseño de Obras de Infraestructura (cuadernillos y preguntas explicadas)",
+  "contextos": [
+    {
+      "titulo": "Caso 1: primera línea de transporte público masivo",
+      "texto": "Debido al rápido crecimiento en la demanda de transporte en los últimos años, una ciudad colombiana decidió construir una primera línea de transporte público masivo en un corredor vial específico por el que actualmente circulan buses de transporte público colectivo tradicional. La longitud de esta primera línea será 20 kilómetros por sentido, para un total de 40 kilómetros por ciclo completo. La demanda de diseño, en la hora pico en el tramo más cargado, se estima en 20.000 pasajeros/hora-sentido.\n\nPara esta primera línea se consideran cuatro alternativas de transporte masivo: (1) un metro pesado elevado; (2) un metro pesado subterráneo; (3) un metro ligero en superficie; (4) un sistema de buses de combustión interna de alta capacidad con carril exclusivo en superficie. Las tres primeras alternativas operarían con base en sistemas de energía eléctricos. En la tabla se presentan las principales características de cada alternativa.\n\n| Alternativa | Capacidad de cada vehículo (pasajeros) | Costo de cada vehículo (millones de pesos de 2012) | Intervalo promedio mínimo de operación entre vehículos (minutos) | Velocidad promedio de operación (km/hora) |\n|---|---|---|---|---|\n| 1 | 1.600 | $25.000 | 2,5 | 40 |\n| 2 | 1.600 | $25.000 | 2 | 40 |\n| 3 | 380 | $9.000 | 1,5 | 20 |\n| 4 | 160 | $600 | 0,25 | 25 |\n\n| Alternativa | Costo de construcción (billones de pesos de 2012/km) | Costo de operación (billones de pesos de 2012/año) |\n|---|---|---|\n| 1 | $0,25 | $0,6 |\n| 2 | $0,35 | $0,8 |\n| 3 | $0,06 | $0,25 |\n| 4 | $0,04 | $0,3 |\n\n**Tabla.** Características técnicas y económicas de las alternativas"
+    },
+    {
+      "titulo": "Caso 2: desviación del caño Ensueño",
+      "texto": "Para la ampliación de un área de explotación minera se requiere analizar la opción de desviar el cauce del caño Ensueño entre el punto A y la entrega al río Badillo. Para este propósito se han analizado cuatro alternativas, las cuales se presentan en la figura 1.\n\nEn la zona del proyecto se asientan algunos grupos indígenas desde hace varias décadas, como se muestra en la figura 1. En algunos sectores hay presencia de humedales usados por la comunidad para propósitos agrícolas. También se observan parches de bosques nativos con baja intervención humana. Una de las alternativas afectará una vía terciaria existente. En ese punto se requerirá construir un puente para garantizar la continuidad del tráfico en la zona.\n\n{{img:icfes_diseno_infraestructura_008_fig1.png}}\n\nLas alternativas 1 y 4 discurren a lo largo de materiales aluviales subyacidos por estratos de areniscas moderadamente fisuradas. A lo largo de la alternativa 2 se encuentran estratos de arcillolitas ligeramente meteorizadas, suprayacidas por estratos poco profundos de suelos, predominantemente de tamaño fino. A lo largo de la alternativa 3 afloran depósitos profundos de arcillas carbonatadas que suprayacen estratos de rocas calizas inalteradas con alto contenido de calcita. En ninguna de las alternativas hay evidencia de actividad neotectónica.\n\nLa tabla presenta la longitud del cauce original y de los cauces de las alternativas planteadas, así como la longitud en línea recta de los puntos de inicio y fin de cada una de estas opciones.\n\n|  | Caño Ensueño Puntos A - B | Alternativa 1 | Alternativa 2 | Alternativa 3 | Alternativa 4 |\n|---|---|---|---|---|---|\n| **Longitud recta [m]** | 3.000 | 3.000 | 6.000 | 9.000 | 3.000 |\n| **Longitud del cauce [m]** | 4.000 | 5.000 | 8.000 | 9.000 | 20.000 |\n\n**Tabla.** Descripción de la longitud del cauce y en línea recta de las alternativas\n\nLas alternativas deben garantizar la estabilidad hidráulica y geotécnica del canal de desviación y su entorno, así como producir el menor impacto ambiental y social posible.\n\nLos perfiles de la base del canal de las alternativas de desviación se presentan en la figura 2.\n\n{{img:icfes_diseno_infraestructura_008_fig2.png}}"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "icfes-diseno_infraestructura-001",
+      "area": "diseno_infraestructura",
+      "n": 1,
+      "contexto": 0,
+      "enunciado": "Considerando la capacidad de los vehículos y el intervalo promedio mínimo entre vehículos para cada alternativa, las alternativas viables para cumplir la demanda de diseño son",
+      "opciones": {
+        "A": "1, 2 y 3.",
+        "B": "1, 2 y 4.",
+        "C": "1, 3 y 4.",
+        "D": "2, 3 y 4."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "Capacidad horaria = capacidad del vehículo × (60 / intervalo): alt. 1 → 1.600 × 24 = **38.400**; alt. 2 → 1.600 × 30 = **48.000**; alt. 3 → 380 × 40 = **15.200**; alt. 4 → 160 × 240 = **38.400** pasajeros/hora-sentido. Solo la 3 queda por debajo de 20.000, así que las viables son 1, 2 y 4.",
+      "origen": "Cuadernillo 2018 #1"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-002",
+      "area": "diseno_infraestructura",
+      "n": 2,
+      "contexto": 0,
+      "enunciado": "El corredor vial por el que se construirá la línea de transporte público masivo presenta intersecciones perpendiculares con vías de alto flujo vehicular. Si se requiere minimizar el impacto negativo sobre el flujo vehicular perpendicular, las alternativas más convenientes son",
+      "opciones": {
+        "A": "1 y 2.",
+        "B": "2 y 3.",
+        "C": "1 y 3.",
+        "D": "3 y 4."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "El metro elevado (1) y el subterráneo (2) van a desnivel, por lo que no cruzan a nivel las vías perpendiculares ni interrumpen su flujo. El metro ligero y los buses en superficie (3 y 4) sí generan conflictos en las intersecciones.",
+      "origen": "Cuadernillo 2018 #2"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-003",
+      "area": "diseno_infraestructura",
+      "n": 3,
+      "contexto": 0,
+      "enunciado": "El periodo de diseño de la estructura para el metro elevado se fijó en 60 años. Para esta estructura se debe evaluar la probabilidad de falla asociada a un sismo. Esta probabilidad de falla en el periodo de diseño se define como el producto entre la probabilidad de ocurrencia de un sismo y la probabilidad de falla de la estructura con la carga sísmica. La figura presenta la curva de probabilidad de ocurrencia de cuatro sismos con periodos de retorno de 10, 50, 100 y 500 años.\n\nAdicionalmente, se ha establecido que la probabilidad de falla de la estructura ante cargas sísmicas con periodos de retorno de 10, 50, 100 y 500 años es 0,15, 0,35, 0,7 y 0,8, respectivamente. El periodo de retorno del sismo que genera una mayor probabilidad de falla en el periodo de diseño es",
+      "opciones": {
+        "A": "10 años.",
+        "B": "50 años.",
+        "C": "100 años.",
+        "D": "500 años."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La clave oficial es A: el sismo de 10 años tiene ocurrencia prácticamente segura (≈1,0) en 60 años, lo que da 1,0 × 0,15 = 0,15. Sin embargo, leyendo la figura en 60 años (≈0,7 para 50 años, ≈0,45 para 100 años, ≈0,12 para 500 años) los productos son ≈0,25, **≈0,32** y ≈0,10, de modo que el máximo correspondería a 100 años (C); la clave parece discutible.",
+      "origen": "Cuadernillo 2018 #3",
+      "imagen": "icfes_diseno_infraestructura_003.png",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-004",
+      "area": "diseno_infraestructura",
+      "n": 4,
+      "contexto": 0,
+      "enunciado": "Considerando la información suministrada, en un análisis beneficio/costo entre las diferentes alternativas se podría afirmar que",
+      "opciones": {
+        "A": "las alternativas 1 y 2 son más convenientes que las alternativas 3 y 4 por tener una mayor velocidad promedio de operación.",
+        "B": "la alternativa 2 es la alternativa más conveniente debido a sus costos de construcción y operación.",
+        "C": "la alternativa 3 es la más conveniente debido a que permite intervalos de operación menores que disminuyen el tiempo de espera de los usuarios.",
+        "D": "las alternativas 3 y 4 son más convenientes que las alternativas 1 y 2 desde el punto de vista de costos."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "La clave oficial es B, pero la alternativa 2 es justamente la de mayores costos de construcción ($0,35 billones/km) y de operación ($0,8 billones/año), por lo que su justificación no se sostiene con los datos; desde el punto de vista de costos, la afirmación coherente con la tabla sería D (3 y 4 son mucho más baratas). Clave discutible.",
+      "origen": "Cuadernillo 2018 #4",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-005",
+      "area": "diseno_infraestructura",
+      "n": 5,
+      "contexto": 0,
+      "enunciado": "Usando factores de expansión a partir de la demanda en la hora pico, se estima que la demanda anual de la línea de transporte público masivo será 220.000.000 de pasajeros. Dado que la línea servirá principalmente a población de estratos bajos, se requiere que la tarifa al usuario no sea mayor que $1.500 de 2012. Sin embargo, dada la capacidad financiera de la ciudad, también se requiere que los ingresos por tarifas sean suficientes para cubrir los costos anuales de operación. Frente a estas restricciones, las alternativas viables son",
+      "opciones": {
+        "A": "1 y 2.",
+        "B": "2 y 3.",
+        "C": "1 y 3.",
+        "D": "3 y 4."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+      "explicacion": "La clave oficial es B. Con la tarifa máxima, el ingreso anual es 220.000.000 × $1.500 = **$0,33 billones**, que solo cubre los costos de operación de la alternativa 3 ($0,25) y de la 4 ($0,3); las alternativas 1 ($0,6) y 2 ($0,8) no. Según ese cálculo la respuesta sería D (3 y 4), por lo que la clave parece discutible.",
+      "origen": "Cuadernillo 2018 #5",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-006",
+      "area": "diseno_infraestructura",
+      "n": 6,
+      "contexto": 0,
+      "enunciado": "Dada la capacidad financiera de la ciudad, se requiere que el valor presente neto del costo de construcción y operación, considerando una vida del proyecto de 20 años y sin incluir el costo de los vehículos, no supere $7 billones de 2012. Considerando una tasa de descuento anual del 0 % y asumiendo que la construcción se realiza en el año cero (0) y la operación en los siguientes 20 años, las alternativas financieramente viables para la ciudad serían",
+      "opciones": {
+        "A": "1 y 2.",
+        "B": "2 y 3.",
+        "C": "1 y 3.",
+        "D": "3 y 4."
+      },
+      "correcta": "D",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "Con tasa 0 % basta sumar: construcción (20 km) + 20 años de operación. Alt. 1: 5 + 12 = 17; alt. 2: 7 + 16 = 23; alt. 3: 1,2 + 5 = **6,2**; alt. 4: 0,8 + 6 = **6,8** billones. Solo 3 y 4 no superan $7 billones.",
+      "origen": "Cuadernillo 2018 #6"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-007",
+      "area": "diseno_infraestructura",
+      "n": 7,
+      "contexto": 0,
+      "enunciado": "Dados los altos niveles de concentración de material particulado en la ciudad, se quiere evaluar el potencial de mitigación que presenta cada una de las alternativas. Las alternativas que presentan un mayor potencial de mitigación de material particulado son",
+      "opciones": {
+        "A": "1 y 2.",
+        "B": "3 y 4.",
+        "C": "2 y 3.",
+        "D": "1 y 4."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La clave oficial es B (3 y 4). No obstante, la alternativa 4 usa buses de combustión interna, que emiten material particulado, mientras que 1, 2 y 3 son eléctricas; por eso la clave resulta discutible y A (1 y 2, eléctricas y de mayor capacidad) parecería más coherente con el enunciado.",
+      "origen": "Cuadernillo 2018 #7",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-008",
+      "area": "diseno_infraestructura",
+      "n": 8,
+      "contexto": 1,
+      "enunciado": "Se define la potencia de la corriente por unidad de longitud como Π = γw · Q · S0, donde γw es el peso unitario del agua, Q el caudal y S0 la pendiente del fondo del canal. El cauce de desviación logra su condición de equilibrio hidrodinámico cuando el valor de la potencia Π es el más bajo posible.\n\nSi para un periodo de retorno de 5 años se espera un caudal de 100 m³/s, la alternativa que alcanzaría la condición de equilibrio es",
+      "opciones": {
+        "A": "la 1.",
+        "B": "la 2.",
+        "C": "la 3.",
+        "D": "la 4."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Con γw y Q iguales, Π depende solo de la pendiente: alt. 1 → 4/5.000 = 0,0008; alt. 2 → 12/8.000 = 0,0015; alt. 3 → 50/9.000 ≈ 0,0056; alt. 4 → 4/20.000 = **0,0002**. La potencia mínima corresponde a la alternativa 4 (D), no a la 2 de la clave oficial; la clave parece discutible (la 2 es la que reproduce la meandricidad del cauce original, como en la pregunta 11).",
+      "origen": "Cuadernillo 2018 #8",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-009",
+      "area": "diseno_infraestructura",
+      "n": 9,
+      "contexto": 1,
+      "enunciado": "El puente de 30 m de longitud, sobre la vía terciaria de la alternativa 3, está soportado por dos estribos. Cada estribo se apoya en una cimentación muy ancha, superficial, ubicada en el cauce del canal de desviación. En la etapa de revisión del diseño, previa al inicio de la construcción, se quiere optimizar la profundidad de desplante de los cimientos. Para las condiciones hidráulicas, viales y geotécnicas de la zona, la profundidad de desplante de la cimentación especificada se determinará por",
+      "opciones": {
+        "A": "las cargas generadas por el alto volumen de tráfico pesado registrado históricamente en la zona.",
+        "B": "las magnitudes de las cargas sísmicas que se evidencian de la actividad tectónica en la descripción geológica de la zona.",
+        "C": "las altas velocidades que puede tener el flujo en el canal de desviación y que pueden generar problemas de socavación en el puente.",
+        "D": "los problemas de sedimentación que se pueden presentar en el puente por el alineamiento del canal de desviación."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "La clave oficial es B, pero el caso dice expresamente que en ninguna alternativa hay evidencia de actividad neotectónica, y la vía es terciaria. La alternativa 3 tiene la mayor pendiente (≈0,0056), con flujo rápido sobre una cimentación ubicada en el cauce, así que lo que controlaría el desplante sería la **socavación** (C). Clave discutible.",
+      "origen": "Cuadernillo 2018 #9",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-010",
+      "area": "diseno_infraestructura",
+      "n": 10,
+      "contexto": 1,
+      "enunciado": "Al revisar el diseño para la alternativa 3, el cual consiste en un canal completamente revestido en piedra pegada, se verificó que, en la definición del material de revestimiento del canal, el criterio de diseño que prima es",
+      "opciones": {
+        "A": "la baja velocidad del canal de desviación que puede producir sedimentación del material transportado.",
+        "B": "la alta permeabilidad de las rocas calizas que hará que el agua se infiltre completamente en el terreno.",
+        "C": "los procesos de disolución y carcavamiento que pueden activarse al entrar en contacto el agua del canal con las arcillas carbonatadas y las rocas calizas.",
+        "D": "la baja pendiente del corte de los taludes para conformar el canal en la roca caliza."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "La clave oficial es B (permeabilidad de las calizas). Sin embargo, el caso describe calizas **inalteradas** bajo arcillas carbonatadas, materiales cuyo riesgo principal al contacto con agua es la disolución y la erosión (carcavamiento), lo que apunta a C; además, la infiltración «completa» es una exageración. Clave discutible.",
+      "origen": "Cuadernillo 2018 #10",
+      "clave_discutida": true
+    },
+    {
+      "id": "icfes-diseno_infraestructura-011",
+      "area": "diseno_infraestructura",
+      "n": 11,
+      "contexto": 1,
+      "enunciado": "Teniendo en cuenta que la meandricidad es la relación entre la longitud del cauce y la longitud en recta entre dos puntos del tramo en consideración, la alternativa que más se ajusta a la pendiente media y la meandricidad del cauce original es",
+      "opciones": {
+        "A": "la 1.",
+        "B": "la 2.",
+        "C": "la 3.",
+        "D": "la 4."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Cauce original: meandricidad 4.000/3.000 ≈ **1,33** y pendiente ≈ 4/4.000 = 0,001. Alt. 1: 1,67; alt. 2: 8.000/6.000 ≈ **1,33** con pendiente 0,0015; alt. 3: 1,0 con pendiente ≈0,0056; alt. 4: 6,67. La alternativa 2 reproduce la meandricidad y tiene la pendiente más cercana en orden de magnitud.",
+      "origen": "Cuadernillo 2018 #11"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-012",
+      "area": "diseno_infraestructura",
+      "n": 12,
+      "contexto": 1,
+      "enunciado": "En la alternativa 1 se requerirá evaluar la siguiente obra adicional, con el fin de garantizar la estabilidad futura del tajo minero:",
+      "opciones": {
+        "A": "Muro pantalla profundo de impermeabilización, paralelo al borde del tajo minero.",
+        "B": "Diques de protección contra inundaciones en la margen derecha del canal.",
+        "C": "La alternativa 1 no producirá inestabilidades en el tajo dado que está alejada del punto más profundo de la explotación minera.",
+        "D": "Compactación de las paredes del canal y de los diques de protección contra inundaciones para reducir el potencial de licuación por sismo."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "La alternativa 1 bordea muy de cerca la futura zona de explotación, de modo que una creciente que desborde el canal inundaría el tajo; los **diques de protección** contra inundaciones en la margen del canal evitan ese riesgo. C es falsa porque el canal pasa pegado al tajo, y D no aplica porque no hay actividad neotectónica. Ojo: como el canal corre sobre aluviones permeables, el muro pantalla (A) también es una obra defendible, pero la clave es B.",
+      "origen": "Cuadernillo 2018 #12"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-013",
+      "area": "diseno_infraestructura",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "En el diseño estructural de una edificación se requiere colocar una viga en voladizo tal como se ilustra en la figura. La viga se diseña en concreto reforzado para que soporte una carga uniformemente distribuida W.\n\nEn estas condiciones y para que garantice la mejor capacidad estructural de la viga, el ingeniero interventor del diseño esperará que, como resultado del análisis, se llegue a una distribución cualitativa del acero de refuerzo longitudinal en la sección transversal M-M′, conformada por",
+      "opciones": {
+        "A": "solo barras de refuerzo inferior y ninguna barra de refuerzo superior.",
+        "B": "una cantidad de barras de refuerzo inferior mayor que la cantidad de barras de refuerzo superior.",
+        "C": "una cantidad de barras de refuerzo inferior menor que la cantidad de barras de refuerzo superior.",
+        "D": "una cantidad de barras de refuerzo inferior igual que la cantidad de barras de refuerzo superior."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "En un voladizo con carga hacia abajo el momento es negativo: las fibras **superiores** quedan a tracción y el concreto no resiste tracción, así que allí va la mayor parte del acero. Abajo se deja un mínimo de barras por cuantía mínima y para armar los estribos. La trampa típica es pensar como en una viga simplemente apoyada (B).",
+      "origen": "Cuadernillo 2018 #13 · Preguntas explicadas #1",
+      "imagen": "icfes_diseno_infraestructura_013.png"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-014",
+      "area": "diseno_infraestructura",
+      "n": 14,
+      "contexto": null,
+      "enunciado": "La durabilidad de un concreto fabricado a base de cemento Portland está directamente relacionado con su resistencia a la acción del clima (meteorización).\n\nDe cuatro posibles concretos por usar, con diferentes características mecánicas y físicas, el que presenta una mayor resistencia a la meteorización, es aquel que sea",
+      "opciones": {
+        "A": "altamente capaz de sostener grandes cargas.",
+        "B": "impermeable y presente bajos cambios de volumen.",
+        "C": "adecuadamente mezclado y colocado en la obra.",
+        "D": "diseñado bajo las normas sismo-resistentes locales."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La meteorización actúa por el ingreso de agua y agentes agresivos y por los ciclos de expansión y contracción; un concreto **impermeable** y con bajos cambios de volumen limita ambos mecanismos. La alta resistencia mecánica o el diseño sismorresistente no garantizan por sí mismos durabilidad.",
+      "origen": "Cuadernillo 2018 #14"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-015",
+      "area": "diseno_infraestructura",
+      "n": 15,
+      "contexto": null,
+      "enunciado": "Se va a realizar el vaciado de una estructura en concreto convencional siguiendo las especificaciones de diseño. Se requiere que la estructura alcance su resistencia de diseño a la compresión (f’c = 210 kgf/cm²).\n\nPara asegurar que el material alcance la resistencia de diseño, se debería",
+      "opciones": {
+        "A": "agregar acero de refuerzo.",
+        "B": "esperar 14 días.",
+        "C": "asegurarse que reciba toda el agua necesaria para su curado.",
+        "D": "cubrir con costales la base de la estructura y todo su perímetro."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La resistencia del concreto se desarrolla por la hidratación del cemento, por lo que un **curado** adecuado (agua suficiente) es la condición para alcanzar f’c. El acero no cambia la resistencia del concreto, y f’c se especifica normalmente a 28 días, no a 14.",
+      "origen": "Cuadernillo 2018 #15"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-016",
+      "area": "diseno_infraestructura",
+      "n": 16,
+      "contexto": null,
+      "enunciado": "La energía específica de un flujo es la energía por unidad de peso referida al fondo del canal, donde, E = energía especifica, V = velocidad media del flujo, Q = caudal en el canal, A = sección del canal, D = profundidad hidráulica y g = aceleración de la gravedad.\n\nEl flujo en un canal es crítico si",
+      "opciones": {
+        "A": "las fuerzas inerciales son iguales a las fuerzas gravitacionales.",
+        "B": "la carga de velocidad es mayor a la mitad de la profundidad hidráulica.",
+        "C": "el caudal es mínimo para una misma energía específica.",
+        "D": "el estado del flujo y la energía específica es máxima."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "El número de Froude, V/√(gD), compara fuerzas inerciales y gravitacionales; el flujo es crítico cuando **Fr = 1**, es decir, cuando ambas son iguales. Eso equivale a V²/2g = D/2 (no mayor), al caudal **máximo** para una energía dada y a la energía específica **mínima** para un caudal dado.",
+      "origen": "Cuadernillo 2018 #16",
+      "imagen": "icfes_diseno_infraestructura_016.png"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-017",
+      "area": "diseno_infraestructura",
+      "n": 17,
+      "contexto": null,
+      "enunciado": "En el diseño de canales abiertos con flujo permanente y uniforme es indispensable conocer el régimen de flujo. Para ello se hace uso de la curva de energía específica (E) que se muestra en la figura.\n\nDe esta figura se deduce que",
+      "opciones": {
+        "A": "existen dos valores de energía específica para una misma profundidad.",
+        "B": "para un mismo valor de energía específica, existen dos profundidades llamadas alternas.",
+        "C": "en el punto de energía crítica el número de Froude es igual a 1.",
+        "D": "en un flujo permanente y uniforme no es posible el flujo crítico."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "En la curva, a cada valor de E (eje horizontal) por encima del mínimo le corresponden dos valores de Y: las **profundidades alternas** (subcrítica y supercrítica). Lo de Froude = 1 es cierto en teoría, pero no se deduce de la figura, y A invierte los ejes.",
+      "origen": "Cuadernillo 2018 #17 · Preguntas explicadas #3",
+      "imagen": "icfes_diseno_infraestructura_017.png"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-018",
+      "area": "diseno_infraestructura",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "La viga simplemente apoyada que se muestra en la figura soporta una carga uniformemente distribuida W a lo largo de toda la viga, y una carga concentrada perpendicular al plano bbcc, en el centro de la viga.\n\nEl esfuerzo máximo a compresión debido a la flexión en el centro de la viga ocurre en el eje",
+      "opciones": {
+        "A": "a-a.",
+        "B": "b-b.",
+        "C": "c-c.",
+        "D": "d-d."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La carga W comprime las fibras superiores (a-a y b-b) y la carga horizontal P comprime la cara sobre la que empuja (b-b y c-c). Solo en **b-b** coinciden las dos compresiones y se suman; en a-a y c-c se restan, y en d-d se suman las tracciones.",
+      "origen": "Cuadernillo 2018 #18 · Preguntas explicadas #2",
+      "imagen": "icfes_diseno_infraestructura_018.png"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-019",
+      "area": "diseno_infraestructura",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "En las fotografías 1 y 2 se muestran las vistas aguas arriba y aguas abajo de un punto de observación de una cañada en una zona urbana colombiana. En la fotografía 1 se muestra la sección natural de la cañada (ancho de 14 m). En la fotografía 2 se indican las intervenciones que realizaron algunos propietarios sobre la sección de la cañada, tales como canalización de 50 m de longitud y ancho medio de 2 m, un box coulvert 20 m de longitud y construcciones familiares asentadas en los costados y sobre el canal.\n\nEn este contexto, las ventajas y restricciones que se pueden esperar que sucedan debido a las mencionadas intervenciones, son",
+      "opciones": {
+        "A": "la canalización mejora la rugosidad del canal, pero reduce la sección de la cañada que disminuyendo la capacidad hidráulica durante crecientes y genera empujes sobre la base de la vivienda.",
+        "B": "la canalización ofrece la posibilidad de un máximo aprovechamiento del espacio de los predios para construir sobre la cañada y garantiza la capacidad hidráulica.",
+        "C": "la canalización permite la conducción de las aguas residuales generadas por las edificaciones vecinas al canal, pero genera olores e impacto ambiental negativo.",
+        "D": "la canalización cumple con criterios de diseño hidráulico para facilitar el transporte de caudal y los sedimentos y material arrastrado por la cañada que no tienen efecto sobre las edificaciones."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "El revestimiento reduce la rugosidad (ventaja), pero pasar de 14 m a 2 m de ancho recorta drásticamente la sección, de modo que en crecientes el canal se desborda o entra en carga y empuja las estructuras vecinas. B y D afirman, sin sustento, que se garantiza la capacidad hidráulica.",
+      "origen": "Cuadernillo 2018 #19",
+      "imagen": "icfes_diseno_infraestructura_019.png"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-020",
+      "area": "diseno_infraestructura",
+      "n": 20,
+      "contexto": null,
+      "enunciado": "Para evitar el deslizamiento en una ladera se va a construir un muro de contención en voladizo, tal como se presenta en la figura, la cual permite observar la magnitud de las cargas actuantes y resistentes, en el caso de factor de seguridad por deslizamiento (FSd).\n\nDonde, Ea: empuje activo; P: peso lleno más muro; Rd: resistencia al deslizamiento.\n\nEl factor de seguridad por deslizamiento (FSd) del muro de contención en voladizo es",
+      "opciones": {
+        "A": "FSd = 0,8.",
+        "B": "FSd = 1,25.",
+        "C": "FSd = 2,0.",
+        "D": "FSd = 2,5."
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "FSd = fuerzas resistentes / fuerzas actuantes horizontales = Rd / Ea = 40 kN / 50 kN = **0,8** (el muro no es estable al deslizamiento). La trampa es invertir el cociente (1,25) o usar el peso P.",
+      "origen": "Cuadernillo 2018 #20",
+      "imagen": "icfes_diseno_infraestructura_020.png"
+    },
+    {
+      "id": "icfes-diseno_infraestructura-021",
+      "area": "diseno_infraestructura",
+      "n": 21,
+      "contexto": null,
+      "enunciado": "La figura muestra la unión de una armadura, en la cual se indican las fuerzas internas en cada uno de los perfiles angulares unidos a una platina, por medio de pernos de área igual a 20 mm².\n\nSi se conoce que el esfuerzo permisible a cortante de los pernos es de τp = 150 N/mm², la fuerza P máxima para la que se iniciará la falla por cortante en la conexión es:",
+      "opciones": {
+        "A": "1.000 N.",
+        "B": "2.000 N.",
+        "C": "3.000 N.",
+        "D": "4.000 N."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Cada perno resiste a cortante V = τp × A = 150 N/mm² × 20 mm² = **3.000 N**; cuando la fuerza en un elemento alcanza ese valor, su perno empieza a fallar por cortante.",
+      "origen": "Cuadernillo 2018 #21",
+      "imagen": "icfes_diseno_infraestructura_021.png"
+    }
+  ]
+}

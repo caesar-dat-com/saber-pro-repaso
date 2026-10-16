@@ -1,0 +1,645 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Atención en Salud (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Factores asociados a accidentes biológicos",
+   "texto": "En un estudio para determinar los factores asociados a la presencia de accidentes biológicos en los trabajadores de salud de un hospital, se encontraron los resultados que muestra la tabla.\n\n| Variable | Riesgo relativo | Intervalo de confianza del 95 % |\n|---|---|---|\n| **Género** | | |\n| Hombre | 1,00 | - |\n| Mujer | 1,37 | 1,14 - 1,64 |\n| **Edad** | | |\n| 20 - 30 años | 2,55 | 1,89 - 3,38 |\n| 31 - 50 años | 0,97 | 0,83 - 1,10 |\n| Más de 50 años | 1,00 | - |\n| **Accidente biológico previo** | | |\n| No | 1,00 | - |\n| Sí | 4,02 | 2,08 - 5,06 |\n| **Duración de la jornada laboral antes del accidente** | | |\n| Menor o igual que 8 horas | 1,00 | - |\n| Entre 9 y 12 horas | 1,32 | 0,98 - 1,67 |\n| Mayor que 12 horas | 3,25 | 2,44 - 4,17 |"
+  },
+  {
+   "titulo": "Anemia por grupo de edad",
+   "texto": "En la actualidad, la anemia continúa siendo un problema de salud pública, pese a todos los esfuerzos realizados por los diferentes entes respectivos.\n\n| Edad en años cumplidos | Total niños en el territorio | Total niños con anemia | Prevalencia |\n|---|---|---|---|\n| 1 | 140 | 44 | |\n| 2 | 129 | 22 | |\n| 3 | 116 | 10 | |\n| 4 | 103 | 2 | |"
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-atencion_salud-001",
+   "area": "atencion_salud",
+   "n": 1,
+   "contexto": 0,
+   "enunciado": "De acuerdo con la anterior información, ¿cuáles son las categorías asociadas a un mayor riesgo de presentarse un accidente biológico?",
+   "opciones": {
+    "A": "Ser hombre, tener más de 50 años de edad, no tener un accidente biológico previo y haber trabajado una jornada menor o igual que 8 horas antes del accidente.",
+    "B": "Ser mujer, tener entre 31 y 50 años de edad, tener un accidente biológico previo y haber trabajado una jornada entre 9 y 12 horas antes del accidente.",
+    "C": "Ser hombre, tener entre 20 y 30 años de edad, tener un accidente biológico previo y haber trabajado una jornada entre 9 y 12 horas antes del accidente.",
+    "D": "Ser mujer, tener entre 20 y 30 años de edad, tener un accidente biológico previo y haber trabajado una jornada mayor que 12 horas antes del accidente."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "En cada variable se busca la categoría con **riesgo relativo mayor que 1** y cuyo intervalo de confianza no incluya el 1: mujer (1,37), 20-30 años (2,55), accidente previo (4,02) y jornada mayor que 12 horas (3,25). La jornada de 9-12 horas (IC 0,98-1,67) y la edad de 31-50 años (IC 0,83-1,10) incluyen el 1, así que no son significativas; las categorías con RR = 1,00 son la referencia.",
+   "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-atencion_salud-002",
+   "area": "atencion_salud",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Una joven de 15 años, estudiante de décimo grado, con antecedente personal de asma, inició vida sexual hace 6 meses, consumió marihuana en una sola ocasión, no consume cigarrillo, pertenece a un equipo de baloncesto con el que entrena 4 veces por semana, desde hace 1 año realiza una dieta compuesta por verduras, proteínas y fibra. En la actualidad refiere que se siente saludable.\n\nDe acuerdo con lo anterior, ¿cuál es la condición que más actúa como factor protector de la salud en esta joven?",
+   "opciones": {
+    "A": "La vida sexual activa.",
+    "B": "La práctica de ejercicio regular.",
+    "C": "Los hábitos alimentarios.",
+    "D": "La abstinencia de consumo de cigarrillo."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "El ejercicio regular (4 veces por semana) es el factor protector más fuerte en su perfil: mejora la salud cardiovascular y la función respiratoria, relevante por su asma. La dieta es incompleta (falta de carbohidratos y otros grupos) y la abstinencia de cigarrillo es solo la ausencia de un riesgo; la vida sexual activa a los 15 años es más bien un factor de riesgo.",
+   "origen": "Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-atencion_salud-003",
+   "area": "atencion_salud",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "En una institución educativa se realizan anualmente evaluaciones auditivas a los escolares de 2.° grado (8 años de edad en promedio) y se ha encontrado que cada vez hay más niños con pérdida de la audición en uno o en los dos oídos. Ante esta situación se decide incluir, dentro del plan de estudios, estrategias educativas dirigidas a promover hábitos que protejan su salud auditiva.\n\nEstas estrategias deben contemplar, prioritariamente,",
+   "opciones": {
+    "A": "información científica sobre el funcionamiento del oído y la pérdida irreversible de la audición por ruido.",
+    "B": "la distribución de cartillas con información sobre fuentes de ruido peligroso y formas de proteger los oídos.",
+    "C": "programación periódica de charlas sobre el daño que ocasionan los reproductores de música con audífonos.",
+    "D": "actividades prácticas y talleres sobre comportamientos que reducen el riesgo de pérdida de la audición por ruido."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "Con niños de 8 años, lo que forma **hábitos** es aprender haciendo: actividades prácticas y talleres sobre conductas protectoras. Informar (datos científicos, cartillas o charlas) transmite conocimiento, pero por sí solo no cambia comportamientos a esa edad.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-atencion_salud-004",
+   "area": "atencion_salud",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Como profesional de la salud, usted forma parte de un equipo interdisciplinario que orienta a las personas con hipertensión arterial y participa en el diseño y la programación de una actividad educativa dirigida a esta población.\n\nUsted propone realizar, en su orden, las siguientes actividades:",
+   "opciones": {
+    "A": "Evaluación de conocimientos sobre el tema; encuesta de satisfacción de los usuarios; caracterización de la población y planeación.",
+    "B": "Caracterización sociodemográfica de la población; definición de temas; selección de metodología por utilizar y desarrollo de la actividad educativa.",
+    "C": "Selección de la metodología; realización de la actividad educativa; caracterización de la población y retroalimentación de la actividad.",
+    "D": "Aplicación de encuestas de satisfacción a los usuarios, selección de temas; planeación de la actividad y retroalimentación."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "Una actividad educativa se planifica en secuencia lógica: primero se **caracteriza la población** (diagnóstico), luego se definen temas y metodología (programación) y por último se desarrolla (ejecución). Las demás opciones ponen la caracterización o la satisfacción del usuario en un lugar que no corresponde.",
+   "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-atencion_salud-005",
+   "area": "atencion_salud",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "En una zona apartada de la cabecera municipal, una organización presta servicios de rehabilitación integral a adultos de escasos recursos, quienes presentan paraplejia con compromiso de miembros inferiores. Estas personas tienen un nivel medio de funcionalidad en las labores cotidianas y coinciden en su especial interés por vincularse de nuevo a las actividades que realizaban antes del evento.\n\nDe acuerdo con la estrategia de Atención primaria en salud, se espera que las acciones con este grupo se enfoquen a",
+   "opciones": {
+    "A": "entrenar a los usuarios en estrategias de prevención de las complicaciones derivadas de su situación de discapacidad e identificar posibilidades de vinculación con redes de su comunidad.",
+    "B": "remitir a los usuarios hacia servicios de salud de mayor nivel de complejidad y asegurarles su seguimiento constante por profesionales especialistas.",
+    "C": "garantizarles a los usuarios la disponibilidad de tecnología de asistencia de punta y proporcionarles un completo tratamiento farmacológico.",
+    "D": "gestionar posibilidades de institucionalización para aquellos usuarios con mayor compromiso funcional e identificar otros posibles casos de adultos con discapacidad entre la comunidad."
+   },
+   "correcta": "A",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "La APS privilegia la prevención, el autocuidado y la **participación comunitaria**: entrenar en prevención de complicaciones y conectar a los usuarios con redes de su comunidad responde además a su interés de reintegrarse. Remitir a especialistas, tecnología de punta o institucionalizar se alejan del enfoque comunitario y de baja complejidad de la APS.",
+   "origen": "Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-atencion_salud-006",
+   "area": "atencion_salud",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "El secretario de salud de un municipio trabaja en la implementación del diagnóstico de salud local, en el cual se identificó que los indicadores de vacunación están por debajo de las metas propuestas a nivel nacional. Una de las estrategias que se realiza es el establecimiento de coberturas y rendimientos del equipo de salud a nivel local.\n\nEn un proceso de planificación en Atención primaria en salud esto corresponde a",
+   "opciones": {
+    "A": "diagnóstico.",
+    "B": "programación.",
+    "C": "ejecución.",
+    "D": "evaluación."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "El diagnóstico ya está hecho (coberturas bajas). Fijar **metas de cobertura y rendimientos** del equipo es definir cuánto se hará y con qué recursos: eso es la fase de programación, previa a la ejecución y la evaluación.",
+   "origen": "Cuadernillo 2026 #6"
+  },
+  {
+   "id": "icfes-atencion_salud-007",
+   "area": "atencion_salud",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Debido al alto índice de embarazos en adolescentes del municipio en donde usted vive, la alcaldía financia un programa de prevención del embarazo que incluye visita domiciliaria y un equipo de salud conformado por enfermeras jefes y auxiliares, quienes dictan en los colegios charlas sobre los riesgos de estos embarazos y sobre métodos de planificación. Además, suministran muestras gratuitas de pastillas anticonceptivas y preservativos.\n\nTeniendo en cuenta las características del programa llevado a cabo por la alcaldía, usted incluye el conjunto de actividades en el componente de Atención primaria en salud de",
+   "opciones": {
+    "A": "educación sanitaria y promoción de la salud.",
+    "B": "tratamiento apropiado de las enfermedades más habituales y de los traumatismos comunes.",
+    "C": "cuidados sanitarios maternoinfantiles, incluida la salud reproductiva.",
+    "D": "prevención y control de enfermedades endémicas."
+   },
+   "correcta": "A",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "El programa se basa en charlas en colegios, visitas domiciliarias y entrega de métodos para que los adolescentes decidan informadamente: son acciones de **educación sanitaria y promoción de la salud**. La trampa es la opción C: los cuidados maternoinfantiles se refieren a la atención de la gestante, el parto y el niño, no a la prevención educativa del embarazo.",
+   "origen": "Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-atencion_salud-008",
+   "area": "atencion_salud",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "En un municipio colombiano de 5.000 habitantes, la incidencia de enfermedad diarreica aguda en menores de cinco años de edad se duplicó durante los últimos seis meses. Las autoridades locales lo contactan a usted para que asesore un plan que permita controlar este problema de salud y le piden que defina la actividad prioritaria, a la cual le destinarán la mayor cantidad de recursos financieros.\n\nDel listado de actividades, consideradas por las autoridades como prioritarias, la más efectiva para evitar nuevos casos de diarrea es:",
+   "opciones": {
+    "A": "Suministrar sales de rehidratación oral a todas las familias que tengan niños menores de cinco años de edad y dar suplementos de zinc a los niños enfermos.",
+    "B": "Promover un plan de nutrición saludable en toda la población, enfatizando en la lactancia materna exclusiva durante los primeros seis meses de vida.",
+    "C": "Examinar las fuentes de agua utilizadas para el acueducto municipal y garantizar la potabilidad del agua que distribuye ese acueducto.",
+    "D": "Aumentar el número de centros de salud y contratar más médicos y enfermeras para atender a los niños que presenten diarrea."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "Para **evitar nuevos casos** hay que cortar la fuente de transmisión, y en un brote comunitario de EDA la principal es el agua contaminada: garantizar su potabilidad. Las sales de rehidratación, el zinc y más centros de salud tratan a los enfermos, pero no previenen casos nuevos.",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-atencion_salud-009",
+   "area": "atencion_salud",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Según estimaciones de la Organización Mundial de la Salud (OMS), en 1997 las muertes por tétanos se acercaron a 275.000 y en el año 2011 se notificaron 14.132 muertes a nivel mundial. A pesar de esta cifra, la magnitud real del problema se desconoce ya que muchos casos no se registran. Colombia se ha comprometido con la eliminación del tétanos neonatal, enfermedad aguda producida por una exotoxina del bacilo tetánico (Clostridium tetani). Este compromiso implica que cada territorio tenga menos de un caso de tétanos neonatal por cada 1.000 nacidos vivos.\n\nDe acuerdo con la situación presentada, una de las acciones de intervención prioritaria es",
+   "opciones": {
+    "A": "incluir en el plan ampliado de inmunizaciones la vacunación antitetánica para todos sus habitantes.",
+    "B": "prohibir el control prenatal, la atención del parto y atención de la madre y recién nacido en casa.",
+    "C": "fortalecer los programas de control prenatal, educación y vacunación antitetánica en las gestantes.",
+    "D": "educar a todos los habitantes sobre la importancia de vacunarse contra la toxina del tétanos neonatal."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "El tétanos neonatal se previene **vacunando a la gestante** (los anticuerpos pasan al feto) y con control prenatal y parto limpio. Vacunar o educar a toda la población no focaliza el grupo que determina el evento, y prohibir el control prenatal o la atención domiciliaria no tiene sentido.",
+   "origen": "Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-atencion_salud-010",
+   "area": "atencion_salud",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Un poblado rural de Colombia es endémico en infecciones intestinales infantiles por entamoeba histolítica. Un equipo básico de salud con capacitación en Atención primaria en salud hace visitas domiciliarias y encuentra que muchas de estas casas donde residen los niños afectados no tienen agua potable. El equipo de salud decide contactar a los educadores y al personal de obras públicas del pueblo para tratar de mejorar la situación.\n\nEsta decisión pertenece al componente de Atención primaria en salud",
+   "opciones": {
+    "A": "trabajo familiar y comunitario.",
+    "B": "acción intersectorial.",
+    "C": "promoción de la salud.",
+    "D": "servicios de salud."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "El equipo de salud se articula con **otros sectores** (educación y obras públicas) para resolver un determinante que el sector salud no controla solo, el agua potable: eso es acción intersectorial. No es trabajo comunitario porque no involucra directamente a las familias, sino a otras instituciones.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10 · Cuadernillo 2026 #22"
+  },
+  {
+   "id": "icfes-atencion_salud-011",
+   "area": "atencion_salud",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "A un individuo en situación de desplazamiento se le negó la atención en una institución de salud, razón por la cual pasa un derecho de petición alegando violación del artículo 2 de la Ley 1438 de 2011 que establece: “El Sistema General de Seguridad Social en Salud estará orientado a generar condiciones que protejan la salud de los colombianos, siendo el bienestar del usuario el eje central y núcleo articulador de las políticas en salud. Para esto concurrirán acciones de salud pública, promoción de la salud, prevención de la enfermedad y demás prestaciones que, en el marco de una estrategia de Atención primaria en salud, sean necesarias para promover de manera constante la salud de la población. Para lograr este propósito, se unificará el Plan de Beneficios para todos los residentes, se garantizará la universalidad del aseguramiento, la portabilidad o prestación de los beneficios en cualquier lugar del país y se preservará la sostenibilidad financiera del Sistema, entre otros”.\n\nDe acuerdo con lo anterior se violó",
+   "opciones": {
+    "A": "la no atención en una ciudad diferente a la ciudad que está afiliado.",
+    "B": "la no atención después de llegar 15 minutos tarde a la cita asignada.",
+    "C": "la no atención del médico especializado cerca de su casa.",
+    "D": "la no atención por retraso en el pago de sus aportes."
+   },
+   "correcta": "A",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "El artículo citado garantiza la **portabilidad**: la prestación de los beneficios en cualquier lugar del país. A una persona desplazada, que está lejos de su municipio de afiliación, negarle la atención por estar en otra ciudad viola directamente ese principio; las demás situaciones no están cubiertas por el texto.",
+   "origen": "Cuadernillo 2026 #11"
+  },
+  {
+   "id": "icfes-atencion_salud-012",
+   "area": "atencion_salud",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "El capitán de una aeronave de procedencia internacional informa a la torre de control que uno de sus pasajeros presenta tos persistente y malestar general. La razón por la cual se notifica esta situación es para darle cumplimiento a lo establecido en el Reglamento Sanitario Internacional (RSI). De acuerdo con lo anterior, el Sistema de Vigilancia en Salud Pública busca la",
+   "opciones": {
+    "A": "observación y análisis objetivo, sistemático y constante de los eventos en salud pública.",
+    "B": "identificación de sucesos o circunstancias que pueden modificar o incidir en la salud.",
+    "C": "aplicación de protocolos de los eventos de interés en salud pública.",
+    "D": "definición de protocolos para la vigilancia de eventos en salud."
+   },
+   "correcta": "A",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "La vigilancia en salud pública se define como la **observación y el análisis objetivo, sistemático y constante** de los eventos en salud; la notificación del caso en la aeronave alimenta ese proceso. Identificar sucesos o aplicar y definir protocolos son tareas parciales dentro de la vigilancia, no su propósito.",
+   "origen": "Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-atencion_salud-013",
+   "area": "atencion_salud",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Usted requiere saber si en una población se está presentando un brote de una enfermedad inmunoprevenible en fase de erradicación. Para definir el brote y la consecuente alerta epidemiológica, necesita conocer",
+   "opciones": {
+    "A": "la prevalencia de la enfermedad.",
+    "B": "la presencia de un solo caso confirmado de la enfermedad.",
+    "C": "la morbimortalidad de la enfermedad.",
+    "D": "la incidencia de la enfermedad."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "En una enfermedad en fase de erradicación se espera cero casos, por lo que **un solo caso confirmado** ya constituye brote y dispara la alerta. No hace falta esperar a calcular incidencia, prevalencia o morbimortalidad.",
+   "origen": "Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-atencion_salud-014",
+   "area": "atencion_salud",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "En el año inmediatamente anterior, dos municipios colombianos registraron 38 muertes por malaria cada uno. Teniendo en cuenta las mortalidades que se presentan en los municipios y para decidir por cuál de los dos se debe comenzar a intervenir, es correcto afirmar que es necesario",
+   "opciones": {
+    "A": "intervenir los dos municipios porque tienen igual mortalidad.",
+    "B": "conocer la tasa de letalidad en los dos municipios.",
+    "C": "conocer el número de habitantes de cada municipio.",
+    "D": "conocer la tasa de incidencia en los dos municipios."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "Las 38 muertes son cifras absolutas; para compararlas hay que convertirlas en **tasa de mortalidad** (muertes / población), y para eso se necesita el número de habitantes de cada municipio. Igual número de muertes no implica igual mortalidad, y la letalidad o la incidencia miden otras cosas.",
+   "origen": "Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-atencion_salud-015",
+   "area": "atencion_salud",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "En un municipio colombiano hay una alta prevalencia de tuberculosis en especial en los adultos jóvenes y adultos mayores. La comunidad de este municipio comparte algunas condiciones desfavorables como el bajo nivel de ingresos que se refleja en los niveles de pobreza que alcanza al 70 % de la población. Esta situación lleva a que las personas tengan que vivir en espacios reducidos e insalubres con difícil acceso a agua potable y alcantarillado. Igualmente, la escasez económica obliga a que las personas tengan un bajo consumo de alimentos generando deficiencias de peso en todos los grupos de edad.\n\nPara atender los casos de tuberculosis y prevenir otros nuevos, los trabajadores de la salud de este lugar deben iniciar su labor abordando las siguientes situaciones de esta población:",
+   "opciones": {
+    "A": "Bajos ingresos económicos e inadecuadas condiciones de la vivienda.",
+    "B": "Bajos ingresos económicos y hacinamiento crítico.",
+    "C": "Desnutrición y escasos e inadecuados servicios públicos.",
+    "D": "Desnutrición e inadecuadas condiciones de la vivienda."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "Los determinantes más directos de la tuberculosis son la **desnutrición** (baja la inmunidad) y las **viviendas reducidas e insalubres** (facilitan la transmisión aérea), y ambos son abordables por el equipo de salud. Los bajos ingresos son un determinante estructural que el personal de salud no puede intervenir directamente, y el agua y el alcantarillado influyen poco en una enfermedad respiratoria.",
+   "origen": "Cuadernillo 2026 #15"
+  },
+  {
+   "id": "icfes-atencion_salud-016",
+   "area": "atencion_salud",
+   "n": 16,
+   "contexto": 1,
+   "enunciado": "De acuerdo con la tabla, la prevalencia de anemia por cada grupo de edad según los datos arrojados por una Encuesta local del 2009 es",
+   "opciones": {
+    "A": "(44/(140×1))×100 = 31,4 %; (22/(129×2))×100 = 8,5 %; (10/(116×3))×100 = 2,9 %; (2/ (103×4))×100 = 0,5 %.",
+    "B": "44/140x100 = 31,4 %; 22/129x100 = 17,1 %; 10/116x100 = 8,6 %; 2/103x100 = 1,9 %.",
+    "C": "44/(140+129+116+103)×100 = 9,0; 22/(140+129+116+103)×100 = 4,5; 10/ (140+129+116+103)×100 = 2,0; 2/(140+129+116+103)×100 = 0,4.",
+    "D": "44/140=0,31; 22/129 = 0,17; 10/116 = 0,08; 2/103 = 0,02."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "La prevalencia de cada grupo es casos / población de ese grupo × 100: 44/140 × 100 = **31,4 %**, 22/129 × 100 = 17,1 %, 10/116 × 100 = 8,6 % y 2/103 × 100 = 1,9 %. La A multiplica el denominador por la edad sin razón, la C usa el total de niños en lugar del grupo y la D no expresa el resultado en porcentaje.",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-atencion_salud-017",
+   "area": "atencion_salud",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En una de sus intervenciones con familias, un equipo básico de salud encuentra el siguiente caso: Hombre de 48 años de edad, casado, con dos hijos y empleado de una fábrica como supervisor de calidad; con antecedentes familiares de cáncer de próstata en el padre e hipertensión y diabetes en la madre. Entre sus antecedentes personales se encuentra una fractura de fémur a los 28 años en accidente de tránsito, ser fumador de 10 cigarrillos al día, consumir licor cada semana hasta la embriaguez. En su tiempo libre juega billar. No consulta a los servicios de salud desde hace varios años porque se siente saludable.\n\nEn la evaluación clínica, el equipo de salud solo encuentra sobrepeso con un índice de masa corporal de 26 kg/m². De acuerdo con el perfil de esta persona, la acción más pertinente que debe realizar el equipo de salud es",
+   "opciones": {
+    "A": "solicitar antígeno específico de próstata.",
+    "B": "remitirlo al programa de detección de alteraciones del adulto.",
+    "C": "solicitar niveles séricos de glicemia en ayunas.",
+    "D": "remitirlo al programa de hipertensión arterial y diabetes."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "Es un adulto sin diagnóstico, con varios factores de riesgo (tabaco, alcohol, sobrepeso, sedentarismo y antecedentes familiares): lo pertinente es el **programa de detección de alteraciones del adulto**, que valora el riesgo de forma integral y decide los exámenes. Pedir un solo examen (PSA o glicemia) es fragmentario, y el programa de HTA y diabetes es para quienes ya tienen esas enfermedades.",
+   "origen": "Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-atencion_salud-018",
+   "area": "atencion_salud",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Durante el 2012 se realizó un estudio de seguimiento en una población constituida por 3.500 habitantes; al inicio del estudio, el 20 % de las personas presentaban hipertensión arterial (HTA). En el transcurso del año se diagnosticaron 74 casos nuevos de la enfermedad.\n\nDesde el punto de vista epidemiológico, los 74 casos diagnosticados corresponden a",
+   "opciones": {
+    "A": "el número de casos prevalentes de HTA.",
+    "B": "la proporción de hipertensos durante el periodo de seguimiento.",
+    "C": "la letalidad por HTA durante el periodo de seguimiento.",
+    "D": "el número de casos incidentes de HTA."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "Son casos **nuevos** que aparecen durante el seguimiento, es decir, casos incidentes. Los prevalentes son los que ya existían al inicio (el 20 % = 700 personas), y la letalidad se refiere a muertes entre los enfermos.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-atencion_salud-019",
+   "area": "atencion_salud",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "Durante el primer periodo epidemiológico del año el 30 % de las mujeres de un municipio presentó los siguientes síntomas: cansancio, dolor muscular, cefalea, fiebre y molestias gastrointestinales como diarrea y alteraciones biliares, para el siguiente periodo epidemiológico esta cifra aumentó en un 25 %. Estos casos alarmaron a las autoridades encargadas de la vigilancia epidemiológica, quienes iniciaron un plan de acción con actividades como",
+   "opciones": {
+    "A": "diagnóstico y tratamiento oportuno.",
+    "B": "terapias de rehabilitación física y mental.",
+    "C": "campañas masivas de información.",
+    "D": "capacitaciones dirigidas a la comunidad."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "Ante un aumento de casos sintomáticos sin causa establecida, lo primero es **identificar el agente (diagnóstico) y tratar oportunamente** a las afectadas para controlar el evento. La rehabilitación es posterior, y las campañas o capacitaciones no tienen contenido claro hasta conocer la causa.",
+   "origen": "Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-atencion_salud-020",
+   "area": "atencion_salud",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Dada la prevalencia de bajo peso al nacer y malnutrición en las gestantes en una localidad de una ciudad del país, se implementa un programa de atención integral en salud con participación de la comunidad. A seis meses de su desarrollo se inicia la recolección de información sobre la cobertura y los avances de actividades según cronograma, esto con el fin de darlo a conocer a los beneficiarios y financiadores del programa.\n\nEstas acciones corresponden a la fase de",
+   "opciones": {
+    "A": "diagnóstico.",
+    "B": "ejecución.",
+    "C": "evaluación.",
+    "D": "programación."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "Medir **cobertura y avance frente al cronograma** e informar a beneficiarios y financiadores es valorar lo realizado: fase de evaluación. La ejecución es hacer las actividades, no medir su cumplimiento.",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-atencion_salud-021",
+   "area": "atencion_salud",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Un paciente que trabaja en una granja acude al servicio de urgencias por presentar cuadro de leptospirosis de dos semanas de evolución. Usted, en conjunto con su equipo de Atención primaria en salud, deciden desarrollar las siguientes acciones intersectoriales, en orden de importancia:",
+   "opciones": {
+    "A": "Diligenciamiento de la historia clínica; diligenciamiento de la ficha de notificación; investigación epidemiológica de caso y campo; investigación y sanción al establecimiento; implementación de medidas de prevención y control; vacunación a huéspedes animales domésticos; seguimiento a casos confirmados.",
+    "B": "Diligenciamiento de la historia clínica; solicitud de muestras pareadas; administración de tratamiento; inspección de contactos con control de animales; recolección canina del lugar; vacunación a vectores animales; notificación mediante el laboratorio de salud pública de pacientes confirmados.",
+    "C": "Diligenciamiento de la historia clínica; diligenciamiento de la ficha de notificación; administración de tratamiento; investigación epidemiológica de caso y campo; control de vectores domésticos; identificación de otros sintomáticos; capacitación a comunidad del contagio y decomiso de elementos causales.",
+    "D": "Diligenciamiento de la historia clínica; solicitud de muestras pareadas; diligenciamiento de la ficha de notificación; administración de tratamiento; investigación epidemiológica de caso y campo; identificación de otros sintomáticos; implementación de medidas de prevención y control y ajustes a la notificación."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "La secuencia correcta va de lo individual a lo colectivo: historia clínica, **muestras pareadas** para confirmar, notificación, tratamiento, investigación de caso y campo, búsqueda de otros sintomáticos, medidas de prevención y control y ajuste de la notificación. Las otras opciones omiten la confirmación por laboratorio, notifican tarde o incluyen acciones sin sustento, como sancionar el establecimiento o \"vacunar vectores\".",
+   "origen": "Cuadernillo 2026 #21"
+  },
+  {
+   "id": "icfes-atencion_salud-022",
+   "area": "atencion_salud",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "En la gráfica se observa el porcentaje de hogares con acceso a servicios básicos por zona de residencia, según los datos arrojados por la Encuesta nacional de demografía y salud (ENDS), 2010.\n\nDe acuerdo con la información anterior, ¿cuál es la acción a priorizar para contribuir en la disminución de la prevalencia de enfermedad diarreica aguda (EDA)?",
+   "opciones": {
+    "A": "fomentar el lavado de manos en toda la población.",
+    "B": "mejorar la cobertura de acueducto en la zona rural.",
+    "C": "ofrecer micronutrientes y sales de hidratación a los pacientes.",
+    "D": "mejorar la manipulación y conservación de alimentos."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "La gráfica muestra la mayor brecha en el agua para beber: solo el **17 % de los hogares rurales** tiene acueducto público frente al 91 % urbano. Como el agua no potable es la principal fuente de EDA, ampliar el acueducto rural ataca la causa; las demás acciones no se desprenden de los datos o solo tratan a los enfermos.",
+   "origen": "Cuadernillo 2018 #24 · Cuadernillo 2026 #23",
+   "imagen": "icfes_atencion_salud_022.png"
+  },
+  {
+   "id": "icfes-atencion_salud-023",
+   "area": "atencion_salud",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Según la Encuesta Nacional de Situación Nutricional (ENSIN) 2010, el 8 % de los niños entre 5 y 12 años de edad presentan anemia, y la población del área rural es la más afectada. En respuesta a esta situación, se decidió implementar un programa de suplementación con sulfato ferroso para los estudiantes de la escuela de una vereda. La mejor forma de evaluar el impacto de este programa es",
+   "opciones": {
+    "A": "realizar seguimiento a las dosis suministradas del sulfato ferroso en diferentes periodos.",
+    "B": "analizar la gestión del equipo de personas que van a realizar la suplementación.",
+    "C": "confirmar la inclusión de la suplementación en el plan obligatorio de salud (POS).",
+    "D": "comparar las cifras iniciales y finales de anemia con exámenes bioquímicos."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "El **impacto** se mide en el resultado en salud: comparar la prevalencia de anemia antes y después con exámenes bioquímicos. Seguir las dosis o la gestión del equipo evalúa el proceso, no el efecto del programa.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-atencion_salud-024",
+   "area": "atencion_salud",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "En Colombia, para reducir la tasa de mortalidad en menores de 1 año de edad, a 15 por 1.000 nacidos vivos (línea de base: 16,3 por 1.000 nacidos vivos; DANE, 2004), las actividades que corresponderían a la estrategia para mejorar la salud infantil en el ámbito nacional, departamental y local, son:",
+   "opciones": {
+    "A": "Planes locales de salud sexual, reproductiva y control social a la sexualidad en la madre gestante y lactante.",
+    "B": "Iniciativas de enfoque comunitario y control de la violencia intrafamiliar, con instituciones amigas de la mujer y del infante.",
+    "C": "Planes de prevención y control de las enfermedades prevalentes de la infancia y fortalecer el programa ampliado de inmunizaciones.",
+    "D": "Iniciativas de lactancia materna hasta los seis meses y alimentación complementaria hasta los dos años."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "La mortalidad infantil se reduce sobre todo controlando sus principales causas: las **enfermedades prevalentes de la infancia** (estrategia AIEPI) y las inmunoprevenibles (PAI). Las demás opciones aportan a la salud materna o nutricional, pero no son la estrategia central para esta meta.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-atencion_salud-025",
+   "area": "atencion_salud",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Varias organizaciones comunitarias, inquietas por el uso que se hace de los recursos públicos en salud de su municipio, de los que se cuestionan los resultados, se proponen participar en el control y fiscalización de esa gestión pública. Para ello la forma de participación más efectiva es a través de",
+   "opciones": {
+    "A": "la alianza de usuarios.",
+    "B": "el comité de participación comunitaria.",
+    "C": "la veeduría en salud.",
+    "D": "el consejo municipal de seguridad social en salud."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "La **veeduría ciudadana en salud** es el mecanismo creado específicamente para vigilar y fiscalizar la gestión pública y el uso de los recursos. La alianza de usuarios y el comité de participación comunitaria representan a los usuarios ante las instituciones, y el consejo municipal es un órgano asesor.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-atencion_salud-026",
+   "area": "atencion_salud",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "Los países de bajos y medianos ingresos enfrentan el reto de mejorar las condiciones del desarrollo y crecimiento en menores de 5 años de edad. En este ámbito, la prevención adquiere un papel central, en términos de la identificación temprana de carencias calórico-proteicas que comprometen el desarrollo físico y mental de los niños.\n\nEn una población colombiana vulnerable y con alta proporción de población infantil, un programa sustentado en la estrategia de Atención Primaria en Salud (APS) debe considerar en su fase inicial",
+   "opciones": {
+    "A": "ofertar servicios de pediatría para todos los menores de 5 años de edad.",
+    "B": "caracterizar la situación de salud nutricional en menores de 5 años de edad.",
+    "C": "construir un hospital infantil con servicio especializado en nutrición.",
+    "D": "liberalizar y promover el comercio de alimentos nutritivos."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "La fase inicial de un programa de APS es el **diagnóstico**: caracterizar la situación nutricional para orientar la planeación, la ejecución y la evaluación. Los especialistas y los hospitales no son la primera respuesta de la APS, y promover el comercio de alimentos no garantiza que la población vulnerable acceda a ellos.",
+   "origen": "Cuadernillo 2018 #7 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-atencion_salud-027",
+   "area": "atencion_salud",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "En una población del nororiente colombiano en la que la cantidad de hombres y mujeres es la misma, se encontró que la razón hombre:mujer con la que se presenta la Diabetes mellitus tipo 2 es 2:1. De acuerdo con la información, la prevalencia para hombres y mujeres con la cual se presenta este evento en la población estudiada expresado como tasa sobre 100.000 habitantes es",
+   "opciones": {
+    "A": "20/100.000 y 10/100.000, respectivamente.",
+    "B": "10/100.000 y 20/100.000, respectivamente.",
+    "C": "20/100.000 y 20/100.000, respectivamente.",
+    "D": "10/100.000 y 10/100.000, respectivamente."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "Si hombres y mujeres son el mismo número, una razón hombre:mujer de **2:1** significa que la tasa en hombres es el doble que en mujeres: 20/100.000 frente a 10/100.000. La B invierte la razón y la C y la D corresponden a una razón 1:1.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-atencion_salud-028",
+   "area": "atencion_salud",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "La Ley 1438 de 2011 reformó el Sistema General de Seguridad Social en Salud y en su artículo 32 ofrece elementos para la universalización del aseguramiento en Colombia, pues establece que cuando una persona requiere atención en salud, aun sin estar afiliada y sin tener capacidad de pago, debe ser atendida obligatoriamente. La situación en la cual se podría aplicar esta norma es",
+   "opciones": {
+    "A": "la hospitalización en unidad de cuidados intensivos de un paciente politraumatizado que se encuentra en mora con el pago de sus cotizaciones.",
+    "B": "la atención quirúrgica de un oficial del ejército sin documento de identidad con heridas múltiples por arma de fuego.",
+    "C": "la hospitalización en tercer nivel de una gestante con amenaza de parto prematuro que se encuentra encuestada por el Sisbén en su municipio de procedencia.",
+    "D": "la atención de urgencias por intento de suicidio de un joven de 20 años de edad desempleado y desescolarizado."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "El artículo aplica a quien **no está afiliado y no tiene capacidad de pago**: el joven desempleado y desescolarizado no cotiza ni es beneficiario. El paciente en mora sí está afiliado, el oficial del ejército pertenece al régimen especial de las Fuerzas Militares y la gestante encuestada por el Sisbén tiene la vía del régimen subsidiado.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-atencion_salud-029",
+   "area": "atencion_salud",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "En la Encuesta Nacional de Demografía y Salud (ENDS) de 2010 se encontró que una de cada cinco mujeres menores de 20 años de edad ha estado en embarazo alguna vez en su vida. Para abordar de manera más integral esta situación, el Ministerio de Salud y Protección Social propone los lineamientos para el desarrollo de una estrategia para la prevención del embarazo en la adolescencia y la promoción de proyectos de vida para los niños, niñas, adolescentes y jóvenes. La línea de acción propuesta a nivel internacional y suscrita por el Estado colombiano que sustenta de mejor manera esta propuesta es",
+   "opciones": {
+    "A": "la reorientación de los servicios de salud, propuesta en la Primera Conferencia Internacional de Promoción de la Salud.",
+    "B": "la promoción de la equidad de género y la autonomía de la mujer, propuesta en los Objetivos de Desarrollo del Milenio.",
+    "C": "el mejoramiento de la salud sexual y reproductiva, propuesto en los Objetivos de Desarrollo del Milenio.",
+    "D": "la protección de la salud de la mujer, propuesta en la Segunda Conferencia Internacional de Promoción de la Salud."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "Colombia asumió en el quinto ODM la meta de **mejorar la salud sexual y reproductiva**, que incluía mantener por debajo del 15 % las adolescentes madres o embarazadas y aumentar el uso de anticonceptivos modernos. La Carta de Ottawa (A) y la Segunda Conferencia (D) no son específicas para el embarazo adolescente, y la meta de equidad de género (B) se centró en participación política y laboral de la mujer.",
+   "origen": "Cuadernillo 2018 #12 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-atencion_salud-030",
+   "area": "atencion_salud",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "El Instituto Nacional de Salud de Colombia informa que el 19 de abril del año 2013 se notificaron 18.548 casos nuevos de malaria sobre el total de la población.\n\nEl indicador epidemiológico que expresa esta situación es",
+   "opciones": {
+    "A": "la incidencia de malaria en el periodo.",
+    "B": "la prevalencia de malaria en el periodo.",
+    "C": "la mortalidad de malaria en el periodo.",
+    "D": "la letalidad de malaria en el periodo."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "Los **casos nuevos** en una población durante un periodo definen la incidencia. La prevalencia incluye todos los casos existentes (nuevos y antiguos), y la mortalidad y la letalidad cuentan muertes.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-atencion_salud-031",
+   "area": "atencion_salud",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "Un paciente de 5 meses de edad llega repetitivamente a los servicios de salud por cuadros de infección respiratoria aguda de etiología viral. En este caso, hay que indagar y tener en cuenta las siguientes condiciones que pueden estar vinculadas con la aparición de estas entidades, excepto la",
+   "opciones": {
+    "A": "contaminación en su vivienda.",
+    "B": "lactancia materna exclusiva.",
+    "C": "falta de tratamiento antibiótico.",
+    "D": "vacunación completa para su edad."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza los determinantes personales, sociales, económicos y ambientales que influyen en el estado de salud del individuo, la familia y la comunidad, para la priorización de acciones a seguir.",
+   "explicacion": "Las infecciones son **virales**, así que los antibióticos no las previenen ni las tratan: su falta no se relaciona con la aparición de los cuadros. La contaminación de la vivienda, la lactancia materna y el esquema de vacunación sí influyen en el riesgo de IRA y deben indagarse.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-atencion_salud-032",
+   "area": "atencion_salud",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "La declaración de Alma-Ata, URSS (1978), define la participación comunitaria “como el conjunto de procesos por los que los individuos y las familias asumen responsabilidades para su propia salud y bienestar y para los de la comunidad, aumentando la capacidad de contribuir al desarrollo propio y al de la colectividad”. Este componente fomenta de manera sustantiva el empoderamiento y la organización comunitaria en las poblaciones y favorece la resolución de problemáticas. Acorde con la declaración de Alma-Ata y asociada con la Ley 1438 (2011), en relación con la participación comunitaria, es correcto afirmar que esta ley, en todo el territorio nacional, estimula",
+   "opciones": {
+    "A": "la realización de intervenciones en ámbitos de tercer nivel con acciones sostenidas de prevención secundaria y terciaria.",
+    "B": "la agremiación de enfermos, familiares de enfermos y miembros de la colectividad interesados en enfermedades concretas.",
+    "C": "el desarrollo de capacidades y destrezas en los sujetos, que favorece la adquisición de conocimientos en salud.",
+    "D": "el fortalecimiento de la capacidad ciudadana para intervenir en el ciclo de las políticas públicas de salud."
+   },
+   "correcta": "D",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "La participación comunitaria, en el sentido de Alma-Ata y de la Ley 1438, apunta al **empoderamiento ciudadano**: que la comunidad intervenga en la formulación, ejecución y control de las políticas públicas de salud. Desarrollar destrezas individuales (C) es educación para la salud, y agremiar enfermos (B) es una forma de asociación, no el propósito de la ley.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-atencion_salud-033",
+   "area": "atencion_salud",
+   "n": 33,
+   "contexto": null,
+   "enunciado": "En el año 2009, un departamento colombiano presentó una tasa de 102 muertes maternas por cada 100.000 nacidos vivos, una de las más altas del país en ese año; la tendencia del departamento a 2012 muestra una reducción de este indicador.\n\nPara continuar con la reducción del indicador y alcanzar las Metas del Milenio en el año 2015, una de las principales líneas de acción suscritas por el Estado colombiano fue",
+   "opciones": {
+    "A": "garantizar el adecuado estado nutricional a todas las maternas.",
+    "B": "garantizar la valoración por ginecoobstetra para todas las maternas.",
+    "C": "garantizar un adecuado control prenatal y parto institucional.",
+    "D": "garantizar la calidad de los servicios obstétricos prestados a las maternas."
+   },
+   "correcta": "C",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "Las metas de Colombia en el ODM de salud materna se formularon como aumentar la cobertura de **control prenatal** (cuatro o más controles) y de **atención institucional del parto**. La nutrición, la valoración por especialista o la calidad de los servicios contribuyen, pero no fueron las líneas de acción suscritas.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-atencion_salud-034",
+   "area": "atencion_salud",
+   "n": 34,
+   "contexto": null,
+   "enunciado": "La Encuesta Nacional de Demografía y Salud reporta que en un municipio de la costa Atlántica Colombiana, habitado por 300.000 habitantes, en el año 2012 había presentado un total de 1.000 pacientes con diagnóstico de tuberculosis. De estos 1.000 pacientes, 200 fueron casos nuevos de la misma enfermedad. De acuerdo con esta información, la prevalencia de tuberculosis en el año 2012 fue de:",
+   "opciones": {
+    "A": "200/300.000*100 = 0,066 por cien habitantes.",
+    "B": "1.000/300.000*100 = 0,33 por cien habitantes.",
+    "C": "200/1000*100 = 20 por cien habitantes.",
+    "D": "1.000 habitantes."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "La prevalencia cuenta **todos los casos existentes** (nuevos y antiguos) sobre la población total: 1.000 / 300.000 × 100 = 0,33 por cien habitantes. La A usa solo los casos nuevos (eso sería incidencia), la C divide entre los enfermos y la D no es una tasa.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-atencion_salud-035",
+   "area": "atencion_salud",
+   "n": 35,
+   "contexto": null,
+   "enunciado": "Una empresa prestadora de servicios de salud, preocupada por la frecuencia de infartos agudos de miocardio en sus trabajadores, inició un programa de valoración e intervención de diferentes factores de riesgo cardiovascular. En la medición de colesterol participaron 790 personas, entre mujeres y hombres, mayores de 45 años de edad, de los cuales 310 registraron cifras de colesterol total mayores o iguales a 200 mg/dL.\n\nDe acuerdo con lo planteado, de esta población es correcto afirmar que",
+   "opciones": {
+    "A": "la incidencia de hipercolesterolemia es 310/790*100.",
+    "B": "la prevalencia de hipercolesterolemia es 310/790*100.",
+    "C": "la incidencia de hipercolesterolemia es 310/480*100.",
+    "D": "la prevalencia de hipercolesterolemia es 310/480*100."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra el proceso de sistematización de la información, relacionada con la salud del individuo, la familia y la comunidad en la priorización de acciones.",
+   "explicacion": "Es una medición en un momento dado, así que se calcula **prevalencia**: casos presentes / población estudiada × 100 = 310/790 × 100 (≈ 39 %). No es incidencia porque no se sabe si esas personas tenían antes cifras normales, y 480 (790 − 310) son solo los no afectados, no la población total.",
+   "origen": "Cuadernillo 2018 #20 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-atencion_salud-036",
+   "area": "atencion_salud",
+   "n": 36,
+   "contexto": null,
+   "enunciado": "En la implementación del Plan Decenal de Salud Pública (PDSP) 2012-2021 de un municipio, se determinó que la primera infancia, infancia y adolescencia son los grupos de edades que mayor incidencia de caries dental presentan. Por tanto, las actividades por desarrollar comprenden profilaxis, fluorización, educación, grupos focales y establecimiento de compromisos para promover la movilización social con familias, cuidadores, agentes educativos y la población afectada por ese problema.\n\nEl componente al cual pertenece la estrategia implementada en el Plan Decenal de Salud Pública es",
+   "opciones": {
+    "A": "condiciones crónicas prevalentes.",
+    "B": "modos, condiciones y estilos de vida saludables.",
+    "C": "enfermedades emergentes, reemergentes y desatendidas.",
+    "D": "salud y género."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone acciones de diagnóstico, ejecución y evaluación en el marco de políticas y lineamientos en salud vigentes.",
+   "explicacion": "Las acciones descritas (educación, profilaxis, compromisos y movilización social con familias y cuidadores) promueven **hábitos y estilos de vida saludables**, componente de la dimensión de vida saludable del PDSP. La caries se aborda aquí desde la promoción, no como condición crónica ni como enfermedad emergente.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-atencion_salud-037",
+   "area": "atencion_salud",
+   "n": 37,
+   "contexto": null,
+   "enunciado": "El artículo 6 de la Ley 1438 de 2011 establece que el Ministerio de Salud y Protección Social elaborará un Plan Decenal de Salud Pública con base en un proceso amplio de participación social y en la aplicación de la estrategia de atención primaria en salud, en el cual deben confluir las políticas sectoriales para mejorar el estado de salud de la población, incluida la salud mental, y garantizar que el proceso de participación social sea eficaz, mediante la promoción de la capacitación de la ciudadanía y de las organizaciones sociales.\n\nEn el desarrollo del Plan Decenal de Salud concurrirán todas las instancias que forman parte del sistema de protección social y otros actores, quienes ejecutarán tareas para",
+   "opciones": {
+    "A": "intervenir los determinantes en salud.",
+    "B": "realizar el diagnóstico precoz de enfermedades en la población.",
+    "C": "tratar enfermedades prevalentes en la infancia.",
+    "D": "intervenir los factores de riesgo poblacional."
+   },
+   "correcta": "A",
+   "afirmacion": "Reconoce la política y la normatividad nacional y los acuerdos internacionales suscritos por el Estado colombiano, relacionados con salud pública y los aplica en situaciones concretas que afectan la salud del individuo, la familia y la comunidad.",
+   "explicacion": "Que confluyan **todas las políticas sectoriales** y actores fuera del sector salud solo tiene sentido para actuar sobre los **determinantes sociales de la salud**, eje del PDSP. El diagnóstico precoz y el tratamiento son tareas propias de los servicios de salud, y los factores de riesgo son un enfoque más estrecho que los determinantes.",
+   "origen": "Cuadernillo 2018 #23"
+  }
+ ]
+}

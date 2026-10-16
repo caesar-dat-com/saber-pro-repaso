@@ -1,0 +1,419 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Evaluar (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Evaluación tradicional vs. auténtica (Decreto 1290 de 2009)",
+   "texto": "En el marco del sistema de evaluación que propone el Decreto 1290 de 2009, una institución educativa somete a análisis las características de la evaluación tradicional versus la evaluación auténtica, que se muestran en la tabla.\n\n| Evaluación tradicional | Evaluación auténtica |\n|---|---|\n| Para evaluar emplea ítems indirectos. | Se examina directamente la ejecución del aprendiz con base en tareas relevantes. |\n| Revela solamente si los estudiantes reconocen aquello que han aprendido en las aulas. | Requiere que los estudiantes apliquen el saber adquirido a situaciones de la vida extraescolar. |\n| Las pruebas convencionales suelen ser de “lápiz y papel” y las preguntas a menudo suponen una única respuesta. | Se evalúan a la vez un conjunto de competencias y contenidos necesarios para dar respuesta a un fenómeno. |\n| Suelen tenerse en cuenta solamente los resultados. | Se requiere la justificación argumentada de las respuestas. |\n| La validez se determina mediante el apareamiento de ítems con el contenido del currículo. | Se evalúa la capacidad de actuar en contextos sociales de manera idónea. |\n\n**Tabla.** Diferencias entre evaluación tradicional y auténtica (adaptado de Monereo de Wiggins, 1990)."
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-evaluar-001",
+   "area": "evaluar",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "En la evaluación de impacto de un Proyecto Educativo Institucional (PEI), se tienen en cuenta los resultados de los aprendizajes de los estudiantes en relación con la organización curricular, entre otros factores.\n\nCon base en lo anterior, los resultados de las pruebas Saber se convierten en una herramienta para",
+   "opciones": {
+    "A": "conocer la interrelación de los estudiantes con el profesor y el interés por el área que enseña.",
+    "B": "determinar las prácticas de enseñanza y las formas usadas por el profesor para recoger información.",
+    "C": "determinar el dominio que el profesor tiene del saber que enseña y la incidencia de las metodologías.",
+    "D": "hacer seguimiento a la práctica educativa e introducir acciones de mejora en los procesos formativos."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce diversas alternativas para evaluar.",
+   "explicacion": "Los resultados de las pruebas externas sirven para **hacer seguimiento** a la práctica educativa y tomar acciones de mejora en los procesos formativos del PEI. No miden la relación estudiante-profesor, ni el dominio disciplinar del docente ni sus formas de recoger información.",
+   "origen": "Cuadernillo 2018 #1 · Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-evaluar-002",
+   "area": "evaluar",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Según Rafael Flórez, un currículo es mucho más que un plan de estudios porque implica una concepción acerca de los contenidos, las experiencias, la actuación y la secuencia para que los alumnos alcancen las metas de formación.\n\nDesde esta perspectiva, el currículo se evalúa con",
+   "opciones": {
+    "A": "modelos exclusivamente cuantitativos que dan cuenta de los logros de los estudiantes.",
+    "B": "secuencias de contenidos de las materias y su apropiación por parte de los estudiantes.",
+    "C": "participación de los estudiantes en el aula de clase a través de las opiniones y expectativa de su propio aprendizaje.",
+    "D": "modelos cualitativos que valoran el conjunto de procesos y transacciones que ocurren en su desarrollo."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce diversas alternativas para evaluar.",
+   "explicacion": "Si el currículo es más que un plan de estudios (experiencias, actuación, secuencia), su evaluación debe valorar **procesos y transacciones**, lo que exige modelos cualitativos. Medir solo logros cuantitativos o la apropiación de contenidos lo reduce de nuevo a un plan de estudios.",
+   "origen": "Cuadernillo 2018 #2 · Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-evaluar-003",
+   "area": "evaluar",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "La evaluación es una acción eminentemente social que implica situar las actividades en un contexto amplio que además incluye lo económico y lo político.\n\nCon base en el contexto planteado, se puede afirmar sobre la evaluación que",
+   "opciones": {
+    "A": "corresponde a los profesores diseñar pruebas acordes con las características del currículo y definir sus logros.",
+    "B": "requiere de pruebas nacionales para así dar cuenta de su amplitud y establecer modelos comparativos.",
+    "C": "trasciende el momento de aplicación de exámenes en el aula y la valoración de los trabajos de los estudiantes.",
+    "D": "articula las dimensiones pedagógica, metodológica y ética para definir los procesos y modelos por utilizar."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "Entender la evaluación como acción social en un contexto amplio implica **articular dimensiones** pedagógica, metodológica y ética al definir sus procesos y modelos. La opción C es cierta pero se queda en negar lo instrumental; D es la que expresa la articulación que pide el enunciado.",
+   "origen": "Cuadernillo 2018 #3 · Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-evaluar-004",
+   "area": "evaluar",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "El propósito más relevante, cuando un profesor realiza evaluaciones continuas que expresan su carácter formativo y ofrecen condiciones para la participación de los estudiantes en la definición de variables e indicadores, es",
+   "opciones": {
+    "A": "determinar los conocimientos y las habilidades del estudiante en diferentes saberes.",
+    "B": "visibilizar la capacidad del estudiante para aplicar los conocimientos en las prácticas.",
+    "C": "registrar los procesos de cambio del estudiante y comunicarle los resultados obtenidos.",
+    "D": "favorecer la autorregulación del estudiante sobre su aprendizaje, desempeño y resultados."
+   },
+   "correcta": "D",
+   "afirmacion": "Conoce diversas alternativas para evaluar.",
+   "explicacion": "Cuando el estudiante participa en definir variables e indicadores de una evaluación continua y formativa, el fin principal es que aprenda a **autorregularse**: monitorear su propio aprendizaje y desempeño. Las demás opciones describen funciones de medición o registro centradas en el profesor.",
+   "origen": "Cuadernillo 2018 #4 · Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-evaluar-005",
+   "area": "evaluar",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "La evaluación es un proceso de naturaleza social y ética encaminado a la mejora de la educación en general y, en particular, de sus procesos, actores y agentes. No obstante, desde comienzos del siglo XXI, en Colombia ha ido adquiriendo cada vez más peso político en la medida en que en muchos casos se ha sobredimensionado la medición de los resultados como indicador principal de la calidad de la educación.\n\nDesde esta perspectiva, se puede afirmar que la autoevaluación en las instituciones educativas tiene como propósito fundamental",
+   "opciones": {
+    "A": "certificar la calidad de la gestión administrativa.",
+    "B": "mejorar la capacidad de aprendizaje de los estudiantes.",
+    "C": "fortalecer las capacidades de mejoramiento continuo.",
+    "D": "identificar las debilidades y carencias."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "Si la evaluación busca la mejora de procesos, actores y agentes, la autoevaluación institucional apunta a **fortalecer el mejoramiento continuo** de toda la institución. Certificar o solo identificar debilidades es quedarse en la medición; mejorar el aprendizaje es apenas una parte del propósito.",
+   "origen": "Cuadernillo 2018 #5 · Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-evaluar-006",
+   "area": "evaluar",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Cuando se afirma que la evaluación es de naturaleza social, se está haciendo referencia a que es",
+   "opciones": {
+    "A": "un acto individual propio de la autonomía del profesor.",
+    "B": "una plataforma de debate entre evaluados y evaluadores.",
+    "C": "una práctica que conduce a la competitividad.",
+    "D": "una práctica participativa de toda la institución educativa."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "Que la evaluación sea de naturaleza social significa que es una **práctica participativa** en la que intervienen todos los estamentos de la comunidad educativa. No es un acto individual del profesor, no se limita al debate evaluador-evaluado y no busca la competitividad sino el trabajo colaborativo.",
+   "origen": "Cuadernillo 2018 #6 · Cuadernillo 2026 #6 · Preguntas explicadas #1"
+  },
+  {
+   "id": "icfes-evaluar-007",
+   "area": "evaluar",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Los resultados de las pruebas Saber en el área de Matemáticas muestran niveles bajos en un municipio. Los directivos de las instituciones educativas y las autoridades municipales, preocupados por estos resultados, se reúnen para poner en marcha una acción que eleve los resultados en la siguiente convocatoria.\n\nLas acciones más indicadas para obtener mejores resultados son:",
+   "opciones": {
+    "A": "Implementar proyectos de capacitación para los profesores en el diseño, aplicación y validación de pruebas.",
+    "B": "Generar condiciones de posibilidad para el trabajo en colectivo de los profesores, a fin de revisar el proyecto del área y acordar su implementación.",
+    "C": "Entrenar a los estudiantes para controlar los tiempos y conocer las indicaciones de respuesta de una prueba por competencias.",
+    "D": "Comprometer a los padres de familia en el acompañamiento académico y en el control de la asistencia a los cursos contratados."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "Los resultados bajos se usan para **mejorar el proceso formativo**: que los profesores revisen colectivamente el proyecto del área y acuerden su implementación. Entrenar para la prueba o capacitar en diseño de pruebas ataca el síntoma, no la enseñanza.",
+   "origen": "Cuadernillo 2018 #7 · Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-evaluar-008",
+   "area": "evaluar",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Para evidenciar que la motivación hacia la participación fortalece la autorregulación de los estudiantes, en la organización de la celebración de una actividad institucional, un profesor deberá",
+   "opciones": {
+    "A": "preguntar quién quiere participar en la actividad.",
+    "B": "escoger a los estudiantes de mejor rendimiento.",
+    "C": "proponer el cronograma general de la actividad.",
+    "D": "escuchar las expectativas de los estudiantes."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "**Escuchar las expectativas** de los estudiantes los hace parte de la organización y motiva una participación en la que ellos mismos se proponen metas, base de la autorregulación. Preguntar quién quiere participar o imponer el cronograma no los involucra en las decisiones.",
+   "origen": "Cuadernillo 2018 #8 · Cuadernillo 2026 #8"
+  },
+  {
+   "id": "icfes-evaluar-009",
+   "area": "evaluar",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "En la educación, el logro de la autonomía de los estudiantes es un objetivo que les permite darse normas propias y llegar a ser socialmente responsables. En tal sentido, una institución educativa, interesada en la formación en valores y actitudes autónomas hacia los deberes de los estudiantes, decide implementar en sus prácticas educativas un modelo para el desarrollo de la autonomía.\n\nEn la ejecución de este modelo, un profesor que quiera desarrollar la autonomía en sus estudiantes y mejorar sus aprendizajes deberá:",
+   "opciones": {
+    "A": "Diagnosticar ideas previas, diseñar un plan de trabajo, contextualizar los contenidos de la disciplina que enseña e identificar a los estudiantes que obtienen mejores resultados en sus exámenes.",
+    "B": "Conformar y liderar una mesa redonda que cuente con la participación de todos los estudiantes, a fin de construir en colectivo los criterios con los cuales ellos serán evaluados.",
+    "C": "Conocer la opinión de los estudiantes acerca del ambiente de la clase, diseñar un plan de actividades, motivar a los estudiantes y asignar tareas extras a quienes no han aprobado.",
+    "D": "Dialogar con los padres de familia para conocer las acciones que siguen para verificar que sus hijos realizan las tareas asignadas y para recomendarles estrategias que pueden implementar."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "La autonomía es **darse normas propias**: construir con los estudiantes los criterios con que serán evaluados los vuelve corresponsables de su aprendizaje. Las otras opciones dejan las decisiones en manos del profesor o de los padres.",
+   "origen": "Cuadernillo 2018 #9 · Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-evaluar-010",
+   "area": "evaluar",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Una actividad que un profesor puede implementar en sus clases para desarrollar la autonomía de los estudiantes es",
+   "opciones": {
+    "A": "discutir alternativas propuestas acerca de cómo evaluar el tema de la clase.",
+    "B": "generar comentarios a la transcripción de un documental de televisión.",
+    "C": "elegir monitores de clase para que evalúen las tareas de los demás estudiantes.",
+    "D": "elaborar encuestas acerca de la opinión de los estudiantes sobre la evaluación."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "**Discutir cómo evaluar** el tema permite que los estudiantes decidan sobre su propio proceso, lo que desarrolla autonomía. Una encuesta de opinión solo recoge información y los monitores trasladan el control a unos pocos.",
+   "origen": "Cuadernillo 2018 #10 · Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-evaluar-011",
+   "area": "evaluar",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Un profesor de Lengua Castellana decide cambiar el modelo de evaluación sumativa por un modelo de evaluación formativa, debido a que este le permite tomar en cuenta la diversidad de modos y ritmos de aprendizaje de sus estudiantes y mejorar los procesos de enseñanza y aprendizaje en su área.\n\nAl optar por un modelo de evaluación formativa, el profesor diseña pruebas que le permitan",
+   "opciones": {
+    "A": "obtener resultados confiables para aplicar las pruebas a todos los estudiantes de un grado.",
+    "B": "realizar un examen objetivo al finalizar el año lectivo para certificar quiénes necesitan refuerzo.",
+    "C": "valorar los progresos de sus estudiantes en comparación con su propio proceso de aprendizaje.",
+    "D": "comparar los resultados de sus estudiantes para corroborar el nivel de logro de los objetivos."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "La evaluación formativa es particular para cada estudiante: **valora su progreso frente a su propio proceso**, respetando ritmos y estilos. No busca estandarizar (A), no ocurre solo al final del año (B) ni se basa en comparar estudiantes entre sí (D).",
+   "origen": "Cuadernillo 2018 #11 · Cuadernillo 2026 #11 · Preguntas explicadas #2"
+  },
+  {
+   "id": "icfes-evaluar-012",
+   "area": "evaluar",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Un profesor quiere fortalecer los valores ciudadanos de sus estudiantes y decide seguir el foro como técnica de trabajo.\n\nEsta técnica la implementa porque está interesado en fomentar en sus estudiantes la",
+   "opciones": {
+    "A": "autoestima.",
+    "B": "autonomía.",
+    "C": "regulación.",
+    "D": "participación."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "El foro es una técnica de discusión abierta en la que todos intervienen, por lo que su propósito central es fomentar la **participación**, un valor ciudadano clave. La autonomía o la autoestima pueden beneficiarse, pero no son lo que la técnica pone en primer plano.",
+   "origen": "Cuadernillo 2018 #12 · Cuadernillo 2026 #12"
+  },
+  {
+   "id": "icfes-evaluar-013",
+   "area": "evaluar",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Teniendo en cuenta que los límites entre las disciplinas cada vez son más tenues, las competencias transversales están adquiriendo mayor presencia y valor en los procesos de formación integral. Su incorporación en los procesos educativos requiere cambios en la planeación, selección de metodologías y evaluación.\n\nEl modelo holístico o relacional lo seleccionan cada vez más los profesores para el trabajo por competencias. Desde esta perspectiva, la propuesta de evaluación más coherente con este enfoque es",
+   "opciones": {
+    "A": "la evaluación sumativa, porque da cuenta de los resultados.",
+    "B": "la coevaluación, porque permite la evaluación recíproca.",
+    "C": "la evaluación de expertos, porque elimina la subjetividad.",
+    "D": "la evaluación censal, porque permite establecer comparaciones."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "Un enfoque **holístico o relacional** privilegia las relaciones entre sujetos, y la **coevaluación** —evaluación recíproca entre pares— es coherente con él. Las evaluaciones sumativa, de expertos o censal se centran en resultados y comparaciones externas.",
+   "origen": "Cuadernillo 2018 #13 · Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-evaluar-014",
+   "area": "evaluar",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Una de las utilidades que tienen los resultados de las evaluaciones institucionales, que adelantan periódicamente las instituciones educativas, es la reformulación de planes estratégicos para",
+   "opciones": {
+    "A": "el crecimiento en el número de estudiantes inscritos.",
+    "B": "el mejoramiento del ambiente laboral de los profesores.",
+    "C": "el mejoramiento de la calidad de los servicios educativos.",
+    "D": "la disminución de llamados de atención a estudiantes."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "La evaluación institucional sirve para replantear los planes estratégicos en función del **mejoramiento de la calidad** del servicio educativo en su conjunto. Más matrículas, mejor clima laboral o menos llamados de atención son aspectos parciales o efectos secundarios.",
+   "origen": "Cuadernillo 2018 #14 · Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-evaluar-015",
+   "area": "evaluar",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Un grupo de estudiantes de décimo grado le expresa al coordinador de grupo su inconformidad con uno de sus profesores, que si bien reconocen como juicioso, responsable y estudioso, indican que su forma de enseñar es demasiado aburrida. Cuando llega a clase, llama a lista, escribe en el tablero la fecha, abre el libro en algún tema e inicia la explicación correspondiente; luego, organiza grupos para que realicen el taller del libro y al finalizar la clase siempre asigna ejercicios para la casa, informando que en la próxima clase los revisará.\n\nEl tipo de evaluación que realiza el profesor corresponde con una perspectiva tradicional. De las estrategias mencionadas a continuación, la que le permite al profesor implementar formas alternativas es:",
+   "opciones": {
+    "A": "Organizadores gráficos, salidas al tablero y heurística.",
+    "B": "Talleres, exámenes diarios y dictados.",
+    "C": "Portafolios, diarios pedagógicos y trabajo en pequeños grupos.",
+    "D": "Cuestionarios, calificación del cuaderno y mapas de ideas."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce diversas alternativas para evaluar.",
+   "explicacion": "El **portafolio** recoge evidencias de logros, el **diario pedagógico** registra lo que ocurre con los aprendizajes y el trabajo en pequeños grupos favorece la colaboración: los tres superan la evaluación tradicional. Las demás opciones incluyen al menos una práctica tradicional (salidas al tablero, exámenes, dictados, calificación del cuaderno).",
+   "origen": "Cuadernillo 2018 #15 · Cuadernillo 2026 #15 · Preguntas explicadas #3"
+  },
+  {
+   "id": "icfes-evaluar-016",
+   "area": "evaluar",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Los profesores de una institución educativa acuerdan presentar al Consejo Directivo una propuesta que favorezca la formación ciudadana.\n\nLos contenidos de la propuesta para favorecer la formación ciudadana son:",
+   "opciones": {
+    "A": "Intervenir los conflictos, revisar las prácticas de evaluación de los aprendizajes y construir proyectos que relacionen los contenidos con los contextos.",
+    "B": "Involucrar a los padres de familia, construir un sistema de seguimiento a los indicadores de logro y revisar el proyecto pedagógico institucional.",
+    "C": "Invitar expertos en resolución de conflictos, consolidar un sistema de información e incrementar las horas del proyecto para la justicia y la paz.",
+    "D": "Conformar una junta para la evaluación de desempeño docente, realizar un reinado de valores y auspiciar diálogos entre las directivas y los estudiantes."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "La formación ciudadana se favorece **interviniendo los conflictos** reales, revisando cómo se evalúa y **relacionando los contenidos con el contexto**. Las otras propuestas delegan en expertos, añaden horas o actividades aisladas, o se enfocan en indicadores y desempeño docente.",
+   "origen": "Cuadernillo 2018 #16 · Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-evaluar-017",
+   "area": "evaluar",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Las instituciones educativas tienen el reto de convertirse en focos culturales de sus entornos sociales para dar cuenta del desarrollo de la gestión a la comunidad.\n\nLa acción que engloba el reto mencionado para evaluar esta gestión es",
+   "opciones": {
+    "A": "considerar la relación escuela/sociedad.",
+    "B": "identificar la relación egresados/emprendimiento.",
+    "C": "evidenciar la relación padres de familia/contexto.",
+    "D": "confirmar la relación sectores productivos/convenios."
+   },
+   "correcta": "A",
+   "afirmacion": "Conoce diversas alternativas para evaluar.",
+   "explicacion": "Ser foco cultural del entorno social implica evaluar la **relación escuela/sociedad**, que engloba a todas las demás. Egresados, padres o sectores productivos son solo partes de esa relación.",
+   "origen": "Cuadernillo 2018 #17 · Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-evaluar-018",
+   "area": "evaluar",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Una profesora identifica que, en su clase, los estudiantes manifiestan una alta predisposición por el trabajo individual. Para revertir esta situación, la profesora implementa prácticas evaluativas variadas.\n\nLa mejor alternativa de práctica evaluativa que permite evidenciar el grado de interacción entre los estudiantes es",
+   "opciones": {
+    "A": "el test de concepciones alternativas.",
+    "B": "la exposición de la historia de un concepto.",
+    "C": "el debate sobre una polémica científica.",
+    "D": "la elaboración de antecedentes de un tema."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "El **debate** obliga a los estudiantes a escuchar, argumentar y responder a otros, de modo que permite observar su grado de interacción. El test, la exposición y los antecedentes pueden hacerse de forma individual.",
+   "origen": "Cuadernillo 2018 #18 · Cuadernillo 2026 #18"
+  },
+  {
+   "id": "icfes-evaluar-019",
+   "area": "evaluar",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "El sistema educativo colombiano está descentralizado y, por tanto, sus instituciones educativas son autónomas. Esto necesariamente implica la existencia de una menor normatividad general de parte del Gobierno (Ministerio de Educación y secretarías de educación) en aras del fortalecimiento del gobierno escolar y la participación democrática de la sociedad en su funcionamiento. La devolución de responsabilidades a las comunidades ha traído consecuencias importantes en la gestión de las instituciones educativas.\n\nLa participación de las comunidades en el gobierno escolar ha generado nuevos modos de gestión educativa, en los cuales la evaluación desempeña un papel fundamental para",
+   "opciones": {
+    "A": "orientar la toma de decisiones.",
+    "B": "establecer prioridades políticas.",
+    "C": "controlar el ritmo del cambio.",
+    "D": "incentivar a los profesores."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "Con instituciones autónomas y un gobierno escolar participativo, la evaluación aporta la información para **orientar la toma de decisiones** de la comunidad. No se trata de fijar prioridades políticas, controlar el cambio o incentivar docentes.",
+   "origen": "Cuadernillo 2018 #19 · Cuadernillo 2026 #19"
+  },
+  {
+   "id": "icfes-evaluar-020",
+   "area": "evaluar",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Las comisiones de evaluación y promoción en las instituciones educativas hacen seguimiento a los resultados obtenidos por los estudiantes en las evaluaciones de cada periodo académico y sugieren estrategias pedagógicas para apoyar a quienes presentan debilidades.\n\nEsta práctica sistemática tiene razón de ser, si se toma en cuenta que uno de los propósitos de la evaluación institucional de los estudiantes es",
+   "opciones": {
+    "A": "identificar modelos pedagógicos.",
+    "B": "medir la apropiación de competencias.",
+    "C": "analizar la información para tomar decisiones.",
+    "D": "determinar el porcentaje de reprobación."
+   },
+   "correcta": "C",
+   "afirmacion": "Conoce diversas alternativas para evaluar.",
+   "explicacion": "Las comisiones revisan resultados y proponen estrategias de apoyo: es decir, **analizan la información para tomar decisiones**. Medir competencias o calcular la reprobación es solo el insumo, no el propósito que justifica la práctica.",
+   "origen": "Cuadernillo 2018 #20 · Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-evaluar-021",
+   "area": "evaluar",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "En repetidas ocasiones, se percibe que la relación entre profesores y padres de familia es escasa y que, además, los encuentros se entienden como una sucesión de quejas acerca de los estudiantes. La evaluación, con una perspectiva contemporánea, implica que se deben tener en cuenta todas las dimensiones del estudiante (cognitiva, afectiva, emocional, familiar, interpersonal, etc.), para implementar una evaluación formativa y no limitarse únicamente a lo sumativo. La vinculación de los padres de familia en el contexto escolar coadyuda al óptimo desempeño de los estudiantes, por tanto, la comunicación entre padres y profesores es fundamental.\n\nAsí, para establecer ese vínculo el profesor puede",
+   "opciones": {
+    "A": "convocar a reuniones grupales cuando se requiera la intervención y el acompañamiento del núcleo familiar en el actuar de los estudiantes.",
+    "B": "anotar en la agenda de los estudiantes sus logros, fortalezas y debilidades cognitivas y hacer recomendaciones para mejorar.",
+    "C": "emitir citaciones individuales a padres de familia en la institución cuando se afecte la convivencia y bienestar de los estudiantes.",
+    "D": "diseñar un blog con acceso a estudiantes, profesor y padres de familia donde se publique el progreso cualitativo de los estudiantes."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "El **blog** crea una comunicación permanente entre estudiantes, profesor y padres y comparte el **progreso cualitativo**, coherente con la evaluación formativa. Las reuniones y citaciones solo ocurren ante problemas (la lógica de quejas), y la agenda se limita a lo cognitivo.",
+   "origen": "Cuadernillo 2018 #21 · Cuadernillo 2026 #21"
+  },
+  {
+   "id": "icfes-evaluar-022",
+   "area": "evaluar",
+   "n": 22,
+   "contexto": 0,
+   "enunciado": "Con base en la tabla, un grupo de profesores decide implementar estrategias de evaluación auténticas con el fin de comprometer cada vez más a sus estudiantes con su proceso de aprendizaje.\n\nDe acuerdo con lo anterior, la actividad de evaluación más pertinente es",
+   "opciones": {
+    "A": "la toma de decisiones para resolver un problema de la comunidad que implique el uso de distintos conocimientos.",
+    "B": "la aplicación de un examen oral sobre una situación problemática propuesta por los temas del área.",
+    "C": "la construcción de un artefacto de utilidad según la temática desarrollada en las sesiones de clase.",
+    "D": "la puesta en escena de un problema del área que haga explícitos los conocimientos aprendidos."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende el impacto de la evaluación en el mejoramiento de los procesos educativos.",
+   "explicacion": "La evaluación auténtica exige aplicar el saber a **situaciones de la vida extraescolar**, integrar varias competencias y actuar en contextos sociales: resolver un problema de la comunidad con distintos conocimientos cumple todo eso. Las demás opciones se quedan en los temas del área o de la clase.",
+   "origen": "Cuadernillo 2018 #22 · Cuadernillo 2026 #22"
+  },
+  {
+   "id": "icfes-evaluar-023",
+   "area": "evaluar",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Un profesor desarrolla un proyecto llamado Comunicación asertiva. El objetivo consiste en generar habilidades de comunicación que permitan mediar y resolver conflictos en las relaciones interpersonales. En concordancia con el propósito, los indicadores de aprendizaje se definirán a través de una estrategia que reconoce la participación colectiva de los estudiantes.\n\nEl procedimiento adecuado es el diálogo",
+   "opciones": {
+    "A": "consensuado, el cual fomenta el acuerdo entre los intereses formativos establecidos por el profesor y los estudiantes como desarrolladores de la actividad.",
+    "B": "crítico, el cual permite llegar al fondo conceptual del tema a través del intercambio de ideas que se aproximan a la unificación de un criterio específico.",
+    "C": "reflexivo, el cual reconoce la opinión de los estudiantes al cuestionar el aprendizaje y permite analizar los aspectos relevantes del proceso académico.",
+    "D": "directo, el cual intercambia las ideas de forma presencial y posibilita la argumentación acerca de los contenidos de la temática expuesta."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "Si los indicadores se definen con **participación colectiva**, el procedimiento es el diálogo **consensuado**, que concilia los intereses formativos del profesor y de los estudiantes. Los diálogos crítico, reflexivo o directo se centran en el contenido o en opinar, no en acordar.",
+   "origen": "Cuadernillo 2018 #23 · Cuadernillo 2026 #23"
+  },
+  {
+   "id": "icfes-evaluar-024",
+   "area": "evaluar",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Las instituciones educativas enfrentan problemáticas relacionadas con el abandono escolar como resultado del bajo rendimiento académico de sus estudiantes. Dentro de las acciones por desarrollar deciden realizar una reforma curricular que incida en el proceso de enseñanza y aprendizaje, sustentada, entre otras, en la siguiente acción:",
+   "opciones": {
+    "A": "Concebir el proceso evaluativo como el resultado de una acción investigativa.",
+    "B": "Elaborar un plan de acción que trace lineamientos curriculares y pedagógicos.",
+    "C": "Crear un banco de preguntas, que evalúen las diferentes áreas del conocimiento.",
+    "D": "Capacitar a los profesores sobre las nuevas estrategias y técnicas de evaluación."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprende la relevancia de la autorregulación en los sujetos de la educación.",
+   "explicacion": "Concebir la evaluación como **acción investigativa** convierte sus resultados en conocimiento para comprender el bajo rendimiento y reorientar la enseñanza y el aprendizaje. Un banco de preguntas o capacitar en técnicas son medidas instrumentales, y un plan de acción genérico no transforma la evaluación.",
+   "origen": "Cuadernillo 2018 #24 · Cuadernillo 2026 #24"
+  }
+ ]
+}

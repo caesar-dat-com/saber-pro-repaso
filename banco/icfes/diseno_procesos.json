@@ -1,0 +1,448 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Diseño de Procesos Industriales (cuadernillos y preguntas explicadas)",
+  "contextos": [
+    {
+      "titulo": "Caso 1 — Anhídrido ftálico",
+      "texto": "**Anhídrido ftálico**\n\nUna de las tecnologías que se emplean actualmente para la producción de anhídrido ftálico es la oxidación parcial de o-xileno. La importancia mundial de este anhídrido radica en su uso como materia prima para la fabricación de plastificantes usados en la industria del PVC.\n\nLa figura muestra el diagrama de flujo que representa el proceso de oxidación del o-xileno.\n\n{{img:icfes_diseno_procesos_001.png}}\n\nEl proceso emplea como materia prima o-xileno y aire; el o-xileno con un 5 % de impurezas se vaporiza y se mezcla con una corriente de aire caliente (contiene solamente O₂ y N₂) de manera tal que la concentración del hidrocarburo esté por debajo del límite inferior de explosividad que es 1 % molar. En el reactor todo el o-xileno reacciona, obteniéndose, principalmente, anhídrido ftálico, anhídrido maléico y otros subproductos. El efluente del reactor entra a una zona de separación y purificación en la cual se obtiene la corriente 11 que contiene todos los gases livianos, agua y algunas trazas de compuestos orgánicos. Finalmente, de la zona de separación sale anhídrido ftálico con una pureza del 99,9 %.\n\nLas reacciones que ocurren en el reactor de lecho empacado son:\n\n- (1) C₆H₄(CH₃)₂ (o-xileno) + 3O₂ → C₆H₄(CO)₂O (anhídrido ftálico) + 3H₂O\n- (2) C₆H₄(CH₃)₂ (o-xileno) + 15/2 O₂ → C₂H₂(CO)₂O (anhídrido maléico) + 4CO₂ + 4H₂O\n\nLa cinética de reacción se describe en la siguiente ecuación:\n\n(−r_A) = k₀ · e^(−Eₐ/RT) · p_A · p_B\n\nDonde: subíndice A indica o-xileno; subíndice B indica oxígeno; k₀ está en kmol m⁻³ h⁻¹; Eₐ está en kcal kmol⁻¹; Pᵢ es presión parcial en atm; T es temperatura en K.\n\nLos valores de las constantes cinéticas y las energías de activación para las reacciones 1 y 2 se presentan en la tabla 1:\n\n| Reacción | k₀ | Eₐ |\n|---|---|---|\n| (1) | 4,12 × 10¹¹ | 27000 |\n| (2) | 2,25 × 10¹¹ | 27900 |\n\n**Tabla 1**\n\nLa tabla 2 presenta algunas características de algunas corrientes del proceso.\n\n| Corriente No. | 1 | 2 | 8 | 9 | 10 | 11 | 12 | 13 | 24 |\n|---|---|---|---|---|---|---|---|---|---|\n| Temp. °C | 25 | 25 | 245 | 353 | 45 | 45 | 155 | 245 | 301 |\n| Presión (kPa) | 101,0 | 101,0 | 200,0 | 130,0 | 100,0 | 100,0 | 25,0 | 41,1 | 600,0 |\n| Fracción vapor | 0,00 | 1,00 | 1,00 | 1,00 | 0,9876 | 1,00 | 0,00 | 0,00 | 0,00 |\n| Flujo total kg/h | 11678,0 | 317360,0 |  |  |  | 319670,0 | 181,8 | 9172,0 | 1660000 |\n| Flujo total kgmol/h | 110,0 | 11000,0 |  | 11157,73 |  | 11093,88 | 1,822 | 61,925 | 10000 |\n| *Componente kmol/h* |  |  |  |  |  |  |  |  |  |\n| O-xileno | 110,0 |  |  | 4,05 |  | 4,05 |  |  |  |\n| Oxígeno |  | 2310,0 |  | 1721,15 |  | 1721,15 |  |  |  |\n| Nitrógeno |  | 8690,0 |  |  |  |  |  |  |  |\n| Agua |  |  |  | 386,20 |  | 386,20 |  |  |  |\n| Dióxido de carbono |  |  |  | 276,82 |  | 276,82 |  |  |  |\n| Anhídrido ftálico |  |  |  | 62,66 |  | 0,63 | 0,062 | 61,900 |  |\n| Anhídrido maleico |  |  |  | 16,16 |  | 14,38 | 1,760 | 0,020 |  |\n| Impurezas |  |  |  | 0,70 |  | 0,66 | 0,000 | 0,005 |  |\n\n**Tabla 2**\n\nAlgunas propiedades de las sustancias involucradas en el proceso se presentan en la tabla 3.\n\n| Sustancia | Punto de ebullición normal (ºC) | Punto de fusión (ºC) | Peso molecular (mol/g) | Solubilidad en agua |\n|---|---|---|---|---|\n| O-xileno | 138 | -25 | 106,2 | No soluble |\n| Anhídrido ftálico | 285 | 131 | 148,1 | Poco soluble |\n| Anhídrido maleico | 202 | 52,85 | 98,1 | Soluble |\n\n**Tabla 3**"
+    },
+    {
+      "titulo": "Caso 2 — Metil tert-butil éter (MTBE)",
+      "texto": "**Metil tert-butil éter (MTBE)**\n\nEl metil tert-butil éter (MTBE) es un aditivo usado para aumentar el número de octano de la gasolina. Este aditivo se produce mediante la reacción de metanol con isobutileno, de acuerdo con la siguiente estequiometría:\n\nCH₃OH + (CH₃)₂C = CH₂ ⇄ (CH₃)₃COCH₃ + ΔH\n\nEsta reacción es reversible; sin embargo, el proceso opera a baja temperatura para favorecer el equilibrio hacia los productos (exotérmica). El proceso se muestra en el diagrama de flujo de la figura.\n\n{{img:icfes_diseno_procesos_009.png}}\n\nEl efluente del reactor (R-901) se destila en la torre de destilación (T-901) y se obtiene en los fondos el MTBE. El metanol y los butenos restantes pasan a una torre de absorción (T-902), en la cual el 99 % del metanol es absorbido con agua y recuperado en la torre de destilación (T-903).\n\nA continuación se presenta información adicional del proceso:\n\n- **Corriente 1:** metanol 100 %\n- **Corriente 3:** se alimentan 500 kmol/h de mezcla de butenos, 23 % isobutileno, 77 % otros butenos.\n- **Reactor de MTBE (R-901):** la conversión es de 96 % con catalizador fresco con cambio diario, opera a 30 bares para asegurar reacción en fase líquida.\n- **Corriente 15:** solución metanol agua en estado de líquido subenfriado.\n- **Corriente 17:** 0,97 molar de agua y 0,03 molar de metanol."
+    },
+    {
+      "titulo": "Caso 3 — Estireno",
+      "texto": "**Estireno**\n\nEl estireno es un compuesto base para la producción de poliestireno. De este último existen diferentes tipos con propiedades físicas y mecánicas particulares e importantes en diferentes sectores económicos. El estireno se puede obtener de la deshidrogenación de etilbenceno, como lo describe la reacción 1 que se presenta a continuación:\n\nC₆H₅CH₂CH₃ ⇄ C₆H₅CHCH₂ + H₂   [1]\n\nLa reacción es reversible y limitada por el equilibrio. Esta ocurre a temperaturas entre los 800 K a 950 K, y bajas presiones (0,4 a 1,4 bar), para favorecer el equilibrio hacia la producción de estireno. El proceso usa un catalizador de hierro para minimizar las reacciones colaterales, una de las más importantes es la hidrogenación de etilbenceno para producir tolueno y metano, como se muestra en la reacción 2.\n\nC₆H₅CH₂CH₃ + H₂ → C₆H₅CH₃ + CH₄   [2]\n\nLas velocidades de reacción para las reacciones [1] y [2] están dadas, respectivamente, por:\n\n- r₁ = 1.177×10⁸ exp(−21.708/RT) P_etilbenceno\n- r₋₁ = 20.965 exp(7.804/RT) P_estireno P_hidrogeno\n- r₂ = 7.206×10¹¹ exp(−49.675/RT) P_etilbenceno\n\nEn la figura se presenta el diagrama del proceso de producción de estireno.\n\n{{img:icfes_diseno_procesos_016.png}}\n\nLas propiedades de las corrientes más importantes del proceso (ver figura), son las siguientes:\n\n- **Corriente 1:** etilbenceno fresco, líquido a 30 ºC.\n- **Corriente 4:** vapor de agua de baja presión; se calienta y usa como diluyente y fuente de calor del alimento de R-501.\n- **Corriente 7:** mezcla de los productos de reacción en estado de vapor saturado.\n- **Corriente 9:** gas ligero de hidrógeno y metano, con trazas de vapor de agua y pequeñas cantidades de etilbenceno y tolueno.\n- **Corriente 17:** 99 % de tolueno con pequeñas cantidades de etilbenceno y estireno.\n- **Corriente 29:** estireno crudo con al menos 99 % en peso de pureza, 100.000 ton/año.\n\nUn intercambiador de coraza y tubo E-502 se usa para enfriar la corriente saliente del reactor, corriente 7."
+    },
+    {
+      "titulo": "Caso 4 — Producción de dimetil éter",
+      "texto": "**Producción de dimetil éter**\n\nEl dimetil éter (DME) se emplea como combustible limpio y sustituto del gas licuado de petróleo; también se utiliza como solvente, importante en la producción a escala industrial. El diagrama de flujo de la figura presenta la deshidratación de metanol para producir 50.000 t/año de DME de alta pureza (mínimo 99 %).\n\n{{img:icfes_diseno_procesos_021.png}}\n\nTomado de: www.che.cemr.wvu.edu/publications/projects/large_proj/dimethyl_ether.PDF\n\nLa siguiente reacción permite producir DME empleando como catalizador Al₂O₃/SiO₂ y con una conversión máxima del 82 %:\n\n2 CH₃OH ⇄ CH₃OCH₃ + H₂O\n\nDentro del intervalo de temperatura de operación normal se puede afirmar, en términos prácticos, que no existen reacciones colaterales y el máximo rendimiento es del 92 %. El reactor R-101 opera adiabáticamente y la cinética de la reacción para temperaturas mayores que 250 °C está dada por\n\nr_metanol = k₀ exp[−Eₐ/RT] p_metanol\n\nDonde k₀ = 1,21 × 10⁶ kmol m⁻³ h⁻¹ kPa⁻¹, Eₐ = 80,48 kJ mol⁻¹ y p_metanol es la presión parcial del metanol en kPa. Por encima de 400 °C se observa que el catalizador se desactiva y, por tanto, se necesita que ningún punto dentro del reactor exceda esa temperatura.\n\nLa reacción es ligeramente exotérmica (a 25 °C, ΔH_reacción = 11.770 kJ/kmol). Las constantes de equilibrio a diferentes temperaturas son:\n\n| T | Kp |\n|---|---|\n| 473 K (200°C) | 34,1 |\n| 573 K (300°C) | 12,4 |\n| 673 K (400°C) | 6,21 |\n\nLa tabla 1 presenta algunas características de ciertas corrientes del proceso.\n\n**Tabla 1**\n\n| Corriente | 1 | 5 | 6 | 8 | 9 | 12 | 15 | 16 |\n|---|---|---|---|---|---|---|---|---|\n| Temperatura (°C) | 25,00 | 250,00 | 365,65 | 125,56 | 46,00 | 80,13 | 101,47 | 66,87 |\n| Presión (atm) | 1,00 | 14,99 | 14,90 | 10,26 |  | 6,91 | 1,09 |  |\n| Fracción vapor | 0,00 | 1,00 |  | 0,53 |  |  |  |  |\n| Flujo másico (kg/h) | 8.627,85 | 10.718,96 |  | 10.718,96 | 6.071,47 | 64,04 | 2.489,96 | 2.091,11 |\n| Flujo molar (kmol/h) | 270,15 | 335,99 |  | 335,99 | 131,81 | 1,49 | 136,76 | 65,85 |\n| Flujo por componente (kmol/h) |  |  |  |  |  |  |  |  |\n| Metanol | 264,74 |  | 65,84 | 65,84 | 0,0430 | 0,6600 | 0,65 | 64,48 |\n| Dimetil éter | 0,27 | 0,27 | 131,95 | 131,95 |  | 0,2600 |  |  |\n| Agua | 4,05 | 5,42 | 137,11 | 137,11 |  |  | 135,71 |  |\n| Acetaldehído | 0,27 |  |  | 0,27 | 0,0988 | 0,1714 |  |  |\n| Ácido acético | 0,41 |  |  | 0,41 |  |  | 0,4053 | 0,0002 |\n| Acetona | 0,41 |  |  | 0,41 | 0,0009 | 0,4043 |  | 0,0083 |\n\nLa tabla 2 muestra algunas propiedades físicas de las sustancias involucradas en el proceso.\n\n**Tabla 2**\n\n| Sustancia | Punto de ebullición normal (°C) | Peso molecular (g/gmol) | Temperatura crítica (°C) | Presión crítica (atm) |\n|---|---|---|---|---|\n| Metanol | 65 | 32 | 240 | 80 |\n| Dimetil éter | -25 | 46,07 | 127 | 53 |\n| Agua | 100 | 18 | 374 | 221 |"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "icfes-diseno_procesos-001",
+      "area": "diseno_procesos",
+      "n": 1,
+      "contexto": 0,
+      "enunciado": "Una apropiada selección de las operaciones de separación que se deben emplear para separar y purificar el producto principal contenido en la corriente 10, se fundamenta en",
+      "opciones": {
+        "A": "fases presentes y composición.",
+        "B": "limitaciones en el equilibrio.",
+        "C": "temperatura y caudal.",
+        "D": "velocidad de separación."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Para escoger operaciones de separación primero hay que saber **qué fases** trae la corriente (la 10 es casi toda vapor, fracción 0,9876) y **qué componentes y en qué proporción** contiene, porque de ahí salen las diferencias de propiedades (ebullición, fusión, solubilidad) que se explotan. Temperatura, caudal o velocidad afectan el dimensionamiento, no la elección de la operación.",
+      "origen": "Cuadernillo 2018 #1"
+    },
+    {
+      "id": "icfes-diseno_procesos-002",
+      "area": "diseno_procesos",
+      "n": 2,
+      "contexto": 0,
+      "enunciado": "Debido a operaciones habituales de mantenimiento se decidió reemplazar las tuberías de succión y descarga del o-xileno. El cálculo del diámetro de la nueva tubería que permite mantener la capacidad de la planta se debe basar en",
+      "opciones": {
+        "A": "el número de Reynolds para flujo turbulento y el tipo de tubería.",
+        "B": "la presión de trabajo de la bomba y la longitud de tubería.",
+        "C": "el tipo de flujo y las menores pérdidas de fricción.",
+        "D": "la velocidad de caudal máximo y la pérdida de carga."
+      },
+      "correcta": "D",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "El diámetro se dimensiona con el **caudal máximo** que debe transportar (a una velocidad recomendada, D = √(4Q/πv)) y verificando que la **pérdida de carga** resultante sea admisible para la bomba. El Reynolds o el tipo de flujo son consecuencias del diámetro elegido, no el criterio de partida.",
+      "origen": "Cuadernillo 2018 #2"
+    },
+    {
+      "id": "icfes-diseno_procesos-003",
+      "area": "diseno_procesos",
+      "n": 3,
+      "contexto": 0,
+      "enunciado": "Para ejercer un control riguroso de la cantidad de o-xileno presente en la mezcla gaseosa que conforma la corriente 8, la variable medida y la variable manipulada en el proceso, respectivamente, son",
+      "opciones": {
+        "A": "el flujo en la corriente 5 y el flujo en la corriente 6.",
+        "B": "el caudal en la corriente 5 y el caudal en la corriente 7.",
+        "C": "el flujo en la corriente 6 y el flujo en la corriente 3.",
+        "D": "el caudal en la corriente 4 y el caudal en la corriente 3."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Es un control de **relación**: se mide el flujo de aire (corriente 6, la carga principal) y se ajusta el flujo de o-xileno que entra al calentador (corriente 3) para que el hidrocarburo quede por debajo del 1 % molar. Manipular la corriente 6 (opción A) o medir la 5 ya mezclada no permite fijar la proporción en la fuente.",
+      "origen": "Cuadernillo 2018 #3"
+    },
+    {
+      "id": "icfes-diseno_procesos-004",
+      "area": "diseno_procesos",
+      "n": 4,
+      "contexto": 0,
+      "enunciado": "Por restricciones en la alimentación eléctrica se requiere disminuir la potencia consumida por la bomba P-701, la cual transporta el o-xileno desde el tanque de almacenamiento hasta el calentador H-701. Esta disminución en la potencia consumida por la bomba se puede alcanzar si se aumenta",
+      "opciones": {
+        "A": "el diámetro de la descarga.",
+        "B": "la temperatura del fluido.",
+        "C": "la viscosidad del fluido.",
+        "D": "el peso específico."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La potencia es P = ρ·g·Q·H/η. Con un **diámetro de descarga mayor** baja la velocidad y las pérdidas por fricción caen fuertemente (∝ v²), de modo que la cabeza H requerida y la potencia disminuyen. Aumentar la viscosidad o el peso específico la incrementa, y calentar el fluido no es una opción de diseño viable (riesgo de vaporización y cavitación).",
+      "origen": "Cuadernillo 2018 #4"
+    },
+    {
+      "id": "icfes-diseno_procesos-005",
+      "area": "diseno_procesos",
+      "n": 5,
+      "contexto": 0,
+      "enunciado": "Dadas las propiedades de las sustancias presentes en el proceso y la información tabulada sobre las corrientes, las unidades que deben estar presentes en serie en la sección de separación son",
+      "opciones": {
+        "A": "evaporadores y absorbedores.",
+        "B": "absorbedores y condensadores.",
+        "C": "condensadores y torres de destilación.",
+        "D": "cristalizador y torres de destilación."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "El anhídrido ftálico tiene un punto de fusión alto (131 °C), así que al enfriar el gas del reactor se recupera como sólido en un **cristalizador** (condensador de conmutación), separándolo de los gases livianos de la corriente 11. Luego, para llegar al 99,9 % y retirar el maleico (ebullición 202 °C frente a 285 °C), se usa **destilación** (corrientes 12 y 13 en vacío, 25 y 41,1 kPa).",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes-diseno_procesos-006",
+      "area": "diseno_procesos",
+      "n": 6,
+      "contexto": 0,
+      "enunciado": "La bomba P-702 suministra continuamente el refrigerante que permite conservar la temperatura de reacción en el reactor R-701 dentro de un intervalo seguro de operación. La cavitación dentro de la bomba afectaría el suministro normal del caudal que retira la energía liberada durante la oxidación. Una acción que ayuda a evitar permanentemente la cavitación en la bomba es",
+      "opciones": {
+        "A": "verificar que el valor del NSPH (Net Positive Suction Head) requerido sea mayor que el valor del NSPH disponible.",
+        "B": "asegurar que los parámetros de diseño de la bomba estén por encima de las especificaciones reales de operación durante el bombeo.",
+        "C": "mantener las demandas en el sistema de bombeo.",
+        "D": "disminuir la cabeza de succión."
+      },
+      "correcta": "C",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La bomba se selecciona para un punto de operación en el que el NPSH disponible supera al requerido; si la demanda de caudal se **mantiene** en ese punto, el margen se conserva y no aparece cavitación. Si el caudal sube, el NPSH requerido crece y las pérdidas en la succión aumentan. La opción A describe justo la condición que provoca cavitación y la D reduce el NPSH disponible.",
+      "origen": "Cuadernillo 2018 #6"
+    },
+    {
+      "id": "icfes-diseno_procesos-007",
+      "area": "diseno_procesos",
+      "n": 7,
+      "contexto": 0,
+      "enunciado": "Se ha determinado que la oxidación del o-xileno puede ocurrir entre 200 °C y 500 °C a presiones que oscilan entre la atmosférica y 500 kPa. De acuerdo con lo anterior y con la descripción del caso, las condiciones más favorables para producir anhídrido ftálico deben cumplir las siguientes tendencias:",
+      "opciones": {
+        "A": "Alta temperatura y alta presión.",
+        "B": "Baja temperatura y baja presión.",
+        "C": "Alta temperatura y baja presión.",
+        "D": "Baja temperatura y alta presión."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La reacción deseada (1) tiene menor energía de activación (27000) que la indeseada (2) (27900), así que **bajar la temperatura** favorece la selectividad hacia el anhídrido ftálico. Ambas velocidades dependen igual de p_A·p_B, de modo que subir la presión no mejora la selectividad; operar a **baja presión** es más seguro y económico para una mezcla cercana al límite de explosividad.",
+      "origen": "Cuadernillo 2018 #7"
+    },
+    {
+      "id": "icfes-diseno_procesos-008",
+      "area": "diseno_procesos",
+      "n": 8,
+      "contexto": 0,
+      "enunciado": "Para disminuir los riesgos de explosión se ha sugerido cambiar a un esquema de reacción de fases heterogéneas en el cual el o-xileno líquido se pone en contacto con oxígeno presente en el aire para entrar al reactor de oxidación. Para valorar la viabilidad técnica-económica de esta sugerencia, los criterios que se deben revisar son",
+      "opciones": {
+        "A": "selectividad, tipo de reactor y rendimiento.",
+        "B": "condiciones y avance de reacción y selectividad.",
+        "C": "velocidad de reacción, conversión y rendimiento.",
+        "D": "rendimiento, avance de reacción y tipo de reactor."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "Pasar a un sistema gas-líquido obliga a cambiar el **tipo de reactor** (el lecho empacado en fase gas ya no sirve) y hay que comprobar que el nuevo esquema mantenga la **selectividad** hacia el anhídrido ftálico frente al maleico y el **rendimiento** del producto, que son los que definen si es rentable.",
+      "origen": "Cuadernillo 2018 #8"
+    },
+    {
+      "id": "icfes-diseno_procesos-009",
+      "area": "diseno_procesos",
+      "n": 9,
+      "contexto": 1,
+      "enunciado": "Para garantizar las condiciones de separación en la torre T-901 es importante asegurar que en la corriente de salida del reactor R-901 (corriente 8) no esté presente la fase vapor. Para garantizar estas condiciones es necesario controlar",
+      "opciones": {
+        "A": "la temperatura de las corrientes 7 y 8.",
+        "B": "la presión en la torre T-901.",
+        "C": "la composición y temperatura de la corriente 7.",
+        "D": "la temperatura en el reactor R-901."
+      },
+      "correcta": "D",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La reacción es exotérmica: si no se controla la **temperatura en el reactor R-901**, el calor liberado puede vaporizar parte de la mezcla y la corriente 8 saldría con vapor. Controlar el reactor asegura a la vez su eficiencia y la fase líquida hasta la torre; la presión de T-901 solo fija el estado dentro de la torre, no el de su alimentación.",
+      "origen": "Cuadernillo 2018 #9 · Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-diseno_procesos-010",
+      "area": "diseno_procesos",
+      "n": 10,
+      "contexto": 1,
+      "enunciado": "Para construcción de los equipos de bombeo P-901, P-902, P-903 y P-904, el fabricante propuso cuatro materiales. Todos los materiales cumplen con los criterios técnicos necesarios; sin embargo, el uso de determinados materiales acarrea un costo mayor para el proyecto.\n\nDe acuerdo con lo anterior, desde el punto de vista económico, el material más adecuado es",
+      "opciones": {
+        "A": "hastelloy C.",
+        "B": "acero al carbono.",
+        "C": "acero inoxidable 316.",
+        "D": "acero al carbono/inoxidable 316."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Como todos cumplen técnicamente, solo cuenta el costo, y el **acero al carbono** es el material más barato y común. El inoxidable 316 lleva cromo, níquel y molibdeno, el Hastelloy C es una aleación de níquel aún más costosa, y la combinación carbono/inoxidable sigue siendo más cara que el carbono solo.",
+      "origen": "Cuadernillo 2018 #10 · Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-diseno_procesos-011",
+      "area": "diseno_procesos",
+      "n": 11,
+      "contexto": 1,
+      "enunciado": "Para la obtención de MTBE en la etapa de destilación de la corriente 8 se debe escoger el tipo de condensador a usar en el proceso. Las variables que deberían tenerse en cuenta para escoger el tipo de condensador (total o parcial) a usar en la torre T-901 son",
+      "opciones": {
+        "A": "flujo y composiciones de la corriente de vapor saturado.",
+        "B": "composición y presión de vapor de la corriente de vapor saturado.",
+        "C": "flujo y presión de la corriente de destilado.",
+        "D": "composición y temperatura de la corriente de destilado."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "Que el condensador sea total o parcial depende de si el vapor de tope puede condensarse por completo con el refrigerante disponible a la presión de la torre, y eso lo determinan su **composición** (hay butenos muy livianos) y su **presión de vapor**. El flujo solo afecta el tamaño del equipo, no el tipo.",
+      "origen": "Cuadernillo 2018 #11"
+    },
+    {
+      "id": "icfes-diseno_procesos-012",
+      "area": "diseno_procesos",
+      "n": 12,
+      "contexto": 1,
+      "enunciado": "En el proceso de producción de MTBE, se tiene una reacción catalizada con una resina de carácter ácido de intercambio catiónico con alta tasa de desactivación. Según los parámetros de operación, y teniendo en cuenta la eficiencia técnica del proceso, el tipo de reactor R-901 y la condición de operación para este deberían ser",
+      "opciones": {
+        "A": "lecho móvil y adiabático.",
+        "B": "CSTR y chaqueta de calentamiento.",
+        "C": "lecho móvil e isotérmico.",
+        "D": "lecho fijo y chaqueta de calentamiento."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Como la reacción es exotérmica y reversible, debe operarse **isotérmicamente** a baja temperatura para no desplazar el equilibrio ni perder la fase líquida; y la alta desactivación del catalizador se maneja con un **lecho móvil**, que permite renovarlo continuamente. La operación adiabática dejaría subir la temperatura y la chaqueta de calentamiento la aumentaría, ambas contra la reacción exotérmica.",
+      "origen": "Cuadernillo 2018 #12 · Preguntas explicadas #3"
+    },
+    {
+      "id": "icfes-diseno_procesos-013",
+      "area": "diseno_procesos",
+      "n": 13,
+      "contexto": 1,
+      "enunciado": "En el diseño de la torre de destilación de metanol T-903, se propuso aumentar la relación de reflujo e implementar un precalentador de la corriente 15 para que ingrese en la torre como líquido saturado. Se espera que esta propuesta permita",
+      "opciones": {
+        "A": "disminuir el número de etapas ideales de separación.",
+        "B": "aumentar la concentración de metanol en los fondos.",
+        "C": "disminuir la concentración del componente menos volátil en el tope.",
+        "D": "aumentar el número de etapas ideales de separación."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Al **aumentar la relación de reflujo**, las rectas de operación se alejan de la curva de equilibrio y se requieren **menos etapas ideales** para la misma separación (en el límite de reflujo total se llega al número mínimo). Alimentar como líquido saturado evita además que la torre tenga que calentar el subenfriado. Más metanol en los fondos sería empeorar la separación.",
+      "origen": "Cuadernillo 2018 #13"
+    },
+    {
+      "id": "icfes-diseno_procesos-014",
+      "area": "diseno_procesos",
+      "n": 14,
+      "contexto": 1,
+      "enunciado": "El agua de residuo que se elimina en la corriente 17 cumple la normatividad ambiental nacional. Por esta razón, se obtuvo un permiso de vertimientos a una fuente de agua cercana. Sin embargo, para exportación exigen disminuir la concentración de metanol en esta corriente, debido a que supera los parámetros internacionales. Para disminuir la concentración de metanol en la corriente 17, la primera alternativa que debe considerarse es",
+      "opciones": {
+        "A": "usar extracción con solventes.",
+        "B": "mejorar la separación en la destilación.",
+        "C": "emplear ósmosis inversa.",
+        "D": "aumentar el flujo de agua de proceso."
+      },
+      "correcta": "B",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La corriente 17 son los fondos de la torre T-903, de modo que lo primero es **mejorar la separación en esa destilación** (reflujo, etapas, condiciones), que usa equipos que ya existen y no añade costos de nuevas unidades. Extracción u ósmosis inversa implican inversión y operaciones adicionales, y más agua de proceso diluiría pero aumentaría el volumen vertido.",
+      "origen": "Cuadernillo 2018 #14"
+    },
+    {
+      "id": "icfes-diseno_procesos-015",
+      "area": "diseno_procesos",
+      "n": 15,
+      "contexto": 1,
+      "enunciado": "La corriente de tope de la torre T-903 se condensa; una parte de ella se recircula para mezclarla con la corriente de metanol puro que ingresa en el proceso y otra parte se retroalimenta, con el fin de mantener la relación de reflujo adecuada para la operación de la torre a través de una bomba centrifuga. Según estos parámetros de operación, la corriente 16 que sale del tanque V-903 deberá encontrarse como",
+      "opciones": {
+        "A": "vapor saturado.",
+        "B": "vapor y líquido saturado.",
+        "C": "líquido saturado.",
+        "D": "líquido subenfriado."
+      },
+      "correcta": "D",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La corriente pasa por una bomba centrífuga, que solo maneja líquido y cavita si este está en su punto de burbuja; por eso el condensado debe salir como **líquido subenfriado**, con margen sobre su presión de vapor para el NPSH y para mezclarse con el metanol fresco sin vaporizarse. Un líquido saturado cavitaría con cualquier caída de presión en la succión.",
+      "origen": "Cuadernillo 2018 #15"
+    },
+    {
+      "id": "icfes-diseno_procesos-016",
+      "area": "diseno_procesos",
+      "n": 16,
+      "contexto": 2,
+      "enunciado": "Se considera que el reactor R-501 debe ser un reactor PFR, isotérmico. Con el fin de evaluar el volumen de diseño del reactor necesario para que la reacción tenga una conversión del 80 %, se requiere conocer",
+      "opciones": {
+        "A": "la expresión de cinética de reacción.",
+        "B": "la composición molar del alimento.",
+        "C": "la energía de activación.",
+        "D": "la fracción molar del reactivo límite."
+      },
+      "correcta": "A",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La ecuación de diseño del PFR es V = F_A0 ∫₀^0,8 dX/(−r_A), así que lo indispensable es la **expresión cinética** (−r_A) en función de la conversión. La energía de activación ya está incluida en esa expresión y, al ser isotérmico, no se necesita por separado; la composición del alimento es solo uno de los datos de entrada.",
+      "origen": "Cuadernillo 2018 #16"
+    },
+    {
+      "id": "icfes-diseno_procesos-017",
+      "area": "diseno_procesos",
+      "n": 17,
+      "contexto": 2,
+      "enunciado": "Con el fin de transportar la corriente 16, se debe escoger el tipo de bomba P-503. De acuerdo con el caso descrito, para la selección de esta bomba es necesario conocer",
+      "opciones": {
+        "A": "el caudal y la cabeza de succión.",
+        "B": "el diámetro de la tubería y el NPSH.",
+        "C": "las pérdidas por fricción y la potencia de la bomba.",
+        "D": "la potencia de la bomba y el caudal."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "Una bomba se selecciona en las curvas del fabricante entrando con el **caudal** que debe mover y la **cabeza** que debe vencer (incluida la condición de succión). La potencia es un resultado de esa selección, no un dato para hacerla, y el diámetro de tubería pertenece al diseño de la línea.",
+      "origen": "Cuadernillo 2018 #17"
+    },
+    {
+      "id": "icfes-diseno_procesos-018",
+      "area": "diseno_procesos",
+      "n": 18,
+      "contexto": 2,
+      "enunciado": "La corriente 7 que sale del reactor R-501 se enfría con agua como refrigerante en el intercambiador E-502. De acuerdo con criterios técnicos y económicos, el tipo de cabezal que se requiere para este intercambiador y la disposición de los fluidos, respectivamente, son",
+      "opciones": {
+        "A": "intercambiador de cabeza fija y corriente 7 por la tubería.",
+        "B": "intercambiador cabeza fija y corriente 7 por la carcasa.",
+        "C": "intercambiador cabeza flotante y corriente 7 por la tubería.",
+        "D": "intercambiador de cabeza móvil y corriente 7 por la carcasa."
+      },
+      "correcta": "A",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "El de **cabeza fija** es el intercambiador de coraza y tubos más económico. En él solo el interior de los tubos se puede limpiar mecánicamente, de modo que por los **tubos** debe ir la corriente 7: es la más caliente y la que puede ensuciar (el estireno tiende a polimerizar), y en los tubos se aprovecha mejor su resistencia a la temperatura y su facilidad de limpieza. Una cabeza flotante encarece el equipo sin necesidad.",
+      "origen": "Cuadernillo 2018 #18"
+    },
+    {
+      "id": "icfes-diseno_procesos-019",
+      "area": "diseno_procesos",
+      "n": 19,
+      "contexto": 2,
+      "enunciado": "Para el rehervidor E-506 se escogió un intercambiador de tubos y coraza, con paso de vapor por dentro de las tuberías y un arreglo cuadrado para los tubos. Los criterios que se tuvieron en cuenta para determinar el tipo de arreglo que se debe usar en el intercambiador son",
+      "opciones": {
+        "A": "el diámetro de las tuberías y la temperatura de los flujos.",
+        "B": "el número de tubos y la viscosidad de los fluidos.",
+        "C": "el tipo de cabezal y el número de pasos.",
+        "D": "la facilidad para la limpieza y el diámetro interno de la carcasa."
+      },
+      "correcta": "D",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "El arreglo **cuadrado** deja pasillos rectos entre tubos que permiten **limpiar mecánicamente** el lado de la coraza (donde va el fondo de la torre, propenso a ensuciar), a cambio de alojar menos tubos que el triangular para un mismo **diámetro interno de carcasa**. Esos dos factores son los que deciden el tipo de arreglo.",
+      "origen": "Cuadernillo 2018 #19"
+    },
+    {
+      "id": "icfes-diseno_procesos-020",
+      "area": "diseno_procesos",
+      "n": 20,
+      "contexto": 2,
+      "enunciado": "Durante el proceso, un cambio de temperatura en el separador V-501 genera menor separación del tolueno, del estireno y del agua residual, lo cual disminuye la viscosidad de la solución alimentada a T-501. De acuerdo con lo anterior, este cambio en la temperatura genera",
+      "opciones": {
+        "A": "mayor eficiencia de plato y mayor número de etapas reales.",
+        "B": "menor eficiencia de plato y mayor número de etapas reales.",
+        "C": "mayor eficiencia de plato y menor número de etapas reales.",
+        "D": "menor eficiencia de plato y menor número de etapas reales."
+      },
+      "correcta": "C",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La eficiencia de plato aumenta cuando la viscosidad del líquido disminuye (correlación de O'Connell), porque mejora la transferencia de masa entre fases. Como etapas reales = etapas ideales / eficiencia, una **mayor eficiencia** implica **menos etapas reales**.",
+      "origen": "Cuadernillo 2018 #20"
+    },
+    {
+      "id": "icfes-diseno_procesos-021",
+      "area": "diseno_procesos",
+      "n": 21,
+      "contexto": 3,
+      "enunciado": "En la reacción exotérmica de interés, el efecto más importante de duplicar el tiempo de residencia del reactante dentro del reactor adiabático R-101 es",
+      "opciones": {
+        "A": "el aumento de la conversión de la reacción.",
+        "B": "el aumento de la cantidad de DME producido.",
+        "C": "la disminución en el tiempo de vida útil del catalizador.",
+        "D": "la disminución de requerimientos energéticos en el proceso."
+      },
+      "correcta": "C",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La conversión está limitada por el equilibrio (máximo 82 %), así que más tiempo de residencia casi no aumenta el DME producido. En cambio, en un reactor adiabático con reacción exotérmica, más reacción significa más calor retenido y mayor temperatura, que puede acercarse a los 400 °C donde el catalizador se desactiva: el efecto principal es **acortar la vida útil del catalizador**.",
+      "origen": "Cuadernillo 2018 #21"
+    },
+    {
+      "id": "icfes-diseno_procesos-022",
+      "area": "diseno_procesos",
+      "n": 22,
+      "contexto": 3,
+      "enunciado": "De acuerdo con la información del proceso, se determinó que la reacción puede ocurrir en un intervalo de temperatura que oscila entre 200 °C y 400 °C, con presiones desde la atmosférica hasta 20 atm y operando el reactor a temperatura constante o variable. Los criterios técnicos que se tuvieron en cuenta para definir las condiciones de operación adiabática del reactor R-101 son",
+      "opciones": {
+        "A": "la velocidad de reacción, las barreras difusionales y la conversión máxima.",
+        "B": "la conversión máxima, el rendimiento de reacción y el volumen del reactor.",
+        "C": "la conversión máxima, la reversibilidad de la reacción y la velocidad de reacción.",
+        "D": "la velocidad de reacción, el rendimiento de reacción y el volumen del reactor."
+      },
+      "correcta": "C",
+      "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social y ambiental.",
+      "explicacion": "La reacción es **reversible** y exotérmica: al subir la temperatura la velocidad aumenta pero Kp baja (34,1 a 200 °C, 6,21 a 400 °C), lo que reduce la **conversión máxima** alcanzable. La operación adiabática se define equilibrando la **velocidad de reacción** con ese límite de equilibrio y con el tope de 400 °C del catalizador.",
+      "origen": "Cuadernillo 2018 #22"
+    },
+    {
+      "id": "icfes-diseno_procesos-023",
+      "area": "diseno_procesos",
+      "n": 23,
+      "contexto": 3,
+      "enunciado": "La corriente 14, la cual es alimentada a la torre T-103, debe cumplir las condiciones de trabajo definidas para esta unidad. Para tal efecto, se decide colocar una válvula a la salida del rehervidor E-105. Los tipos de válvulas que permiten alcanzar los requerimientos técnicos de la torre T-103 son",
+      "opciones": {
+        "A": "válvulas de compuerta y válvulas de bola.",
+        "B": "válvulas de mariposa y válvulas de globo.",
+        "C": "válvulas de bola y válvulas de mariposa.",
+        "D": "válvulas de globo y válvulas de compuerta."
+      },
+      "correcta": "B",
+      "afirmacion": "Plantea especificaciones para el proceso de desarrollo del producto tecnológico.",
+      "explicacion": "Aquí la válvula debe **regular** (estrangular) el flujo para bajar la presión de la corriente 13 a la de la torre T-103, y las válvulas de **globo** y de **mariposa** son las adecuadas para regulación. Las de compuerta y de bola están pensadas para servicio de abrir/cerrar y se dañan o controlan mal trabajando parcialmente abiertas.",
+      "origen": "Cuadernillo 2018 #23"
+    },
+    {
+      "id": "icfes-diseno_procesos-024",
+      "area": "diseno_procesos",
+      "n": 24,
+      "contexto": 3,
+      "enunciado": "El ingeniero de mantenimiento piensa que se podrían reducir equipos y costos de inventario de repuestos si se eliminan las bombas P-101 A/B y P-105 A/B. Esto implicaría mezclar las corrientes 1 y 16 a baja presión, vaporizar la corriente resultante en la unidad E-101 y aumentar su presión hasta la condición de la corriente 15.\n\nEl efecto de esta modificación, en términos del consumo de energía en el sistema de alimentación al reactor,",
+      "opciones": {
+        "A": "genera un mayor consumo.",
+        "B": "no produce cambios en el consumo.",
+        "C": "produce un menor consumo.",
+        "D": "no se puede determinar con la información disponible."
+      },
+      "correcta": "A",
+      "afirmacion": "Revisa, verifica y valida que una solución cumple con las especificaciones técnicas de diseño.",
+      "explicacion": "Subir la presión de un líquido con una bomba cuesta muy poco (W ≈ v·ΔP con volumen específico pequeño), mientras que comprimir el mismo material ya **vaporizado** exige un compresor y mucha más energía, porque el volumen específico del gas es cientos de veces mayor. La modificación **aumenta el consumo**.",
+      "origen": "Cuadernillo 2018 #24"
+    },
+    {
+      "id": "icfes-diseno_procesos-025",
+      "area": "diseno_procesos",
+      "n": 25,
+      "contexto": 3,
+      "enunciado": "Una reducción de los servicios auxiliares requeridos en el proceso implicaría que la corriente 6 se utilice en la unidad E-101 como fluido de calefacción. El conjunto de variables básicas que permiten definir la viabilidad de esta alternativa es",
+      "opciones": {
+        "A": "la presión, la capacidad calorífica, el estado de la materia y la conductividad térmica.",
+        "B": "la temperatura, la densidad, la composición y la conductividad térmica.",
+        "C": "la condición de saturación, la presión, la densidad y el coeficiente de expansión térmica.",
+        "D": "la composición, el flujo, la difusividad térmica y la densidad."
+      },
+      "correcta": "B",
+      "afirmacion": "Revisa, verifica y valida que una solución cumple con las especificaciones técnicas de diseño.",
+      "explicacion": "Para usar la corriente 6 (365,65 °C) como fluido de calefacción primero se verifica que su **temperatura** dé la fuerza impulsora necesaria frente a la corriente que se calienta, y luego que su **composición**, **densidad** y **conductividad térmica** permitan un coeficiente de transferencia de calor y un área razonables.",
+      "origen": "Cuadernillo 2018 #25"
+    }
+  ]
+}

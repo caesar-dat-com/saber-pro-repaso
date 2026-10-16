@@ -1,0 +1,484 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Diseño de Sistemas Mecánicos (cuadernillos y preguntas explicadas)",
+ "contextos": [
+  {
+   "titulo": "Caso 1 — Intercambiador de calor de carcasa y tubos",
+   "texto": "Para un proceso industrial se requiere enfriar un flujo másico ṁ_gas = 5 kg/s de gas argón de alta presión, desde una temperatura inicial Tc₁ = 473 K hasta una temperatura final Tc₂ = 328 K. El ingeniero de diseño decidió emplear un intercambiador de calor de carcasa y tubos que se integrarán a la tubería de gas, como el que se ilustra en la figura 1.\n\n{{img:icfes_diseno_mecanicos_ctx1_fig1.png}}\n\n**Figura 1.** Intercambiador de carcasa y tubos.\n\nComo fluido frío se bombeará un flujo másico ṁ_H₂O = 7 kg/s de agua tomada directamente del acueducto, a una temperatura Tf₁ = 288 K. El intercambiador se compone principalmente por una carcasa, un conjunto de tubos y dos placas soporte. Los tubos se fabrican mediante rolado progresivo y tienen un diámetro exterior d₀ = 0,02 m. Las placas-soporte son discos de lámina de acero inoxidable AISI 304 de 0,02 m de espesor, con agujeros pasantes para ubicar los extremos de los tubos. La unión entre los tubos y las placas-soporte se logra mediante deformación plástica, como se detalla en la figura 2.\n\n{{img:icfes_diseno_mecanicos_ctx1_fig2.png}}\n\n**Figura 2.** Detalle de la unión entre placa-soporte y tubo.\n\nLas especificaciones y restricciones del diseño son las siguientes:\n\n- El área de transferencia de calor debe ser mayor o igual a 7π m².\n- La conductividad térmica del material usado para fabricar los tubos debe ser mayor o igual a 50 W/(m·K).\n- La conformabilidad por rolado progresivo del material usado para fabricar los tubos debe ser buena o excelente.\n- Los agujeros de las placas-soporte deben maquinarse con alta precisión para evitar la desalineación de los tubos.\n- El costo inicial de la herramienta de taladrado debe ser menor a 100 UM (unidades monetarias).\n- El costo del material usado para fabricar los tubos debe ser menor de 40.000 UM/m³.\n- El desgaste de las herramientas de taladrado debe ser menor a 0,00015 m.\n- El costo total del intercambiador debe ser mínimo.\n\nEl área de transferencia de calor del intercambiador A₀ depende del número de tubos Nₜ y del diámetro exterior d₀ y longitud L de cada tubo, de acuerdo con la ecuación 1.\n\nA₀ = π·Nₜ·d₀·L (ecuación 1)\n\nLa ecuación 1 se usó para determinar la longitud y el número adecuado de tubos, teniendo en cuenta que cuanto menor sea el número de tubos menor es el costo del intercambiador, pues se requiere fabricar menos agujeros en las placas-soporte y se disminuye el diámetro de la carcasa. El material del que se fabricaron los tubos se seleccionó empleando la información de la tabla 1 y la figura 3.\n\n**Tabla 1.** Información sobre materiales para la tubería del intercambiador.\n\n| Material | Resistente a | Precio [UM/m³] | Conductividad térmica [W/(m·K)] |\n|---|---|---|---|\n| Cobre | Agua potable, cloruros, bases | 49.395 | 386 |\n| Aluminio | Agua potable, amoniaco | 5.994 | 209 |\n| Acero AISI 304 | Agua potable, agentes limpiadores, amoniaco, cloruros, varios ácidos | 34.621 | 15 |\n| Acero galvanizado | Agua potable, cloruros | 6.490 | 50 |\n\n{{img:icfes_diseno_mecanicos_ctx1_fig3.png}}\n\n**Figura 3.** Conformabilidad por rolado progresivo.\n\nLa fabricación de las placas-soporte se realizó en una máquina-herramienta CNC. Los agujeros son taladrados, ranurados y escariados para lograr el ajuste necesario con los tubos. La selección de la herramienta de taladrado y el avance rápido de la máquina CNC se definieron con base en los costos iniciales de las herramientas de corte (ver tabla 2) y en una simulación computacional del costo del taladrado para las dos placas-soporte, cuyos resultados se resumen en la tabla 3.\n\n**Tabla 2.** Costo inicial de las herramientas de corte para taladrado, en unidades monetarias [UM].\n\n| Herramienta | Costo inicial [UM] |\n|---|---|\n| 1 | 40 |\n| 2 | 120 |\n| 3 | 80 |\n\n**Tabla 3.** Costo del taladrado para las placas-soporte en unidades monetarias [UM], para diferentes herramientas y avances rápidos de la máquina CNC.\n\n| Avance rápido [m/min] | Herramienta 1 | Herramienta 2 | Herramienta 3 |\n|---|---|---|---|\n| 150 | 694 | 688 | 690 |\n| 300 | 692 | 687 | 689 |\n| 450 | 692 | 687 | 688 |\n\nPor otro lado, la velocidad y el avance de corte para el proceso de taladrado se seleccionaron con base en los resultados experimentales de desgaste que se presentan en la figura 4.\n\n{{img:icfes_diseno_mecanicos_ctx1_fig4.png}}\n\n**Figura 4.** Desgaste de la herramienta de corte versus la velocidad de corte, para diferentes valores de avance por revolución."
+  },
+  {
+   "titulo": "Caso 2 — Ascensor del edificio Altamira",
+   "texto": "Los residentes del edificio Altamira son, en gran número, personas de la tercera edad y algunas con cierto grado de limitación para movilizarse por sus propios medios. Después de debatir el tema en reuniones del consejo de administración, se aprobó pagar una cuota extraordinaria para desarrollar el siguiente requerimiento: “Se necesita un ascensor de pasajeros para cubrir las tres plantas del edificio, que sea seguro, de buena presentación (estético), silencioso y que permita el traslado cómodo y confortable de ancianos y de personas con algún grado de limitación”.\n\nEl ascensor requerido en el edificio Altamira debe cubrir un recorrido total de tres pisos. La distancia entre piso y piso es de 3 metros. El edificio cuenta con una acometida eléctrica trifásica, no dispone de planta de emergencia y se cuenta con un área libre disponible de 9 m² en la parte posterior del edificio para instalar el ascensor. A partir de la investigación preliminar sobre ascensores, los ingenieros definen, entre otras, las siguientes especificaciones técnicas:\n\n- Velocidad máxima en la cabina de pasajeros: 2 m/s.\n- Aceleración admisible arranque/frenado: 1,2 m/s².\n- Cabina ventilada, resistente a la corrosión.\n\nDadas las características de espacio, lugar y presupuesto, se decide emprender el diseño conceptual de un ascensor tipo electromecánico con características similares a las que observaron en documentos consultados en internet, como se ilustra en la figura 1.\n\n{{img:icfes_diseno_mecanicos_ctx2_fig1.png}}\n\n**Figura 1.** Representación simplificada de los elementos constitutivos de un ascensor convencional. Tomada de: http://upcommons.upc.edu/pfc/bitstream/2099.1/10846/2/Mem%C3%B2ria.pdf\n\nDonde:\n\n- **Rueda tractora:** elemento de máquina utilizado para ejercer tracción directa sobre el elemento portante de la cabina.\n- **Máquina de tracción:** comprende el motor y los dispositivos necesarios para acondicionar el movimiento que acciona (hace rotar) la rueda de tracción.\n- **Puentes guía de cabina:** elemento estructural que guía y restringe el movimiento de la cabina en dirección vertical.\n\nLas eficiencias de los dispositivos que componen los sistemas de transmisión electromecánico que se encuentran en el mercado se muestran en la tabla.\n\n| Características del motor | Características de la transmisión mecánica | Características del elemento de tracción a la cabina |\n|---|---|---|\n| Motor AC, inducción, 6 polos. Eficiencia: 90 % | Transmisión por cadena en dos etapas. Eficiencia: 93 % | Cadena de rodillos. Eficiencia: 97 % |\n| Motor AC, inducción, 4 polos. Eficiencia: 92 % | Transmisión por engranajes. Eficiencia: 95 % | Banda flexible con refuerzo metálico. Eficiencia: 97 % |\n| Motor AC, inducción, 2 polos. Eficiencia: 95 % | Transmisión en cuatro etapas: bandas y cadena. Eficiencia: 88 % | Cable de acero trenzado. Eficiencia: 92 % |\n| Motor eléctrico monofásico – AC. Eficiencia: 88 % | Transmisión multietapa por cadena. Eficiencia: 92 % | Cadena de rodillos. Eficiencia: 98 % |\n\nEn la figura 2 se observa la diferencia relativa de precios entre diferentes materiales utilizados en proyectos de fabricación de cabinas.\n\n{{img:icfes_diseno_mecanicos_ctx2_fig2.png}}\n\n**Figura 2.** Precio relativo entre diferentes materiales."
+  },
+  {
+   "titulo": "Caso 3 — Procesamiento de frutas",
+   "texto": "El empresario Pedro va a desarrollar una planta de procesamiento de fruta para exportación; él estima que los productos que más valor agregado ofrecen son la fruta deshidratada y la fruta en almíbar.\n\nPedro contacta un ingeniero y le suministra la siguiente información para que la valide:\n\n- Los equipos deben ser económicos, eficientes y compactos.\n- Se deben utilizar los materiales más económicos.\n- De fácil lavado y aseo.\n- Debe servir para procesar diferentes tipos y variedades de fruta.\n- Se dispone de una marmita de capacidad de 150 litros calentada con vapor.\n- La fruta se debe lavar y desinfectar antes de procesarla.\n- Para deshidratar se debe subir la temperatura a 120 °C para que se evapore el agua rápido.\n- Se debe usar un quemador para 5 m³/hora de gas natural.\n- En el deshidratado se debe mantener la temperatura constante durante el proceso.\n- También propone usar un termostato que apaga el quemador cuando la cámara llegue a 120 °C y lo vuelve a prender cuando baje a 90 °C.\n- Finalmente, dice que los productos empacados en envase metálico requieren pasar por un túnel para extraerles el aire antes de sellarlos.\n\nSe estima que la producción semanal requerida por cada lote (procesado en turnos de 8 horas) de fruta es:\n\n- De fruta deshidratada: uchuva 135 kg; tomate 60 kg; mango 100 kg; banano 125 kg.\n- De fruta en almíbar en envases de 500 g: duraznos 600 unidades; piña 800 unidades; melocotón 800 unidades.\n\nEn la planta solo se dispone de un espacio de 5 m por 2 m para la instalación del equipo de deshidratación, una instalación eléctrica máxima de 7 kW a 220 V y una red de gas natural que presenta cortes frecuentes en el servicio.\n\nCon esos datos, el ingeniero procede a investigar sobre el tema y recomienda:\n\n- Que las frutas deshidratadas contengan una humedad final entre 12 % y 15 %.\n- Que la humedad promedio de algunas frutas frescas y la densidad por metro cuadrado de fruta por colocar en bandejas en un deshidratador se provea así:\n\n**Tabla 1.** Humedad y densidad de fruta.\n\n| Fruta | % de humedad en fruta fresca | Densidad en bandejas de deshidratación kg/m² |\n|---|---|---|\n| Uchuva | 85 | 15 |\n| Tomate | 92 | 9 |\n| Mango | 82 | 12 |\n| Banano | 79 | 10 |\n\nPara una cámara de deshidratado los requerimientos recomendados son:\n\n- Disponer de estantes metálicos para colocar bandejas con fruta.\n- Bandejas de 0,5 m² que sean de fácil manejo.\n- Colocar una chimenea para extracción de los gases sobrantes.\n- Una velocidad de aire en los ductos menor a 6,5 m/s, debido a que a mayor velocidad aumenta el ruido en los ductos.\n- Utilizar gas natural por economía para calentar el aire por medio de un intercambiador de calor.\n- Recircular el aire caliente.\n- No subir la temperatura arriba de 65 °C para que no cambien las propiedades de las frutas inicialmente propuestas.\n- Subir la temperatura a 90 °C por periodos cortos para el procesamiento de otras frutas.\n- Por caídas de presión en los ductos y la cámara, un ventilador centrífugo que suministre una cabeza de presión mayor a 50 mm columna de agua.\n\nSi se diseña una cámara de bandejas fijas, la puerta se debe abrir con facilidad periódicamente para el control de calidad y cambio de posición de las bandejas para un secado homogéneo.\n\nSi se diseña una cámara con bandejas rotativas, el costo inicial es mayor, pero baja el consumo de energía al no tener que abrir las puertas durante el proceso.\n\nExperimentalmente se encontró que para deshidratar 1 kg de uchuva a 65 °C, con una velocidad del aire de 3 m/s, se consume en promedio 100 kcal/hora durante 8 horas.\n\nPara obtener 1 kg de fruta deshidratada se requieren varios kg de fruta fresca dependiendo del tipo. El rendimiento en pruebas de laboratorio en deshidratado de diferentes frutas se puede ver en la gráfica 1.\n\n{{img:icfes_diseno_mecanicos_ctx3_grafica1.png}}\n\n**Gráfica 1**\n\nLa capacidad de una cámara de deshidratado se mide por el área de las bandejas disponible. En la gráfica 2 se muestra la capacidad de procesar fruta fresca en función del área de las bandejas.\n\n{{img:icfes_diseno_mecanicos_ctx3_grafica2.png}}\n\n**Gráfica 2**"
+  }
+ ],
+ "preguntas": [
+  {
+   "id": "icfes-diseno_mecanicos-001",
+   "area": "diseno_mecanicos",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Por el sistema que se muestra en la gráfica circula un fluido no compresible a 20 °C, con densidad de 1.100 kg/m³.\n\nDe acuerdo con lo anterior, el flujo de salida por el tubo 2 es",
+   "opciones": {
+    "A": "3,14 m³/s.",
+    "B": "6,28 m³/s.",
+    "C": "9,42 m³/s.",
+    "D": "10,12 m³/s."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "El caudal es velocidad por área: Q₂ = V₂·(π/4)·φ₂² = 100 × (π/4) × 0,2² = **π ≈ 3,14 m³/s**. La densidad y el caudal de entrada sobran para este cálculo. B y C son 2π y 3π, y D es imposible porque supera los 10 m³/s que entran y además hay dos salidas.",
+   "origen": "Cuadernillo 2018 #1 · Preguntas explicadas #1",
+   "imagen": "icfes_diseno_mecanicos_001.png"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-002",
+   "area": "diseno_mecanicos",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Se necesita controlar la temperatura y el caudal de un fluido alrededor de ciertos valores deseados, “set points”. En el comercio existen controladores modulantes para flujo y para temperatura, y controladores *on/off* (todo o nada) para flujo y temperatura. Comparativamente, los costos de los controladores modulantes son mucho más elevados que los controladores *on/off* (termostato para temperatura y válvula solenoide para flujo).\n\nSi se quiere obtener la mejor solución técnico-económica se debe elegir el",
+   "opciones": {
+    "A": "controlador de flujo modulante y controlador de temperatura *on/off*.",
+    "B": "controlador de flujo modulante y controlador de temperatura modulante.",
+    "C": "controlador de flujo *on/off* y controlador de temperatura modulante.",
+    "D": "controlador de flujo *on/off* y controlador de temperatura *on/off*."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "El caudal responde casi al instante, y una válvula todo o nada lo haría saltar entre cero y el máximo, sin poder mantenerlo cerca del set point; por eso necesita control **modulante**. La temperatura tiene mucha inercia térmica, así que un **termostato on/off** la mantiene en una banda aceptable a bajo costo. B es técnicamente válida pero cara, y C y D fallan en el control del flujo.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-003",
+   "area": "diseno_mecanicos",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Para disminuir las pérdidas de calor en invierno en una casa, se quieren instalar ventanas aislantes. Dentro de las opciones de diseño que existen están: una ventana de vidrio simple, recubierto con una capa de material aislante transparente, o una ventana de vidrio doble con un gas de baja conductividad térmica en el espacio entre los dos vidrios.\n\nLa opción más adecuada que se eligió fue la ventana de doble vidrio, porque",
+   "opciones": {
+    "A": "la presencia de los dos vidrios ofrece una mayor resistencia a la transferencia de calor que la que ofrece un solo vidrio.",
+    "B": "es más sencillo y económico fabricar la ventana de doble vidrio, pues no hay que aplicar recubrimiento.",
+    "C": "adicional a la disminución de la transferencia de calor, se logra una disminución en el nivel de ruido que entra del ambiente a la casa.",
+    "D": "se puede obtener una mayor resistencia a la transferencia de calor en el espacio con gas que la obtenida al aplicar el recubrimiento aislante."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La mayor parte de la resistencia térmica de una ventana doble está en la **cámara de gas de baja conductividad**, no en el vidrio, que conduce relativamente bien. Esa resistencia supera la de una película aislante delgada. A atribuye el efecto al segundo vidrio, B es falsa porque la ventana doble es más compleja de fabricar y C menciona un beneficio secundario que no responde al criterio térmico.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-004",
+   "area": "diseno_mecanicos",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Se requiere construir una leva, que está en contacto deslizante permanente con un seguidor metálico. A esta leva se le realiza tratamiento termoquímico de cementación para",
+   "opciones": {
+    "A": "mejorar el acabado y la presentación superficial.",
+    "B": "proteger contra la corrosión y aumentar tenacidad.",
+    "C": "refinar el tamaño de grano y aumentar la resistencia.",
+    "D": "obtener una superficie dura y un núcleo tenaz."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La **cementación** enriquece en carbono la capa superficial y, tras el temple, deja una **superficie dura y resistente al desgaste** por deslizamiento con un **núcleo tenaz** que aguanta los impactos. No mejora el acabado (A) ni protege contra la corrosión (B), y el afinamiento de grano (C) corresponde a un normalizado.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-005",
+   "area": "diseno_mecanicos",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Una troqueladora es una máquina cuya carga es fluctuante, puesto que se consume potencia únicamente cuando se da el corte.\n\nEn el eje de esta máquina se coloca un volante para",
+   "opciones": {
+    "A": "eliminar esfuerzos fluctuantes y así evitar que se presente falla por fatiga.",
+    "B": "dar mayor rigidez dinámica y evitar resonancia.",
+    "C": "evitar cargas fluctuantes radiales y axiales que se transmiten a los rodamientos.",
+    "D": "almacenar energía y entregarla durante el corte."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "El volante es un **acumulador de energía cinética**: se carga mientras no hay corte y la cede en el instante del corte, de modo que el motor puede ser más pequeño y la velocidad fluctúa poco. No elimina los esfuerzos fluctuantes ni la fatiga (A), no busca rigidez (B) y no evita las cargas sobre los rodamientos (C).",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-006",
+   "area": "diseno_mecanicos",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "El diagrama de fatiga que se muestra en la figura representa diversos criterios de falla. Para cada criterio, los puntos sobre y fuera de la línea respectiva indican la falla.\n\nEn la figura:\n\n- Syt = Resistencia de fluencia\n- Sut = Resistencia última\n- σm = Esfuerzo medio\n- σa = Esfuerzo alternante\n\nDe los anteriores criterios de falla, el único que ofrece protección total contra la fluencia es",
+   "opciones": {
+    "A": "ASME-elíptico.",
+    "B": "Gerber.",
+    "C": "Goodman.",
+    "D": "Soderberg."
+   },
+   "correcta": "D",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "La recta de **Soderberg** va de Se a **Syt**, así que queda completamente por debajo de la línea de fluencia de Langer (de Syt a Syt): cualquier punto seguro según Soderberg tampoco fluye. Goodman y Gerber terminan en Sut, y Gerber y el ASME elíptico cruzan la línea de Langer en parte del diagrama, por lo que admiten estados que sí fluyen.",
+   "origen": "Cuadernillo 2018 #6",
+   "imagen": "icfes_diseno_mecanicos_006.png"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-007",
+   "area": "diseno_mecanicos",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "La ecuación general de la primera ley de la termodinámica para un sistema abierto (o volumen de control) con flujo unidimensional (en una única dirección), considerando que todas las formas de energía que entran al sistema tienen signo positivo y todas las formas de energía que salen del sistema tienen signo negativo, puede expresarse de la siguiente forma:\n\ndE/dt = Q̇ + Ẇ + Σₑ ṁₑ(hₑ + vₑ²/2 + g·zₑ) − Σₛ ṁₛ(hₛ + vₛ²/2 + g·zₛ)\n\nDonde:\n\n- dE/dt = cambio de la energía total del sistema en función del tiempo\n- Q = flujo de calor\n- W = flujo de trabajo (potencia o trabajo transferido por unidad de tiempo)\n- m = flujo de masa a través de las fronteras del sistema\n- h = entalpía del fluido de trabajo\n- v = velocidad del fluido de trabajo\n- z = altura de referencia del fluido de trabajo\n- g = aceleración de la gravedad\n- e = condiciones de entrada al sistema\n- s = condiciones de salida del sistema\n\nEn el caso específico de un equipo que funciona con un gas como fluido de trabajo, se obtiene la siguiente ecuación de balance por la primera ley de la termodinámica:\n\nW = m (hₛ − hₑ)\n\nSegún esta ecuación, las suposiciones que se han tomado para el funcionamiento de este equipo son las siguientes:",
+   "opciones": {
+    "A": "Es un proceso en estado no estacionario (con flujo inestable) donde los cambios de energía potencial y cinética son despreciables.",
+    "B": "Es un proceso en estado estacionario (con flujo estable) donde los cambios de energía potencial y cinética y la transferencia de calor entre el equipo y el ambiente se consideran despreciables.",
+    "C": "Es un proceso en estado estacionario (con flujo estable) donde se presenta un flujo de transferencia de calor con un valor constante y donde es posible despreciar el aporte de la variación en la energía cinética y potencial.",
+    "D": "Es un proceso en estado no estacionario (con flujo inestable) donde se presentan flujos de transferencia de calor y donde no es posible despreciar los efectos de la variación de la energía cinética y potencial."
+   },
+   "correcta": "B",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Para llegar a W = ṁ(hₛ − hₑ) hay que anular dE/dt (**estado estacionario**, con una sola entrada y una sola salida y ṁₑ = ṁₛ), el **calor** (Q̇ = 0, proceso adiabático) y los términos de **energía cinética y potencial**. Es el caso típico de un compresor. A y D dejan dE/dt ≠ 0, y C conserva un Q̇ que no aparece en la ecuación.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-008",
+   "area": "diseno_mecanicos",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "En el diseño de un molino de martillos como el que se muestra en la figura se requiere un rotor que va a girar a más de 3.000 rpm, cuyo peso es de 15 kg y el diámetro está cerca de un metro.\n\nEl motor eléctrico que conduce el rotor se debe seleccionar con un alto par de arranque debido a que",
+   "opciones": {
+    "A": "los rodamientos del rotor ejercen una resistencia al inicio del movimiento.",
+    "B": "el acople que se utiliza ofrece dificultad para el movimiento inicial.",
+    "C": "el momento de inercia establece las condiciones para la potencia de arranque.",
+    "D": "el rotor y los martillos poseen un peso relativamente bajo."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Con un diámetro cercano a 1 m, la masa queda lejos del eje y el **momento de inercia** (I ∝ m·r²) es grande. Llevarlo a más de 3.000 rpm en un tiempo razonable exige un par T = I·α elevado. La fricción de los rodamientos y el acople flexible son pequeñas, y el bajo peso (D) iría en contra de necesitar un par alto.",
+   "origen": "Cuadernillo 2018 #8",
+   "imagen": "icfes_diseno_mecanicos_008.png"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-009",
+   "area": "diseno_mecanicos",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "La discusión sobre el aprovechamiento de energías alternativas ha planteado una serie de soluciones como la que se muestra en la figura y que se han desarrollado desde la década de los noventa.\n\nEsta figura muestra un módulo motriz de HPM (*Human Powered Machine*) diseñado para utilizar la energía de pedaleo de una persona normal, cuya entrega promedio es de 100 vatios a 8 revoluciones por minuto sobre el eje de los pedales. Este módulo puede mover muchos artefactos que se le conectan en el lugar indicado en la figura, pero el dispositivo más compatible con la operación de este módulo es, teniendo en cuenta que la potencia es igual al producto del torque y la velocidad angular (P = T × ω),",
+   "opciones": {
+    "A": "la batidora de fruta, que consume 5 N.m a 180 rpm.",
+    "B": "el molino de grano, que consume 20 N.m a 60 rpm.",
+    "C": "la bomba centrifuga, de agua que consume 10 N.m a 500 rpm.",
+    "D": "el generador de corriente, que consume 8 N.m a 200 rpm."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Pasando las rpm a rad/s (× 2π/60): batidora 5 × 18,85 ≈ **94 W**; molino 20 × 6,28 ≈ 126 W; bomba 10 × 52,4 ≈ 524 W; generador 8 × 20,9 ≈ 168 W. Solo la **batidora** cabe dentro de los 100 W que entrega el pedaleo; las demás piden más potencia de la disponible.",
+   "origen": "Cuadernillo 2018 #9 · Preguntas explicadas #2",
+   "imagen": "icfes_diseno_mecanicos_009.png"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-010",
+   "area": "diseno_mecanicos",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Se quiere especificar técnicamente un termómetro. Se acepta que *resolución* es la mínima diferencia entre dos lecturas; que *precisión* es la habilidad de reproducir lecturas (promedio de los absolutos de las desviaciones respecto al promedio de las lecturas del instrumento), y que *exactitud* es la diferencia entre el promedio de las lecturas del instrumento y la entrada conocida (lectura termómetro patrón corregida).\n\n**Experimento: baño termostático mezcla hielo - agua**\n\n| Prueba | Lectura termómetro (°C) | Lectura termómetro patrón corregida (°C) |\n|---|---|---|\n| 1 | +1,1 | 0,00 |\n| 2 | +0,9 | 0,00 |\n| 3 | −1,0 | 0,00 |\n| 4 | −0,8 | 0,00 |\n| 5 | +0,4 | 0,00 |\n| 6 | +0,0 | 0,00 |\n| **Promedio** | +0,1 | 0,00 |\n\nDe los resultados experimentales que se muestran en la tabla se concluye que el termómetro tiene las siguientes especificaciones:",
+   "opciones": {
+    "A": "Resolución = 0,1 °C; Precisión = ±0,7 °C; Exactitud = +0,1 °C.",
+    "B": "Resolución = 0,1 °C; Precisión = +0,1 °C; Exactitud = ±0,7 °C.",
+    "C": "Resolución = 0,05 °C; Precisión = ±0,7 °C; Exactitud = +0,1 °C.",
+    "D": "Resolución = 0,05 °C; Precisión = +0,1 °C; Exactitud = ±0,7 °C."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Las lecturas varían en pasos de **0,1 °C** (resolución). Las desviaciones absolutas respecto al promedio de 0,1 son 1,0; 0,8; 1,1; 0,9; 0,3 y 0,1, cuyo promedio da **±0,7 °C** (precisión). La exactitud es 0,1 − 0,0 = **+0,1 °C**. B y D confunden precisión con exactitud, y C y D toman como resolución la mitad del valor real.",
+   "origen": "Cuadernillo 2018 #10 · Preguntas explicadas #4"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-011",
+   "area": "diseno_mecanicos",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "En la figura se muestra una viga empotrada.\n\nPara la carga concentrada aplicada en su extremo y para la sección transversal mostrada, el círculo de Mohr representa el estado de esfuerzos del punto",
+   "opciones": {
+    "A": "a.",
+    "B": "b.",
+    "C": "c.",
+    "D": "d."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "El círculo dibujado no pasa por el origen como un caso de corte puro ni se reduce a un caso uniaxial: hay **σ y τ simultáneos**. En la fibra extrema (a, d) el cortante es nulo y solo hay σ de flexión. En el eje neutro (c) σ = 0 y solo hay τ. En un punto intermedio como **b** coexisten la flexión y el cortante.",
+   "origen": "Cuadernillo 2018 #11 · Preguntas explicadas #3",
+   "imagen": "icfes_diseno_mecanicos_011.png"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-012",
+   "area": "diseno_mecanicos",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Se requiere diseñar un reductor para transmitir potencia entre dos ejes que se intersecan a 90°. Los elementos de transmisión más adecuados en el reductor son",
+   "opciones": {
+    "A": "engranajes helicoidales.",
+    "B": "engranajes cónicos.",
+    "C": "engranajes doble helicoidales.",
+    "D": "engranajes rectos."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Los **engranajes cónicos** se diseñan precisamente para transmitir potencia entre **ejes que se cortan**, normalmente a 90°. Los rectos, los helicoidales paralelos y los doble helicoidales (espina de pescado) trabajan entre ejes paralelos.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-013",
+   "area": "diseno_mecanicos",
+   "n": 13,
+   "contexto": 0,
+   "enunciado": "La ecuación que define el balance de energía, despreciando las pérdidas de calor, es",
+   "opciones": {
+    "A": "(ṁCₚ)H₂O (Tf₂ − Tf₁) = (ṁCₚ)gas (Tc₁ − Tc₂)",
+    "B": "(ṁCₚ)H₂O (Tf₁ − Tf₂) = (ṁCₚ)gas (Tc₁ − Tc₂)",
+    "C": "(ṁCₚ)H₂O (Tf₂ − Tf₁) = (ṁCₚ)gas (Tc₂ − Tc₁)",
+    "D": "(ṁCₚ)H₂O (Tc₁ − Tf₁) = (ṁCₚ)gas (Tc₂ − Tf₂)"
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "El calor que **gana el agua** (se calienta de Tf₁ a Tf₂) es igual al que **pierde el gas** (se enfría de Tc₁ a Tc₂), con ambas diferencias positivas: (ṁCₚ)agua(Tf₂ − Tf₁) = (ṁCₚ)gas(Tc₁ − Tc₂). B y C invierten un signo, de modo que un lado queda negativo, y D mezcla temperaturas de fluidos distintos.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-014",
+   "area": "diseno_mecanicos",
+   "n": 14,
+   "contexto": 0,
+   "enunciado": "Para cumplir los requerimientos del diseño, el material adecuado para los tubos es",
+   "opciones": {
+    "A": "Cobre.",
+    "B": "Aluminio.",
+    "C": "AISI 304.",
+    "D": "Acero galvanizado."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Hay tres filtros: k ≥ 50 W/(m·K), precio < 40.000 UM/m³ y conformabilidad buena o excelente. El **aluminio** los cumple todos (209 W/(m·K), 5.994 UM/m³ y conformabilidad buena-excelente). El cobre es demasiado caro, el AISI 304 conduce muy poco (15 W/(m·K)) y el galvanizado solo tiene conformabilidad aceptable.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-015",
+   "area": "diseno_mecanicos",
+   "n": 15,
+   "contexto": 0,
+   "enunciado": "¿Según la figura 4, cuál de las siguientes combinaciones es la más adecuada para el proceso de taladrado?",
+   "opciones": {
+    "A": "Velocidad de corte 175 m/min, avance 0,0003 m/rev, seco.",
+    "B": "Velocidad de corte 150 m/min, avance 0,0004 m/rev, seco.",
+    "C": "Velocidad de corte 125 m/min, avance 0,0003 m/rev, lubricado.",
+    "D": "Velocidad de corte 200 m/min, avance 0,0004 m/rev, lubricado."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "La restricción es un desgaste **< 0,00015 m**. En la figura 4, a 175 m/min, 0,0003 m/rev y en seco el desgaste es ≈ 0,00014 m, que cumple. B (≈ 0,00021 m) y C (≈ 0,00018 m) lo superan, y D (≈ 0,00015 m) queda justo en el límite, sin ser menor.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-016",
+   "area": "diseno_mecanicos",
+   "n": 16,
+   "contexto": 0,
+   "enunciado": "Una vez puesto en funcionamiento el intercambiador, se registra que la temperatura de salida del gas Tc₂ es mayor que la requerida en 50 K. La causa del fallo obedece a que",
+   "opciones": {
+    "A": "el caudal de agua es menor que el de operación.",
+    "B": "la longitud de los tubos es mayor que la necesaria.",
+    "C": "el número de tubos es mayor que el necesario.",
+    "D": "el caudal de argón es menor que el de operación."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Si el gas sale más caliente, se le está retirando **menos calor**. Con **menos agua** de enfriamiento, esta se calienta más, la diferencia de temperaturas cae y el intercambio disminuye. Tubos más largos o más tubos (B, C) aumentan el área y enfriarían más, y menos argón (D) también haría que saliera más frío.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-017",
+   "area": "diseno_mecanicos",
+   "n": 17,
+   "contexto": 0,
+   "enunciado": "Debido a cambios en la operación del recalentador de gas argón, la temperatura a la entrada del intercambiador se incrementa a Tc₁ = 520 K, manteniendo el flujo másico constante. Un problema que se puede presentar con el intercambiador es",
+   "opciones": {
+    "A": "el incremento de los esfuerzos por dilatación térmica.",
+    "B": "la disminución del coeficiente de transferencia de calor.",
+    "C": "el incremento del desgaste por adhesión.",
+    "D": "la vibración de los tubos por el flujo de gas."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+   "explicacion": "Al subir la temperatura del gas, los tubos se dilatan más que la carcasa, que está en contacto con el agua fría. Como los tubos están **fijados por deformación plástica** a las placas-soporte, la dilatación restringida genera **esfuerzos térmicos** mayores en las uniones. Con el mismo flujo no cambian de forma importante ni el coeficiente convectivo ni las vibraciones, y no hay contacto deslizante que produzca desgaste adhesivo.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-018",
+   "area": "diseno_mecanicos",
+   "n": 18,
+   "contexto": 1,
+   "enunciado": "La selección deberá realizarse teniendo en cuenta los siguientes criterios en el siguiente orden de importancia:\n\n- Prioridad 1: nivel de ruido y vibración.\n- Prioridad 2: eficiencia energética.\n- Prioridad 3: emisiones o residuos.\n\nLa opción más favorable desde el punto de vista ambiental es:",
+   "opciones": {
+    "A": "Motor eléctrico de inducción, cuatro polos, 1.750 rpm – transmisión por cadena de rodillos – elemento de tracción tipo cable metálico.",
+    "B": "Motor eléctrico de inducción, dos polos, 3.550 rpm – transmisión por banda trapezoidal – elemento de tracción tipo cadena de rodillos.",
+    "C": "Motor eléctrico de inducción, seis polos, 1.150 rpm – transmisión por engranajes helicoidales – elemento de tracción tipo banda flexible con refuerzo metálico.",
+    "D": "Motor eléctrico de inducción, cuatro polos, 1.750 rpm – transmisión por banda trapezoidal – elemento de tracción tipo cadena de rodillos."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Lo primero es el ruido: un motor de **6 polos** gira lento (1.150 rpm), los **engranajes helicoidales** engranan de forma suave y silenciosa y la **banda flexible** no hace el ruido metálico de las cadenas. Además, engranajes y banda tienen buena eficiencia (95 % y 97 %) y no requieren lubricación abundante. Las demás opciones incluyen cadenas de rodillos, que son ruidosas y necesitan lubricación, o motores más rápidos.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-019",
+   "area": "diseno_mecanicos",
+   "n": 19,
+   "contexto": 1,
+   "enunciado": "De acuerdo con los requerimientos establecidos por los residentes, la alternativa de solución más viable para la máquina de tracción es:",
+   "opciones": {
+    "A": "Motor eléctrico y reductor de velocidad del tipo engranajes rectos dispuestos en tren compuesto de tres etapas.",
+    "B": "Motor eléctrico y reductor de velocidades conformado con cadenas de rodillos de una hilera y tres etapas de reducción de velocidad en paralelo.",
+    "C": "Motor eléctrico y reductor de velocidades conformado por transmisión en cuatro etapas: bandas y cadena.",
+    "D": "Motor eléctrico y reductor de velocidad del tipo engranajes helicoidales dispuestos en tren compuesto de tres etapas."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Los residentes piden un equipo **silencioso, seguro y confortable**. Los **engranajes helicoidales** reparten la carga entre varios dientes a la vez, lo que da una marcha suave y silenciosa y un tren compacto. Los engranajes rectos son más ruidosos, las cadenas generan ruido y vibración, y la transmisión de cuatro etapas con bandas y cadena es la menos eficiente (88 %).",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-020",
+   "area": "diseno_mecanicos",
+   "n": 20,
+   "contexto": 1,
+   "enunciado": "Las relaciones cinemáticas aplicables a estas transmisiones son:\n\n- La velocidad lineal en la línea de paso (V) es directamente proporcional a la velocidad angular (ω) y al radio de paso (r).\n\n  V = ω · r [Ecuación 1]\n\n- La relación de velocidades angulares en una transmisión es inversamente proporcional a la relación de los radios de paso y a la relación de número de dientes.\n\n  ω₁/ω₂ = r₂/r₁ [Ecuación 2]\n\nEn esta expresión, el subíndice 1 se refiere al eje conductor y el subíndice 2 al eje conducido. De acuerdo con las especificaciones técnicas, la alternativa de solución más viable para la máquina de tracción, si se tiene una rueda tractora de 0,4 m de diámetro, es:",
+   "opciones": {
+    "A": "Máquina de tracción que se compone de un motor que gira a 120 rad/s, acoplado a una transmisión mecánica integrada por una caja de engranajes helicoidales dispuestos a manera de tren compuesto, y relación de reducción de 15:1.",
+    "B": "Máquina de tracción que se compone de un motor que gira a 180 rad/s, acoplado a una transmisión mecánica integrada por cadenas de rodillos de una hilera, y tres etapas de reducción de 2:1 por etapa.",
+    "C": "Máquina de tracción que se compone de un motor que gira a 120 rad/s, acoplado a una transmisión mecánica integrada por cadenas de rodillos de una hilera, y tres etapas de reducción de 2:1 por etapa.",
+    "D": "Máquina de tracción compuesta por un motor que gira a 180 rad/s, acoplado a una transmisión mecánica compuesta por una caja de engranaje con relación de reducción 4:1."
+   },
+   "correcta": "A",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Con r = 0,2 m y V ≤ 2 m/s, la rueda no debe pasar de 10 rad/s. En A: 120/15 = 8 rad/s, que da **V = 1,6 m/s** y cumple, además de usar engranajes helicoidales silenciosos. B: 180/8 = 22,5 rad/s, es decir 4,5 m/s. C: 120/8 = 15 rad/s, 3 m/s. D: 180/4 = 45 rad/s, 9 m/s. Todas estas superan el límite.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-021",
+   "area": "diseno_mecanicos",
+   "n": 21,
+   "contexto": 1,
+   "enunciado": "El grupo de ingenieros encargado de diseñar el ascensor plantea algunas alternativas para configurar el sistema de transmisión electromecánico.\n\nTeniendo en cuenta criterios técnicos y ambientales válidos, con base en restricciones y requerimientos, la opción que mejor configura el sistema de transmisión electromecánico es:",
+   "opciones": {
+    "A": "Motor AC, inducción, 6 polos – transmisión por cadena en dos etapas, cadena de rodillos.",
+    "B": "Motor AC, inducción, 4 polos – transmisión por engranajes, banda flexible con refuerzo metálico.",
+    "C": "Motor AC, inducción, 2 polos – transmisión en cuatro etapas, bandas y cadena - cable de acero trenzado.",
+    "D": "Motor AC, inducción, 4 polos – transmisión multietapa por cadena, cadena de rodillos."
+   },
+   "correcta": "B",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La eficiencia global es el producto de las eficiencias de cada elemento: B = 0,92 × 0,95 × 0,97 ≈ **84,8 %**, la mayor de todas (A ≈ 81,2 %, C ≈ 76,9 %, D ≈ 82,9 %). Además, engranajes y banda son más silenciosos que las cadenas, que es lo que piden los residentes.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-022",
+   "area": "diseno_mecanicos",
+   "n": 22,
+   "contexto": 1,
+   "enunciado": "El grupo de ingenieros encargado de diseñar el ascensor plantea algunas alternativas para configurar el sistema de transmisión electromecánico, teniendo en cuenta criterios económicos y el siguiente orden de importancia:\n\n- Prioridad 1: costo de mantenimiento.\n- Prioridad 2: inversión inicial.\n- Prioridad 3: costo energético.\n\nLa opción más favorable es:",
+   "opciones": {
+    "A": "Motor eléctrico – transmisión por cadena de rodillos – elemento de tracción a la cabina tipo cadena de rodillos.",
+    "B": "Motor de combustión – transmisión por banda trapezoidal – elemento de tracción a la cabina tipo cadena de rodillos.",
+    "C": "Motor eléctrico – transmisión por engranajes helicoidales – elemento de tracción a la cabina tipo cable metálico.",
+    "D": "Motor eléctrico – transmisión por banda trapezoidal – elemento de tracción a la cabina tipo cable metálico."
+   },
+   "correcta": "D",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "La **banda trapezoidal** no necesita lubricación y es barata de mantener y reemplazar, y el **cable metálico** es el elemento de tracción estándar, de bajo mantenimiento. Así, D gana en mantenimiento y en inversión inicial. Las cadenas (A, B) exigen lubricación y tensado frecuentes, los engranajes helicoidales (C) son más costosos de entrada y el motor de combustión (B) no tiene sentido en un edificio.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-023",
+   "area": "diseno_mecanicos",
+   "n": 23,
+   "contexto": 2,
+   "enunciado": "De acuerdo con las indicaciones del cliente y la información hallada, en las propuestas se plantean dos posibles soluciones: construir una cámara con bandejas fijas y construir una cámara con bandejas rotativas.\n\nLas restricciones para decidir cuál de las dos cámaras se debe construir son",
+   "opciones": {
+    "A": "costo inicial de la cámara y apertura de puertas durante el proceso.",
+    "B": "apertura de puertas durante el proceso y recirculación de aire.",
+    "C": "costo inicial de la cámara y tamaño de las bandejas.",
+    "D": "recirculación de aire y tamaño de las bandejas."
+   },
+   "correcta": "A",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "El caso diferencia las dos cámaras solo en dos aspectos: la de bandejas fijas obliga a **abrir puertas** durante el proceso, con pérdida de energía, y la rotativa tiene **mayor costo inicial**. La recirculación de aire y el tamaño de bandeja (0,5 m²) son iguales en ambas, así que no sirven para decidir.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-024",
+   "area": "diseno_mecanicos",
+   "n": 24,
+   "contexto": 2,
+   "enunciado": "En la bodega de almacenamiento, la materia prima se debe organizar de acuerdo con las cantidades requeridas para producto terminado, ubicando en primer lugar la de mayor requerimiento y de última la de menor.\n\nDe acuerdo con lo anterior, en la bodega de almacenamiento, la fruta fresca para deshidratar se debe colocar en el siguiente orden:",
+   "opciones": {
+    "A": "Uchuva, tomate, mango, banano.",
+    "B": "Uchuva, banano, tomate, mango.",
+    "C": "Uchuva, mango, banano, tomate.",
+    "D": "Uchuva, banano, mango, tomate."
+   },
+   "correcta": "D",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Con los rendimientos de la gráfica 1 (kg secos por kg frescos ≈ 0,30 para uchuva, 0,36 para banano, 0,33 para mango y 0,23 para tomate), la fruta fresca necesaria es: uchuva 135 → ≈ 450 kg; banano 125 → ≈ 350 kg; mango 100 → ≈ 300 kg; tomate 60 → ≈ 260 kg. El orden de mayor a menor es **uchuva, banano, mango, tomate**.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-025",
+   "area": "diseno_mecanicos",
+   "n": 25,
+   "contexto": 2,
+   "enunciado": "Teniendo en cuenta la información suministrada por el cliente y las recomendaciones dadas, las restricciones técnicas más relevantes en el diseño de la cámara de deshidratación solicitada en el caso son:",
+   "opciones": {
+    "A": "La temperatura en el producto **NO** debe subir de 65 °C y el equipo debe usar un quemador para 5 m³/hora de gas natural.",
+    "B": "Los motores por utilizar en la cámara **NO** deben requerir una potencia mayor que 7 kw a 220 V y la cámara debe estar en capacidad de subir la temperatura a 90 °C.",
+    "C": "La cámara debe estar en capacidad de subir la temperatura a 90 °C y el quemador debe usar un termostato que lo apague cuando la cámara llegue a 120 °C y lo prenda cuando baje a 90 °C.",
+    "D": "Los motores por utilizar en la cámara **NO** deben requerir una potencia mayor que 7 kw a 220 V y el equipo debe ocupar un área menor a 10 m²."
+   },
+   "correcta": "D",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Las restricciones duras son las que impone la planta y no se pueden negociar: **7 kW a 220 V** de instalación eléctrica y un espacio de **5 m × 2 m = 10 m²**. El quemador de 5 m³/h, los 120 °C y el termostato 120/90 °C son propuestas del cliente que el propio ingeniero corrige (no superar 65 °C), y subir a 90 °C es solo un requisito ocasional.",
+   "origen": "Cuadernillo 2018 #25"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-026",
+   "area": "diseno_mecanicos",
+   "n": 26,
+   "contexto": 2,
+   "enunciado": "Si se desea obtener 150 kg de uchuva deshidratada, las especificaciones del sistema de aire del deshidratador deben contemplar que la cantidad de humedad por extraer sea",
+   "opciones": {
+    "A": "128 kg.",
+    "B": "150 kg.",
+    "C": "300 kg.",
+    "D": "350 kg."
+   },
+   "correcta": "D",
+   "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+   "explicacion": "Según la gráfica 1, 150 kg de uchuva deshidratada salen de **500 kg de fruta fresca**. El agua que el aire debe retirar es la diferencia: 500 − 150 = **350 kg**. B confunde el producto seco con el agua extraída y C supone un rendimiento distinto al de la gráfica.",
+   "origen": "Cuadernillo 2018 #26"
+  },
+  {
+   "id": "icfes-diseno_mecanicos-027",
+   "area": "diseno_mecanicos",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "En la figura se muestra el mecanismo de un montacargas utilizado para experimentación. Para equilibrar el peso de la viga horizontal Wb se colocó un contrapeso Wc a la distancia d del soporte vertical.\n\nEl carro, junto con la carga, tiene peso Q y se mueve hacia la derecha con velocidad constante V [m/s].\n\nDel análisis de las fuerzas y momentos que actúan sobre el mecanismo del montacargas y de las relaciones que deben existir entre los mismos, se puede afirmar con certeza que",
+   "opciones": {
+    "A": "el carro debe estar ubicado a la derecha del punto G, pues de no ser así la cuerda T se afloja, porque el momento alrededor del pasador no es suficiente para mantener el equilibrio.",
+    "B": "la reacción en el pasador que soporta la viga es vertical, porque el carro se mueve con velocidad constante y porque las fuerzas externas al sistema son los pesos y todos son verticales.",
+    "C": "la tasa de cambio temporal de la tensión en la cuerda aumenta con la velocidad del carro V y con la carga Q, y disminuye con el aumento de la distancia b que separa la cuerda del pasador.",
+    "D": "la tensión en el cable T permanece constante, puesto que las dimensiones del mecanismo, la posición, la distancia del cable al pasador, así como la orientación angular, son constantes."
+   },
+   "correcta": "C",
+   "afirmacion": "Analiza alternativas de solución y selecciona la más adecuada teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ético y ambiental.",
+   "explicacion": "Como Wc equilibra a Wb, el balance de momentos en el pasador queda T·cosθ·b = Q·X, es decir, T = Q·X/(b·cosθ). Al derivar con dX/dt = V se obtiene **dT/dt = Q·V/(b·cosθ)**, que crece con V y Q y decrece con b. D es falsa porque X cambia con el tiempo. B ignora la componente horizontal de T, que debe equilibrarse en el pasador. A es falsa porque la cuerda sigue tensa con el carro a la derecha del pasador aunque esté a la izquierda de G.",
+   "origen": "Cuadernillo 2018 #27",
+   "imagen": "icfes_diseno_mecanicos_027.png"
+  }
+ ]
+}

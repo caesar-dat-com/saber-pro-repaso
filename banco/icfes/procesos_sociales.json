@@ -1,0 +1,482 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Intervención en Procesos Sociales (cuadernillos y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-procesos_sociales-001",
+   "area": "procesos_sociales",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "En una investigación realizada con una población en situación de desplazamiento, los investigadores hallaron altos niveles de desnutrición, dificultades para la inserción laboral y bajos niveles de permanencia escolar. Los investigadores coinciden en que estos factores se encuentran estrechamente asociados a una dimensión común.\n\nLa dimensión a la cual se refieren los investigadores es",
+   "opciones": {
+    "A": "cultural.",
+    "B": "sanitaria.",
+    "C": "ocupacional.",
+    "D": "económica."
+   },
+   "correcta": "D",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "Desnutrición, dificultad de inserción laboral y deserción escolar comparten una raíz común: la **falta de ingresos y recursos**, es decir, la dimensión económica. Sanitaria (B) solo explica la desnutrición y ocupacional (C) solo lo laboral; ninguna abarca los tres factores, y nada en el caso remite a lo cultural (A).",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-procesos_sociales-002",
+   "area": "procesos_sociales",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "En un municipio se propone implementar una ruta de recolección de residuos orgánicos, cuyo proceso estará coordinado por instituciones públicas, personas seleccionadas por la comunidad y organizaciones sociales. Los ingresos que se generen se dirigirán a procesos educativos y de capacitación en torno a la conservación y protección del medio ambiente que permitan un desarrollo social. La propuesta implementada es de tipo ambiental, debido a que",
+   "opciones": {
+    "A": "establece mecanismos de manejo ambiental que se articulan en forma armónica con el desarrollo sostenible del entorno.",
+    "B": "promueve procesos de participación comunitaria en acciones ambientales, para generarle ingresos económicos a la comunidad.",
+    "C": "las acciones buscan la solución del problema ocasionado por el manejo de residuos orgánicos en la comunidad.",
+    "D": "a partir de la recolección de los residuos se busca la educación de toda la comunidad involucrada en el proceso."
+   },
+   "correcta": "A",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "La propuesta es ambiental porque integra el manejo de residuos con educación y desarrollo social en una lógica de **desarrollo sostenible** (A). B convierte el fin en generar ingresos, C reduce la propuesta a resolver un problema puntual de residuos y D se queda solo en el componente educativo.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-procesos_sociales-003",
+   "area": "procesos_sociales",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "En la última década, el tema de la juventud ha cobrado particular importancia para diferentes organismos internacionales, nacionales y locales, cuyo interés se centra en reconocer y comprender sus realidades, necesidades y problemáticas al igual que rescatar su papel como actores en los procesos de desarrollo de una sociedad democrática y pluralista.\n\nEl argumento idóneo para intervenir la situación desde una dimensión social es:",
+   "opciones": {
+    "A": "La juventud es una población vulnerable para las instituciones.",
+    "B": "La juventud es tema primordial de los diferentes organismos.",
+    "C": "El tema interesa a los diferentes actores del tejido social.",
+    "D": "Es necesario reconocer a los jóvenes como sujetos de derechos."
+   },
+   "correcta": "D",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "El texto subraya el papel de los jóvenes como **actores** del desarrollo democrático; el argumento social de fondo es reconocerlos como **sujetos de derechos** (D). A los ve como objeto pasivo de atención, y B y C justifican la intervención por el interés de las instituciones o actores, no por los jóvenes mismos.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-procesos_sociales-004",
+   "area": "procesos_sociales",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Un proyecto de intervención social se desarrolla con un grupo de mujeres cabeza de familia mayores de 40 años de edad que se encuentran en situación de desempleo. Busca el reconocimiento de las mujeres como sujetos de derechos y la consolidación como colectivo para lograr su empoderamiento ante la sociedad, mediante la constitución de una unidad productiva que sirva de estrategia para superar su situación de exclusión social.\n\nLas categorías que mejor sustentan la situación objeto de intervención son",
+   "opciones": {
+    "A": "exclusión social, discriminación laboral y relaciones familiares.",
+    "B": "organización social, garantía de derechos y economía social.",
+    "C": "desempleo, relaciones interpersonales y autonomía grupal.",
+    "D": "hogar con jefatura femenina, autonomía e integración social."
+   },
+   "correcta": "B",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "El proyecto tiene tres ejes: consolidarse como **colectivo** (organización social), ser reconocidas como **sujetos de derechos** (garantía de derechos) y crear una **unidad productiva** (economía social); B los recoge todos. A y C describen el problema (exclusión, desempleo) más que la intervención, y D omite el componente organizativo y productivo.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-procesos_sociales-005",
+   "area": "procesos_sociales",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "En una vereda, un grupo de campesinos afronta una difícil situación respecto a la venta de los productos, debido a los bajos precios que les ofrecen los compradores.\n\nEl grupo de campesinos se reúne para elaborar un diagnóstico participativo, que lleve a concretar una propuesta que favorezca una mejor venta de sus productos y el aumento de sus ingresos.\n\nPara lograr este propósito, se debe optar por",
+   "opciones": {
+    "A": "estudiar alternativas y ejecutar las acciones propuestas por la comunidad.",
+    "B": "gestionar recursos para la solución de la situación que vive la comunidad.",
+    "C": "identificar y analizar conjuntamente las necesidades, intereses y expectativas.",
+    "D": "organizar el grupo de campesinos y coordinar con otros la venta de sus productos."
+   },
+   "correcta": "C",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "El paso solicitado es un **diagnóstico participativo**, cuyo núcleo es identificar y analizar **conjuntamente** necesidades, intereses y expectativas (C). A, B y D corresponden a fases posteriores (ejecución, gestión de recursos, organización de la comercialización) que se definen una vez hecho el diagnóstico.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-procesos_sociales-006",
+   "area": "procesos_sociales",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Un alcalde ordena el desalojo de la población que recicla en el basurero municipal, para facilitar su conversión a relleno sanitario. A la empresa de aseo municipal le interesa contar con un área de disposición final sin presencia de recicladores e implementar acciones que disminuyan el volumen de residuos que deben enterrarse.\n\nLos recicladores viven del día tras día, carecen de experiencia y conocimientos para el desempeño de otros oficios y se han organizado en un comité de defensa de su derecho al trabajo. Dos partidos políticos han ofrecido apoyo a los recicladores para que se resistan al desalojo; organizaciones de defensa de los Derechos Humanos han motivado una movilización; la Facultad de Ciencias Sociales de la universidad local está interesada en mediar en el conflicto, que ha afectado las relaciones de diversos sectores sociales con la administración local.\n\nDesde el punto de vista de la universidad, la alternativa de acción más pertinente frente a esta situación es",
+   "opciones": {
+    "A": "desarrollar un proceso participativo con los diferentes actores, orientado a construir una alternativa de reciclaje fuera del basurero.",
+    "B": "organizar un plan de capacitación en oficios alternativos para que la población recicladora vea la necesidad de abandonar su oficio.",
+    "C": "realizar un censo de recicladores para que la alcaldía pueda garantizarles nuevas alternativas ocupacionales individuales.",
+    "D": "adherir a las organizaciones de Derechos Humanos y grupos opositores al alcalde, para presionar la suspensión del desalojo."
+   },
+   "correcta": "A",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "La universidad quiere **mediar**, así que lo pertinente es un proceso participativo con todos los actores que conserve el saber de los recicladores y les permita mantener su oficio fuera del basurero (A). Según el Icfes, B ignora los intereses de los recicladores, C es una función propia de la administración municipal y D convierte a la universidad en parte del conflicto con acciones de hecho.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-procesos_sociales-007",
+   "area": "procesos_sociales",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Una comunidad de un sector de la ciudad está integrada en su mayoría por población en situación de desplazamiento. Debido a las situaciones vividas por la desaparición de familiares y la situación económica, psicológica y social de los habitantes, la alcaldía, a través de la secretaría de desarrollo, ha decidido adelantar un programa social que involucre al núcleo familiar y a las redes de apoyo primarias y secundarias en la superación de la situación vivida por la población.\n\nEste proceso de intervención está relacionado con un enfoque",
+   "opciones": {
+    "A": "sicodinámico.",
+    "B": "funcionalista.",
+    "C": "sistémico.",
+    "D": "humanista."
+   },
+   "correcta": "C",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "Intervenir sobre la familia y las **redes de apoyo primarias y secundarias**, entendiendo al individuo dentro de sus sistemas de relaciones, es lo propio del enfoque **sistémico**. El psicodinámico se centra en procesos intrapsíquicos, el funcionalista en la adaptación del individuo a la estructura social y el humanista en el desarrollo personal.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-procesos_sociales-008",
+   "area": "procesos_sociales",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "El Plan de Ordenamiento Territorial (POT) de un sector rural ubicado a 2.800 metros sobre el nivel del mar determina el uso del suelo como reserva forestal y zona de páramo, y les prohíbe a los campesinos la construcción de vivienda y el cultivo, pues estos utilizan indiscriminadamente fungicidas que afectan el ambiente. Aunque ellos no tienen títulos de propiedad sobre los predios, se organizan para protestar ante la administración local, pues consideran que se está vulnerando el derecho al trabajo y limitando el uso del suelo donde han vivido durante décadas.\n\nTeniendo en cuenta que el Ministerio de Ambiente definió el límite de páramo por encima de 3.000 metros sobre el nivel del mar, la intervención social, en el caso anterior, debería jerarquizarse en el siguiente orden:",
+   "opciones": {
+    "A": "Legalización de predios a los campesinos; organización comunitaria para exigir la modificación del POT; formación a los campesinos para el uso adecuado de fungicidas y químicos.",
+    "B": "Formación a los campesinos para el uso adecuado de fungicidas y químicos; organización comunitaria para exigir la modificación del POT; legalización de predios a los campesinos.",
+    "C": "Organización comunitaria para exigir la modificación del POT; legalización de predios a los campesinos; formación a los campesinos para el uso adecuado de fungicidas y químicos.",
+    "D": "Legalización de predios a los campesinos; formación a los campesinos para la implementación adecuada de fungicidas y químicos; organización comunitaria para exigir la modificación del POT."
+   },
+   "correcta": "C",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "Como el sector está a 2.800 m y el páramo empieza a 3.000 m, el POT clasifica mal el suelo; mientras no se **modifique el POT** no es posible titular predios allí. Por eso primero va la organización comunitaria para exigir el cambio, luego la legalización y después la formación en el uso de fungicidas (C). A y D ponen la legalización antes de remover el obstáculo normativo, y B empieza por la formación, que no resuelve el conflicto principal.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-procesos_sociales-009",
+   "area": "procesos_sociales",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Una comunidad desarrolló varios encuentros comunitarios para definir el uso que le pueden dar a un terreno cedido por el Gobierno para utilizarlo en un proyecto de desarrollo social. Para tal fin, se contó con la participación de representantes culturales, educativos, comerciales y ambientales que presentaron propuestas viables y de alto impacto social. Sin embargo, la comunidad no ha podido llegar a ningún acuerdo. En la última reunión, la comunidad decidió contratar una consultoría y se fijó un plazo de tres meses para definir el uso del terreno, ya que está siendo utilizado por terceros para depositar material de construcción y basuras. De acuerdo con esta situación, el modelo investigativo más pertinente es el",
+   "opciones": {
+    "A": "documental.",
+    "B": "experimental.",
+    "C": "participativo.",
+    "D": "analítico."
+   },
+   "correcta": "C",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "La decisión debe surgir de la **comunidad** y de sus distintos sectores, por lo que la consultoría debe usar un modelo **participativo** que construya el acuerdo con ellos. El documental y el analítico no involucran a la comunidad en la decisión, y el experimental no aplica a una decisión colectiva sobre uso del suelo.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-procesos_sociales-010",
+   "area": "procesos_sociales",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "El grave impacto social del desplazamiento forzado como resultado del conflicto armado interno se da no solo en las comunidades desarraigadas de su territorio, sino también en las comunidades receptoras que acogen de forma no voluntaria a las familias desalojadas.\n\nLa situación se agrava cada vez más ya que los equipamientos de servicios públicos, educativos, sociales, culturales, religiosos, económicos y de infraestructura no están preparados para estas condiciones de sobrepoblación; de esta forma se generan nuevos conflictos y situaciones que atender, puesto que perturban diferentes escenarios de la vida cotidiana de estas dos comunidades (desplazada y receptora), que comparten intereses comunes, pero en condiciones diferentes, en un mismo territorio.\n\nEn esta situación, que enfrentan ambas comunidades, se espera que el mayor punto de acuerdo entre ambas, a la hora de defender sus derechos, se fundamente en que",
+   "opciones": {
+    "A": "debe dársele prioridad a la atención y al mejoramiento de las condiciones de la comunidad desplazada, por cuanto se encuentra en una situación de desventaja frente a la comunidad receptora.",
+    "B": "corresponde a las organizaciones internacionales y a la sociedad civil, brindar redes de apoyo que orienten las acciones de ambas comunidades en la autogestión que apunte al mejoramiento de su calidad de vida.",
+    "C": "el gasto social tendrá prioridad sobre cualquier otra asignación de recursos para el restablecimiento de las condiciones de vida de ambas comunidades ante la escasez de recursos.",
+    "D": "constitucionalmente, la finalidad social del Estado es velar por el bienestar general y el mejoramiento de la calidad de vida de la población, así como la solución de las necesidades básicas insatisfechas."
+   },
+   "correcta": "D",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "El punto común que ambas comunidades pueden invocar es el **mandato constitucional** del Estado social de derecho de garantizar el bienestar general y satisfacer las necesidades básicas (D), que las cobija por igual. A favorece solo a la población desplazada, B traslada la responsabilidad a terceros y no al Estado, y C es una regla presupuestal concreta, no el fundamento de los derechos.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-procesos_sociales-011",
+   "area": "procesos_sociales",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Un alcalde enfrenta un movimiento de presión social adelantado por los habitantes con mayores carencias, quienes exigen inversión pública orientada a dignificar sus condiciones de vida. En el plan de desarrollo, construido con algunos líderes políticos y comunitarios, a partir del análisis de indicadores técnicamente procesados, se incluye la pavimentación de calles y el otorgamiento de subsidios para la vejez y la nutrición infantil. Esto no se lo aceptan quienes protestan, por cuanto alegan que no fueron consultados acerca de sus problemáticas ni se les convocó a decidir sobre ningún proyecto.\n\nPara resolver el conflicto, el asesor social A recomienda ejecutar lo previsto en el plan y complementarlo con una encuesta, para conocer otras necesidades poblacionales. El asesor social B recomienda ignorar lo planeado y adelantar un proceso de planeación participativa para comprender, según la lógica comunitaria, sus aspiraciones, los problemas y necesidades frente a los cuales debería incidir el gobierno local.\n\nLas propuestas de los dos asesores son incompatibles, porque",
+   "opciones": {
+    "A": "el plan de desarrollo requirió elaborar una línea de base; la planeación participativa demanda una consulta.",
+    "B": "la encuesta planteada permite economía de tiempo; la planeación participativa dilata el tiempo de ejecución.",
+    "C": "las dos propuestas corresponden a modalidades diferentes de planeación estratégica situacional.",
+    "D": "las dos propuestas responden a lógicas de planeación con marcos epistemológicos distintos."
+   },
+   "correcta": "D",
+   "afirmacion": "Lee comprensivamente los contextos de la intervención social.",
+   "explicacion": "El asesor A parte de una planeación **técnica**, donde el experto define las necesidades con indicadores y encuestas; el B, de una planeación **participativa**, donde el conocimiento se construye con la comunidad. Son incompatibles porque parten de **marcos epistemológicos distintos** (D). A y B mencionan diferencias operativas (línea de base, tiempos) que no explican la incompatibilidad, y C las ubica en un mismo enfoque.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-procesos_sociales-012",
+   "area": "procesos_sociales",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Una comunidad que ha perdido sus viviendas y fuentes de producción por acción del invierno tiene el reto de unirse para mejorar sus condiciones de vida y superar su situación. Para ello, en una mesa de trabajo con los profesionales de apoyo, se propone la implementación de un programa basado en el reconocimiento de los sentires y conocimientos del otro, la interlocución de los actores, la construcción colectiva de escenarios y el trabajo colaborativo.\n\nEl concepto que mejor fundamenta esta propuesta es",
+   "opciones": {
+    "A": "el diálogo de saberes.",
+    "B": "la inclusión social.",
+    "C": "la animación sociocultural.",
+    "D": "la autogestión comunitaria."
+   },
+   "correcta": "A",
+   "afirmacion": "Promueve la participación de sujetos e instituciones en torno a los procesos de transformación social.",
+   "explicacion": "Reconocer los **sentires y conocimientos del otro**, la interlocución y la construcción colectiva son los rasgos que definen el **diálogo de saberes** (A). La inclusión social apunta a integrar grupos excluidos, la animación sociocultural a dinamizar la participación cultural y la autogestión a que la comunidad gestione sus propios recursos; ninguna enfatiza el intercambio de saberes.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-procesos_sociales-013",
+   "area": "procesos_sociales",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "En un colegio, los jóvenes de secundaria presentan bajo rendimiento escolar y comportamientos agresivos. Realizado el diagnóstico de la situación, se detectó que los jóvenes dedican poco tiempo al estudio, el acompañamiento por parte de los padres es insuficiente y hacen uso intensivo de internet. Un proyecto de intervención desde el enfoque participativo autogestionario acorde a la población y a la situación de contexto presentada se justifica porque",
+   "opciones": {
+    "A": "requiere la participación de redes institucionales y la intervención sobre el contexto para la búsqueda de soluciones.",
+    "B": "implica un proceso investigativo con los estudiantes desde el aula y la vinculación de los docentes.",
+    "C": "supone un trabajo dirigido a la comunidad educativa para determinar mecanismos de acompañamiento.",
+    "D": "desarrolla las potencialidades y la responsabilidad compartida de las personas involucradas para solucionar la situación."
+   },
+   "correcta": "D",
+   "afirmacion": "Promueve la participación de sujetos e instituciones en torno a los procesos de transformación social.",
+   "explicacion": "Lo **autogestionario** consiste en que los propios involucrados (estudiantes, padres, docentes) desarrollen sus capacidades y asuman **responsabilidad compartida** en la solución (D). A pone el peso en redes institucionales externas, B se limita a investigar en el aula y C plantea un trabajo dirigido hacia la comunidad, no gestionado por ella.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-procesos_sociales-014",
+   "area": "procesos_sociales",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "En un municipio se implementó un proyecto cuyo objetivo de intervención era solucionar la dificultad en las relaciones entre los jóvenes vinculados al barrismo y la comunidad aledaña a los sitios de encuentro y socialización; debido a que las relaciones estaban mediadas por actos de violencia y agresión que generaban un fuerte rechazo social hacia el barrismo y sus dinámicas.\n\nUna vez finalizado este proceso, la información más pertinente y útil para socializar con la comunidad participante del proyecto es",
+   "opciones": {
+    "A": "el diagnóstico y las problemáticas iniciales identificadas en el territorio.",
+    "B": "las metas que se propusieron alcanzar mediante el desarrollo del proyecto.",
+    "C": "los resultados y acuerdos alcanzados entre las partes para mejorar las relaciones.",
+    "D": "el enfoque y la metodología utilizados durante la ejecución del proyecto."
+   },
+   "correcta": "C",
+   "afirmacion": "Promueve la participación de sujetos e instituciones en torno a los procesos de transformación social.",
+   "explicacion": "Al **finalizar** el proceso y ante la **comunidad participante**, lo útil es socializar lo que le interesa a ella: los resultados y acuerdos para mejorar la convivencia (C). Según el Icfes, A corresponde al inicio de la intervención (el diagnóstico ya se hizo), B es información para los ejecutores en su evaluación y D descuida el momento y el público de la socialización.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-procesos_sociales-015",
+   "area": "procesos_sociales",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Una organización no gubernamental (ONG) encargada de realizar un proceso de formación sobre el desarrollo de la democracia local con líderes comunitarios de barrios y veredas, ideó un programa con el propósito promover la participación de los líderes como electores y candidatos para las distintas instancias de representación como las juntas de acción comunal, las juntas administradoras locales y los comités sectoriales de política social.\n\nDe acuerdo con el objetivo del proceso formativo, el temario que sería **menos** pertinente desarrollar es:",
+   "opciones": {
+    "A": "Democracia y cultura política; mecanismos de participación social; gestión para el desarrollo local; organización comunitaria.",
+    "B": "Historia local; formas de organización humana; economía solidaria y cooperativismo; democracia y constitución política.",
+    "C": "Didácticas para la participación; formas de intervención comunitaria; técnicas de investigación participativa; elaboración de proyectos sociales.",
+    "D": "Mecanismos alternativos de resolución de conflictos; legislación y procedimientos jurídicos; filosofía política."
+   },
+   "correcta": "D",
+   "afirmacion": "Promueve la participación de sujetos e instituciones en torno a los procesos de transformación social.",
+   "explicacion": "El objetivo es formar líderes para **participar como electores y candidatos** en instancias locales. D es el temario más alejado: resolución de conflictos, procedimientos jurídicos y filosofía política son contenidos especializados que no preparan directamente para esa participación. A y C apuntan de lleno a participación y gestión local, y B al menos incluye democracia, Constitución e historia local.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-procesos_sociales-016",
+   "area": "procesos_sociales",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "En las áreas rurales de un municipio se aprobó un proyecto de intervención integral a fin de prevenir las situaciones relacionadas con el consumo de sustancias psicoactivas en la población de 15 a 22 años de edad. Se buscaba fortalecer identidad, autonomía y las relaciones familiares, mediante la vinculación de instituciones y organizaciones sociales en cada territorio para asegurar la participación de los jóvenes, los padres de familia y los docentes.\n\nLa estrategia más pertinente que involucra la participación de los diferentes actores es",
+   "opciones": {
+    "A": "diálogo de saberes sobre los discursos y las prácticas cotidianas.",
+    "B": "talleres de prevención del consumo dentro de las familias.",
+    "C": "caracterización de instituciones que atienden situaciones de consumo.",
+    "D": "proceso de rehabilitación y atención médica con consumidores."
+   },
+   "correcta": "A",
+   "afirmacion": "Promueve la participación de sujetos e instituciones en torno a los procesos de transformación social.",
+   "explicacion": "Un **diálogo de saberes** reúne a jóvenes, padres, docentes e instituciones en torno a sus discursos y prácticas, lo que permite trabajar identidad y relaciones familiares con todos los actores (A). B se restringe a las familias, C es una tarea técnica sin participación de la población y D es rehabilitación, no prevención.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-procesos_sociales-017",
+   "area": "procesos_sociales",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En un municipio se identifica que la deserción escolar es uno de los principales problemas para los jóvenes en edad de asistir a las instituciones escolares. En esta situación inciden variables de orden económico, social, cultural y político.\n\nLa intervención profesional propuesta por la alcaldía se centra en involucrar maestros, estudiantes, funcionarios y padres de familia en la conformación de una red social que identifique, controle y oriente el retorno de los jóvenes a los centros educativos. Uno de los aspectos que le restaría viabilidad a la propuesta es",
+   "opciones": {
+    "A": "el nivel educativo de los docentes.",
+    "B": "el inicio de los juegos intercolegiados en el sector.",
+    "C": "la actividad de venta ambulante de los padres de familia.",
+    "D": "disminución del gasto social del municipio para invertir en educación."
+   },
+   "correcta": "D",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "La red depende de la acción institucional y del retorno efectivo de los jóvenes a las escuelas; un **recorte del gasto social en educación** debilita la capacidad del municipio para sostenerla y para recibir a los estudiantes (D). El nivel de los docentes (A) y los juegos intercolegiados (B) no afectan la viabilidad de la red, y la venta ambulante de los padres (C) puede dificultar su participación pero no compromete la propuesta en su conjunto.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-procesos_sociales-018",
+   "area": "procesos_sociales",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "En una comunidad rural se realiza un diagnóstico social. En este proceso se identifican situaciones como depósito de residuos sólidos en el espacio público y en las márgenes de una quebrada que generan malos olores, proliferación de vectores y aumento de la morbilidad; igualmente, se observa la tala indiscriminada de árboles en la cuenca alta de la quebrada que surte de agua a la población.\n\nTeniendo en cuenta el criterio de pertinencia, una propuesta que involucre el compromiso en la transformación cultural para intervenir esta problemática es",
+   "opciones": {
+    "A": "establecer un sistema de sanciones para la disposición inadecuada de residuos sólidos y la tala de árboles.",
+    "B": "adelantar procesos socioeducativos sobre la importancia del cuidado del recurso hídrico y el manejo de residuos sólidos.",
+    "C": "abrir una licitación donde entidades expertas en manejo ambiental construyan un relleno sanitario y preserven la quebrada.",
+    "D": "realizar un sondeo de estrategias implementadas en otras poblaciones, referentes a la protección del recurso hídrico y manejo de residuos sólidos."
+   },
+   "correcta": "B",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "Una **transformación cultural** exige cambiar valores y prácticas de la comunidad, lo que se logra con procesos **socioeducativos** (B). Las sanciones (A) controlan conductas sin cambiar la cultura, la licitación (C) delega la solución en expertos externos y el sondeo (D) es solo un insumo, no una intervención.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-procesos_sociales-019",
+   "area": "procesos_sociales",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "En una zona de la ciudad se presentan situaciones de violencia entre dos grupos de jóvenes desescolarizados. La Secretaria de Juventud les ofrece a los dos grupos la posibilidad de vincularse a la formulación de un proyecto de expresión cultural, que involucre además la validación de sus estudios, con la condición de suspender todo acto violento entre ellos; los jóvenes aceptan y se inician las actividades. Durante el proceso, uno de los líderes juveniles involucrados en el proyecto es atacado en una vía pública lejos de la escuela por un joven supuestamente integrante del otro grupo vinculado. Los integrantes del grupo supuestamente agresor niegan su participación en el hecho y ratifican su compromiso con el proyecto.\n\nFrente a lo sucedido, la situación que influiría directamente en el no cumplimiento de los objetivos del proyecto sería que",
+   "opciones": {
+    "A": "la escuela decidiera investigar lo ocurrido y tomar medidas preventivas para no poner en riesgo a otros estudiantes.",
+    "B": "los padres del joven atacado acudieran a la Policía para solicitar la investigación del hecho e identificar al atacante.",
+    "C": "los jóvenes del grupo supuestamente atacante visitaran al joven atacado y negaran que el atacante forma parte de su grupo.",
+    "D": "los jóvenes integrantes del grupo del joven atacado decidieran enfrentarse con el otro grupo para vengar a su líder."
+   },
+   "correcta": "D",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "La condición del proyecto es **suspender la violencia** entre los grupos; una venganza (D) rompe ese compromiso y hace fracasar directamente los objetivos. Las medidas de la escuela (A), la denuncia de los padres (B) y la visita del otro grupo (C) son respuestas institucionales o conciliadoras que no rompen el acuerdo.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-procesos_sociales-020",
+   "area": "procesos_sociales",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Un equipo profesional de una organización no gubernamental (ONG) decide elaborar un proyecto con la participación de la comunidad para mejorar algunas condiciones de vida de la población, la cual está conformada en su mayoría por familias con bajos niveles educativos.\n\nEl 50 % de las personas no saben leer y escribir, por lo que se muestran inseguras y temerosas frente a procesos de formación especializados.\n\nInicialmente, se requiere capacitar a la comunidad sobre la metodología para la elaboración de un proyecto social; dadas las características de la población, la estrategia formativa más pertinente es",
+   "opciones": {
+    "A": "programar un ciclo de charlas informativas con el apoyo de medios audiovisuales.",
+    "B": "proponer un módulo didáctico de autoformación para desarrollar en sus hogares.",
+    "C": "desarrollar un taller con ejercicios que partan de sus experiencias de vida.",
+    "D": "diseñar una serie de programas radiales que se difundan en la emisora comunitaria."
+   },
+   "correcta": "C",
+   "afirmacion": "Promueve la participación de sujetos e instituciones en torno a los procesos de transformación social.",
+   "explicacion": "Con alta tasa de analfabetismo e inseguridad ante lo especializado, lo pertinente es un **taller vivencial** que parta de la experiencia de las personas y les permita aprender haciendo (C). Las charlas (A) y los programas radiales (D) son unidireccionales y no generan participación, y el módulo de autoformación (B) exige saber leer.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-procesos_sociales-021",
+   "area": "procesos_sociales",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Un proyecto comunitario de intervención sobre violencia intrafamiliar tiene tres objetivos: (1) crear redes de comunicación entre las instituciones gubernamentales que atienden esa problemática; (2) establecer rutas de atención para los casos de violencia intrafamiliar; (3) incrementar la participación ciudadana en la denuncia de los casos de violencia intrafamiliar. Los indicadores cualitativos pertinentes para evaluar los resultados al finalizar el proceso serían:",
+   "opciones": {
+    "A": "Existencia de redes de comunicación activadas; diseño de una ruta de atención aprobada y activa; ciudadanos informados y dispuestos a denunciar.",
+    "B": "Reconocimiento de las redes existentes; establecimiento de estrategias de acompañamiento a las familias; número de denuncias entabladas.",
+    "C": "Sinergias institucionales en funcionamiento; acciones de bienestar integral a niños y niñas víctimas; número de ciudadanos vinculados al proyecto.",
+    "D": "Acuerdos específicos entre instituciones; incremento del conocimiento sobre atención de la violencia intrafamiliar; ciudadanos capacitados y reflexivos."
+   },
+   "correcta": "A",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "A presenta un indicador **cualitativo** por cada objetivo, en el mismo orden: redes activadas (1), ruta de atención aprobada y activa (2) y ciudadanos dispuestos a denunciar (3). B y C incluyen indicadores **cuantitativos** («número de...») y elementos ajenos a los objetivos (acompañamiento, bienestar de niños), y D no evalúa la ruta de atención ni la denuncia.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-procesos_sociales-022",
+   "area": "procesos_sociales",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "En uno de los cerros que circunda un municipio existe un inminente riesgo de deslizamiento por la ola invernal que se vive. Ante esta situación, se analiza la necesidad de reubicar a las familias asentadas en la zona. La alcaldía reúne a las familias afectadas, a la entidad encargada que organiza el proceso de reubicación y traslado de las familias, a la institución delegada de organizar y dirigir las acciones de prevención de riesgos y desastres naturales, a la Oficina de Participación Comunitaria y a la Secretaría de Hacienda municipal.\n\nPara la entidad encargada de organizar el proceso de reubicación y traslado de las familias, la estrategia que mejor responde al objetivo de intervención es:",
+   "opciones": {
+    "A": "Negociar y tomar decisiones ágiles y consensuadas frente a las condiciones de reubicación de las familias.",
+    "B": "Determinar los criterios de costos y alternativas de financiación para adquirir las nuevas viviendas.",
+    "C": "Preparar a las familias para aceptar sin resistencia las zonas propuestas para reubicar sus viviendas.",
+    "D": "Realizar estudios de riesgo en los posibles lugares de traslado para evitar nuevas situaciones de desastre."
+   },
+   "correcta": "A",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "Ante un riesgo **inminente**, a la entidad de reubicación le corresponde **negociar y decidir ágilmente, en consenso** con las familias, las condiciones del traslado (A). B es tarea de la Secretaría de Hacienda, D de la entidad de gestión del riesgo y C impone la reubicación sin participación de las familias.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-procesos_sociales-023",
+   "area": "procesos_sociales",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Para atender un proceso de acompañamiento en el fortalecimiento de redes de organizaciones de un municipio, se establecen mesas de trabajo por áreas y sectores comunes en las que la participación de los actores es crucial.\n\nPara evaluar los resultados del proceso **NO** es pertinente formular como indicador",
+   "opciones": {
+    "A": "niveles de participación de los actores según áreas y sectores.",
+    "B": "transformaciones sociales logradas por la sinergia entre las instituciones.",
+    "C": "redes sociales conformadas y consolidadas en el municipio según sectores.",
+    "D": "número de usuarios atendidos en el municipio por las instituciones vinculadas."
+   },
+   "correcta": "D",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "El proceso busca **fortalecer redes** y la participación de los actores; el número de usuarios atendidos (D) mide la prestación de servicios de cada institución, no el fortalecimiento de las redes. La participación (A), las transformaciones por sinergia (B) y las redes consolidadas (C) sí evalúan los resultados del proceso.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-procesos_sociales-024",
+   "area": "procesos_sociales",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Una fundación ha venido desarrollando un proceso de formación en el área de defensa y promoción de los Derechos Humanos con un grupo de madres comunitarias. El equipo vio necesario obtener información acerca de los derechos más vulnerados a esta población.\n\nLa institución competente para suministrar esta información es",
+   "opciones": {
+    "A": "Medicina Legal.",
+    "B": "la Defensoría del Pueblo.",
+    "C": "la Comisaría de Familia.",
+    "D": "el Instituto Colombiano de Bienestar Familiar."
+   },
+   "correcta": "B",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "La **Defensoría del Pueblo** es la entidad que vela por la promoción y defensa de los Derechos Humanos y lleva registro de sus vulneraciones (B). Medicina Legal hace peritajes forenses, la Comisaría de Familia atiende violencia intrafamiliar y el ICBF protege a la niñez y la familia; ninguna tiene información general sobre los derechos vulnerados a esta población.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes-procesos_sociales-025",
+   "area": "procesos_sociales",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Ante el caos que se vive a diario en los sistemas de transporte masivo, por cuenta de las aglomeraciones, el irrespeto a las señales, la vulneración de los derechos de los ciudadanos, la proliferación de ventas ambulantes y de músicos callejeros, se vio la necesidad de realizar una intervención con la ciudadanía que hace uso de este servicio por medio de una estrategia educativa de cultura ciudadana en lugares específicos de la ciudad para incentivar un comportamiento de responsabilidad y compromiso ante el sistema de transporte.\n\nPara registrar la información que documente los resultados de la estrategia implementada el instrumento más pertinente sería",
+   "opciones": {
+    "A": "una lista de chequeo para registrar las acciones realizadas en cada lugar de la ciudad en donde se implementó la estrategia.",
+    "B": "una guía de observación para recoger información del comportamiento de los usuarios antes y después de la intervención.",
+    "C": "un registro anecdótico para registrar incidentes, reacciones y situaciones presentadas con los usuarios durante el proceso.",
+    "D": "un registro de gestión y movilización de redes, para evidenciar la gestión hecha en la implementación de la estrategia."
+   },
+   "correcta": "B",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "El resultado buscado es un **cambio de comportamiento** de los usuarios, y la forma de documentarlo es comparar ese comportamiento **antes y después** con una guía de observación (B). La lista de chequeo (A) y el registro de gestión (D) documentan las actividades realizadas, no sus resultados, y el registro anecdótico (C) recoge incidentes aislados del proceso.",
+   "origen": "Cuadernillo 2018 #25"
+  },
+  {
+   "id": "icfes-procesos_sociales-026",
+   "area": "procesos_sociales",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "En el último semestre, en una institución de desarrollo comunitario se registran veinte (20) casos de niños que han desertado del sistema escolar por ir a vender artículos varios en el centro de la ciudad. Al analizar la situación, se encuentra que diez (10) de estos niños provienen de un mismo barrio, son hijos mayores de uniones uniparentales y sus edades oscilan entre los 8 y los 13 años.\n\nEl equipo psicosocial emprendió acciones de coordinación interinstitucional y jornadas de orientación a personal adulto, como garantes de los derechos de la niñez. Posterior a la intervención, el barrio refleja el cambio social ya que",
+   "opciones": {
+    "A": "hay mayor organización en los hogares uniparentales.",
+    "B": "la comunidad valora el trabajo y aporte económico de los niños.",
+    "C": "hay disminución de los índices de trabajo infantil.",
+    "D": "las escuelas tienen mayor presencia en la comunidad."
+   },
+   "correcta": "C",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "El problema intervenido es el **trabajo infantil** que causa la deserción; el cambio social se evidencia en que este disminuye (C). La organización de los hogares (A) y la presencia de las escuelas (D) son efectos indirectos que no prueban la superación del problema, y B sería un retroceso, pues legitima el trabajo infantil.",
+   "origen": "Cuadernillo 2018 #26"
+  },
+  {
+   "id": "icfes-procesos_sociales-027",
+   "area": "procesos_sociales",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Dentro de la política de desarrollo rural de un municipio se planteó la necesidad de fortalecer las organizaciones productivas conformadas por mujeres. Para esto, se implementaron estrategias formativas orientadas a desarrollar habilidades en la formulación y ejecución de proyectos productivos que les permitieran mejorar su nivel económico.\n\nLa primera etapa el presupuesto se destinó a capacitar a las mujeres en diversos temas. Al evaluar la participación en el proyecto, en la primera convocatoria a la capacitación la asistencia fue representativa; sin embargo, en la segunda convocatoria la participación disminuyó drásticamente, razón por la cual los organizadores del proyecto decidieron no darle continuidad al proceso.\n\nRespecto al propósito de la estrategia formativa implementada, el juicio que mejor evidencia las razones por las que se decidió no continuar el proyecto es:",
+   "opciones": {
+    "A": "Si no es posible capacitar a toda la comunidad en los temas planteados, no se podrá cumplir la política de desarrollo del municipio.",
+    "B": "Los recursos económicos invertidos en la formación son excesivos ante los niveles de participación, lo que afecta las finanzas públicas.",
+    "C": "La baja participación de las mujeres en la segunda convocatoria no garantiza la continuidad del proceso y la apropiación de los contenidos.",
+    "D": "Los niveles de asistencia en la primera y segunda convocatoria evidencian el desinterés de las mujeres frente a los temas propuestos."
+   },
+   "correcta": "C",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "El propósito formativo es que las mujeres **se apropien** de las habilidades; con una participación que cae drásticamente no hay continuidad ni apropiación, y eso justifica suspender el proceso (C). A exige capacitar a «toda la comunidad», algo que no se planteó; B pone el foco en lo financiero y no en el propósito formativo; y D generaliza un desinterés que la primera convocatoria contradice.",
+   "origen": "Cuadernillo 2018 #27"
+  },
+  {
+   "id": "icfes-procesos_sociales-028",
+   "area": "procesos_sociales",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "Ante la problemática de inseguridad alimentaria en algunos municipios de un departamento, se determinó como programa de gobierno la implementación de acciones para la entrega de alimentos y la formación en el desarrollo de proyectos productivos para la población más vulnerable.\n\nLos avances y resultados de la implementación de ese programa produjeron una disminución significativa en los niveles de desnutrición infantil y la puesta en marcha de diversos proyectos productivos, lo que ha llevado a que la comunidad y los entes gubernamentales propongan la creación de una estrategia de mayor impacto y de largo plazo como",
+   "opciones": {
+    "A": "la definición de proyectos sociales que contribuyan a la disminución de las muertes por desnutrición en los municipios participantes.",
+    "B": "la creación de un fondo de financiamiento para impulsar la implementación de proyectos productivos en otros municipios.",
+    "C": "la formulación, diseño y gestión de una política pública de seguridad alimentaria que se acoja en todos los municipios del departamento.",
+    "D": "la extensión de la entrega de alimentos a la totalidad de los municipios del departamento para ampliar los indicadores de cobertura."
+   },
+   "correcta": "C",
+   "afirmacion": "Emite juicios argumentados acerca de los procesos de transformación social.",
+   "explicacion": "Una **política pública** es el nivel de planificación de mayor alcance y sostenibilidad: integra entrega de alimentos y proyectos productivos en todo el departamento y a largo plazo (C). Según el Icfes, A se limita a reducir un indicador en los municipios participantes, B considera solo el factor económico en algunos municipios y D amplía la cobertura sin estrategia de sostenibilidad.",
+   "origen": "Cuadernillo 2018 #28"
+  }
+ ]
+}

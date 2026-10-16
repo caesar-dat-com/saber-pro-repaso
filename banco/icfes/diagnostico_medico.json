@@ -1,0 +1,570 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Fundamentación en Diagnóstico y Tratamiento Médico (cuadernillos 2018 y 2025, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-diagnostico_medico-001",
+   "area": "diagnostico_medico",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Una paciente de 45 años de edad acude a su consulta con resultado de TSH de 30 mcg/mL, solicitado cinco días antes. Viene presentando desde hace 6 meses desarreglos menstruales y piel muy áspera. En el examen físico se encuentra frecuencia cardiaca 55 por minuto y tensión arterial 90/60 mmHg; piel reseca y áspera; tiroides ligeramente aumentada de tamaño, de consistencia blanda, no dolorosa. El resto del examen es normal. De acuerdo con lo anterior, el diagnóstico más probable en esta paciente sería",
+   "opciones": {
+    "A": "hipertiroidismo.",
+    "B": "tiroiditis aguda.",
+    "C": "hipotiroidismo.",
+    "D": "mixedema."
+   },
+   "correcta": "C",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Una TSH muy elevada con bradicardia, hipotensión, piel seca y alteraciones menstruales indica **hipotiroidismo** primario. El hipertiroidismo cursaría con TSH suprimida y taquicardia; la tiroiditis aguda produce una glándula dolorosa y fiebre, y el mixedema es la forma grave (edema duro, alteración de conciencia) que la paciente no presenta.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-diagnostico_medico-002",
+   "area": "diagnostico_medico",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Al servicio de urgencias es llevada una mujer de 20 años de edad con alteración del estado de conciencia. Quien la trae refiere que media hora antes se encontraba “muy contenta” y “hablando trabado”, pero luego se quedó dormida y no despierta cuando la llama. En el examen físico se encuentra: paciente estuporosa con piel fría, que solo responde a estímulos dolorosos. Pupilas normales; presión arterial de 90/50 mmHg; frecuencia respiratoria de 12 por minuto; reflejos osteotendinosos simétricos disminuidos. De acuerdo con lo anterior, el diagnóstico más probable sería intoxicación con",
+   "opciones": {
+    "A": "metanfetaminas.",
+    "B": "barbitúricos.",
+    "C": "marihuana.",
+    "D": "cocaína."
+   },
+   "correcta": "B",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Euforia y disartria iniciales seguidas de estupor, hipotensión, hipotermia (piel fría), hiporreflexia y pupilas normales son típicas de un depresor del SNC como los **barbitúricos**. Metanfetaminas y cocaína son simpaticomiméticos (midriasis, hipertensión, taquicardia) y la marihuana rara vez produce estupor con hipotensión.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-diagnostico_medico-003",
+   "area": "diagnostico_medico",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Un hombre de 69 años de edad asiste a su consulta por un cuadro clínico de nicturia de seis meses de evolución, disminución del calibre del chorro urinario, pujo vesical y goteo posmiccional. Refiere que los síntomas empeoran cuando consume licor y niega la presencia de disuria o hematuria. No hay otros antecedentes. En el examen físico general, el paciente está afebril, sin anomalías; en el tacto rectal se detecta crecimiento de la próstata con consistencia cauchosa. El antígeno prostático específico en este paciente es de 4,1 ng/mL. Con base en lo anterior, el diagnóstico más probable sería",
+   "opciones": {
+    "A": "cáncer de próstata.",
+    "B": "hiperplasia prostática benigna.",
+    "C": "cistitis intersticial.",
+    "D": "estrechez uretral."
+   },
+   "correcta": "B",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Síntomas obstructivos e irritativos del tracto urinario inferior en un hombre mayor, con próstata aumentada de consistencia cauchosa (no pétrea ni nodular) y PSA apenas en el límite, orientan a **hiperplasia prostática benigna**. El cáncer daría una próstata dura o nodular; la cistitis intersticial cursa con dolor vesical y la estrechez uretral suele tener antecedente de trauma o infección.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-diagnostico_medico-004",
+   "area": "diagnostico_medico",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Un paciente de 15 años de edad llega con sus padres al servicio de urgencias porque cuando regresó a su casa en la madrugada después de haber estado con unos amigos, “no podía caminar tres pasos sin caerse”, estaba muy ansioso y se reía de forma incontrolada sin motivo aparente. El paciente refiere que “unos bichos” están caminando sobre su piel continuamente y quiere que se vayan. De acuerdo con los padres, no ha habido cambios de conducta recientes y no hay antecedentes de consumo de sustancias o alcohol. En el examen físico se observa: diaforético, sin cianosis, con pupilas midriáticas reactivas a la luz, inyección conjuntival marcada bilateral; frecuencia cardíaca 90 por minuto; frecuencia respiratoria 19 por minuto; presión arterial 120/75 mmHg. Según el cuadro clínico, el diagnóstico más probable sería intoxicación por",
+   "opciones": {
+    "A": "alcohol.",
+    "B": "marihuana.",
+    "C": "opiáceos.",
+    "D": "anfetaminas."
+   },
+   "correcta": "B",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Según el Icfes, las dosis altas de **marihuana** producen euforia con risa inmotivada, ansiedad, alteraciones perceptivas («bichos» en la piel), alteración del equilibrio y, de forma característica, inyección conjuntival marcada. El alcohol no explica las alteraciones perceptivas; los opiáceos producen miosis, depresión respiratoria y deterioro de conciencia, y las anfetaminas cursan con hipertensión y taquicardia más marcadas, sin risa inmotivada.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-diagnostico_medico-005",
+   "area": "diagnostico_medico",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Una mujer de 42 años de edad con artritis reumatoidea en estado avanzado, a pesar de estar sometida a un tratamiento farmacológico óptimo, continúa presentando dolor en las manos, especialmente con el movimiento, por lo cual se le recomienda rehabilitación.\n\nLa terapia inicial complementaria que se le debe realizar a esta paciente es",
+   "opciones": {
+    "A": "terapia física con parafina.",
+    "B": "férulas de aluminio.",
+    "C": "neuroestimulación.",
+    "D": "infiltraciones articulares."
+   },
+   "correcta": "A",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "En la rehabilitación de las manos con artritis reumatoide, el calor superficial con **parafina** es una terapia física inicial que alivia el dolor y la rigidez y facilita el movimiento. Las férulas rígidas, la neuroestimulación y las infiltraciones son medidas posteriores o invasivas, no la terapia complementaria inicial.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-diagnostico_medico-006",
+   "area": "diagnostico_medico",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Una paciente de 32 años de edad consulta por lesión en la uña del grueso artejo derecho de dos años de evolución. No refiere dolor. No hay antecedentes de trauma sobre la uña. Actualmente solo toma anovulatorios orales. En el examen físico, se observa ligero engrosamiento de la uña del primer dedo del pie derecho, con cambio de coloración amarillento, hiperqueratosis subungueal y onicolisis en 90 % de la extensión ungueal; hay olor desagradable a la manipulación de la uña con detritus subungueal; enrojecimiento y edema de la cutícula (paroniquia). A la exploración interdigital se observan lesiones escamosas no pruriginosas a nivel interdigital con zonas de maceración con fisuras en el 4.° espacio interdigital. En la visualización directa con KOH al 40 % se observaron mohos y levaduras. De acuerdo con lo anterior, el tratamiento de elección para esta paciente es",
+   "opciones": {
+    "A": "terbinafina.",
+    "B": "itraconazol.",
+    "C": "fluconazol.",
+    "D": "griseofulvina."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "La onicomicosis es mixta (mohos y levaduras) y extensa, con paroniquia y tiña interdigital, por lo que se requiere un antifúngico sistémico de amplio espectro: el **itraconazol** cubre dermatofitos, levaduras y mohos no dermatofitos. La terbinafina es muy eficaz contra dermatofitos pero menos contra levaduras; el fluconazol tiene poca acción sobre mohos y la griseofulvina es poco eficaz y lenta en uñas.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-diagnostico_medico-007",
+   "area": "diagnostico_medico",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "Una paciente de 22 años de edad, G2P1, con embarazo de 35 semanas por amenorrea confiable, corroborada con ecografía del primer trimestre, con control prenatal normal, consulta por presentar franca salida de líquido claro por vagina hace 1 hora. No ha presentado actividad uterina de trabajo de parto. En el examen físico se encuentra feto en presentación cefálica, cuello anterior blando con 2 cm de dilatación, borramiento del 80 %, y estación de –1, con salida evidente de líquido amniótico. De acuerdo con lo anterior, la conducta que debe seguirse es",
+   "opciones": {
+    "A": "inducción con oxitocina y maduración pulmonar.",
+    "B": "maduración cervical para finalización del embarazo.",
+    "C": "inducción con oxitocina más antibiótico.",
+    "D": "reposo, observación y antibióticos."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Es una ruptura prematura de membranas a las 35 semanas: después de la semana 34 se recomienda terminar el embarazo, y con un cuello ya favorable basta la **inducción con oxitocina**, junto con antibiótico profiláctico (estreptococo del grupo B). La maduración pulmonar no está indicada después de 34 semanas, la maduración cervical sobra con este cuello y el manejo expectante aumenta el riesgo de corioamnionitis.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-diagnostico_medico-008",
+   "area": "diagnostico_medico",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "Una paciente de 9 años de edad ingresa al servicio de pediatría por presentar un aumento del volumen de los miembros inferiores. En el examen físico, sus signos vitales se encontraron dentro de los parámetros normales; peso: 10,200 kg; talla: 100 cm; regulares condiciones generales, con retraso psicomotor, palidez mucocutánea y edema bipalpebral. En piel se observan lesiones eritematosas y descamativas generalizadas, además de cabello ralo, quebradizo, escaso panículo adiposo y atrofia muscular. No camina y presenta edema de miembros inferiores, abdomen globuloso, no doloroso, sin megalias. El resto de examen sin hallazgos llamativos. Entre los indicadores bioquímicos se observó anemia, hipoproteinemia e hipoalbuminemia, con diagnóstico de desnutrición grave (kwashiorkor), infección generalizada de piel; se hospitaliza. Una vez atendidas las condiciones que puedan poner en peligro la vida de la niña, el tratamiento de rehabilitación nutricional debe incluir",
+   "opciones": {
+    "A": "aporte proteíco del 50 %.",
+    "B": "suplemento de hierro oral.",
+    "C": "comidas frecuentes y pequeñas.",
+    "D": "rehidratación por vía IV."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Según el Icfes, en la desnutrición grave hay daño de la mucosa intestinal e intolerancia a la glucosa, por lo que se dan **comidas pequeñas y frecuentes** para que el intestino se recupere. No se debe dar más proteína de la necesaria (≈20 % de las calorías, no 50 %), el hierro oral se difiere porque empeora el cuadro en la fase inicial, y la rehidratación debe ser oral y cuidadosa, no IV.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-diagnostico_medico-009",
+   "area": "diagnostico_medico",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "A la consulta externa llega una madre con su hijo de 4 años de edad. El niño presenta antecedentes de asma desde los 3 años de edad, la cual se maneja en casa con beta 2 agonistas en las crisis, que se desencadenan por llanto y risa. La madre le refiere que hace 24 horas presenta tos constante y sibilancias al parecer sin causa específica y no ha respondido al manejo adecuado en casa. El diagnóstico diferencial que usted considera a partir del cuadro descrito es",
+   "opciones": {
+    "A": "bronquiolitis moderada.",
+    "B": "neumonía atípica.",
+    "C": "cuerpo extraño en vía aérea.",
+    "D": "reflujo gastroesofágico."
+   },
+   "correcta": "C",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Tos y sibilancias de inicio súbito, sin desencadenante ni fiebre y sin respuesta al broncodilatador en un preescolar obligan a pensar en **cuerpo extraño en vía aérea**. La bronquiolitis es propia de menores de 2 años, la neumonía atípica suele dar fiebre y evolución más lenta, y el reflujo produce síntomas crónicos, no un cuadro agudo refractario.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-diagnostico_medico-010",
+   "area": "diagnostico_medico",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Un joven de 20 años de edad que presentó un trauma con balón de fútbol en el ojo derecho, de 3 horas de evolución, consulta por visión borrosa y dolor ocular. En el examen físico presenta en el ojo afectado una visión de 20/40, tonometría digital normal, semimidriasis hiporreactiva y un hifema del 10 %. En este caso, el manejo inmediato es administrarle",
+   "opciones": {
+    "A": "antibióticos tópicos y AINEs vía oral.",
+    "B": "ácido acetil salicílico vía oral y esteroides tópicos.",
+    "C": "mióticos tópicos y AINEs vía oral.",
+    "D": "midriáticos tópicos y esteroides tópicos."
+   },
+   "correcta": "D",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "El hifema traumático se maneja con reposo, **midriáticos** (ciclopléjicos, que alivian el dolor y reducen el riesgo de resangrado y sinequias) y **esteroides tópicos** para la inflamación. La aspirina y los AINEs están contraindicados por aumentar el sangrado; los mióticos aumentan la inflamación y los antibióticos no están indicados sin herida abierta.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-diagnostico_medico-011",
+   "area": "diagnostico_medico",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "A su consulta asiste una mujer de 55 años de edad con una sintomatología vasomotora muy severa asociada a la menopausia; su última menstruación fue hace seis meses. Comenta que también se ha sentido deprimida en los últimos meses. Trae una mamografía normal (de hace dos meses) y como antecedente de importancia informa que le practicaron una histerectomía abdominal total hace 6 años por una miomatosis uterina. De acuerdo con lo anterior, para el manejo inicial de esta paciente la conducta es",
+   "opciones": {
+    "A": "estrógenos y progesterona.",
+    "B": "solamente estrógenos.",
+    "C": "solamente isoflavonas.",
+    "D": "antidepresivos tricíclicos."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Los síntomas vasomotores severos se tratan con terapia hormonal; como la paciente no tiene útero (histerectomía total), no necesita progestágeno para proteger el endometrio, así que se usan **solamente estrógenos**. Las isoflavonas son poco eficaces en síntomas severos y los tricíclicos no son el manejo inicial de los bochornos.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-diagnostico_medico-012",
+   "area": "diagnostico_medico",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Un niño de 4 años de edad, con fenotipo Down, sin otro antecedente de importancia, llega a consulta con su madre porque este presentó 5 episodios de epistaxis en el último mes. No refiere fiebre ni otros síntomas y como único hallazgo relevante en el examen físico presenta adenopatías axilares bilaterales. Los reportes de laboratorio registran: hemograma: leucocitos 45.000; neutrófilos 10 %; linfocitos 70 %; células inmaduras 20 %; hemoglobina 8 g/dL; hematocrito 23 %; plaquetas 30.000; glóbulos rojos 1.930.000/U; tiempo de protrombina: 10 segundos; tiempo de tromboplastina: 15 segundos, con controles normales. Con base en lo anterior, en este niño se descarta",
+   "opciones": {
+    "A": "anemia de Fanconi.",
+    "B": "síndrome mononucleósico.",
+    "C": "leucemia.",
+    "D": "hemofilia."
+   },
+   "correcta": "C",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "La clave oficial es C, pero es **muy discutible**: un niño con síndrome de Down, leucocitosis con 20 % de células inmaduras, anemia, trombocitopenia, sangrado y adenopatías tiene precisamente una **leucemia aguda** como diagnóstico más probable. Lo que se descarta con TP y TTP normales es la **hemofilia** (D), cuyo TTP estaría prolongado. Probablemente el enunciado original pedía el diagnóstico más probable.",
+   "origen": "Cuadernillo 2018 #12",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-diagnostico_medico-013",
+   "area": "diagnostico_medico",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Al consultorio del centro de salud llega un niño de 18 meses de edad traído por su madre porque presenta desde hace 3 días fiebre, tos e hiporexia. En el examen físico encuentra temperatura de 38,5 °C, frecuencia respiratoria de 42 respiraciones por minuto, frecuencia cardiaca de 128 pulsaciones por minuto, rinorrea hialina, adenopatías cervicales y tirajes intercostales bajos. Con base en lo anterior, el diagnóstico más probable sería",
+   "opciones": {
+    "A": "rinofaringitis aguda viral.",
+    "B": "neumonía adquirida en la comunidad.",
+    "C": "faringitis viral aguda.",
+    "D": "amigdalitis bacteriana."
+   },
+   "correcta": "B",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Según AIEPI, fiebre y tos con **tirajes subcostales** y taquipnea (≥40/min entre 12 meses y 5 años) clasifican como **neumonía**. La rinofaringitis y la faringitis no producen tiraje ni taquipnea, y la amigdalitis bacteriana es rara a esta edad y no explica el compromiso respiratorio bajo.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-diagnostico_medico-014",
+   "area": "diagnostico_medico",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Una paciente de 52 años de edad, actualmente en proceso de separación matrimonial, consulta por cuadro clínico de dolor lancinante en la cara de forma paroxística y de predominio derecho, acompañado de anestesia de esa hemicara, disfagia y desviación de la comisura labial al mismo lado cuando habla o mastica sus alimentos. Niega traumas o procedimientos odontológicos recientes. De acuerdo con el cuadro clínico, el diagnóstico más probable sería",
+   "opciones": {
+    "A": "neuralgia del nervio glosofaríngeo.",
+    "B": "parálisis facial izquierda.",
+    "C": "neuralgia del trigémino.",
+    "D": "fenómeno de Bell."
+   },
+   "correcta": "C",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "El dolor facial **lancinante y paroxístico** desencadenado al hablar o masticar es la marca de la **neuralgia del trigémino**. La neuralgia glosofaríngea duele en faringe, amígdala y oído al deglutir; la parálisis facial no produce dolor paroxístico (y sería del lado contrario), y el fenómeno de Bell es un signo de la parálisis facial, no un diagnóstico.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-diagnostico_medico-015",
+   "area": "diagnostico_medico",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Un hombre de 40 años de edad acude al programa de hipertensión del centro de salud preocupado porque tiene antecedentes familiares de hipertensión arterial. En el examen físico el único hallazgo positivo es una presión arterial de 140/90 mmHg. El tratamiento no farmacológico recomendado para manejar la situación descrita debe incluir una dieta",
+   "opciones": {
+    "A": "ATKINS.",
+    "B": "DASH.",
+    "C": "MEDITERRÁNEA.",
+    "D": "SCARDALE."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "La dieta **DASH** (*Dietary Approaches to Stop Hypertension*), rica en frutas, verduras y lácteos bajos en grasa y pobre en sodio, es la intervención nutricional con mayor evidencia para bajar la presión arterial. Atkins y Scarsdale son dietas para bajar de peso, y la mediterránea es cardiosaludable pero no la específica para hipertensión.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-diagnostico_medico-016",
+   "area": "diagnostico_medico",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Un hombre de 65 años de edad con antecedente de cardiopatía dilatada con función ventricular izquierda conservada, enfermedad coronaria e hipertensión arterial, ingresa en el servicio de urgencias con falla cardiaca descompensada, arrítmico, en edema pulmonar, sin signos de inestabilidad hemodinámica, bradicárdico, en anasarca y oligúrico. Ante esto se considera que la etiología es mixta y que actualmente se trata de una insuficiencia cardiaca con compromiso tanto derecho como izquierdo, tipo húmeda-caliente según la clasificación de Stevenson. De acuerdo con lo anterior, el tratamiento indicado es la administración de",
+   "opciones": {
+    "A": "betametil digoxina y diuréticos de Asa.",
+    "B": "inhibidores de enzima convertidora de angiotensina y betabloqueadores.",
+    "C": "diuréticos de Asa e inhibidores de enzima convertidora de angiotensina.",
+    "D": "espironolactona y betabloqueadores."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "El perfil «húmedo-caliente» (congestión con buena perfusión) se trata con **diuréticos de asa** para la sobrecarga de volumen y vasodilatación/**IECA** para reducir la poscarga. La digoxina es riesgosa en un paciente bradicárdico, y los betabloqueadores no se inician en plena descompensación con bradicardia.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-diagnostico_medico-017",
+   "area": "diagnostico_medico",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Una paciente de 20 años de edad asiste al servicio de urgencias porque desde los 14 años presenta episodios de cefalea pulsátil acompañados de náuseas e intolerancia a la luz y a los sonidos. En esta oportunidad lleva media hora con un dolor similar que la incapacita. El tratamiento que se debe seguir para el manejo del dolor en esta paciente es",
+   "opciones": {
+    "A": "dexametasona.",
+    "B": "propanolol.",
+    "C": "ibuprofeno.",
+    "D": "metoclopramida."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Es una crisis de migraña de inicio reciente (media hora): el tratamiento abortivo de primera línea es un AINE como el **ibuprofeno**. El propranolol es profiláctico, no abortivo; la dexametasona se reserva para estados migrañosos o prevención de recurrencia, y la metoclopramida es coadyuvante para las náuseas.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-diagnostico_medico-018",
+   "area": "diagnostico_medico",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Una paciente de 14 años de edad, estudiante, es llevada por la madre a la consulta externa porque \"no rinde en el colegio\" y prefiere estar sola. Dice que siempre ha sido una niña triste y que se cansa fácilmente. Su promedio académico es pobre y se siente inútil; a veces se torna explosiva y se autorrecrimina. Es poco asertiva, no toma decisiones, come poco y duerme mucho. Los síntomas se evidenciaron al ingresar al grado sexto, hace 3 años.\n\nEn el examen mental se observa: orientada en las tres esferas; afecto pobremente modulado, con anhedonia, autoreproche e ideas de minusvalía. No se observa actividad delirante ni alteraciones sensoperceptuales; sin autocrítica. No muestra ideación suicida ni pensamientos autolíticos. De acuerdo con lo anterior, el diagnóstico más probable en esta paciente sería",
+   "opciones": {
+    "A": "fobia social.",
+    "B": "distimia.",
+    "C": "trastorno esquizoafectivo.",
+    "D": "trastorno depresivo mayor."
+   },
+   "correcta": "B",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Ánimo depresivo crónico (en adolescentes basta 1 año; aquí 3), con baja autoestima, fatiga, alteraciones del apetito y del sueño y dificultad para decidir, sin ideación suicida ni síntomas psicóticos, corresponde a **distimia** (trastorno depresivo persistente). El episodio depresivo mayor es más intenso y episódico; la fobia social se centra en el miedo a la evaluación y el esquizoafectivo requiere psicosis.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-diagnostico_medico-019",
+   "area": "diagnostico_medico",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "A consulta de crecimiento y desarrollo acude un escolar de 9 años de edad. No presenta antecedentes personales de importancia. El padre es obeso e hipertenso. En el examen físico del niño se detecta que su talla para la edad y sexo está entre + 1 y + 2 desviaciones estándar y el índice de masa corporal está sobre + 3 desviaciones estándar. No hay otros datos de importancia.\n\nSegún la clasificación de la Organización Mundial de la Salud (OMS) del estado nutricional, este paciente está",
+   "opciones": {
+    "A": "eutrófico.",
+    "B": "con sobrepeso.",
+    "C": "en riesgo nutricional.",
+    "D": "con obesidad mórbida."
+   },
+   "correcta": "D",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "En los patrones OMS para 5-19 años, el IMC/edad > +1 DE es sobrepeso y > +2 DE obesidad; un IMC por encima de **+3 DE** corresponde a obesidad grave, que el ítem denomina **obesidad mórbida**. La talla normal-alta no cambia la clasificación; no es eutrófico ni solo sobrepeso.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-diagnostico_medico-020",
+   "area": "diagnostico_medico",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Una paciente de 24 años de edad consulta por cuadro de seis semanas de evolución de tristeza y sensación de no ser una buena madre para su hijo recién nacido. El cuadro empezó en el periodo posparto con decaimiento, llanto fácil y falta de interés por el bebé, aunque está lactándolo. Actualmente pasa muchas horas en la cama sin levantarse y en ocasiones manifiesta que lo mejor que le puede pasar al niño es que ella muera.\n\nCome muy poco y duerme aproximadamente tres horas al día. Su embarazo y parto fueron normales; no hay otros antecedentes personales de importancia. No está recibiendo medicación.\n\nDe acuerdo con lo anterior, además de las estrategias no farmacológicas, el tratamiento de elección en este caso es",
+   "opciones": {
+    "A": "sertralina.",
+    "B": "bupropión.",
+    "C": "citalopram.",
+    "D": "fluoxetina."
+   },
+   "correcta": "A",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Es una depresión posparto en una madre lactante; según el Icfes, la **sertralina** es de elección porque permanece prácticamente indetectable en el suero de los lactantes. Con bupropión se han descrito somnolencia e hipotonía en el bebé, y citalopram y fluoxetina pasan a la leche en niveles detectables con efectos adversos (somnolencia, cólico, hipotonía, convulsiones).",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-diagnostico_medico-021",
+   "area": "diagnostico_medico",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Un paciente de 60 años de edad sufrió un episodio de disnea con posterior sincope mientras caminaba, por lo cual fue llevado al servicio de urgencias. Al recuperarse refiere dolor precordial en los últimos 6 meses. En la evaluación física se encuentra un soplo en los focos de la base como lo muestra el esquema:\n\nEl soplo tiene un grado de intensidad de 3/6, con pulso carotídeo de ascenso lento y pico demorado a la palpación. No hay hallazgos adicionales en el examen físico. De acuerdo con lo anterior, el diagnóstico más probable para este paciente sería una",
+   "opciones": {
+    "A": "regurgitación mitral.",
+    "B": "estenosis aórtica.",
+    "C": "regurgitación pulmonar.",
+    "D": "estenosis tricúspide."
+   },
+   "correcta": "B",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "La tríada angina–síncope–disnea de esfuerzo, un soplo sistólico en diamante (crescendo-decrescendo) entre R1 y R2 en focos de la base y el pulso *parvus et tardus* son clásicos de **estenosis aórtica**. La regurgitación mitral es holosistólica en el ápex; la regurgitación pulmonar es diastólica y la estenosis tricúspide es un soplo diastólico del borde esternal.",
+   "origen": "Cuadernillo 2018 #21",
+   "imagen": "icfes_diagnostico_medico_021.png"
+  },
+  {
+   "id": "icfes-diagnostico_medico-022",
+   "area": "diagnostico_medico",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Una paciente de 72 años de edad es llevada al centro médico de un área rural, por malestar general, astenia, adinamia y episodios febriles de 38 °C, de una semana de evolución. Como antecedentes registra: diabetes mellitus, en manejo con metformina 850 mg/día. En el examen físico, la paciente se observa en aceptables condiciones generales, con una presión arterial de 130/70 mmHg; frecuencia cardiaca de 76 por minuto y temperatura 36,5 °C. El examen cardiopulmonar y abdominal se encuentra dentro de límites normales. Los exámenes de laboratorio realizados al día siguiente reportan: hemograma con hemoglobina 12,4 g%; leucocitos 8.325 (neutrófilos 75 % y linfocitos 20 %); glicemia en ayunas: 200 mg/dL y hemoglobina glicosilada: 7 %; parcial de orina: pH 7,0; nitritos positivos; leucocitos 10 a 20 por campo; bacterias +++. Se solicita urocultivo, que será reportado dentro de 5 días.\n\nEl plan de manejo más adecuado para esta paciente es",
+   "opciones": {
+    "A": "cefalosporina de segunda generación endovenosa y remisión a urología.",
+    "B": "aumentar la dosis de metformina y definir antibióticoterapia con resultado del urocultivo.",
+    "C": "iniciar ciprofloxacina 500 mg cada 12 horas, acetaminofén si hay fiebre y control en consulta en 3 días.",
+    "D": "aumentar la dosis de metformina, iniciar nitrofurantoína 100 mg cada 8 horas y control en 5 días con resultado de urocultivo."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Es una infección urinaria sintomática (febril) en una diabética estable: se debe iniciar antibiótico empírico ambulatorio ya, sin esperar el cultivo (**ciprofloxacina**), con antipirético y control temprano. No requiere hospitalización ni vía IV; esperar 5 días el urocultivo retrasa el tratamiento, y la nitrofurantoína no es adecuada si hay compromiso sistémico (fiebre) ni es prioritario cambiar la metformina por una HbA1c de 7 %.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-diagnostico_medico-023",
+   "area": "diagnostico_medico",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Una paciente asintomática, de 35 años acude a control prenatal con embarazo de 26 semanas. Trae resultados de una prueba de tolerancia oral a la glucosa con 75 gramos de glucosa realizada dos días antes, así: glucemia basal 92 mg/dL; glucemia a la hora 200 mg/dL; glucemia a las dos horas: 160 mg/dL. La glucemia en ayunas realizada en el primer control prenatal había sido de 90 mg/dL.\n\nDe acuerdo con lo anterior, el diagnóstico más probable en esta paciente es",
+   "opciones": {
+    "A": "diabetes gestacional.",
+    "B": "gestación normal.",
+    "C": "diabetes no reconocida previamente.",
+    "D": "posible intolerancia a los carbohidratos."
+   },
+   "correcta": "A",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Con la PTOG de 75 g (criterios IADPSG) basta un valor alterado: ayunas ≥ 92, 1 h ≥ 180 o 2 h ≥ 153 mg/dL; esta paciente supera los tres, entre las semanas 24-28, así que es **diabetes gestacional**. No es diabetes preexistente porque la glucemia del primer control fue normal (90 mg/dL < 126) y la «intolerancia a los carbohidratos» no es una categoría diagnóstica vigente.",
+   "origen": "Cuadernillo 2025 #4"
+  },
+  {
+   "id": "icfes-diagnostico_medico-024",
+   "area": "diagnostico_medico",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "Asiste a su consulta una mujer embarazada con gestación múltiple de 34 semanas con evolución satisfactoria. Refiere contracciones uterinas aisladas, pero usted no identifica cambios en el cuello uterino. Ante esta situación usted le recomienda a la paciente",
+   "opciones": {
+    "A": "suspender el curso psicoprofilactico.",
+    "B": "tener reposo absoluto.",
+    "C": "continuar con los controles prenatales.",
+    "D": "suspender la actividad sexual."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Contracciones aisladas sin modificaciones cervicales no son trabajo de parto pretérmino; con evolución satisfactoria lo indicado es **continuar los controles prenatales** con signos de alarma. El reposo absoluto y la suspensión de la actividad sexual o del curso psicoprofiláctico no han demostrado prevenir el parto pretérmino y no están indicados.",
+   "origen": "Cuadernillo 2025 #5"
+  },
+  {
+   "id": "icfes-diagnostico_medico-025",
+   "area": "diagnostico_medico",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "Al servicio de urgencias de un hospital de primer nivel de atención asiste una mujer preocupada porque tiene 9 meses de embarazo y no ha iniciado el parto. Usted corrobora la edad gestacional en 39 semanas por fecha de última regla y por ecografía del primer trimestre. Tiene controles prenatales que reportan un embarazo normal. El examen físico materno y fetal se encuentra dentro de límites normales. La mejor medida que se debe tomar para esta paciente es",
+   "opciones": {
+    "A": "solicitar perfil biofísico y revalorar con resultados.",
+    "B": "remitir a valoración y manejo por ginecología y obstetricia.",
+    "C": "hospitalizar e iniciar protocolo para la inducción de trabajo de parto.",
+    "D": "explicar signos de alarma y citar en una semana por consulta externa."
+   },
+   "correcta": "D",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Un embarazo de 39 semanas normal, sin trabajo de parto, todavía está dentro del término; no requiere pruebas, remisión ni inducción. Lo adecuado es **educar en signos de alarma y controlar en una semana**; la vigilancia fetal o la inducción se plantean al acercarse o superar las 41 semanas.",
+   "origen": "Cuadernillo 2025 #7"
+  },
+  {
+   "id": "icfes-diagnostico_medico-026",
+   "area": "diagnostico_medico",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "Un paciente de 28 años, consulta porque presenta cuadro clínico de tres horas de evolución, de dolor en región precordial, con diaforesis marcada; niega consumo de sustancias psicoactivas.\n\nSe le ordena electrocardiograma que muestra lo siguiente:\n\nDe acuerdo con el trazado anterior, el paciente tiene",
+   "opciones": {
+    "A": "hipercalemia.",
+    "B": "infarto agudo de miocardio.",
+    "C": "bloqueo de rama izquierda.",
+    "D": "pericarditis aguda."
+   },
+   "correcta": "D",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "El trazado muestra elevación difusa del ST, cóncava, en casi todas las derivaciones (I, II, aVF, V2-V6) sin imagen especular, con descenso del PR y ST deprimido solo en aVR: patrón de **pericarditis aguda**, coherente con un joven sin factores de riesgo. El infarto produce elevación en un territorio coronario con cambios recíprocos; la hipercalemia da T picudas con QRS ancho y el bloqueo de rama izquierda ensancha el QRS.",
+   "origen": "Cuadernillo 2025 #11",
+   "imagen": "icfes_diagnostico_medico_026.png"
+  },
+  {
+   "id": "icfes-diagnostico_medico-027",
+   "area": "diagnostico_medico",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Una niña de 4 años de edad es llevada al servicio de urgencias por su madre, porque la encontró dos horas antes ingiriendo unas tabletas de acetaminofen de 500 mg. La madre cree que se tomó por lo menos 15, según el contenido del frasco. La niña ha tenido vómito y se queja de dolor abdominal. Una vez confirmados los niveles elevados de acetaminofen en sangre, se le inició tratamiento con n-acetilcisteína endovenosa, porque esta",
+   "opciones": {
+    "A": "aumenta la depuración renal.",
+    "B": "provee una vía metabólica alterna para la conjugación de los metabolitos tóxicos.",
+    "C": "forma con el acetaminofen un compuesto que acelera su excreción intestinal.",
+    "D": "aumenta el metabolismo hepático."
+   },
+   "correcta": "B",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "La N-acetilcisteína repone glutatión (y aporta grupos sulfhidrilo), lo que **ofrece una vía alterna para conjugar** el metabolito tóxico NAPQI y evita la necrosis hepática. No aumenta la depuración renal, no se une al acetaminofén en el intestino (eso sería el carbón activado) y no acelera el metabolismo hepático, que es justamente lo que genera el tóxico.",
+   "origen": "Cuadernillo 2025 #12"
+  },
+  {
+   "id": "icfes-diagnostico_medico-028",
+   "area": "diagnostico_medico",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "Usted es requerido para valorar una niña de 48 horas de nacida quien presenta edema de dorso de pies, cuello corto, inserción baja de pelo, cúbito valgo, hiperelasticidad de cuello e hipertelorismo mamario.\n\nDe acuerdo con esta información, el trastorno genético que más probablemente encontraría en esta paciente es",
+   "opciones": {
+    "A": "46XXY.",
+    "B": "trisomía 21.",
+    "C": "45XO.",
+    "D": "alteración del gen PTP11."
+   },
+   "correcta": "C",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Linfedema de dorso de pies, cuello corto y alado, implantación baja del cabello, cúbito valgo y tórax ancho con mamilas separadas en una recién nacida son típicos del **síndrome de Turner (45,X0)**. El 47,XXY (Klinefelter) es masculino; la trisomía 21 tiene otro fenotipo facial e hipotonía, y la alteración de PTPN11 (Noonan) se parece pero afecta a ambos sexos con cariotipo normal.",
+   "origen": "Cuadernillo 2025 #14"
+  },
+  {
+   "id": "icfes-diagnostico_medico-029",
+   "area": "diagnostico_medico",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "Un paciente de 30 años, toxicómano en terapia de recuperación ambulatoria, es llevado al servicio de urgencias por un cuadro de marcada dificultad respiratoria. Un vecino informa que lo vio horas antes del suceso con otra persona conocida por su adicción a la heroína. En el examen físico se encuentra paciente en estupor con miosis bilateral marcada. Los pulmones presentan signos de congestión pulmonar. En este momento, además del manejo integral y de la protección de las vías aéreas, lo más apropiado es suministrarle al paciente de forma inmediata",
+   "opciones": {
+    "A": "flumaxenil.",
+    "B": "metadona.",
+    "C": "naloxona.",
+    "D": "morfina."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Estupor, miosis puntiforme, depresión respiratoria y edema pulmonar tras exposición a heroína configuran intoxicación por opioides; el antídoto inmediato es la **naloxona**. El flumazenil revierte benzodiacepinas, y la metadona y la morfina son agonistas opioides que empeorarían el cuadro.",
+   "origen": "Cuadernillo 2025 #15"
+  },
+  {
+   "id": "icfes-diagnostico_medico-030",
+   "area": "diagnostico_medico",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "Un paciente de 70 años consulta por disminución progresiva de la visión en el ojo derecho, de dos años de evolución. No presenta otros síntomas asociados. Al realizarle el examen se encuentra: agudeza visual corregida del ojo derecho: movimiento de manos a 40 cm; en el ojo izquierdo: 20/20 y pupila blanca en ojo derecho.\n\nDe acuerdo con lo anterior, la estructura que con mayor probabilidad está comprometida en este caso es",
+   "opciones": {
+    "A": "la retina.",
+    "B": "el ángulo iridocorneal.",
+    "C": "el cristalino.",
+    "D": "el nervio óptico."
+   },
+   "correcta": "C",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Pérdida visual lenta e indolora en un adulto mayor con **leucocoria** (pupila blanca) corresponde a una catarata madura, es decir, opacidad del **cristalino**. Las lesiones de retina o nervio óptico no blanquean la pupila, y el compromiso del ángulo (glaucoma) produce pérdida de campo visual sin leucocoria.",
+   "origen": "Cuadernillo 2025 #16"
+  },
+  {
+   "id": "icfes-diagnostico_medico-031",
+   "area": "diagnostico_medico",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "Una paciente de 39 años asiste a consulta externa por “molestias en la garganta” de tres semanas de evolución, y nota que una de sus amígdalas ha aumentado de tamaño durante ese tiempo. No refiere antecedentes de importancia. En el examen físico se observa en buen estado general, con hipertrofia grado IV de amígdala derecha, de consistencia elástica y bordes lisos. En el cuello se palpa adenopatía en cara lateral derecha, de consistencia dura, no dolorosa, adherida a planos profundos.\n\nDe acuerdo con lo anterior, el diagnóstico paciente sería",
+   "opciones": {
+    "A": "carcinoma.",
+    "B": "amidgalitis crónica.",
+    "C": "hiperplasia amigdalina.",
+    "D": "linfoma."
+   },
+   "correcta": "D",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Un crecimiento amigdalino **unilateral**, rápido, de superficie lisa y consistencia elástica (sin ulceración) con adenopatía cervical dura e indolora sugiere **linfoma**. El carcinoma escamoso suele ser ulcerado e indurado, en fumadores; la amigdalitis crónica y la hiperplasia amigdalina son bilaterales y no dan adenopatías duras fijas.",
+   "origen": "Cuadernillo 2025 #18"
+  },
+  {
+   "id": "icfes-diagnostico_medico-032",
+   "area": "diagnostico_medico",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "A su consulta acude un individuo de 65 años por cuadro de 6 meses de evolución consistente en dolor abdominal y pérdida de peso. Como antecedente de importancia refiere poliposis intestinal diagnosticada hace 10 años. Trae resultado positivo de test para sangre oculta en heces. El examen físico se encuentra dentro de límites normales.\n\nDe acuerdo con lo anterior, la prueba diagnóstica que debe realizarse para continuar con el estudio de este paciente es",
+   "opciones": {
+    "A": "rectosigmoidoscopia.",
+    "B": "TAC contrastado de abdomen.",
+    "C": "ecografía abdominal total.",
+    "D": "colonoscopia."
+   },
+   "correcta": "D",
+   "afirmacion": "Determina la situación de salud o enfermedad de niños, jóvenes y adultos (hombres y mujeres), a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Sangre oculta positiva, pérdida de peso y antecedente de pólipos obligan a descartar cáncer colorrectal con **colonoscopia**, que explora todo el colon y permite tomar biopsias o resecar pólipos. La rectosigmoidoscopia solo ve el colon distal, y la TAC o la ecografía no permiten diagnóstico histológico.",
+   "origen": "Cuadernillo 2025 #19"
+  },
+  {
+   "id": "icfes-diagnostico_medico-033",
+   "area": "diagnostico_medico",
+   "n": 33,
+   "contexto": null,
+   "enunciado": "Asiste a consulta un hombre de 78 años quien refiere disminución del calibre del chorro urinario en forma progresiva desde hace dos años, necesidad de pujar para la micción con goteo posmiccional y sensación de vaciamiento incompleto de la vejiga. Trae un parcial de orina normal, BUN y creatinina séricas dentro de los valores de referencia y un reporte de antígeno prostático específico (PSA) en 4,0 ng/mL. En el tacto rectal se palpa próstata aumentada de tamaño de bordes lisos, no dolorosa.\n\nDe acuerdo con esta información, el mejor tratamiento farmacológico es",
+   "opciones": {
+    "A": "medicamento betabloqueador ultraselectivo.",
+    "B": "hormona dehidroepiandrosterona.",
+    "C": "medicamento alfabloqueador ultraselectivo.",
+    "D": "hormona análoga de la GnRH."
+   },
+   "correcta": "C",
+   "afirmacion": "Propone un plan de tratamiento de acuerdo con la situación del paciente, a partir de casos clínicos de común ocurrencia en la práctica de los médicos generales.",
+   "explicacion": "Es una hiperplasia prostática benigna sintomática sin complicaciones; el tratamiento farmacológico de primera línea es un **alfabloqueador uroselectivo** (tamsulosina), que relaja el músculo liso prostático y del cuello vesical. Los betabloqueadores no actúan sobre la próstata, la DHEA es un andrógeno que la estimularía, y los análogos de GnRH se usan en cáncer de próstata.",
+   "origen": "Cuadernillo 2025 #22"
+  }
+ ]
+}

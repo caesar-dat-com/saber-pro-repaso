@@ -1,0 +1,686 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Promoción de la Salud y Prevención de la Enfermedad (cuadernillos 2018 y 2026, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-promocion_salud-001",
+   "area": "promocion_salud",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "Un paciente tuvo un accidente de tránsito ocho días atrás, y llega al consultorio relatando que no fue asistido por servicio de salud alguno; manifiesta que tiene dificultades para caminar debido a un golpe en la rodilla. Usted observa una herida abierta de aproximadamente de unos cinco centímetros de longitud, con una zona enrojecida, hinchada, dolorosa y con presencia de pus. En este caso, para comenzar la limpieza de la herida, usted usa para su protección:",
+   "opciones": {
+    "A": "Un par de guantes, gafas y tapabocas, para evitar contacto con las secreciones de la herida.",
+    "B": "Una bata, doble par de guantes y emplea una técnica aséptica.",
+    "C": "Una careta, una bata y un par de guantes para evitar contacto con las secreciones de la herida.",
+    "D": "Un par de guantes, un tapabocas y emplea una técnica adecuada de limpieza de la herida."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Al limpiar una herida infectada con pus hay riesgo de salpicaduras a cara y ropa, por lo que la barrera completa es **careta** (protege ojos, nariz y boca), **bata** y guantes. Las demás combinaciones dejan sin proteger el cuerpo (A, D) o la cara (B), y el doble guante no aporta frente a salpicaduras.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-promocion_salud-002",
+   "area": "promocion_salud",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Usted terminó un procedimiento en el que manipuló secreciones humanas y generó los siguientes desechos: placas de vidrio, caja donde se encontraban las placas, gasa y el empaque de papel de la gasa. Usted debe descartar todo este material de acuerdo con la normatividad vigente para la gestión integral de residuos hospitalarios y similares. Para ello es necesario que",
+   "opciones": {
+    "A": "introduzca la gasa y las placas de vidrio en hipoclorito durante 15 minutos para que posteriormente deseche la gasa en una bolsa roja y las placas en una bolsa blanca rotulada como “material de vidrio” y disponga la caja y el empaque de la gasa en el recipiente de residuos reciclables.",
+    "B": "deseche las placas de vidrio en una bolsa roja con el símbolo de riesgo biológico, la gasa en la caneca de residuos hospitalarios, el empaque de la gasa y la caja donde estaban las placas en la caneca rotulada como “material ordinario”.",
+    "C": "deseche la gasa y el material de vidrio en una bolsa roja con símbolo de riesgo biológico, el empaque de la gasa en la caneca que indique material ordinario y la caja donde se encontraba el material de vidrio en la caneca de residuos reciclables.",
+    "D": "deposite la gasa en una bolsa roja de riesgo biológico, la caja de las placas y el empaque de la gasa en el recipiente de residuos reciclables y las placas de vidrio en un recipiente de plástico de paredes rígidas con el símbolo de riesgo biológico."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Las placas de vidrio contaminadas son **cortopunzantes** y van al guardián (recipiente rígido con símbolo de riesgo biológico); la gasa con secreciones es biosanitaria (bolsa roja), y la caja y el empaque de papel, que no se contaminaron, son reciclables. Las otras opciones meten vidrio en bolsas (riesgo de pinchazo) o mandan reciclables a ordinarios.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-promocion_salud-003",
+   "area": "promocion_salud",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Como funcionario de salud, usted ha observado, en el servicio de consulta externa, que los usuarios realizan una mala disposición de los residuos. Para intervenir esta situación, decide dictar una charla informativa haciendo énfasis en la disposición de los residuos que se deben clasificar en el recipiente de color verde.\n\nEl material que se debe depositar en el recipiente de color verde corresponde a",
+   "opciones": {
+    "A": "ordinarios.",
+    "B": "reciclables.",
+    "C": "vidrio.",
+    "D": "biosanitarios."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Según el Icfes, en la normatividad de residuos hospitalarios el recipiente **verde** es para residuos **ordinarios** no reciclables (de pasillos, oficinas, salas de espera). Los reciclables, incluido el vidrio, van en recipiente gris dentro del ámbito hospitalario, y los biosanitarios en recipiente rojo.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-promocion_salud-004",
+   "area": "promocion_salud",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Según el riesgo de infección, las áreas hospitalarias se clasifican en críticas, semicríticas y no críticas o generales. A un trabajador de la salud se le solicitó seleccionar las áreas críticas del siguiente listado: odontología, hospitalización, Unidad de Cuidados Intensivos, rayos X de urgencias, rayos X de hospitalización, lavandería, esterilización, urgencias, consulta especializada, fisioterapia, limpieza y aseo. De acuerdo con lo anterior, la selección que cumple el requerimiento es:",
+   "opciones": {
+    "A": "Odontología, Unidad de Cuidados Intensivos, rayos X de urgencias, esterilización y urgencias.",
+    "B": "Fisioterapia, hospitalización, rayos X de hospitalización, lavandería, urgencias y consulta especializada.",
+    "C": "Limpieza y aseo, fisioterapia, rayos X de urgencias, lavandería y urgencias.",
+    "D": "Odontología, hospitalización, rayos X de hospitalización, esterilización, urgencias, limpieza y aseo."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Las áreas **críticas** son aquellas con procedimientos invasivos, contacto frecuente con sangre y fluidos o pacientes muy susceptibles: odontología, UCI, urgencias (y sus rayos X) y esterilización. Hospitalización, fisioterapia, consulta especializada, lavandería y aseo son semicríticas o no críticas, y aparecen en todas las demás opciones.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-promocion_salud-005",
+   "area": "promocion_salud",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "Un paciente llega al servicio de odontología solicitando realizar ajustes en la prótesis dental. El técnico en salud oral se la retira de la boca y la empaca en una bolsa plástica sellada, que guarda en una caja de cartón para enviarla al mecánico dental. En el laboratorio al desempacar la prótesis, se debe depositar la bolsa y la caja, en este orden, en canecas de color:",
+   "opciones": {
+    "A": "Roja y verde.",
+    "B": "Gris y roja.",
+    "C": "Roja y gris.",
+    "D": "Azul y gris."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La bolsa estuvo en contacto directo con la prótesis contaminada con saliva, así que es residuo de riesgo biológico (**roja**); la caja de cartón no tuvo contacto y es reciclable (**gris**). Por eso el orden correcto es roja y gris; invertir el orden o mandar la bolsa a reciclables es incorrecto.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-promocion_salud-006",
+   "area": "promocion_salud",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Durante la visita domiciliaria a un grupo familiar compuesto por papá de 70 años, mamá de 45 años y dos hijos de 20 y 18 años de edad, respectivamente, como trabajador del área de la salud usted identifica factores de riesgo familiar asociados a enfermedades cardiovasculares y diabetes por antecedentes paternos y maternos. Usted debe orientar un plan para fomentar estilos de vida saludable teniendo en cuenta los factores de riesgo y para ello le sugiere a la familia:",
+   "opciones": {
+    "A": "Fortalecer la autoestima y las redes de apoyo, mejorar hábitos alimentarios y el régimen de ejercicios según edad.",
+    "B": "Controlar diariamente la tensión arterial, dormir y realizar actividades de esparcimiento.",
+    "C": "Controlar peso, realizar periodos de quietud y controlar la presión arterial semanal.",
+    "D": "Realizar régimen de ejercicios alternado con periodos de quietud y descanso."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Los estilos de vida saludables frente a riesgo cardiovascular y diabetes se centran en **alimentación** y **actividad física adaptada a la edad**, apoyados en factores psicosociales (autoestima, redes de apoyo). Los controles de presión diarios o semanales son seguimiento clínico, no fomento de hábitos, y los «periodos de quietud» no son una medida preventiva.",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-promocion_salud-007",
+   "area": "promocion_salud",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "En un consultorio, el médico revisa con un otoscopio el oído de un paciente. Después de terminar el procedimiento, el instrumento utilizado fue limpiado con una gasa estéril. La acción realizada es:",
+   "opciones": {
+    "A": "Adecuada, porque el instrumento utilizado es de bajo riesgo.",
+    "B": "Inadecuada, porque debe realizarse desinfección de alto nivel.",
+    "C": "Adecuada, porque realizó un procedimiento de desinfección de nivel intermedio.",
+    "D": "Inadecuada, porque debe esterilizarse y no desinfectarse."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Para la clave oficial, el espéculo del otoscopio se trata como elemento **semicrítico** (contacto con el conducto auditivo, que puede tener mucosa o piel no intacta), por lo que requiere **desinfección de alto nivel**; limpiarlo con una gasa no es ni siquiera desinfección. No es crítico (no penetra tejido estéril), así que no exige esterilización.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-promocion_salud-008",
+   "area": "promocion_salud",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "En una capacitación del personal de aseo y de los técnicos de apoyo de una clínica, se realiza un ejercicio de verificación de limpieza de varias zonas del lugar con los criterios que se muestran en la tabla.\n\n| Lugar | INGRESO (Personal presente en el área) | ASEO (Intervención del personal de aseo) | PROCEDIMIENTO (Actividad para la que está destinada el área) |\n|---|---|---|---|\n| Quirófano | Médicos y auxiliares en condiciones asépticas, y paciente | Entre procedimientos quirúrgicos con desinfectantes de alto nivel | Cirugías |\n| Sala de espera | Pacientes y visitantes | Dos veces al día con desinfectantes de bajo nivel | Circulación de pacientes |\n| Baño de usuarios | Pacientes y visitantes | Cuatro veces al día con desinfectantes de medio nivel | Deposición de pacientes y cambio de pañales |\n| Consultorio odontológico | Odontólogo y paciente en consulta | Cuatro veces al día con desinfectantes de alto nivel | Procedimientos odontológicos |\n\nTeniendo en cuenta la información, se solicita que se ordenen las áreas, iniciando por las estériles, luego las limpias, y por último las sépticas. Según esta orientación, usted escribe",
+   "opciones": {
+    "A": "consultorio odontológico, quirófano, baño de usuarios y sala de espera.",
+    "B": "quirófano, consultorio odontológico, sala de espera y baño de usuarios.",
+    "C": "baño de usuarios, sala de espera, consultorio odontológico y quirófano.",
+    "D": "consultorio odontológico, sala de espera, quirófano y baño de usuarios."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El **quirófano** es la única área estéril (personal en condiciones asépticas, desinfección de alto nivel entre cirugías); le sigue el consultorio odontológico, que se desinfecta con alto nivel pero no es estéril; luego la sala de espera (limpia, bajo nivel) y al final el **baño**, área séptica por la deposición de pacientes. Las demás opciones alteran esta jerarquía.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-promocion_salud-009",
+   "area": "promocion_salud",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "Usted es el encargado de suministrar de dotación al grupo de técnicos dentales que trabajan en una clínica dental. Teniendo en cuenta que la labor que ellos efectúan se centra principalmente en el pulido de modelos de yeso con motores y piedras abrasivas, sin ningún tipo de contacto con fluidos corporales, los elementos de protección necesarios para ellos son",
+   "opciones": {
+    "A": "guantes de látex, gorro, mascarilla y gafas de protección.",
+    "B": "bata antifluidos, mascarilla, guantes de látex y visor.",
+    "C": "gorro, bata de tela, mascarilla y gafas de protección.",
+    "D": "mascarilla, visor, bata quirúrgica y zapatones o polainas."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Sin riesgo biológico, el peligro es el polvo de yeso y las partículas proyectadas por el pulido: se necesitan **mascarilla**, **gafas**, gorro y una **bata de tela** que proteja la ropa. Los guantes de látex, la bata antifluidos o quirúrgica y los zapatones son barreras contra fluidos o para asepsia, innecesarias aquí.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-promocion_salud-010",
+   "area": "promocion_salud",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "En un municipio colombiano de 30.000 habitantes, varios grupos comunitarios están interesados en el control y mejoramiento de la salud materna y neonatal, la cual valoran como aspecto clave de progreso en sus colectividades.\n\nPara lograr lo anterior, la estrategia más adecuada que se debe abordar, en la primera fase, es",
+   "opciones": {
+    "A": "gestionar recursos nuevos que permitirán llevar a cabo las acciones.",
+    "B": "capacitar los líderes comunitarios para desarrollar lineamientos estratégicos.",
+    "C": "desarrollar capacidades de promoción de la salud en la comunidad.",
+    "D": "elaborar un diagnóstico participativo de la situación de salud de las maternas."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Toda intervención de promoción comienza con un **diagnóstico participativo** que identifique, con la comunidad, la situación real de salud materna y sus determinantes. Gestionar recursos, capacitar líderes o desarrollar capacidades son pasos posteriores que dependen de ese diagnóstico.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-promocion_salud-011",
+   "area": "promocion_salud",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "Una mujer de 60 años de edad, pensionada, viuda, tiene 4 hijos, no tiene antecedentes patológicos personales de importancia. No consume licor ni tabaco. Registra antecedentes familiares de cáncer de mama en abuela paterna e hipertensión materna. Actualmente está en un grupo de la tercera edad con el que realiza actividad física tres veces por semana. Consume calcio de manera regular, se realiza mamografía y citología anualmente. Según la etapa del ciclo vital en la que se encuentra esta mujer, el principal factor protector de la salud es",
+   "opciones": {
+    "A": "la abstinencia de alcohol.",
+    "B": "la citología anual.",
+    "C": "el ejercicio regular.",
+    "D": "la ingesta de calcio."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "En la adultez mayor el **ejercicio regular** es el factor protector más amplio: reduce riesgo cardiovascular (relevante por el antecedente de hipertensión), mantiene masa ósea y muscular, previene caídas y aporta socialización. La citología es tamización (detección temprana, no protección), y la abstinencia de alcohol y el calcio protegen aspectos más puntuales.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-promocion_salud-012",
+   "area": "promocion_salud",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "Un bacteriólogo que trabaja en un laboratorio clínico de primer nivel de complejidad dispuso el instrumental utilizado y los residuos generados durante la jornada así: las agujas las depositó en el guardián; los sólidos contaminados los botó a la caneca de residuos hospitalarios; los líquidos biológicos los vertió al desagüe; el instrumental reutilizable (pinzas, mangos de bisturí) lo esterilizó con calor húmedo. Los procedimientos fueron adecuados para todos los elementos descritos, excepto para",
+   "opciones": {
+    "A": "los líquidos biológicos.",
+    "B": "el instrumental.",
+    "C": "los sólidos contaminados.",
+    "D": "las agujas."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Los **líquidos biológicos** no pueden verterse directamente al desagüe: deben inactivarse (por ejemplo, con desinfectante) o recolectarse como residuo de riesgo biológico antes de su disposición. Las agujas al guardián, los sólidos contaminados a la caneca de riesgo biológico y el instrumental reutilizable esterilizado en autoclave son prácticas correctas.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-promocion_salud-013",
+   "area": "promocion_salud",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "En una empresa de 100 trabajadores se identifica un aumento en el número de accidentes de trabajo con el consecuente absentismo laboral y baja en la producción, lo que genera preocupación porque la empresa ha logrado posicionarse en el medio y esta situación afectaría su competitividad.\n\nLa acción más pertinente que debe emprender las directivas de la empresa es",
+   "opciones": {
+    "A": "comprometer a la administradora de riesgos laborales (ARL) para que implemente el Sistema de Gestión de la Seguridad y la Salud en el Trabajo.",
+    "B": "convocar al Comité Paritario de Salud Ocupacional de la empresa para analizar la situación y hacer propuestas conjuntas trabajadores y empleadores.",
+    "C": "obligar a todos los trabajadores a asistir a actividades educativas y suspender a los trabajadores que no utilicen los elementos de protección personal.",
+    "D": "dar estímulos monetarios a quienes usen adecuadamente los elementos de protección personal."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El **Comité Paritario** (Copasst), con representantes de trabajadores y empleador, es la instancia para analizar la accidentalidad y concertar medidas. Implementar el SG-SST es responsabilidad del empleador, no de la ARL; las sanciones o los incentivos monetarios por sí solos no atacan las causas de los accidentes.",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-promocion_salud-014",
+   "area": "promocion_salud",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "Juan Pérez es un promotor de salud que trabaja en el área rural de un municipio clasificado como zona roja. Su función consiste en realizar atención médica básica (aplicación de vacunas, medicamentos y curación de heridas), para lo cual debe cargar contenedores para insumos médicos durante recorridos largos, pues no existen vías de acceso adecuadas que permitan la movilización en vehículos. Según lo anterior, los trabajadores en la misma situación del señor Pérez se exponen a los siguientes riesgos laborales, excepto riesgos",
+   "opciones": {
+    "A": "biomecánicos.",
+    "B": "químicos.",
+    "C": "biológicos.",
+    "D": "psicosociales."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El promotor tiene riesgo **biomecánico** (carga de contenedores en recorridos largos), **biológico** (curación de heridas, vacunación) y **psicosocial** (zona roja de orden público). Su labor no implica exposición relevante a sustancias químicas, por lo que el riesgo químico es la excepción.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-promocion_salud-015",
+   "area": "promocion_salud",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Una persona que trabaja en el área de la salud atiende a un paciente que presenta una lesión en la piel, con producción de un líquido espeso de color amarillento. Por tanto, le realiza una limpieza de la lesión y toma una muestra del líquido para la identificación de microorganismos por el laboratorio. Para realizar este procedimiento, el trabajador empleó un par de guantes de látex y una bata manga larga antifluidos.\n\nSi usted fuera a evaluar las barreras primarias que empleó el trabajador de salud durante el procedimiento, afirmaría que",
+   "opciones": {
+    "A": "no fueron suficientes, porque durante el procedimiento se generan gotas de la muestra que pueden tener contacto con áreas mucosas como ojos y boca del personal de salud.",
+    "B": "fueron suficientes, porque el personal de salud solo va a tener contacto con la lesión por medio de las manos para tomar la muestra del paciente.",
+    "C": "no fueron adecuadas, porque a pesar de que existe un mínimo riesgo de contaminarse con la muestra, se debe emplear un par de guantes para limpieza y otro para toma de muestra.",
+    "D": "el personal de salud empleó barreras primarias suficientes para lograr la protección total al paciente, y así evitó generar una fuente de infección para este."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La limpieza de una lesión supurativa y la toma de muestra pueden generar **salpicaduras o gotas** que alcancen ojos y boca, así que además de guantes y bata faltó protección facial (tapabocas y gafas o careta). Por eso no son suficientes (B y D fallan); cambiar de guantes entre pasos no resuelve la exposición de mucosas.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-promocion_salud-016",
+   "area": "promocion_salud",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "Los trabajadores del área de la salud deben aplicar en su práctica cotidiana las medidas universales de bioseguridad, con el fin de controlar los factores de riesgo a los que se exponen, y evitar un impacto nocivo en su salud y en la de los pacientes que atienden.\n\nPara tal fin, una institución prestadora de servicios de salud (IPS) solicitó a la aseguradora de riesgos laborales (ARL) revisar las competencias del personal en el tema, y halló como hábito de trabajo seguro",
+   "opciones": {
+    "A": "la disposición de la ropa contaminada y sucia del área de hospitalización en bolsa verde.",
+    "B": "la restricción del ingreso para visitantes con elementos de protección en áreas de riesgo.",
+    "C": "el uso por el personal de urgencias de monogafas, mascarilla, guantes y ropa antifluidos.",
+    "D": "el uso de alcohol glicerinado para el lavado de manos después de procedimientos invasivos."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Según el Icfes, el uso sistemático de **monogafas, mascarilla, guantes y ropa antifluidos** en urgencias refleja una cultura de trabajo seguro que protege al trabajador y al paciente. La ropa contaminada va en bolsa roja, no verde; los visitantes con protección adecuada sí pueden ingresar (p. ej., a UCI), y tras procedimientos invasivos se recomienda lavado con jabón antiséptico, no solo alcohol glicerinado.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-promocion_salud-017",
+   "area": "promocion_salud",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "Las directivas de una universidad, con el objetivo de disminuir las enfermedades de transmisión sexual entre sus estudiantes, decidieron implementar una estrategia de educación mediante una técnica colectiva con la que pueda lograrse la participación de todos los sujetos a los cuales va dirigido el mensaje de salud y se consiga así cambiar sus hábitos.\n\nTeniendo en cuenta lo planteado por las directivas de la universidad, la estrategia de educación en promoción de la salud más adecuada es",
+   "opciones": {
+    "A": "exposición, centrada en la prestación de servicios clínicos accesibles que ofrezcan diagnóstico y tratamiento eficaz a pacientes con enfermedades de transmisión sexual.",
+    "B": "charla informativa, enfocada en la importancia de un reconocimiento temprano de las enfermedades adquiridas por vía sexual y las diferentes opciones para el manejo de estas enfermedades.",
+    "C": "taller, enfocado en mejorar la información y participación de la población para desarrollar su capacidad de controlar y tomar decisiones sobre su salud sexual.",
+    "D": "conferencia informal, centrada en acciones de rehabilitación física, sicológica y social a pacientes con enfermedades de transmisión sexual, a fin de reducir sus secuelas."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El **taller** es la técnica colectiva participativa por excelencia y su enfoque —dar a la población control y capacidad de decisión sobre su salud— coincide con la definición de promoción de la salud. Exposición, charla y conferencia son técnicas unidireccionales y además se centran en diagnóstico, tratamiento o rehabilitación (prevención secundaria y terciaria).",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-promocion_salud-018",
+   "area": "promocion_salud",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Juan es un operario que labora en una empresa de cárnicos y embutidos. Acude al servicio de salud porque sufrió una caída en una rampa de acceso, la cual no tenía cubierta de material antideslizante. Al revisar la historia clínica de Juan, usted se da cuenta de que previamente sufrió la amputación de un dedo al manipular maquinaria para el procesamiento de carnes; además, padece de artrosis en miembro superior derecho y hernia discal asociadas a la carga de peso excesivo. Ambas enfermedades son consecuencias crónicas de su actividad laboral. En el caso de Juan, el principal riesgo asociado a las enfermedades laborales descritas es",
+   "opciones": {
+    "A": "psicosocial.",
+    "B": "biomecánico.",
+    "C": "mecánico.",
+    "D": "físico."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La pregunta se refiere a las **enfermedades** laborales (artrosis y hernia discal por carga excesiva), que se derivan del riesgo **biomecánico** (manipulación de cargas, posturas, movimientos repetitivos). La caída y la amputación son accidentes por condiciones de seguridad o riesgo mecánico, que es la trampa de la opción C.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-promocion_salud-019",
+   "area": "promocion_salud",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "En la atención a pacientes en el servicio de urgencias, el profesional de la salud se expone permanentemente a riesgo biológico por el contacto con fluidos corporales, manipulación de elementos y prácticas inseguras durante la atención. Las medidas específicas de protección contra riesgos biológicos que deben tomarse para mantener la seguridad y salud del trabajador son las siguientes:",
+   "opciones": {
+    "A": "Evitar el contacto de piel o mucosas con sangre u otros fluidos potencialmente infectantes; manejar cuidadosamente los elementos cortopunzantes; lavarse las manos; usar los guantes, mascarillas, protectores oculares y delantales.",
+    "B": "Promover el uso de elementos de protección personal; manejar los desechos hospitalarios; disminuir la exposición a accidente biológico; cumplir las normas de seguridad.",
+    "C": "Presentar esquema general de vacunación; disminuir la exposición a accidente biológico; establecer la prevención y el control de riesgos en el puesto de trabajo a través de revisiones periódicas; usar los elementos de protección personal.",
+    "D": "Vacunar contra los biológicos exigidos por la institución a todo el personal de salud; lavarse las manos frecuentemente; utilizar los elementos de protección personal; manejar y disponer adecuadamente los elementos cortopunzantes."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La opción D reúne las medidas **específicas** contra el riesgo biológico, incluida la **vacunación** del personal (hepatitis B, tétanos, influenza), que es la medida que distingue la protección específica. La A es correcta pero incompleta (omite la inmunización), y B y C son enunciados generales de gestión del riesgo.",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-promocion_salud-020",
+   "area": "promocion_salud",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "En el año 2015, la Organización Panamericana de Salud (OPS) y la Organización Mundial de Salud (OMS) lanzaron una alerta epidemiológica por la propagación del virus del zika, el cual es transmitido por vectores. A mediados del 2015, se detecta el virus en territorio colombiano. El evento cobra mayor importancia en salud pública, cuando se conoce que puede causar posibles efectos congénitos graves y se asocia a otras complicaciones neurológicas.\n\nTeniendo en cuenta todas las maneras en las que se ha documentado la transmisión del virus, las estrategias de prevención, para evitar el riesgo en el embarazo, son:",
+   "opciones": {
+    "A": "Controlar la infestación del vector eliminando sus criaderos; implementar medidas de protección personal, como el uso de repelentes, prendas de manga larga y toldillos en puertas y ventanas; e iniciar profilaxis para prevenir el zika.",
+    "B": "Informar sobre los efectos de la infección por zika en mujeres gestantes y recomendar prácticas sexuales seguras o abstenerse de las relaciones sexuales durante el embarazo; e iniciar profilaxis para prevenir el virus.",
+    "C": "Eliminar sus criaderos, implementar medidas de protección personal, como el uso de repelentes, prendas de manga larga, anjeos y toldillos en puertas y ventanas; y recomendar prácticas sexuales seguras o abstenerse de estas.",
+    "D": "Informar sobre los posibles efectos del virus en mujeres gestantes, teniendo en cuenta que la transmisión del virus ocurre por la picadura de un mosquito, por lo cual es innecesaria la prohibición de relaciones sexuales."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Según el Icfes, la opción C cubre **ambas vías** documentadas: la vectorial (eliminar criaderos, repelentes, ropa, anjeos y toldillos) y la **sexual** (el virus está en semen y flujo vaginal, por lo que la OMS recomienda sexo seguro o abstinencia en gestantes). A y B proponen una profilaxis que no existe (la vacuna seguía en estudio) y D niega la transmisión sexual.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-promocion_salud-021",
+   "area": "promocion_salud",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Ante la alta prevalencia de enfermedad diarreica en los niños asistentes a los centros infantiles de un municipio colombiano, los agentes de salud deciden implementar una campaña educativa dirigida a los(as) profesores(as) de estos centros, para lo cual encuentran que la actividad más indicada para enseñar el manejo de esta enfermedad es",
+   "opciones": {
+    "A": "la charla magistral a profesores.",
+    "B": "la sensibilización radial.",
+    "C": "el desarrollo de talleres.",
+    "D": "el envío de circulares informativas."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Para que los profesores aprendan a **manejar** la diarrea (hidratación oral, signos de alarma, higiene) se requiere aprender haciendo: los **talleres** permiten práctica y participación. La charla magistral, la radio y las circulares solo transmiten información de forma unidireccional.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-promocion_salud-022",
+   "area": "promocion_salud",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "En una empresa de instalación de redes eléctricas, los empleados que se dedican a las actividades de campo (extramurales) han presentado incapacidad por epicondilitis (conocida también como codo de tenista, es la inflamación del epicóndilo que es el relieve en la parte externa del codo). Los trabajadores realizan regularmente trabajos de conexión de clavijas con atornilladores, retirada de aislante del cableado con alicates y navajas, el canalizado del cable a través de las conducciones, acciones que son efectuadas de forma frecuente a lo largo de la jornada laboral. El profesional a cargo del programa de salud ocupacional debe realizar el mapa de riesgos, por lo que clasifica el riesgo que aumenta la probabilidad de epicondilitis en los trabajadores, en riesgo de tipo:",
+   "opciones": {
+    "A": "biomecánico.",
+    "B": "químico.",
+    "C": "mecánico.",
+    "D": "eléctrico."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La epicondilitis es un desorden musculoesquelético causado por **movimientos repetitivos** de prensión y pronosupinación con herramientas, es decir, riesgo **biomecánico**. El riesgo mecánico se refiere a golpes, cortes o atrapamientos, y el eléctrico al contacto con tensión; ninguno explica una lesión por sobreuso.",
+   "origen": "Cuadernillo 2018 #22"
+  },
+  {
+   "id": "icfes-promocion_salud-023",
+   "area": "promocion_salud",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Un encargado de la sección de limpieza, desinfección y esterilización, recibe hoy un recipiente con unas pinzas de disección, utilizadas para la sutura de las heridas de un paciente, y observa que estas se encuentran con restos de tejidos.\n\nEn este caso, usted le da la siguiente indicación para la desinfección y la esterilización del material contaminado:",
+   "opciones": {
+    "A": "Dejar las pinzas en jabón enzimático, posteriormente realizar lavado y cepillado, luego empacarlas y someterlas a esterilización.",
+    "B": "Dejar las pinzas en un recipiente con desinfectante y posteriormente en alcohol para retirar los restos de tejidos.",
+    "C": "Sumergir las pinzas en un recipiente con solución antibacterial, luego lavarlas con un cepillo y con abundante agua y jabón.",
+    "D": "Dejar las pinzas en una vasija con agua caliente, cepillarlas, empacarlas y luego esterilizarlas."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El reprocesamiento de instrumental crítico sigue la secuencia: **prelavado en detergente enzimático** (disuelve materia orgánica), lavado y cepillado, empaque y **esterilización**. El alcohol y el agua caliente fijan las proteínas a la superficie, y lavar con jabón sin esterilizar es insuficiente para material que tocó tejido estéril.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-promocion_salud-024",
+   "area": "promocion_salud",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "En una empresa se detecta un incremento de casos sintomáticos respiratorios entre los trabajadores, razón por la que el Comité paritario de salud ocupacional estudia el caso y se decide tomar muestras de sangre y secreción de garganta a los trabajadores con síntomas agudos.\n\nUsted forma parte del equipo de salud que atenderá a los trabajadores de la empresa y está encargado de preparar los elementos de protección individual para todos sus compañeros. El equipo necesario incluye:",
+   "opciones": {
+    "A": "gorro, mascarilla, bata, guantes estériles.",
+    "B": "monogafas, bata estéril, guantes, gorro.",
+    "C": "monogafas, mascarilla, bata, guantes.",
+    "D": "gorro, polainas, guantes, peto estéril."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La toma de frotis faríngeo y de sangre en sintomáticos respiratorios expone a gotas y salpicaduras: se requieren **monogafas** y **mascarilla** (mucosas), bata y guantes. No se necesitan elementos estériles (no es un procedimiento quirúrgico), y las opciones sin mascarilla o sin protección ocular dejan expuestas las mucosas.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes-promocion_salud-025",
+   "area": "promocion_salud",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "En una institución de salud, los residuos de alimentos de un paciente hospitalizado bajo aislamiento deben clasificarse como residuo",
+   "opciones": {
+    "A": "peligroso infeccioso.",
+    "B": "no peligroso biodegradable.",
+    "C": "no peligroso ordinario.",
+    "D": "peligroso biosanitario."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Todo lo que sale de la habitación de un paciente en **aislamiento**, incluidos los restos de comida, se considera potencialmente contaminado y se maneja como residuo **peligroso infeccioso**. No puede tratarse como biodegradable u ordinario, y «biosanitario» se reserva para elementos usados en la atención (gasas, guantes, apósitos), no para alimentos.",
+   "origen": "Cuadernillo 2018 #25"
+  },
+  {
+   "id": "icfes-promocion_salud-026",
+   "area": "promocion_salud",
+   "n": 26,
+   "contexto": null,
+   "enunciado": "Durante el proceso de atención a una persona hospitalizada en la Unidad de Cuidados Intensivos, se evidenció una acción insegura asociada a la utilización de medicamentos. Por lo anterior, se decidió hacer un análisis con el fin de identificar los factores que contribuyeron a la ejecución de la acción insegura. Como resultado del análisis, se identificaron factores contributivos originados en los siguientes contextos: tarea y tecnología; individuo; ambiente; equipo de trabajo.\n\nDe acuerdo con lo anterior, el factor relacionado con el contexto tarea y tecnología que contribuyó a la acción insegura es la",
+   "opciones": {
+    "A": "no supervisión en el desarrollo de los procedimientos por el profesional de farmacología.",
+    "B": "falta de profesionales de enfermería con experiencia en la administración de medicamentos.",
+    "C": "falta de personal de farmacia idóneo en el control de unidosis para medicamentos inyectables.",
+    "D": "ausencia de comprobación entre las prescripciones y las etiquetas de los fármacos dispensados."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "En el protocolo de Londres, el contexto **tarea y tecnología** abarca los procesos, protocolos y verificaciones del procedimiento; la **ausencia de comprobación** entre prescripción y etiqueta es una falla del proceso. La falta de supervisión corresponde al equipo de trabajo, y la falta de personal idóneo o con experiencia, al individuo o al ambiente (dotación de personal).",
+   "origen": "Cuadernillo 2026 #1"
+  },
+  {
+   "id": "icfes-promocion_salud-027",
+   "area": "promocion_salud",
+   "n": 27,
+   "contexto": null,
+   "enunciado": "Como resultado de un estudio realizado en una población rural, se identificó a la enfermedad diarreica como la primera causa de morbimortalidad en niños menores de cinco años de edad. Preocupadas por esta situación, las autoridades de salud decidieron implementar una serie de estrategias de prevención primaria de la enfermedad. En la selección de las estrategias, se tuvo en cuenta su efectividad en función del costo y que promovieran la educación en la población de riesgo.\n\nCon base en esta información, se puede concluir que la principal estrategia que debe implementarse es",
+   "opciones": {
+    "A": "mejorar cualitativa y cuantitativamente el suministro de agua para consumo.",
+    "B": "fomentar el lavado de manos antes de comer y después de usar el baño.",
+    "C": "iniciar terapia con sales de rehidratación oral y aumentar la ingesta de líquidos.",
+    "D": "suministrar megadosis de vitamina A y tratamientos antiparasitarios orales."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El **lavado de manos** es prevención primaria, de bajo costo, muy eficaz contra la diarrea y se basa en educación, que son los tres criterios del enunciado. Mejorar el acueducto es eficaz pero costoso y no educativo; las sales de rehidratación son tratamiento (no prevención primaria), y la vitamina A y los antiparasitarios no son educación.",
+   "origen": "Cuadernillo 2026 #2"
+  },
+  {
+   "id": "icfes-promocion_salud-028",
+   "area": "promocion_salud",
+   "n": 28,
+   "contexto": null,
+   "enunciado": "En la atención en urgencias de un paciente, usted debe usar un tubo endotraqueal (tubo colocado a través de la boca para que llegue aire a las vías respiratorias); encuentra uno en el gabinete del servicio, el cual estaba semaforizado con color verde, pero con una fecha de expiración de tres días atrás y observa que el empaque está en buenas condiciones. De las siguientes acciones, la que genera una condición menos insegura es",
+   "opciones": {
+    "A": "Usar glutaraldehído, porque este aporta mayor seguridad en la desinfección de los elementos.",
+    "B": "Desechar el tubo y cambiarlo por un tubo que reúna las condiciones de esterilización.",
+    "C": "Atender de manera oportuna al paciente para aliviar su sintomatología, sin importar las especificaciones de esterilidad de los insumos disponibles.",
+    "D": "Revisar si el empaquetado está perfecto y sin alteraciones, lo cual permite el uso de un elemento en un tiempo adicional a la fecha establecida en esterilización."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Un insumo con la **fecha de esterilización vencida** no garantiza esterilidad aunque el empaque se vea íntegro, así que debe **retirarse y reemplazarse** por uno vigente. Desinfectarlo con glutaraldehído no equivale a esterilizar, y usarlo «sin importar» o por el buen estado del empaque es una práctica insegura.",
+   "origen": "Cuadernillo 2026 #3"
+  },
+  {
+   "id": "icfes-promocion_salud-029",
+   "area": "promocion_salud",
+   "n": 29,
+   "contexto": null,
+   "enunciado": "Al entrar en el quirófano, luego de la asepsia de manos, un ayudante de cirugía se pone los guantes. Para ello, abre el sobre de papel que los contiene y toma primero el guante de la mano dominante y mete sus dedos dentro del doblez con el que vienen estos elementos, y se lo pone. Luego, con esta mano enguantada toma el otro guante y mete nuevamente sus dedos entre el doblez para facilitar la postura.\n\nDe acuerdo con lo anterior es correcto afirmar que",
+   "opciones": {
+    "A": "se debería haber tomado primero el guante de la mano no dominante.",
+    "B": "es una práctica insegura tomar el primer guante por entre el doblez.",
+    "C": "los guantes se deberían coger de manera simultánea por seguridad.",
+    "D": "la acción descrita es adecuada en todos sus componentes."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "En la técnica abierta, la mano desnuda solo puede tocar la **cara interna** del puño del primer guante (el borde doblado hacia afuera); meter los dedos **entre el doblez** pone la piel en contacto con la superficie externa, que debe permanecer estéril. Solo la mano ya enguantada debe entrar bajo el doblez del segundo guante. El orden dominante/no dominante es indiferente y tomar ambos a la vez no es la técnica.",
+   "origen": "Cuadernillo 2026 #4"
+  },
+  {
+   "id": "icfes-promocion_salud-030",
+   "area": "promocion_salud",
+   "n": 30,
+   "contexto": null,
+   "enunciado": "Usted fue asignado como personal de apoyo al servicio de laboratorio clínico de un hospital. Su función es realizar lavado y desinfección de los elementos expuestos a fluidos sanguíneos. De acuerdo con los estándares universales establecidos, los elementos de protección personal que usted utiliza son",
+   "opciones": {
+    "A": "gorro, bata, polainas, delantal impermeable, guantes de látex, gafas protectoras.",
+    "B": "tapabocas, polainas, gorro, gafas protectoras, delantal impermeable.",
+    "C": "tapabocas, guantes para lavado, gorro, bata, gafas protectoras, botas.",
+    "D": "gorro, tapabocas, gafas protectoras, delantal impermeable, guantes para lavado."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El lavado de material contaminado con sangre exige proteger mucosas de salpicaduras (**tapabocas y gafas**), el cuerpo de líquidos (**delantal impermeable**) y las manos con **guantes gruesos de lavado**, más gorro. La A usa guantes de látex delgados, la B omite los guantes y la C cambia el delantal impermeable por una bata que no impide el paso de líquidos.",
+   "origen": "Cuadernillo 2026 #5"
+  },
+  {
+   "id": "icfes-promocion_salud-031",
+   "area": "promocion_salud",
+   "n": 31,
+   "contexto": null,
+   "enunciado": "En una clínica, una auxiliar de enfermería del área de facturación es requerida para apoyar la toma de una muestra de sangre en el laboratorio, debido a que la persona encargada de esa actividad tuvo que ausentarse de manera inesperada.\n\nLa auxiliar se dirige de forma inmediata al laboratorio para tomar la muestra, coge unos guantes desechables de una caja, coloca el torniquete en el brazo del paciente, realiza la punción con aguja desechable y estéril, llena el tubo de la muestra, retira el torniquete y le indica al paciente que presione la zona con un algodón limpio que ella le suministra. A las 36 horas siguientes a la toma de muestra, el paciente empieza a notar signos de rubor, calor, entumecimiento y presencia de pus en la zona de la punción; estos efectos",
+   "opciones": {
+    "A": "se deben a la falta de uso de guantes quirúrgicos estériles por la auxiliar.",
+    "B": "no se produjeron por la toma de la muestra sino por otra enfermedad del paciente.",
+    "C": "se deben a que la auxiliar no realizó lavado de manos ni desinfección de la zona con alcohol.",
+    "D": "corresponden a una infección bacteriana por no utilizar una cura en lugar de un algodón."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La auxiliar omitió dos pasos clave: el **lavado de manos** y la **antisepsia de la piel** antes de puncionar, lo que explica la infección local (flebitis supurativa) a las 36 horas. La venopunción no requiere guantes estériles, el cuadro coincide con el sitio y momento de la punción, y el algodón limpio no es la causa.",
+   "origen": "Cuadernillo 2026 #7"
+  },
+  {
+   "id": "icfes-promocion_salud-032",
+   "area": "promocion_salud",
+   "n": 32,
+   "contexto": null,
+   "enunciado": "En una comunidad urbana localizada cerca de una zona selvática turística, llegaron al hospital local de segundo nivel de atención ocho pacientes con síntomas sugestivos de fiebre amarilla durante el último mes, y se confirma la muerte de uno de ellos por esa causa.\n\nLa estrategia más adecuada para prevención de la enfermedad en este caso es",
+   "opciones": {
+    "A": "recolectar la primera muestra de sangre de manera inmediata, cada vez que consulte un paciente con síntomas sugestivos de la enfermedad.",
+    "B": "realizar campañas masivas de vacunación para el 100 % de los habitantes del municipio que sean mayores de un año.",
+    "C": "aislar con toldillo a los pacientes hospitalizados, para evitar contagio a otros pacientes y al personal del hospital.",
+    "D": "realizar control físico y químico de los criaderos de Aedes aegypti, especialmente en la zona selvática de donde provienen los casos."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La fiebre amarilla tiene una vacuna muy eficaz de dosis única, y ante un brote la medida preventiva de mayor impacto es la **vacunación masiva** de la población susceptible desde el año de edad. Tomar muestras es vigilancia/diagnóstico, el toldillo protege solo a los hospitalizados, y en la selva el ciclo es silvestre (Haemagogus), donde el control de criaderos de *Aedes aegypti* no es factible.",
+   "origen": "Cuadernillo 2026 #9"
+  },
+  {
+   "id": "icfes-promocion_salud-033",
+   "area": "promocion_salud",
+   "n": 33,
+   "contexto": null,
+   "enunciado": "En una brigada de salud realizada a una comunidad rural, se determinó que el 92 % de los niños menores de 8 años presenta deficiente higiene oral y altos niveles de placa bacteriana en sus dientes.\n\nA partir de estos resultados se determinó que la mejor estrategia de promoción de la salud que se debe implementar es",
+   "opciones": {
+    "A": "realizar limpiezas dentales a todos los niños y fluorización a los mayores de 6 años.",
+    "B": "agendar citas con el servicio de salud oral para la aplicación de sellantes a todos los niños.",
+    "C": "implementar programas de educación en salud oral a las madres y los niños de la comunidad.",
+    "D": "garantizar el acceso a los servicios de salud a través de la remisión oportuna al especialista."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El problema es un **hábito** (higiene oral deficiente), y la estrategia de **promoción** es la educación a niños y cuidadores para que adopten el cepillado. Limpiezas, flúor y sellantes son acciones clínicas de protección específica (prevención), y la remisión al especialista es acceso a servicios, no promoción.",
+   "origen": "Cuadernillo 2026 #10"
+  },
+  {
+   "id": "icfes-promocion_salud-034",
+   "area": "promocion_salud",
+   "n": 34,
+   "contexto": null,
+   "enunciado": "En Medellín, en el año 2012 en la población escolar de la comuna dos se presentó una alta incidencia de dengue, con tasas altas de morbimortalidad. Esto se le atribuyó al escaso conocimiento que se tiene del dengue por la comunidad, tanto de las causas que la originan como de los métodos de prevención. En relación con lo anterior, la intervención en educación con mayor impacto en la comunidad se realiza a través de",
+   "opciones": {
+    "A": "la capacitación a los grupos comunitarios sobre la eliminación de los focos de reproducción del vector y prevención de la picadura del mosquito Aedes aegypti.",
+    "B": "la realización de visitas domiciliarias brindando información sobre la eliminación de los focos de reproducción del vector y prevención de la picadura del mosquito Aedes aegypti.",
+    "C": "las campañas por radio y televisión informando sobre las medidas de prevención de los focos de reproducción del vector y prevención de la picadura del mosquito Aedes aegypti.",
+    "D": "la generación de actividades de ordenamiento y limpieza del domicilio y peridomicilio para la prevención de los focos de reproducción del vector y prevención de la picadura del mosquito Aedes aegypti."
+   },
+   "correcta": "B",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Las **visitas domiciliarias** llevan la educación al lugar donde están los criaderos (tanques, floreros, recipientes), permiten identificarlos con la familia y personalizar el mensaje, por lo que tienen el mayor impacto. La capacitación a grupos no llega a todos los hogares, los medios masivos son unidireccionales y las jornadas de limpieza son acción operativa más que educación.",
+   "origen": "Cuadernillo 2026 #13"
+  },
+  {
+   "id": "icfes-promocion_salud-035",
+   "area": "promocion_salud",
+   "n": 35,
+   "contexto": null,
+   "enunciado": "Toda empresa debe garantizar el fomento de una vida saludable en el entorno laboral; por tanto, en una empresa se implementa un plan de acción para convertirla en una organización saludable. Para ello, se deben tener en cuenta recomendaciones, medidas y servicios en los que se aprecien beneficios en la salud colectiva de todos los trabajadores. Entre dichas acciones se brinda educación para la salud al cliente interno de la empresa.\n\nTeniendo en cuenta los beneficios generales de prácticas seguras en el trabajo, se deben fortalecer de manera prioritaria aspectos relacionados con",
+   "opciones": {
+    "A": "el incremento del bienestar físico y emocional de los trabajadores y la disminución de los accidentes laborales.",
+    "B": "la reducción del absentismo, las incapacidades temporales y la rotación de personal.",
+    "C": "eliminar los costos ocultos de las enfermedades de los trabajadores, como el bajo rendimiento.",
+    "D": "mejorar el clima, pues esto hace más atractiva la organización y aumenta su capacidad de retención."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Una organización saludable prioriza la **salud colectiva** de los trabajadores: su **bienestar físico y emocional** y la reducción de accidentes. Menos ausentismo, menores costos ocultos o mejor retención son consecuencias económicas u organizacionales de ese bienestar, no su fin prioritario.",
+   "origen": "Cuadernillo 2026 #14"
+  },
+  {
+   "id": "icfes-promocion_salud-036",
+   "area": "promocion_salud",
+   "n": 36,
+   "contexto": null,
+   "enunciado": "Una secretaria consulta por un cuadro de dolor crónico en la región lumbar. Ella manifiesta que le ha comenzado esta sintomatología desde que la cambiaron de su puesto de trabajo. Dentro de las recomendaciones que usted puede sugerirle al empleador para controlar y prevenir este riesgo biomecánico laboral incluiría",
+   "opciones": {
+    "A": "La silla debe permanecer rígida y no permitir cambios de posición del asiento y del espaldar, para darle mayor estabilidad al trabajador.",
+    "B": "La silla debe tener un tamaño de asiento y espaldar pequeño, de modo que faciliten los movimientos de rotación del tronco.",
+    "C": "La ubicación de la pantalla debe ser inferior a ella, de modo que se faciliten los movimientos de rotación de cuello.",
+    "D": "Deben estructurarse pausas activas en el ciclo de trabajo y ejercicios de estiramiento y relajación, como mínimo cada dos horas."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Las **pausas activas** con estiramientos rompen la postura sedente prolongada y son una medida reconocida para prevenir el dolor lumbar en trabajo de oficina. Las demás son contrarias a la ergonomía: la silla debe ser ajustable y con buen soporte lumbar, y la pantalla debe estar frente al usuario a la altura de los ojos para evitar flexiones y rotaciones.",
+   "origen": "Cuadernillo 2026 #16"
+  },
+  {
+   "id": "icfes-promocion_salud-037",
+   "area": "promocion_salud",
+   "n": 37,
+   "contexto": null,
+   "enunciado": "En una empresa dedicada a la confección de prendas de vestir se presenta un problema debido al incremento de los accidentes de trabajo, razón por la cual en la gerencia se inició un proceso destinado a fomentar las condiciones de trabajo seguro en el ambiente laboral. El proceso se centró en cuatro factores de riesgo potencial: las personas y sus acciones físicas; los materiales; el equipo; las condiciones ambientales.\n\nTeniendo en cuenta lo anterior, la acción que fomenta el trabajo seguro en relación con las condiciones ambientales es",
+   "opciones": {
+    "A": "instalar controles de seguridad que le eviten al trabajador exposición a mecanismos en movimiento.",
+    "B": "colocar etiquetas advirtiendo sobre peligro de fuego o explosión.",
+    "C": "brindar capacitación y entrenamiento suficientes sobre el uso de elementos de protección personal.",
+    "D": "aislar los equipos ruidosos para evitar el daño auditivo."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "El **ruido** es una condición del ambiente de trabajo (riesgo físico ambiental), y aislar la fuente es control en el medio. Las guardas de mecanismos corresponden al factor equipo, las etiquetas de inflamabilidad a los materiales, y la capacitación en EPP a las personas y sus acciones.",
+   "origen": "Cuadernillo 2026 #17"
+  },
+  {
+   "id": "icfes-promocion_salud-038",
+   "area": "promocion_salud",
+   "n": 38,
+   "contexto": null,
+   "enunciado": "En un edificio en construcción, un trabajador sufrió quemaduras en un brazo y traumatismo torácico a consecuencia de una descarga de una línea de alta tensión que soportó cuando se tropezó con un tendido eléctrico en el momento de transportar un bulto de cemento.\n\nComo medida de carácter preventivo y de protección, se debe",
+   "opciones": {
+    "A": "poner de manifiesto la existencia de un riesgo eléctrico y el uso obligatorio de guantes, botas y herramientas aislantes.",
+    "B": "suspender los cables y conexiones de los lugares de trabajo, paso y señalización del área.",
+    "C": "hacer uso de tensiones de seguridad inferior a 24 voltios y recubrimiento de las masas con aislamientos.",
+    "D": "bloquear los aparatos de corte, verificar la ausencia de tensión y prevenir cualquier retroalimentación."
+   },
+   "correcta": "A",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La clave oficial es A: **señalizar** el riesgo eléctrico y exigir **elementos de protección aislantes** (guantes, botas, herramientas) a quienes trabajan cerca de la línea. Las tensiones de seguridad de 24 V no aplican a una red de alta tensión, y el bloqueo y verificación de ausencia de tensión son procedimientos para quienes intervienen la instalación. Podría argumentarse que suspender los cables de las zonas de paso (B) también ataca la causa del tropiezo.",
+   "origen": "Cuadernillo 2026 #20"
+  },
+  {
+   "id": "icfes-promocion_salud-039",
+   "area": "promocion_salud",
+   "n": 39,
+   "contexto": null,
+   "enunciado": "En la institución prestadora de servicios de salud (IPS) donde trabaja, le piden que colabore en la implementación de un programa de promoción de la salud en la población adolescente del municipio. Para diseñar el programa, de forma que pueda tener el mayor impacto posible en la población objeto, usted se basa en",
+   "opciones": {
+    "A": "el informe sobre necesidades de salud de los adolescentes generado por médicos de consulta externa.",
+    "B": "una revisión bibliográfica sobre factores de riesgo a los que están expuestos los adolescentes.",
+    "C": "los procesos participativos de concertación con diferentes grupos de adolescentes según sus expectativas.",
+    "D": "experiencias exitosas previas en programas de promoción de la salud en población adolescente."
+   },
+   "correcta": "C",
+   "afirmacion": "Integra los conceptos básicos de promoción de la salud que le permiten priorizar acciones por seguir, de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "La promoción de la salud se apoya en la **participación** de la población: concertar con los propios adolescentes asegura que el programa responda a sus expectativas y que lo apropien. El informe médico, la revisión bibliográfica y las experiencias previas son insumos útiles pero externos a la comunidad objetivo.",
+   "origen": "Cuadernillo 2026 #21"
+  },
+  {
+   "id": "icfes-promocion_salud-040",
+   "area": "promocion_salud",
+   "n": 40,
+   "contexto": null,
+   "enunciado": "A un servicio de salud de urgencias ingresa un menor de edad con su acompañante, quien refiere que cayó a un pozo de agua residual de lluvia y se produjo una lesión de tejidos blandos. La herida presenta exposición de tejidos, con hemorragia controlada.\n\nEl profesional a cargo de valorar al paciente se coloca guantes estériles, tapabocas y se dirige a examinar la herida; revisa primero la hora de su celular y sigue con el proceso evaluativo.\n\nEl coordinador del servicio lo llama y le menciona que detectó una manipulación incorrecta del equipo estéril; esta fue",
+   "opciones": {
+    "A": "no lavarse las manos antes de colocarse los guantes.",
+    "B": "dejar que el familiar estuviera presente en el examen.",
+    "C": "no colocarse gorro de protección.",
+    "D": "tocar superficies no estériles antes de examinar la herida."
+   },
+   "correcta": "D",
+   "afirmacion": "Integra los conceptos básicos de prevención de la enfermedad, que le permita la priorización de las acciones por seguir de acuerdo con las condiciones de salud de las poblaciones.",
+   "explicacion": "Al tocar el **celular** con los guantes estériles puestos, estos se contaminaron antes de examinar la herida: esa es la manipulación incorrecta del **equipo estéril**. El enunciado no dice que omitiera el lavado de manos, la presencia del familiar no afecta la esterilidad y el gorro no es parte del equipo estéril en este caso.",
+   "origen": "Cuadernillo 2026 #24"
+  }
+ ]
+}

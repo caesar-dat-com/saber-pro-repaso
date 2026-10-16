@@ -1,0 +1,383 @@
+{
+  "fuente": "Icfes — Saber Pro, Módulo de Diseño de Sistemas, Procesos y Productos Agroindustriales (cuadernillos y preguntas explicadas)",
+  "contextos": [
+    {
+      "titulo": "Concentración de jugo de naranja en triple efecto",
+      "texto": "En una empresa que concentra jugo de naranja diseñó un proceso de concentración de triple efecto en continuo, usando evaporadores de película agitada. El proceso se diseñó con las siguientes especificaciones: trabajar con una economía del proceso mayor y cercana al 28 % (kg producto evaporado (mᵥT)/kg de vapor usado (mₛ)*100) y obtener un producto final con un mayor contenido de nutrientes.\n\nEl proceso de concentración en cada evaporador se representa en la figura.\n\n{{img:icfes_diseno_agroindustriales_005.png}}\n\nDonde:\n\n- m₀ = 10.000 L/h (flujo máximo de producto diluido).\n- x₀ = 10 % (concentración inicial de sólidos en peso).\n- Densidad del producto = 900 kg/m³.\n- m₁ = 8.000 kg/h (flujo másico del primer evaporador).\n- m₂ = 5.000 kg/h (flujo másico del segundo evaporador).\n- m₃ = 3.000 kg/h (flujo másico del tercer evaporador).\n- mₛ = 20.000 kg/h (flujo de vapor saturado que se utiliza en todo el proceso)."
+    },
+    {
+      "titulo": "Extracción de aceite de algodón",
+      "texto": "Una zona algodonera solicita el diseño de un proceso de extracción de aceite de algodón para comercializarlo con empresas productoras de margarinas vegetales. La fase inicial plantea el proceso de extracción mediante el siguiente diagrama de flujo de símbolos de equipos.\n\n{{img:icfes_diseno_agroindustriales_014.png}}"
+    },
+    {
+      "titulo": "Secador de cebada",
+      "texto": "Los productores de cebada de una zona rural, asociados en una cooperativa, almacenan este cereal en cobertizos sin cerramientos. En los últimos años ha aumentado la producción de cebada y, por esta razón, la gerencia de la cooperativa considera necesario invertir en el diseño de un secador con aire caliente a 55 °C para llevar la cebada de 18 a 10 % de humedad; es decir, que opere como se muestra en el diagrama.\n\n{{img:icfes_diseno_agroindustriales_020.png}}"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "icfes-diseno_agroindustriales-001",
+      "area": "diseno_agroindustriales",
+      "n": 1,
+      "contexto": null,
+      "enunciado": "Durante el almacenamiento de legumbres secas y algunos granos se observan procesos de germinación, lo que conlleva a riesgos evidentes y a una posible proliferación de microorganismos y otros agentes de deterioro.\n\nSi el proceso se analiza como un fenómeno físico de desequilibrio de presiones entre el alimento y el ambiente, este se da porque",
+      "opciones": {
+        "A": "los cereales, al presentar una presión de vapor alta cede humedad.",
+        "B": "el aire circundante, al presentar una baja presión de vapor, busca el equilibrio con el alimento.",
+        "C": "la atmósfera, al buscar el normal equilibrio de presiones, se carga de agua.",
+        "D": "los cereales, al presentar una presión de vapor baja, intercambia agua con el aire circundante."
+      },
+      "correcta": "D",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Los granos secos tienen **baja presión de vapor** (baja actividad de agua); el aire húmedo tiene mayor presión de vapor, así que el agua migra del aire al grano hasta equilibrarse. Esa ganancia de humedad es la que dispara la germinación y el deterioro; las opciones que hacen al grano ceder agua describen el proceso inverso.",
+      "origen": "Cuadernillo 2018 #1"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-002",
+      "area": "diseno_agroindustriales",
+      "n": 2,
+      "contexto": null,
+      "enunciado": "De acuerdo con la ficha técnica de un refresco de guayaba pasteurizado, este producto debe salir al mercado con unos grados brix de 10,0 ± 0,3 y un pH de 3,3 ± 0,1. En el análisis de calidad de una muestra tomada del mercado, se encontraron valores de 8° Brix y un pH de 2,8. Sin necesidad de realizar análisis adicionales, es válido a firmar que la no conformidad en parámetros fisicoquímicos fue generada por",
+      "opciones": {
+        "A": "una entrada de agua durante el proceso de pasteurización del producto.",
+        "B": "la presencia de microorganismos fermentadores en la muestra mal pasteurizada.",
+        "C": "pérdida de agua en el tanque de mezcla al elevarse la temperatura por un daño en el termostato.",
+        "D": "la adición equivocada de una cantidad de ácido cítrico mayor a la indicada en la formulación."
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Bajaron **a la vez** los °Brix y el pH: eso es la huella de una fermentación, en la que los microorganismos consumen azúcares y producen ácidos. La dilución con agua bajaría los Brix pero subiría el pH, la pérdida de agua subiría los Brix y el exceso de ácido cítrico no reduciría los azúcares.",
+      "origen": "Cuadernillo 2018 #2"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-003",
+      "area": "diseno_agroindustriales",
+      "n": 3,
+      "contexto": null,
+      "enunciado": "En un camión con aislante térmico, se transporta pescado magro a granel, desde Puerto Berrío a Medellín, con una temperatura inicial del pescado de 30 °C. Este debe recibirse en la ciudad de Medellín a una temperatura de 4 °C. La cantidad de hielo que se debe adicionar a una carga de 500 kg de pescado magro, sabiendo que el calor especifico (Cₚ) del pescado magro es de 0,8 kcal /kg°C y el calor latente (HL) de fusión del hielo es de 80 kcal/kg, es",
+      "opciones": {
+        "A": "13 kg.",
+        "B": "70 kg.",
+        "C": "76 kg.",
+        "D": "130 kg."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Calor que hay que retirar al pescado: Q = 500 kg × 0,8 kcal/kg°C × (30 − 4) °C = **10.400 kcal**. El hielo lo absorbe al fundirse: m = 10.400 / 80 = **130 kg**.",
+      "origen": "Cuadernillo 2018 #3"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-004",
+      "area": "diseno_agroindustriales",
+      "n": 4,
+      "contexto": null,
+      "enunciado": "En la planeación para la construcción de una planta productora de edulcorantes a partir de almidón de yuca se decidió utilizar enzimas hidrolíticas en remplazo de los ácidos fuertes que se tenían previstos, porque las enzimas",
+      "opciones": {
+        "A": "rompen aleatoriamente los enlaces glucosídicos del almidón.",
+        "B": "son más termorresistentes que los ácidos fuertes.",
+        "C": "son más económicas que los ácidos fuertes.",
+        "D": "tienen mayor especificidad en las reacciones."
+      },
+      "correcta": "D",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Las enzimas (amilasas, glucoamilasas) atacan enlaces glucosídicos concretos, de modo que dan jarabes de composición controlada y menos subproductos de color y sabor. La hidrólisis ácida es la que rompe los enlaces **al azar**; las enzimas no son más termorresistentes ni necesariamente más baratas.",
+      "origen": "Cuadernillo 2018 #4"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-005",
+      "area": "diseno_agroindustriales",
+      "n": 5,
+      "contexto": 0,
+      "enunciado": "Al evaporador diseñado de película agitada se le modifica el tiempo de residencia del producto en el tercer efecto con un flujo de producto concentrado m₃ = 2.000 kg/h. Con relación a este cambio, el porcentaje de concentración de sólidos del jugo en el último efecto (x₃) es del",
+      "opciones": {
+        "A": "50 %.",
+        "B": "33 %.",
+        "C": "45 %.",
+        "D": "30 %."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Alimentación: 10.000 L/h × 0,9 kg/L = 9.000 kg/h, con 9.000 × 0,10 = **900 kg/h de sólidos**. Los sólidos no se evaporan, así que salen todos en m₃: x₃ = 900 / 2.000 = **45 %**.",
+      "origen": "Cuadernillo 2018 #5"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-006",
+      "area": "diseno_agroindustriales",
+      "n": 6,
+      "contexto": 0,
+      "enunciado": "De acuerdo con las especificaciones del proceso diseñado de concentración se quiere verificar el cumplimiento de la economía del proceso.\n\n| Opción | mᵥT (kg/h) |\n|---|---|\n| 1 | 6.000 |\n| 2 | 7.000 |\n| 3 | 5.000 |\n| 4 | 2.000 |\n\nA partir del flujo másico de vapor que entra en el proceso (mₛ) y la cantidad de agua eliminada del producto (mᵥT) que se muestra en la tabla, la opción que cumple la economía del proceso diseñado es",
+      "opciones": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correcta": "A",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Economía = mᵥT / mₛ × 100. Con mₛ = 20.000 kg/h: opción 1 → 6.000/20.000 = **30 %**; opción 2 → 35 %; opción 3 → 25 %; opción 4 → 10 %. Solo la opción 1 es mayor que 28 % y cercana a ese valor.",
+      "origen": "Cuadernillo 2018 #6"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-007",
+      "area": "diseno_agroindustriales",
+      "n": 7,
+      "contexto": null,
+      "enunciado": "Al realizar un cambio en la configuración del evaporador de película agitada, se quiere mejorar las condiciones del proceso de concentración de jugos y obtener un producto final con un mayor contenido de nutrientes. La alternativa que cumple la configuración solicitada es",
+      "opciones": {
+        "A": "evaporador de circulación natural; por sus características el fluido desciende por gravedad; se pueden realizar muchos efectos, pues no requiere ΔT mínimo y es continuo. Presenta geometría tubular.",
+        "B": "evaporador de placas de película ascendente; por sus características se requiere una bomba que permita impulsar fluido en contra de la gravedad; al ser una geometría plana transmite más lentamente el calor que las tubulares y pueden trabajar en continuo.",
+        "C": "evaporador discontinuo; se puede trabajar a presión atmosférica, vacío o a alta presión; con poca área de intercambio. Al trabajar con presiones de vacío, se puede disminuir el punto de ebullición de la disolución y conservar compuestos sensibles.",
+        "D": "evaporador de película descendente con presión de trabajo variable; permite variar la presión de trabajo en cada efecto, trabajando con presiones de vacío. Presenta geometría tubular."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "La **película descendente** a vacío da tiempos de residencia cortos y bajas temperaturas de ebullición, lo que protege los nutrientes termosensibles, y además permite ajustar la presión en cada efecto y operar en continuo, como exige el diseño de triple efecto. El discontinuo (C) rompe la operación continua y las otras opciones contienen afirmaciones técnicas erróneas (todo evaporador requiere un ΔT).",
+      "origen": "Cuadernillo 2018 #7"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-008",
+      "area": "diseno_agroindustriales",
+      "n": 8,
+      "contexto": null,
+      "enunciado": "Después de un proceso de esterilización en autoclave, al evaluar el material esterilizado se demostró que no estaba libre de microorganismos. Revisando los procedimientos se comprobó que al inicio de la operación no se realizó purga. Esta falla afectó el proceso de esterilización porque",
+      "opciones": {
+        "A": "sin la eliminación de los primeros volúmenes de vapor no se garantiza la relación presión - temperatura - tiempo.",
+        "B": "la termorresistencia de los microorganismos se favorece por la presencia de aire.",
+        "C": "en el interior, la presión que ejerce el aire supera la presión de vapor.",
+        "D": "la presencia de aire disminuye la presión parcial del vapor que se observa en el manómetro."
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Sin purga queda aire mezclado con el vapor: el manómetro marca la presión **total**, pero la presión parcial del vapor es menor y, por tanto, la temperatura real es inferior a la que corresponde a la lectura. El material no alcanza la temperatura letal aunque la presión parezca correcta.",
+      "origen": "Cuadernillo 2018 #8"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-009",
+      "area": "diseno_agroindustriales",
+      "n": 9,
+      "contexto": null,
+      "enunciado": "Una empresa de extracción de almidón de yuca quiere un nuevo sistema de extractores centrífugos que permita un mayor arrastre de almidón. Para lo cual, se proponen algunas alternativas tecnológicas que se observan en los cuatro arreglos de las figuras, con tres extractores centrífugos (I, II, III), bombas centrifugas (E-) y tuberías. La corriente inicial es lechada (yuca molida + agua), las corrientes L1, L2 y L3 son ricas en almidón y la corriente F es rica en fibra.\n\nDe acuerdo con el caso anterior, la alternativa tecnológica más viable para el nuevo sistema de extractores centrífugos que obtiene mayor cantidad de almidón de yuca, corresponde a la del arreglo",
+      "opciones": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correcta": "D",
+      "afirmacion": "Propone alternativas de solución, las evalúa y selecciona la más conveniente teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ambiental, y ético.",
+      "explicacion": "En el arreglo 4 la **fibra** (F1, F2) pasa de un extractor al siguiente, donde se lava de nuevo con agua pura para arrastrar el almidón que aún retiene, y las tres corrientes ricas en almidón (L1, L2, L3) se recogen en la línea de producto. Así se agota la fibra en serie y no se pierde almidón; en el arreglo 3, por ejemplo, se envía a reextracción la corriente equivocada.",
+      "origen": "Cuadernillo 2018 #9",
+      "imagen": "icfes_diseno_agroindustriales_009.png"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-010",
+      "area": "diseno_agroindustriales",
+      "n": 10,
+      "contexto": null,
+      "enunciado": "En una agroindustria rural se elaboran mermeladas con varios tipos de frutas. En todos los casos se usa la misma cantidad de jugo de limón para acidificar la pulpa y la misma cantidad de pectina de alto metoxilo para lograr una buena gelificación. Se observa que la mermelada de mora (pH=2,8) presenta un problema de exudación de jarabe (sinéresis); la forma más adecuada de corregir este problema es",
+      "opciones": {
+        "A": "disminuir la cantidad de pectina utilizada.",
+        "B": "no adicionar jugo de limón a la pulpa.",
+        "C": "aumentar la proporción de pectina empleada.",
+        "D": "aumentar la cantidad de jugo de limón adicionada a la pulpa."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La pectina de alto metoxilo gelifica bien hacia pH 3,0–3,4; la mora ya es muy ácida y, con el limón añadido, queda en pH 2,8, una acidez excesiva que contrae el gel y lo hace exudar jarabe. Lo que hay que corregir es el **exceso de ácido**, así que basta con no añadir limón a esa pulpa.",
+      "origen": "Cuadernillo 2018 #10"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-011",
+      "area": "diseno_agroindustriales",
+      "n": 11,
+      "contexto": null,
+      "enunciado": "En la congelación de alimentos, la velocidad a la cual se consigue llegar a la temperatura final es un factor crítico para la calidad del producto. Una forma de aumentar esa velocidad es reduciendo",
+      "opciones": {
+        "A": "la diferencia de temperaturas entre el alimento y el refrigerante.",
+        "B": "el espesor o tamaño del alimento y de su envase.",
+        "C": "la velocidad del aire refrigerado o del refrigerante circulante.",
+        "D": "el efecto de refrigeración o capacidad térmica del refrigerante."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "El tiempo de congelación crece con el espesor (aproximadamente con su cuadrado en la ecuación de Plank), porque el calor del centro tiene que recorrer más distancia. Reducir el **tamaño del alimento y del envase** acelera la congelación; reducir el ΔT, la velocidad del refrigerante o su capacidad térmica la haría más lenta.",
+      "origen": "Cuadernillo 2018 #11"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-012",
+      "area": "diseno_agroindustriales",
+      "n": 12,
+      "contexto": null,
+      "enunciado": "En el diseño de la operación de pasteurización en una empresa se presenta que la leche pasteurizada a altas temperaturas y cortos tiempos (HTST) tiene una estabilidad de unos pocos días; en cambio, cuando se somete a una ultrapasteurización (UHT) alcanza una mayor estabilidad porque",
+      "opciones": {
+        "A": "el sistema UHT no permite la recontaminación del producto ya envasado, disminuyendo la posibilidad de reproducción microbiana en el alimento.",
+        "B": "el sistema HTST no destruye la totalidad de los microorganismos patógenos contaminantes, permitiendo una alteración del producto.",
+        "C": "el sistema HTST garantiza la destrucción de la peroxidasa en la leche, disminuyendo su alteración biológica.",
+        "D": "el sistema UHT garantiza la destrucción del Mycobacterium tuberculosis en la leche."
+      },
+      "correcta": "B",
+      "afirmacion": "Propone alternativas de solución, las evalúa y selecciona la más conveniente teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ambiental, y ético.",
+      "explicacion": "La pasteurización HTST no lleva la leche a esterilidad: sobreviven microorganismos termorresistentes y esporas que terminan alterándola en pocos días, mientras que el UHT (135–150 °C) prácticamente los elimina todos. La recontaminación depende del envasado, no del tratamiento; HTST ya destruye *M. tuberculosis*, y la peroxidasa no es el indicador que asegura estabilidad.",
+      "origen": "Cuadernillo 2018 #12"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-013",
+      "area": "diseno_agroindustriales",
+      "n": 13,
+      "contexto": null,
+      "enunciado": "Trozos de fruta se sumergen en un jarabe altamente concentrado de sacarosa. Al cabo de un tiempo se observa que el contenido de sólidos solubles en la fruta ha aumentado. Esto se debe principalmente a que",
+      "opciones": {
+        "A": "el jarabe actúa como una solución hipotónica que provoca la deshidratación de la célula.",
+        "B": "el azúcar disuelta en el jarabe se difunde a través de la membrana celular.",
+        "C": "los ácidos orgánicos de mayor tamaño presentes en los trozos de la fruta se difunden hacia el jarabe.",
+        "D": "el agua presente en la fruta se difunde a través de la membrana celular hacia el jarabe."
+      },
+      "correcta": "D",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "En la deshidratación osmótica el jarabe es **hipertónico**: el agua sale de la fruta por ósmosis a través de la membrana semipermeable y la concentración de sólidos solubles en la fruta sube. La sacarosa penetra mucho menos que lo que sale el agua, por eso el efecto principal es la salida de agua; la opción A se equivoca al llamar hipotónico al jarabe.",
+      "origen": "Cuadernillo 2018 #13"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-014",
+      "area": "diseno_agroindustriales",
+      "n": 14,
+      "contexto": 1,
+      "enunciado": "Para la segunda fase del diseño del proceso de extracción de aceite de algodón, se debe calcular la cantidad de aceite de las hojuelas de semillas de algodón (F) que se distribuye en los productos que salen del equipo extractor. La cantidad de aceite en la comida para ganado (C) que sale del extractor E1 se determina mediante el modelo matemático",
+      "opciones": {
+        "A": "Xf * C",
+        "B": "Xc * C",
+        "C": "(Xf / C) * 100",
+        "D": "(C / Xc) * 100"
+      },
+      "correcta": "B",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "La masa de aceite en una corriente es su flujo por su fracción de aceite. Para la comida para ganado hay que usar la fracción de **esa** corriente, Xc: aceite en C = **Xc · C**. Xf es la fracción de las hojuelas que entran, no la de la torta que sale.",
+      "origen": "Cuadernillo 2018 #14"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-015",
+      "area": "diseno_agroindustriales",
+      "n": 15,
+      "contexto": 1,
+      "enunciado": "El aceite de algodón que se obtiene en el proceso diseñado se conserva con la inyección de nitrógeno en la parte superior del tanque de almacenamiento TA1 para evitar el contacto del aceite con el oxígeno del aire. La masa de nitrógeno requerida se calcula de acuerdo con las siguientes ecuaciones previas:\n\n**Ecuaciones previas:**\n\n- pV = nRT\n- PM = m/n\n\n**Donde:** V: volumen; T: temperatura; PM: peso molecular; R: constante; m: masa; n: moles; p: presión.\n\nSegún lo anterior, la masa de Nitrógeno para la conservación del aceite en el tanque se predice mediante el modelo matemático",
+      "opciones": {
+        "A": "m = (0,5 atm * R * T) / (V * PM)",
+        "B": "m = (0,5 atm * V * T) / (R * PM)",
+        "C": "m = (0,5 atm * R * PM) / (V * T)",
+        "D": "m = (0,5 atm * V * PM) / (R * T)"
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "De pV = nRT se despeja n = pV/(RT), y de PM = m/n, m = n · PM. Sustituyendo con p = 0,5 atm: **m = (0,5 atm · V · PM)/(R · T)**.",
+      "origen": "Cuadernillo 2018 #15"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-016",
+      "area": "diseno_agroindustriales",
+      "n": 16,
+      "contexto": 1,
+      "enunciado": "En la última fase del diseño del proceso de obtención de aceite de algodón es importante la selección de la bomba centrifuga B1 que se encuentra en el diagrama de flujo dado. Un catálogo de un proveedor presenta curvas características de cuatro modelos (curvas 2, 3, 4, 5) de una bomba centrífuga con varios caudales (Q), alturas de descarga (H), potencias (P) y eficiencias (η), para obtener diferentes condiciones de trabajo de la bomba.\n\nLuego de analizar estas condiciones de trabajo representadas por líneas negras sobre estas curvas, la opción que aprovecha mejor la capacidad de la bomba centrífuga para transportar el aceite a la torre de recuperación TR1 es",
+      "opciones": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "Una bomba se aprovecha mejor cuando opera cerca de su **punto de máxima eficiencia**. En C el punto de trabajo (≈ 2,1 m³/h y ≈ 35 m) cae justo en el máximo de la curva η (≈ 34 %), con caudal y altura altos; A y D trabajan con caudales bajos y eficiencias menores, y B, con caudal muy alto, queda en la zona donde la eficiencia ya cae.",
+      "origen": "Cuadernillo 2018 #16",
+      "imagenes": {
+        "A": "icfes_diseno_agroindustriales_016_A.png",
+        "B": "icfes_diseno_agroindustriales_016_B.png",
+        "C": "icfes_diseno_agroindustriales_016_C.png",
+        "D": "icfes_diseno_agroindustriales_016_D.png"
+      }
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-017",
+      "area": "diseno_agroindustriales",
+      "n": 17,
+      "contexto": 1,
+      "enunciado": "En el diseño del proceso de aceite de algodón, la bomba centrífuga B2 transporta el aceite refinado al tanque de almacenamiento TA1, a una velocidad determinada a través de una tubería de acero inoxidable con dos diámetros diferentes. La ecuación de continuidad (caudal = velocidad * área) determina la velocidad del aceite. Para llenar el tanque de almacenamiento en menor tiempo, se requiere un caudal",
+      "opciones": {
+        "A": "variable de aceite.",
+        "B": "bajo en la bomba.",
+        "C": "alto de aceite.",
+        "D": "variable en la bomba."
+      },
+      "correcta": "C",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "El tiempo de llenado es el volumen del tanque dividido por el caudal (t = V/Q). Por continuidad, el caudal se conserva aunque cambie el diámetro (cambia solo la velocidad), así que para llenar antes se necesita un **caudal alto de aceite**.",
+      "origen": "Cuadernillo 2018 #17"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-018",
+      "area": "diseno_agroindustriales",
+      "n": 18,
+      "contexto": null,
+      "enunciado": "El envasado de levadura seca de panificación obtenida en un bioproceso requiere un envase flexible laminado que contenga 150 g de producto.\n\nDe acuerdo con las características del envase requerido, el principal objetivo es",
+      "opciones": {
+        "A": "garantizar un transporte seguro y libre de acciones físicas contra la levadura.",
+        "B": "evitar la ganancia de humedad y penetración de la luz.",
+        "C": "disminuir los costos de almacenamiento y transporte hacia el supermercado.",
+        "D": "ofrecer un producto fresco y de prolongada vida útil."
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basado en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "La levadura seca es higroscópica y se inactiva si gana humedad; la luz (y el oxígeno) también la deterioran. El laminado flexible se escoge precisamente como **barrera contra la humedad y la luz**; la vida útil (D) es la consecuencia, no la función específica del envase.",
+      "origen": "Cuadernillo 2018 #18"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-019",
+      "area": "diseno_agroindustriales",
+      "n": 19,
+      "contexto": null,
+      "enunciado": "En la siguiente tabla se presenta información tecnológica y económica de dos propuestas de máquinas freidoras.\n\n| Máquina | Coeficiente de transferencia de calor | Precio Aceite/kg | Ganancia de peso en el producto final |\n|---|---|---|---|\n| Freidora 1 sin agitación | 200 W/m² . K | $ 4000 | 3 % |\n| Freidora 2 con agitación | 230 W/m² . K | $ 5000 | 2 % |\n\nPara el diseño de un proceso de freído se debe manejar buena transferencia de calor a bajo costo del aceite empleado. Teniendo en cuenta los anteriores criterios, la alternativa más conveniente es",
+      "opciones": {
+        "A": "la freidora 2, porque permite alto manejo de calor por área y menos costo de aceite utilizado.",
+        "B": "la freidora 1, porque permite alta transferencia de calor y menos precio del aceite comprado.",
+        "C": "cualquier freidora, porque todas absorben en el producto final cantidades cercanas de aceite.",
+        "D": "cualquier freidora, porque todas cumplen altas transferencias de calor con costos similares."
+      },
+      "correcta": "A",
+      "afirmacion": "Propone alternativas de solución, las evalúa y selecciona la más conveniente, teniendo en cuenta criterios de tipo técnico, económico, financiero, social, ambiental, y ético.",
+      "explicacion": "La freidora 2 tiene el mayor coeficiente (230 W/m²·K) y el producto absorbe menos aceite: por kg de producto, 0,02 kg × $5000 = **$100**, frente a 0,03 kg × $4000 = **$120** en la freidora 1. La trampa de B es mirar solo el precio por kilo del aceite y no cuánto aceite se consume.",
+      "origen": "Preguntas explicadas #1"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-020",
+      "area": "diseno_agroindustriales",
+      "n": 20,
+      "contexto": 2,
+      "enunciado": "Para el diseño del secador de la cebada, se requiere determinar la cantidad de agua eliminada que retira el aire caliente. Por tanto, el agua eliminada en el secado de 1000 kg de cebada húmeda en kg es",
+      "opciones": {
+        "A": "(1000 kg * 0,18) – [(1000-180) kg * (90/10)]",
+        "B": "(1000 kg * 0,18) – [(1000-180) kg * (10/90)]",
+        "C": "(1000 kg * 0,18) – [(1000-100) kg * (18/82)]",
+        "D": "(1000 kg * 0,18) – [(1000-100) kg * (82/18)]"
+      },
+      "correcta": "B",
+      "afirmacion": "Identifica y formula un problema de diseño a partir del análisis de una situación contextualizada, basados en información que puede ser incompleta, sobrante o incierta.",
+      "explicacion": "Agua eliminada = agua inicial − agua final. Agua inicial: 1000 × 0,18 = 180 kg; los sólidos (1000 − 180 = 820 kg) se conservan y en la cebada seca son el 90 %, así que el agua final es 820 × (10/90) ≈ 91,1 kg. Resultado: 180 − 91,1 ≈ **88,9 kg**; A invierte la relación y C y D usan datos de la cebada inicial.",
+      "origen": "Preguntas explicadas #2"
+    },
+    {
+      "id": "icfes-diseno_agroindustriales-021",
+      "area": "diseno_agroindustriales",
+      "n": 21,
+      "contexto": 2,
+      "enunciado": "En el diseño del secador de la cebada se requiere determinar la cantidad de calor necesario para su funcionamiento, a partir del valor del calor específico (Cp), que se calcula mediante el siguiente modelo matemático:\n\nCp (kcal/kg * K) = 0,3 + 0,5 * humedad (expresada en fracción)\n\nDe acuerdo con lo anterior, el modelo matemático que determina el calor específico para hallar el calor necesario en el secador es el de la opción",
+      "opciones": {
+        "A": "0,3 + 0,5 * 10",
+        "B": "0,3 + 0,5 * 0,10",
+        "C": "0,3 + 0,5 * 18",
+        "D": "0,3 + 0,5 * 0,18"
+      },
+      "correcta": "D",
+      "afirmacion": "Aplica los conocimientos de las matemáticas, las ciencias, la tecnología y las ciencias de la ingeniería para especificar en forma detallada un producto tecnológico.",
+      "explicacion": "El calor se suministra a la cebada **húmeda** que entra al secador, con 18 % de humedad, y el modelo pide la humedad como fracción: Cp = 0,3 + 0,5 × 0,18 = 0,39 kcal/kg·K. A y C usan porcentajes en vez de fracciones, y B toma la humedad final.",
+      "origen": "Preguntas explicadas #3"
+    }
+  ]
+}

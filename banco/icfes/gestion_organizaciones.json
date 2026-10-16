@@ -1,0 +1,433 @@
+{
+ "fuente": "Icfes — Saber Pro, Módulo de Gestión de Organizaciones (cuadernillos 2018 y 2026, y preguntas explicadas)",
+ "contextos": [],
+ "preguntas": [
+  {
+   "id": "icfes-gestion_organizaciones-001",
+   "area": "gestion_organizaciones",
+   "n": 1,
+   "contexto": null,
+   "enunciado": "La Gestión Humana en las organizaciones adquiere, cada vez más, un lugar decisivo como área asesora de la gerencia general, siempre y cuando se cambie de una visión funcionalista a una visión estratégica en la administración de los recursos humanos. Para lograr cumplir a cabalidad con este nuevo rol, el objetivo principal de esta área es el de",
+   "opciones": {
+    "A": "desarrollar procesos de selección de personal justo y acorde con las descripciones de cargos.",
+    "B": "definir con la dirección las competencias para desarrollar ventajas competitivas y evaluarlas periódicamente para definir planes de entrenamiento.",
+    "C": "mediar entre los intereses del equipo de colaboradores y los objetivos organizacionales para que haya equilibrio entre ellos.",
+    "D": "adelantar constantemente actividades de bienestar que generen motivación y pertenencia en los colaboradores de la organización."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "Para el Icfes, el rol estratégico de Gestión Humana es **mediar entre los intereses de las personas y los objetivos de la organización**, buscando su equilibrio. Selección (A) y bienestar (D) son funciones operativas propias de la visión funcionalista. La opción B también tiene un tono estratégico (gestión por competencias), por lo que puede confundir; pero se limita a una herramienta de desarrollo, mientras que C expresa el propósito general del área.",
+   "origen": "Cuadernillo 2018 #1"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-002",
+   "area": "gestion_organizaciones",
+   "n": 2,
+   "contexto": null,
+   "enunciado": "Una empresa de confecciones radicada en Bogotá contrató una asesoría para mejorar la eficiencia de su planta de producción.\n\nSi usted formara parte del equipo asesor, recomendaría como acción inicial",
+   "opciones": {
+    "A": "analizar el precio de venta de las confecciones.",
+    "B": "optimizar los procesos de producción.",
+    "C": "aumentar el margen de utilidad de las confecciones.",
+    "D": "comprar materia prima más barata en China."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "La eficiencia de una planta es la relación entre resultados y recursos usados en la **producción**, así que se mejora optimizando los procesos productivos (enfoque de la administración científica). El precio de venta y el margen (A, C) son variables comerciales y financieras, y cambiar de proveedor (D) reduce costos sin mejorar cómo se produce.",
+   "origen": "Cuadernillo 2018 #2"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-003",
+   "area": "gestion_organizaciones",
+   "n": 3,
+   "contexto": null,
+   "enunciado": "Una pequeña empresa productora de jugos naturales empacados que solo vendía a través de distribuidores decidió expandirse, para lo cual compró, en algunas ciudades intermedias, pequeñas tiendas de barrio que únicamente vendían sus productos. La estrategia de crecimiento que siguió la empresa de jugos fue de",
+   "opciones": {
+    "A": "integración vertical.",
+    "B": "diversificación del negocio.",
+    "C": "desarrollo de mercado.",
+    "D": "alianzas con competidores."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "Al comprar los puntos de venta, la empresa asume una etapa posterior de su propia cadena de valor (la distribución al consumidor): es **integración vertical hacia adelante**. No hay productos nuevos (B), las tiendas solo venden lo que ya produce la empresa, ni hay alianzas con competidores (D); y el desarrollo de mercado (C) implica llevar los productos a nuevos mercados, no adquirir el canal.",
+   "origen": "Cuadernillo 2018 #3"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-004",
+   "area": "gestion_organizaciones",
+   "n": 4,
+   "contexto": null,
+   "enunciado": "Un fabricante de vehículos realiza un proceso productivo por línea de montaje con la correspondiente especialización del empleado y estandarización del trabajo. Además, acorde con su estrategia defensiva, presenta una estructura funcional burocrática con alta centralización de las decisiones. Ahora se prepara para su posicionamiento global aprovechando los tratados de libre comercio que su país firmó con diferentes naciones.\n\nLa empresa sabe que debe enfrentar un entorno complejo, para lo cual ha elegido una estrategia ofensiva de desarrollo de producto y mercado, manteniendo su condición operativa actual.\n\nEn este sentido, los principales ajustes que la empresa debe realizar son",
+   "opciones": {
+    "A": "promover la polivalencia de los empleados para integrarlos a una estructura matricial y crear equipos autodirigidos.",
+    "B": "flexibilizar la formalización de los procesos manteniendo la centralización de las decisiones y la agrupación funcional.",
+    "C": "afianzar la departamentalización funcional y reducir los tramos de autoridad buscando una estructura más plana.",
+    "D": "descentralizar las decisiones, impulsar la innovación y crear una agrupación de cargos por producto y geográfica."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "Una estrategia ofensiva de nuevos productos y mercados en un entorno complejo exige **descentralizar** decisiones, fomentar la **innovación** y agrupar por **producto y geografía** (estructura divisional). Como la empresa mantiene su línea de montaje especializada, la polivalencia y los equipos autodirigidos (A) no encajan; B y C conservan la centralización o la agrupación funcional, propias de la estrategia defensiva que se abandona.",
+   "origen": "Cuadernillo 2018 #4"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-005",
+   "area": "gestion_organizaciones",
+   "n": 5,
+   "contexto": null,
+   "enunciado": "El gerente general de una empresa de plásticos que importa insumos desde Estados Unidos, observa que las utilidades se han visto afectadas por la devaluación del peso colombiano frente al dólar y la oscilación de los precios internacionales del petróleo. Estos aspectos corresponden a variables del",
+   "opciones": {
+    "A": "macroentorno, específicamente relacionadas con el sistema jurídico-legal.",
+    "B": "microentorno, específicamente relacionadas con el mercado.",
+    "C": "macroentorno, específicamente relacionadas con el sistema económico.",
+    "D": "microentorno, específicamente relacionadas con el sistema ambiental."
+   },
+   "correcta": "C",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "La tasa de cambio y el precio internacional del petróleo son variables que la empresa no controla ni influye y que afectan a todo el sector: pertenecen al **macroentorno económico**. No son normas (A), y el microentorno (B, D) se refiere a actores cercanos como clientes, proveedores y competidores.",
+   "origen": "Cuadernillo 2018 #5"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-006",
+   "area": "gestion_organizaciones",
+   "n": 6,
+   "contexto": null,
+   "enunciado": "Una empresa que actúa en un entorno que cambia rápidamente requiere tener procesos adaptables y flexibles que puedan operar con poca supervisión y con reglas formales mínimas, la estructura que se recomienda es",
+   "opciones": {
+    "A": "una estructura mecanicista, porque la autoridad se centraliza en la parte superior de la jerarquía administrativa y ello permite desarrollar mecanismos de control estrictos para evitar que los mandos medios actúen de manera independiente.",
+    "B": "una estructura orgánica, porque la autoridad se descentraliza en los gerentes medios y ello permite que estos puedan asumir la responsabilidad y actuar con prontitud respondiendo a los cambios.",
+    "C": "cualquiera de las dos estructuras, ya sea mecanicista ú orgánica, porque ambas funcionan adecuadamente en la organización, porque lo más importante es tener bien definidas la misión y la visión de la empresa.",
+    "D": "una estructura adhocrática, porque al actuar en un ambiente así, difícilmente se puede hacer una planeación a mediano o largo plazo."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "Según Burns y Stalker, los entornos dinámicos piden una **estructura orgánica**: descentralizada, poco formalizada y con mandos medios capaces de responder rápido. La mecanicista (A) sirve en entornos estables; C niega que la estructura dependa del entorno, y D justifica la adhocracia con un argumento falso (sí se puede planear a mediano y largo plazo).",
+   "origen": "Cuadernillo 2018 #6"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-007",
+   "area": "gestion_organizaciones",
+   "n": 7,
+   "contexto": null,
+   "enunciado": "El supervisor de planta de la compañía XYZ recibe de la gerencia la orden de producción para el mes siguiente con las cantidades y especificaciones requeridas.\n\nPara el supervisor esta es una planeación",
+   "opciones": {
+    "A": "estratégica.",
+    "B": "por escenarios.",
+    "C": "táctica.",
+    "D": "operativa."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "Una orden de producción mensual con cantidades y especificaciones concretas, ejecutada por un supervisor, es **planeación operativa**: corto plazo, nivel de ejecución y alto detalle. La estratégica (A) es de largo plazo y la define la alta dirección; la táctica (C) traduce la estrategia a planes por área en el mediano plazo, y la planeación por escenarios (B) analiza futuros alternativos.",
+   "origen": "Cuadernillo 2018 #7"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-008",
+   "area": "gestion_organizaciones",
+   "n": 8,
+   "contexto": null,
+   "enunciado": "La gerencia de una empresa de prestigio internacional adquirió un novedoso equipo altamente sofisticado y debe decidir entre capacitar a los trabajadores actuales de la empresa o contratar nuevos trabajadores debidamente capacitados. El mejor proceso para tomar una decisión exige identificar el problema,",
+   "opciones": {
+    "A": "determinar las diferentes alternativas de solución, ponderar las alternativas según distintos parámetros, analizar integralmente las alternativas y seleccionar una de ellas.",
+    "B": "analizar integralmente las alternativas, ponderarlas según diferentes parámetros y seleccionar por lo menos dos de ellas.",
+    "C": "analizar la situación financiera de la empresa, determinar diferentes alternativas de solución y optar por aquella que menos afecte el flujo de caja.",
+    "D": "compartir con su equipo de colaboradores las diferentes alternativas de solución, hacer una votación y seleccionar aquella que obtenga el mayor número de votos."
+   },
+   "correcta": "A",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "El proceso racional de decisión sigue el orden: identificar el problema → **generar alternativas → ponderarlas con criterios → analizarlas → elegir una**. B se salta la generación de alternativas y termina eligiendo dos; C reduce la decisión a un solo criterio (flujo de caja), y D cambia el análisis por una votación.",
+   "origen": "Cuadernillo 2018 #8"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-009",
+   "area": "gestion_organizaciones",
+   "n": 9,
+   "contexto": null,
+   "enunciado": "En la tabla se presenta la formulación de planes realizados por los gerentes generales de dos empresas.\n\n| Empresa | Estrategia | Políticas |\n|---|---|---|\n| X | Comprar la empresa que nos provee los productos. | El 60 % de las ventas serán a crédito. |\n| XY | Toda intención de incursionar en el extranjero debe viabilizarse a través de una investigación de mercados. | La apertura de los puntos de venta se hará sin deuda. |\n\nAl observar la tabla, usted encuentra que hay un error, porque el gerente de la empresa",
+   "opciones": {
+    "A": "X presentó la estrategia como una política.",
+    "B": "XY formuló la política como una estrategia.",
+    "C": "X escribió la política como una estrategia.",
+    "D": "XY redactó la estrategia como una política."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "Una **estrategia** es un curso de acción para lograr un objetivo (por ejemplo, comprar al proveedor, como hace X); una **política** es una guía o regla que orienta las decisiones. La frase de XY «toda intención de incursionar en el extranjero debe viabilizarse...» es una regla de decisión, es decir, una política ubicada en la columna de estrategia. Lo que escribió X sí está bien clasificado.",
+   "origen": "Cuadernillo 2018 #9"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-010",
+   "area": "gestion_organizaciones",
+   "n": 10,
+   "contexto": null,
+   "enunciado": "Cuando una organización debe efectuar un cambio organizacional planeado que permita su desarrollo, considera aspectos de carácter",
+   "opciones": {
+    "A": "interno porque corresponde a un cambio que planea la organización.",
+    "B": "interno y externo, porque en el cambio planeado confluyen los dos tipos de factores.",
+    "C": "externo, porque el medio externo siempre es el que genera el cambio organizacional.",
+    "D": "interno o externo, porque cualquiera de los dos es útil para determinar los cambios."
+   },
+   "correcta": "B",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "La organización es un sistema abierto: el cambio planeado responde tanto a presiones del **entorno** (mercado, tecnología, normas) como a condiciones **internas** (cultura, estructura, procesos), y ambos tipos de factores **confluyen**. A y C solo consideran uno, y D los plantea como alternativas excluyentes.",
+   "origen": "Cuadernillo 2018 #10"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-011",
+   "area": "gestion_organizaciones",
+   "n": 11,
+   "contexto": null,
+   "enunciado": "En reunión para establecer el proceso de planeación estratégica de una organización, el gerente propone lo siguiente: “Debemos adoptar una estrategia de desarrollo de productos según la matríz de Ansoff, la cual se fundamenta en la introducción de nuevos productos para atender los mercados actuales”.\n\nLos indicadores más apropiados para la medición de esta estrategia son:",
+   "opciones": {
+    "A": "Ingresos por nuevos clientes, nivel de satisfacción y costo de ventas.",
+    "B": "Conocimiento de marca y tasa de respuesta a las campañas publicitarias.",
+    "C": "Nivel de servicio por canal y porcentaje de consultas no satisfechas.",
+    "D": "Número de productos por cliente e ingresos por venta cruzada."
+   },
+   "correcta": "D",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "Desarrollar productos para los **clientes actuales** se mide viendo si esos clientes compran más productos de la empresa: **productos por cliente y venta cruzada**. Los ingresos por nuevos clientes (A) miden desarrollo de mercado; B mide la efectividad publicitaria y C, el servicio al cliente.",
+   "origen": "Cuadernillo 2018 #11"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-012",
+   "area": "gestion_organizaciones",
+   "n": 12,
+   "contexto": null,
+   "enunciado": "El gerente de producción de una empresa, luego de establecer el programa de fabricación para el periodo que termina, y después de distribuir adecuadamente “el organismo material y coordinar el cuerpo social”, verifica que la labor encomendada a un subalterno del área se cumpla de acuerdo con las instrucciones, pues en caso contrario establecerá las medidas correctivas que permitan su realización y si es necesario lo despedirá.\n\nLa teoría que permite interpretar mejor esta situación es",
+   "opciones": {
+    "A": "la neoclásica, porque el gerente realiza un control consistente en la revisión del plan preestablecido, luego de la disposición de los recursos.",
+    "B": "el liderazgo, porque el gerente desarrolla acciones de dirección para guiar al empleado hacia el alcance de los objetivos previstos.",
+    "C": "la burocrática, puesto que el gerente supervisa que las funciones se lleven a cabo según las indicaciones formales entregadas previamente.",
+    "D": "la administración por objetivos, pues el gerente está conduciendo la empresa hacia su propósito, corrigiendo las desviaciones presentadas."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "El caso recorre el **proceso administrativo** completo: planear (programa de fabricación), organizar y dirigir (organismo material y cuerpo social) y **controlar** (verificar y corregir), que es el núcleo de la teoría **neoclásica**. El liderazgo (B) no abarca la distribución y el control de actividades; la burocracia (C) se centra en la estandarización y la autoridad legítima, y la APO (D) enfatiza la planeación y el control a nivel de toda la empresa, no de un área.",
+   "origen": "Cuadernillo 2018 #12"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-013",
+   "area": "gestion_organizaciones",
+   "n": 13,
+   "contexto": null,
+   "enunciado": "Un empleado de una empresa productora de calzado le presentó al supervisor de planta una idea para mejorar la colocación de la plantilla al molde de los zapatos. Una vez analizada por el comité de producción se concluye que no es posible su implementación durante este año, debido a que implica diseñar un accesorio para la máquina grapadora, lo cual no se había presupuestado. Emite un comunicado al empleado agradeciendo su participación y planteando la opción de que se incluirá en el presupuesto del siguiente año. Con base en lo anterior, se puede concluir que en esta empresa",
+   "opciones": {
+    "A": "no se incentiva la creatividad.",
+    "B": "se limitan los recursos financieros.",
+    "C": "se experimenta resistencia al cambio.",
+    "D": "se reconoce el aporte de los empleados."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "La empresa analiza la idea en comité, **agradece** formalmente al empleado y se compromete a presupuestarla el año siguiente: está **reconociendo su aporte**. Eso contradice A y C, y el aplazamiento por falta de presupuesto es una restricción puntual del periodo, no una política de limitar recursos (B).",
+   "origen": "Cuadernillo 2018 #13"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-014",
+   "area": "gestion_organizaciones",
+   "n": 14,
+   "contexto": null,
+   "enunciado": "La empresa cementos del norte establece su direccionamiento estratégico y les solicita a los líderes de procesos que definan sus respectivos planes de acción. Ellos proponen los siguientes.\n\n| Proceso | Planes de acción |\n|---|---|\n| Finanzas | Realizar la consolidación de saldos de los bancos, para la toma de decisiones del flujo de caja diario. |\n| Gestión humana | Establecer las competencias organizacionales y su alineamiento estratégico. |\n| Producción | Identificar proveedores para la realización de alianzas estratégicas, en el suministro de materias primas. |\n| Marketing | Describir los canales de distribución de la organización de acuerdo con la segmentación de productos. |\n\nDe los anteriores, se constituye en un verdadero plan de acción el formulado por el líder del proceso de",
+   "opciones": {
+    "A": "finanzas.",
+    "B": "gestión humana.",
+    "C": "producción.",
+    "D": "marketing."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "Un plan de acción derivado del direccionamiento estratégico debe concretar una iniciativa **alineada con la estrategia** que genere un resultado nuevo. Establecer las competencias organizacionales y alinearlas con la estrategia cumple esa condición. La consolidación diaria de saldos (A) es una tarea operativa rutinaria, mientras que identificar proveedores (C) y describir canales (D) son actividades de diagnóstico o descripción, no planes con un resultado estratégico.",
+   "origen": "Cuadernillo 2018 #14"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-015",
+   "area": "gestion_organizaciones",
+   "n": 15,
+   "contexto": null,
+   "enunciado": "Desde la fabricación del primer computador personal a mediados de la década de 1970, la compañía YNF decidió convertirse en líder del mercado a nivel mundial. A medida que los computadores se hicieron más livianos, los procesadores más rápidos, la capacidad de almacenamiento del disco duro más amplia y la conectividad se incorporó como parte esencial en la vida de los usuarios, la compañía YNF también experimentó importantes cambios. La gerencia pasó de utilizar una producción en línea en los años 70, a estudiar el mercado en los 80, personalizar el uso de los computadores en los 90 e implementar el servicio postventa en la primera década del nuevo siglo. Esta transición, que implicó el uso de varios enfoques administrativos, forma parte de la teoría",
+   "opciones": {
+    "A": "estructural.",
+    "B": "científica.",
+    "C": "burocrática.",
+    "D": "situacional."
+   },
+   "correcta": "D",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "La empresa fue cambiando de enfoque administrativo según lo exigían el entorno tecnológico y el mercado de cada época. Esa idea de que **no hay una única mejor manera** de administrar, sino que depende de la situación, es la teoría **situacional o de la contingencia**. La científica (B) corresponde solo a la producción en línea de los 70; la estructuralista y la burocrática (A, C) no explican la adaptación sucesiva.",
+   "origen": "Cuadernillo 2018 #15"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-016",
+   "area": "gestion_organizaciones",
+   "n": 16,
+   "contexto": null,
+   "enunciado": "La teoría de la contingencia, desarrollada en las décadas de 1950 y 1960, demostró que no existe una mejor forma de estructura organizacional ya que esta depende del entorno. En las décadas siguientes la teoría de costos de transacción asume que la forma de estructurar una organización está orientada por el análisis de eficiencias económicas frente a un marco jurídico-legal. Sin embargo, posteriores estudios provenientes de la corriente sociológica de las organizaciones encuentra la existencia de otras presiones del entorno en la estructuración de las organizaciones, como las normativas y coercitivas. A esta teoría se le conoce como",
+   "opciones": {
+    "A": "teoría del institucionalismo organizacional.",
+    "B": "teoría de la ecología de poblaciones.",
+    "C": "teoría de la dependencia de los recursos.",
+    "D": "teoría del capital social."
+   },
+   "correcta": "A",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "El **institucionalismo organizacional** (DiMaggio y Powell, Meyer y Rowan) explica que las organizaciones adoptan estructuras por presiones de legitimidad: **coercitivas, normativas** y miméticas. La ecología de poblaciones (B) estudia la selección y supervivencia de las organizaciones; la dependencia de recursos (C) analiza el poder de quienes controlan recursos críticos, y el capital social (D) se refiere a las redes de relaciones.",
+   "origen": "Cuadernillo 2018 #16"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-017",
+   "area": "gestion_organizaciones",
+   "n": 17,
+   "contexto": null,
+   "enunciado": "En su proceso de direccionamiento, una empresa establece “En el año 2025 seremos la compañía automotriz número uno del mundo reconocida por su Responsabilidad social empresarial y por su compromiso con el medio ambiente”. Este planteamiento hace referencia a",
+   "opciones": {
+    "A": "la misión.",
+    "B": "la visión.",
+    "C": "un objetivo estratégico.",
+    "D": "la estrategia corporativa."
+   },
+   "correcta": "B",
+   "afirmacion": "Aplicar los elementos del proceso administrativo en el marco de la gestión organizacional.",
+   "explicacion": "Describe un **estado futuro deseado**, con horizonte temporal («en el año 2025 seremos...») y de carácter aspiracional: es la **visión**. La misión (A) declara la razón de ser actual; un objetivo estratégico (C) es medible y más específico, y la estrategia (D) indica cómo llegar.",
+   "origen": "Cuadernillo 2018 #17"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-018",
+   "area": "gestion_organizaciones",
+   "n": 18,
+   "contexto": null,
+   "enunciado": "Una gran empresa iniciará un proceso de fusión organizacional, para lo cual debe prepararse internamente. Usted ha sido contratado por el gerente para que le ayude a solucionar algunos inconvenientes, entre ellos: las personas desconocen la filosofía institucional y la orientación estratégica, existen grupos informales que presionan un bajo desempeño, la información no se transmite apropiadamente, el personal en general presenta bajos niveles de satisfacción en la tarea, y que no hay una distribución efectiva de las funciones, lo que ha hecho que la empresa sea muy burocrática.\n\nCon base en este diagnóstico, los factores que debe considerar el gerente para preparar la organización son:",
+   "opciones": {
+    "A": "El esquema de comunicación organizacional tanto vertical como horizontal, la estructura organizacional junto con sus funciones, el clima organizacional y la motivación.",
+    "B": "El direccionamiento estratégico, para definir la misión y visión; la jerarquía, para establecer la línea de autoridad; y la motivación, para reconocer el compromiso de los empleados.",
+    "C": "La estrategia, para saber hacia dónde se va y cómo lograrlo; la estructura, para identificar roles y líneas de comunicación; y la cultura, para conocer el comportamiento de la organización.",
+    "D": "Las metas organizacionales, para detallar los alcances previstos; los cargos, para examinar el balance funcional; el trabajo en equipo, para explorar el nivel de inefectividad."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "La opción A cubre los problemas del diagnóstico: información mal transmitida → **comunicación**; funciones mal distribuidas y burocracia → **estructura y funciones**; grupos informales y baja satisfacción → **clima y motivación**. B y C son más genéricas y dejan por fuera parte de los síntomas (B refuerza la jerarquía de una empresa ya burocrática), y D no ataca la comunicación ni la satisfacción. Podría objetarse que A omite la filosofía y la orientación estratégica, pero es la que responde a más problemas del caso.",
+   "origen": "Cuadernillo 2018 #18"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-019",
+   "area": "gestion_organizaciones",
+   "n": 19,
+   "contexto": null,
+   "enunciado": "En una empresa industrial se presenta falta de coordinación entre el jefe de producción y el jefe de mercadeo, lo que ha ocasionado una acumulación de inventarios porque la información de las ventas no llega oportunamente. Para solucionar este inconveniente, con el visto bueno del gerente general, el jefe de producción decidió solicitar la información de pedidos de los clientes directamente al supervisor de ventas para mejorar la programación de la manufactura, hecho que ha causado malestar en el jefe de mercadeo. Lo anterior se considera",
+   "opciones": {
+    "A": "una situación permitida de comunicación cruzada, puesto que se presenta un flujo de información diagonal.",
+    "B": "un conflicto interfuncional, porque se ha perdido la comunicación horizontal entre los jefes de las dos áreas.",
+    "C": "una barrera en la comunicación, debido a que el gerente general no está respetando la comunicación vertical.",
+    "D": "una desatención de la comunicación ascendente, ya que el supervisor de ventas no sigue el conducto regular."
+   },
+   "correcta": "A",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "Con el **aval de la alta dirección**, se permite el intercambio de información entre niveles distintos de áreas distintas (**comunicación cruzada o diagonal**) sin violar la unidad de mando, porque no se dan órdenes, solo se obtienen datos. No es una pérdida de la comunicación horizontal (B), aunque haya un conflicto potencial; tampoco se afecta la comunicación vertical (C), y en la comunicación diagonal no es obligatorio seguir el conducto regular (D).",
+   "origen": "Cuadernillo 2018 #19"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-020",
+   "area": "gestion_organizaciones",
+   "n": 20,
+   "contexto": null,
+   "enunciado": "Una empresa que tiene 11 empleados se dedica a la fabricación y venta de derivados lácteos como arequipe, queso y yogurt. Fue creada y registrada legalmente en Colombia hace dos años por tres hermanos; dos aportaron el capital en dinero y uno, las recetas para la fabricación de los productos, además de encargarse de la representación y gestión del negocio.\n\nSegún su naturaleza jurídica, actividad económica y tamaño, se trata de una sociedad",
+   "opciones": {
+    "A": "colectiva, agroindustrial y del tipo microempresa.",
+    "B": "en comandita simple, agroindustrial y del tipo pequeña empresa.",
+    "C": "limitada, industrial-comercial y pequeña empresa.",
+    "D": "de hecho, industrial-comercial y del tipo pequeña empresa."
+   },
+   "correcta": "C",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "La empresa **fabrica y vende** (industrial-comercial), tiene 11 empleados (por la Ley 905 de 2004, de 11 a 50 trabajadores es **pequeña** empresa, no micro como dice A) y está registrada legalmente, lo que descarta la sociedad de hecho (D). Con socios que aportan capital y uno que aporta las recetas y administra, el Icfes la clasifica como **limitada**. Ojo: el aporte de recetas también podría sugerir una comandita (B), pero «agroindustrial» no describe bien una actividad de transformación y venta.",
+   "origen": "Cuadernillo 2018 #20"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-021",
+   "area": "gestion_organizaciones",
+   "n": 21,
+   "contexto": null,
+   "enunciado": "Una empresa dedicada a la producción y comercialización de productos de consumo masivo en las líneas de alimentos y aseo personal, presenta problemas en operación a todo nivel, ya que está creciendo en procesos, categorías, ciudades y clientes. En este caso la estructura organizacional más apropiada es",
+   "opciones": {
+    "A": "funcional.",
+    "B": "matricial.",
+    "C": "geográfica.",
+    "D": "hibrida."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "El crecimiento ocurre en varias dimensiones a la vez (procesos, categorías de producto, ciudades y clientes), así que ninguna agrupación pura basta. La estructura **híbrida** combina criterios: funcional, por producto, geográfica y por cliente. La funcional (A) y la geográfica (C) cubren una sola dimensión, y la matricial (B) cruza solo dos.",
+   "origen": "Cuadernillo 2018 #21"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-022",
+   "area": "gestion_organizaciones",
+   "n": 22,
+   "contexto": null,
+   "enunciado": "Un artesano de cerámicas que actualmente realiza procesos manuales y sobre pedido tiene como visión incrementar el valor de la firma, lograr una buena participación en el mercado y ofrecer varias líneas de productos, mediante una adecuada coordinación, división del trabajo y comunicación formal. Para lograr esto, el artesano debe implementar como mínimo las siguientes áreas funcionales:",
+   "opciones": {
+    "A": "Administrativa, contable, financiera, técnica y comercial.",
+    "B": "Logística, tecnología de la información, diseño y marketing.",
+    "C": "Compras, contratación, facturación y ambiental.",
+    "D": "Investigación y desarrollo, mercadeo, gestión humana."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "Según la clave oficial, la visión del artesano se cumple con **I+D** (varias líneas de productos), **mercadeo** (participación en el mercado) y **gestión humana** (división del trabajo y coordinación del personal). Sin embargo, la clave es **discutible**: la opción A reproduce las funciones básicas de Fayol (técnica, comercial, financiera, contable y administrativa), que son justamente el «mínimo» que necesita una firma para coordinarse formalmente y aumentar su valor, y que la opción D no incluye (no tiene producción ni finanzas).",
+   "origen": "Cuadernillo 2018 #22",
+   "clave_discutida": true
+  },
+  {
+   "id": "icfes-gestion_organizaciones-023",
+   "area": "gestion_organizaciones",
+   "n": 23,
+   "contexto": null,
+   "enunciado": "Una pequeña empresa diseñadora de sistemas de información ha creado una cultura de la creatividad en sus empleados permitiéndoles que estos trabajen colegiadamente e intercambien ideas, por lo que ha recibido el premio al Emprendimiento Innovador.\n\nPor esto fue contratada para desarrollar cuatro grandes proyectos, pero el gerente está preocupado porque considera necesario re-organizarse sin perder las características de la cultura organizacional actual.\n\nComo consultor en diseño organizativo, usted le recomendaría una estructura organizacional",
+   "opciones": {
+    "A": "virtual, de manera que pueda subcontratar algunos procesos operativos.",
+    "B": "tipo trébol con dos núcleos operativos, uno de ellos por outsourcing.",
+    "C": "por unidades estratégicas de negocio que se ocupen de cada proyecto.",
+    "D": "adhocrática, con equipos autodirigidos en lo administrativo y operativo."
+   },
+   "correcta": "D",
+   "afirmacion": "Comprender los elementos que caracterizan a las organizaciones como objeto de estudio de la administración.",
+   "explicacion": "La **adhocracia** (Mintzberg) es flexible, se basa en equipos autónomos por proyecto y es la forma que más impulsa la innovación, así que preserva la cultura colegiada y creativa. La estructura virtual y la de trébol (A, B) tercerizan procesos, lo que diluye una cultura fuerte; las UEN (C) son estructuras multidivisionales propias de grandes corporaciones, no de una empresa pequeña.",
+   "origen": "Cuadernillo 2018 #23"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-024",
+   "area": "gestion_organizaciones",
+   "n": 24,
+   "contexto": null,
+   "enunciado": "El gerente de una empresa mediana en constante crecimiento observa dos situaciones gerenciales en sus estados financieros. La primera es la dificultad para mantener un nivel de liquidez por encima del 50 % debido a inversiones en tecnología de punta. La segunda se refiere a la dificultad para conseguir apalancamiento financiero. Si la empresa quiere mejorar la liquidez debe",
+   "opciones": {
+    "A": "cuantificar las necesidades de la organización a corto plazo.",
+    "B": "vender los activos menos utilizados en su proceso productivo.",
+    "C": "tomar medidas que le aporten a la reducción de su punto de equilibrio.",
+    "D": "desarrollar su fuerza de ventas para ganar participación en el mercado."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "Como no puede endeudarse, la fuente inmediata de efectivo es **convertir en dinero activos ociosos** o poco usados, lo que mejora directamente la liquidez. Cuantificar necesidades (A) es un diagnóstico que no genera caja; reducir el punto de equilibrio (C) y ganar mercado (D) mejoran la rentabilidad a mediano plazo, pero no resuelven la liquidez de inmediato.",
+   "origen": "Cuadernillo 2018 #24"
+  },
+  {
+   "id": "icfes-gestion_organizaciones-025",
+   "area": "gestion_organizaciones",
+   "n": 25,
+   "contexto": null,
+   "enunciado": "En los últimos años, una empresa familiar que desarrolla su actividad económica en el sector industrial de productos de aseo ha registrado una preocupante caída en los niveles de producción y comercialización de sus productos. Ante esta situación, el gerente decidió realizar un estudio para conocer las causas y en su informe ante la junta directiva manifestó:\n\n1. “Los bajos incentivos por ventas no potencian los esfuerzos comerciales”.\n2. “En la empresa el nivel de producción está íntimamente ligado a la integración y al desarrollo social”.\n3. “Los trabajadores solicitan mayor énfasis en sus aspectos emocionales”.\n\nAnte lo expuesto, la teoría que mejor ayudaría a la junta directiva a interpretar los resultados obtenidos por el estudio es la",
+   "opciones": {
+    "A": "del cambio expuesta por K. Lewin.",
+    "B": "de los factores de higiene y motivación de F. Herzberg.",
+    "C": "de las relaciones humanas de E. Mayo.",
+    "D": "del reforzamiento de F. Skinner."
+   },
+   "correcta": "B",
+   "afirmacion": "Conocer el contenido propio de las teorías administrativa y organizacional.",
+   "explicacion": "La clave oficial es Herzberg: los incentivos serían factores de higiene que, si son insuficientes, generan insatisfacción, y la integración y los aspectos emocionales se leerían como factores motivacionales. Sin embargo, la clave es **discutible**: las afirmaciones 2 y 3 («la producción está ligada a la integración y al desarrollo social», «énfasis en los aspectos emocionales») son casi una definición de la escuela de **relaciones humanas de Elton Mayo** (opción C). Además, en Herzberg los incentivos económicos son factores higiénicos que no «potencian» el esfuerzo.",
+   "origen": "Cuadernillo 2018 #25",
+   "clave_discutida": true
+  }
+ ]
+}
