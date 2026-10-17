@@ -382,7 +382,7 @@ body.enfoque #juego .sp-meta .sp-tag:not(:first-child){display:none}
       <span class="text-xs uppercase tracking-[0.3em] text-orbital" style="font-family:var(--font-mono);padding:.5rem 2rem;display:inline-block"><span data-scramble="MISSION.PATH">MISSION.PATH</span></span>
     </div>
     <h2 class="text-shimmer" data-stagger="Ruta al examen"></h2>
-    <p>Lecciones de 8 preguntas (unos 8 minutos). Gana XP, cuida tus 3 vidas y llena la meta del día.</p>
+    <p>Lecciones de 8 preguntas (unos 8 minutos). Gana XP, cuida tus 3 vidas (o actívalas infinitas abajo) y llena la meta del día.</p>
     <div class="section-rule mx-auto mt-8 max-w-[220px]"></div>
   </div>
   <div id="ruta"></div>
@@ -406,6 +406,8 @@ body.enfoque #juego .sp-meta .sp-tag:not(:first-child){display:none}
       <div class="sp-opts" style="margin-top:0">
         <label class="sp-chk skill-orbit"><input type="checkbox" id="enfoqueOn" onchange="Enfoque.activar(this.checked)">
           Modo enfoque: sin fondo animado, letra grande, lectura frase a frase y ayudas más rápidas</label>
+        <label class="sp-chk skill-orbit"><input type="checkbox" id="infinitoOn" onchange="Ruta.infinito(this.checked)">
+          Vidas infinitas en la ruta: fallar no quita vidas ni te pone pausa <span class="n">♥ ∞</span></label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="sonidoOn" onchange="Sonido.activar(this.checked)">
           Sonidos al acertar y fallar</label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="stickersOn" onchange="Mascota.activar(this.checked)">
@@ -1018,7 +1020,8 @@ const Ruta = (() => {
   const LEC = 8, META = 300, VIDAS = 3, BLOQUE = 25*60000;
   const S2_DEFECTO = ['formulacion_ingenieria', 'pensamiento_cientifico', 'diseno_software'];
   const ZIG = [0, 46, 72, 46, 0, -46, -72, -46];
-  let mapa = {}, bloque0 = 0, pausaTipo = '', tPausa = 0;
+  let mapa = {}, bloque0 = 0, pausaTipo = '', tPausa = 0, inf = false;
+  try { inf = localStorage.getItem('saberpro-vidas') === 'inf'; } catch(e) {}
   prog.xp ||= 0; prog.dias ||= {}; prog.nodos ||= {}; prog.hist ||= [];
   const dia = (d = new Date()) => d.toLocaleDateString('sv');
   const xpHoy = () => prog.dias[dia()] || 0;
@@ -1103,7 +1106,7 @@ const Ruta = (() => {
 
   function hud(){
     if (!leccion) return;
-    $('#pillVidas').textContent = '♥'.repeat(leccion.vidas) + '♡'.repeat(VIDAS - leccion.vidas);
+    $('#pillVidas').textContent = inf ? '♥ ∞' : '♥'.repeat(leccion.vidas) + '♡'.repeat(VIDAS - leccion.vidas);
     $('#pillXp').textContent = `+${leccion.xp} XP`;
     $('#pillRonda').textContent = `LECCIÓN ${leccion.hechas.size}/${leccion.total}`;
     $('#barra').style.width = (100*leccion.hechas.size/leccion.total) + '%';
@@ -1124,7 +1127,7 @@ const Ruta = (() => {
       leccion.hechas.add(p.id);
     } else {
       Sonido.mal(); leccion.perfecta = false;
-      leccion.vidas = Math.max(0, leccion.vidas - 1);
+      if (!inf) leccion.vidas = Math.max(0, leccion.vidas - 1);
       leccion.fallos[p.id] = (leccion.fallos[p.id] || 0) + 1;
       // vuelve al final de la lección (como en Duolingo); a la tercera se da por vista
       if (leccion.fallos[p.id] < 3) cola.push(p); else leccion.hechas.add(p.id);
@@ -1211,7 +1214,11 @@ const Ruta = (() => {
       if (n) empezarNodo(n.id);
     },
     hud, responder, fin, sumarXp,
-    necesitaPausa: () => leccion && leccion.vidas <= 0,
+    necesitaPausa: () => !inf && leccion && leccion.vidas <= 0,
+    esInfinito: () => inf,
+    infinito(v){ inf = !!v; try { localStorage.setItem('saberpro-vidas', inf ? 'inf' : '3'); } catch(e) {}
+      if (leccion){ leccion.vidas = VIDAS; hud(); }
+      if (inf) Mascota.decir('happy', 'Vidas infinitas: equivócate sin miedo, que así se aprende 💜'); },
     pausa: () => abrirPausa('vidas'),
     cerrarPausa(){
       clearInterval(tPausa); $('#pausa').classList.remove('on');
@@ -1273,7 +1280,7 @@ function pintarMenu(){
     + 'Las que fallas vuelven a salir hasta que las domines.';
   $('#stickersOn').checked = Mascota.activo();
   $('#asistOn').checked = Asistencia.activo();
-  $('#enfoqueOn').checked = Enfoque.activo(); $('#sonidoOn').checked = Sonido.activo();
+  $('#enfoqueOn').checked = Enfoque.activo(); $('#infinitoOn').checked = Ruta.esInfinito(); $('#sonidoOn').checked = Sonido.activo();
   Ruta.pintar();
   const ok = Object.values(prog.q).reduce((s,q)=>s+q.ok,0), mal = Object.values(prog.q).reduce((s,q)=>s+q.mal,0);
   const dias = diasAlExamen();
