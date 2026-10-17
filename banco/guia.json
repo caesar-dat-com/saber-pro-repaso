@@ -2,11 +2,26 @@
  "general": {
   "titulo": "Antes y durante la prueba",
   "fechas": [
-   ["Publicación de citaciones", "viernes 2 de octubre de 2026"],
-   ["Solicitudes sobre la citación", "5 al 9 de octubre de 2026"],
-   ["Aplicación de la prueba", "domingo 18 de octubre de 2026"],
-   ["Certificado digital de presentación", "lunes 9 de noviembre de 2026"],
-   ["Resultados individuales", "viernes 19 de febrero de 2027"]
+   [
+    "Publicación de citaciones",
+    "viernes 2 de octubre de 2026"
+   ],
+   [
+    "Solicitudes sobre la citación",
+    "5 al 9 de octubre de 2026"
+   ],
+   [
+    "Aplicación de la prueba",
+    "domingo 18 de octubre de 2026"
+   ],
+   [
+    "Certificado digital de presentación",
+    "lunes 9 de noviembre de 2026"
+   ],
+   [
+    "Resultados individuales",
+    "viernes 19 de febrero de 2027"
+   ]
   ],
   "fechas_nota": "Calendario Saber Pro 2026-2 según la comunicación de la universidad. Confírmalo en icfes.gov.co.",
   "secciones": [
@@ -16,6 +31,45 @@
      "La citación (sitio, hora y salón) **no llega por correo**: se descarga del portal **PRISMA** del ICFES con tu cuenta.",
      "Llévala junto con el **documento de identidad original**.",
      "Lleva lápiz, borrador y tajalápiz propios."
+    ]
+   },
+   {
+    "titulo": "La meta: pasar del 40 %",
+    "items": [
+     "**Nunca dejes una en blanco.** Las incorrectas no restan: una marcada al azar entre 4 opciones ya vale 25 %.",
+     "Si descartas **una** opción mala antes de adivinar, subes a 33 %; si descartas **dos**, a 50 %. Descartar es la forma más rápida de pasar del 40 %.",
+     "Primera pasada: responde **solo las que ves claras**. Segunda pasada: las difíciles. Antes del final, rellena todo lo que quede.",
+     "Si llevas más de **2 minutos** en una pregunta, descarta lo que puedas, marca y sigue. Vuelve si sobra tiempo.",
+     "Para un cerebro que se dispersa: **una pregunta a la vez**. Tapa con la mano las que siguen y lee primero la pregunta, después el texto."
+    ]
+   },
+   {
+    "titulo": "Comunicación escrita: el texto que escribes",
+    "items": [
+     "Te dan una **situación o pregunta polémica** y escribes un texto **argumentativo** en el que tomas una posición.",
+     "Evalúan tres cosas: **planteamiento** (respondes a la consigna y fijas una tesis clara), **organización** (orden y conexión entre ideas) y **forma** (ortografía, puntuación, redacción).",
+     "Plantilla segura en 4 párrafos: **1)** contexto y tesis («Considero que…, porque…»); **2)** argumento 1 con un ejemplo; **3)** argumento 2 o una objeción que refutas («Aunque…, …»); **4)** conclusión que repite la tesis con otras palabras.",
+     "Conectores que ordenan: *en primer lugar, además, sin embargo, por ejemplo, por lo tanto, en conclusión*.",
+     "Gasta 3 minutos en un esquema antes de escribir y 3 al final releyendo tildes y puntos. Un texto corto y ordenado gana a uno largo y confuso.",
+     "No copies la consigna ni respondas otra pregunta: quédate en el tema y no lo abandones a mitad."
+    ]
+   },
+   {
+    "titulo": "Inglés: puntos fáciles",
+    "items": [
+     "Va por partes de dificultad creciente: avisos (¿dónde lo verías?), definiciones de palabras, diálogos cortos, completar textos y comprensión de lectura.",
+     "Las primeras partes son las más rápidas: **no te quedes atascado en la lectura larga** y deja tiempo para las cortas.",
+     "En completar textos, mira la palabra **antes y después** del espacio: tiempo verbal, singular/plural, preposición.",
+     "En lectura, busca en el texto la palabra clave del enunciado y lee la frase completa donde aparece."
+    ]
+   },
+   {
+    "titulo": "Sesión 2: módulos específicos de ingeniería",
+    "items": [
+     "Para Ingeniería de sistemas, telemática y afines, el Icfes ofrece **Formulación de proyectos de ingeniería** y **Pensamiento científico (matemáticas y estadística)**, y en otra combinación también **Diseño de software**. Tu universidad escoge cuál te toca.",
+     "**Formulación:** identificar el problema real, los requisitos y restricciones, elegir la alternativa que cumple **todos** los requisitos y evaluar el proyecto (costo, tiempo, impacto).",
+     "**Pensamiento científico:** qué pregunta responde un experimento, cuál es la variable que cambia y cuál se mide, qué concluir de una gráfica **sin ir más allá de los datos**.",
+     "**Diseño de software:** requisitos vs. diseño, diagramas UML (casos de uso, clases, secuencia), calidad (pruebas, mantenibilidad) y elegir la arquitectura que cumple el requisito pedido."
     ]
    },
    {
@@ -76,9 +130,18 @@
     }
    ],
    "autoevaluacion": [
-    ["¿Por qué el pago de impuestos materializa mejor el principio de solidaridad que el voto?", "Porque la solidaridad se liga a la igualdad material (art. 13) y a los derechos sociales y económicos de la población vulnerable. Los impuestos financian esos derechos; el voto ejerce el derecho a elegir, que es otra cosa."],
-    ["¿Por qué la Constitución de 1991 no frenó la captura del Estado en lo local?", "Con la descentralización y la elección popular de alcaldes y gobernadores, la disputa armada por el poder local se intensificó y el narcotráfico penetró territorios, élites e instituciones. El marco formal mejoró; las condiciones materiales del poder local, no."],
-    ["Diferencia paz negativa y paz positiva con un ejemplo.", "Negativa: un barrio sin balaceras porque hay toque de queda; cesó la violencia directa y nada más cambió. Positiva: ese barrio con colegio, acueducto y empleo formal, donde los conflictos se regulan sin violencia porque hay justicia social."]
+    [
+     "¿Por qué el pago de impuestos materializa mejor el principio de solidaridad que el voto?",
+     "Porque la solidaridad se liga a la igualdad material (art. 13) y a los derechos sociales y económicos de la población vulnerable. Los impuestos financian esos derechos; el voto ejerce el derecho a elegir, que es otra cosa."
+    ],
+    [
+     "¿Por qué la Constitución de 1991 no frenó la captura del Estado en lo local?",
+     "Con la descentralización y la elección popular de alcaldes y gobernadores, la disputa armada por el poder local se intensificó y el narcotráfico penetró territorios, élites e instituciones. El marco formal mejoró; las condiciones materiales del poder local, no."
+    ],
+    [
+     "Diferencia paz negativa y paz positiva con un ejemplo.",
+     "Negativa: un barrio sin balaceras porque hay toque de queda; cesó la violencia directa y nada más cambió. Positiva: ese barrio con colegio, acueducto y empleo formal, donde los conflictos se regulan sin violencia porque hay justicia social."
+    ]
    ]
   },
   "lectura": {
@@ -113,9 +176,18 @@
     }
    ],
    "autoevaluacion": [
-    ["Según Zuleta, ¿por qué la guerra resulta atractiva y qué hace mejor a una sociedad?", "Porque es fiesta: comunidad unida, el individuo disuelto en ella, aprobarse sin dudas frente al enemigo. Una sociedad es mejor si es capaz de tener mejores conflictos: reconocerlos, contenerlos y vivir productivamente en ellos."],
-    ["Explica la curva de Yerkes-Dodson con un ejemplo.", "U invertida entre activación y rendimiento: en una sustentación, cero nervios da descuido y el exceso da bloqueo; el mejor desempeño está en la tensión moderada."],
-    ["En el primer párrafo de *La guerra*, ¿qué diferencia hay entre lo que el texto dice y lo que el autor pretende?", "Dice que la guerra es fiesta (contenido). Pretende definirla así para sentar después su punto de vista sobre la paz (función)."]
+    [
+     "Según Zuleta, ¿por qué la guerra resulta atractiva y qué hace mejor a una sociedad?",
+     "Porque es fiesta: comunidad unida, el individuo disuelto en ella, aprobarse sin dudas frente al enemigo. Una sociedad es mejor si es capaz de tener mejores conflictos: reconocerlos, contenerlos y vivir productivamente en ellos."
+    ],
+    [
+     "Explica la curva de Yerkes-Dodson con un ejemplo.",
+     "U invertida entre activación y rendimiento: en una sustentación, cero nervios da descuido y el exceso da bloqueo; el mejor desempeño está en la tensión moderada."
+    ],
+    [
+     "En el primer párrafo de *La guerra*, ¿qué diferencia hay entre lo que el texto dice y lo que el autor pretende?",
+     "Dice que la guerra es fiesta (contenido). Pretende definirla así para sentar después su punto de vista sobre la paz (función)."
+    ]
    ]
   },
   "razonamiento": {
@@ -154,9 +226,18 @@
     }
    ],
    "autoevaluacion": [
-    ["Alaska perdió 3.019 Gt de las 9.625 Gt globales que elevaron el mar 27 mm. ¿Cuánto aportó Alaska?", "3.019 / 9.625 ≈ 0,3137; × 27 mm ≈ **8,47 mm**."],
-    ["Los casos pasan de 50 en julio a 85 en septiembre. ¿Cuál es el aumento mensual si es lineal y cuál el promedio del periodo?", "Aumento: (85 − 50) / 2 = **17,5 por mes**. Promedio: (50 + 85) / 2 = **67,5**. Son cosas distintas."],
-    ["¿Qué significa que el R² de la curva biomasa-DAP sea 87,59 %?", "Que el 87,59 % de la variabilidad de la biomasa total queda explicada por el diámetro a la altura del pecho; el 12,41 % restante depende de otros factores."]
+    [
+     "Alaska perdió 3.019 Gt de las 9.625 Gt globales que elevaron el mar 27 mm. ¿Cuánto aportó Alaska?",
+     "3.019 / 9.625 ≈ 0,3137; × 27 mm ≈ **8,47 mm**."
+    ],
+    [
+     "Los casos pasan de 50 en julio a 85 en septiembre. ¿Cuál es el aumento mensual si es lineal y cuál el promedio del periodo?",
+     "Aumento: (85 − 50) / 2 = **17,5 por mes**. Promedio: (50 + 85) / 2 = **67,5**. Son cosas distintas."
+    ],
+    [
+     "¿Qué significa que el R² de la curva biomasa-DAP sea 87,59 %?",
+     "Que el 87,59 % de la variabilidad de la biomasa total queda explicada por el diámetro a la altura del pecho; el 12,41 % restante depende de otros factores."
+    ]
    ]
   }
  }

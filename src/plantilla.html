@@ -250,6 +250,68 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
 .sp-toast{position:fixed;left:50%;transform:translateX(-50%);bottom:24px;z-index:1002;display:none}
 .MeshGradient{animation:mesh-drift 20s ease-in-out infinite alternate}
 @media(prefers-reduced-motion:reduce){.gsap-reveal{opacity:1;transform:none;transition:none}.st-c>span{transform:none;opacity:1;transition:none}}
+
+/* ---- Ruta: lecciones cortas con XP, vidas, racha de días y meta diaria ---- */
+.rt-top{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:0 0 18px}
+.rt-kpi{text-align:center;padding:14px 8px}
+.rt-kpi .v{font-family:var(--font-heading);font-size:clamp(1.6rem,6vw,2.2rem);font-weight:700;line-height:1;color:var(--color-lunar)}
+.rt-kpi .l{font-family:var(--font-mono);font-size:.6rem;letter-spacing:.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-top:8px}
+.rt-kpi .meta{height:4px;border-radius:4px;background:var(--color-glass-border);margin:10px auto 0;max-width:120px;overflow:hidden}
+.rt-kpi .meta>i{display:block;height:100%;background:var(--color-sls);box-shadow:0 0 8px var(--color-sls);transition:width .8s var(--ease-out-expo)}
+.rt-nivel{margin:0 0 22px;padding:16px 18px}
+.rt-falta{grid-column:1/-1;text-align:center;padding:12px 14px;font-size:.92rem;color:var(--color-text-secondary)}
+.rt-falta b{font-family:var(--font-heading);font-size:1.15rem;color:var(--color-sls)}
+.rt-nivel h4{font-family:var(--font-mono);font-size:.66rem;letter-spacing:.2em;text-transform:uppercase;color:var(--color-text-tertiary);margin:0 0 12px;font-weight:500}
+.rt-fila{display:grid;grid-template-columns:minmax(90px,30%) 1fr 44px;gap:10px;align-items:center;font-size:.85rem;margin:8px 0;color:var(--color-text-secondary)}
+.rt-barra{position:relative;height:8px;border-radius:8px;background:var(--color-glass-border);overflow:visible}
+.rt-barra>i{display:block;height:100%;border-radius:8px;background:var(--color-orbital);transition:width .8s var(--ease-out-expo)}
+.rt-barra>i.bajo{background:var(--bad)} .rt-barra>i.ok{background:var(--ok)}
+.rt-barra::after{content:"";position:absolute;left:40%;top:-4px;bottom:-4px;width:2px;background:var(--color-sls);border-radius:2px}
+.rt-fila .p{font-family:var(--font-mono);font-size:.75rem;text-align:right;color:var(--color-lunar)}
+.rt-unidad{margin:26px 0 8px;text-align:center}
+.rt-unidad b{display:block;font-family:var(--font-heading);font-size:1.5rem;color:var(--color-lunar)}
+.rt-unidad span{font-size:.9rem;color:var(--color-text-tertiary)}
+.rt-camino{display:flex;flex-direction:column;align-items:center;gap:14px;padding:10px 0 6px}
+.rt-nodo{--x:0px;transform:translateX(var(--x));display:flex;flex-direction:column;align-items:center;gap:6px;background:none;border:0;cursor:pointer;color:inherit;font:inherit}
+.rt-bola{width:74px;height:74px;border-radius:999px;display:grid;place-items:center;font-family:var(--font-heading);font-weight:700;font-size:1.25rem;
+  border:2px solid var(--color-glass-border);background:var(--color-glass-bg);color:var(--color-text-secondary);box-shadow:0 6px 0 var(--color-glass-border);transition:transform .25s var(--ease-spring),box-shadow .25s}
+.rt-nodo:hover .rt-bola{transform:translateY(-3px)}
+.rt-nodo:active .rt-bola{transform:translateY(4px);box-shadow:0 2px 0 var(--color-glass-border)}
+.rt-nodo.hecho .rt-bola{border-color:var(--color-sls);color:var(--color-sls);box-shadow:0 6px 0 color-mix(in srgb,var(--color-sls) 45%,transparent)}
+.rt-nodo.sig .rt-bola{border-color:var(--color-orbital);color:var(--btn-fg);background:var(--color-orbital);box-shadow:0 6px 0 var(--accent-line),0 0 26px var(--glow-3);animation:rt-lat 2s ease-in-out infinite}
+.rt-nodo.mix .rt-bola{border-style:dashed}
+@keyframes rt-lat{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+.rt-nodo .nm{font-size:.78rem;color:var(--color-text-tertiary);max-width:150px;text-align:center;line-height:1.3}
+.rt-nodo.sig .nm{color:var(--color-lunar);font-weight:600}
+.rt-nodo .cor{font-size:.7rem;letter-spacing:2px;color:var(--color-sls);min-height:1em}
+.rt-empieza{position:relative;font-family:var(--font-mono);font-size:.62rem;letter-spacing:.18em;padding:5px 10px;border-radius:8px;background:var(--color-orbital);color:var(--btn-fg);margin-bottom:-4px}
+.sp-hud .vidas{letter-spacing:3px;color:var(--bad)}
+.sp-hud .xp{color:var(--color-sls);border-color:color-mix(in srgb,var(--color-sls) 45%,transparent)}
+.xp-flota{position:fixed;z-index:1003;pointer-events:none;font-family:var(--font-heading);font-weight:700;font-size:1.4rem;color:var(--color-sls);text-shadow:0 2px 10px #0008}
+.combo{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;background:var(--color-sls);color:#000;font-family:var(--font-mono);letter-spacing:.1em}
+.confeti{position:fixed;z-index:1003;width:8px;height:12px;border-radius:2px;pointer-events:none;top:-20px}
+/* pausa de respiración cuando se acaban las vidas o pasan 25 min */
+.pausa{position:fixed;inset:0;z-index:1004;display:none;place-items:center;background:color-mix(in srgb,var(--color-space-900) 92%,transparent);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);padding:16px}
+.pausa.on{display:grid}
+.pausa .caja{max-width:420px;text-align:center}
+.pausa img{width:120px;height:120px;object-fit:contain}
+.pausa h3{font-family:var(--font-heading);font-size:1.8rem;margin:8px 0;color:var(--color-lunar)}
+.pausa p{color:var(--color-text-secondary);line-height:1.6;margin:0 0 16px}
+.resp{width:140px;height:140px;margin:10px auto 18px;border-radius:999px;border:2px solid var(--color-orbital);display:grid;place-items:center;font-family:var(--font-heading);font-size:1.3rem;color:var(--color-lunar);transform:scale(.7);transition:transform 4s ease-in-out}
+.resp.in{transform:scale(1)}
+/* ---- modo enfoque (TDAH): sin fondo animado, letra grande, lectura por frases ---- */
+body.enfoque #fxStars,body.enfoque #fxMesh,body.enfoque #fxGrid,body.enfoque #fxGrain,body.enfoque #fxSpot,body.enfoque #fxCursor{display:none!important}
+body.enfoque #juego .sp-q{padding:26px}
+body.enfoque #juego .sp-enun.largo{font-size:clamp(1.08rem,2.6vw,1.25rem);line-height:1.75}
+body.enfoque #juego .opt{font-size:1.05rem;padding:17px 18px}
+body.enfoque #juego .sp-meta .sp-tag:not(:first-child){display:none}
+.frase{transition:opacity .3s,background .3s;border-radius:4px}
+.lector .frase{opacity:.28}
+.lector .frase.ya{opacity:.6}
+.lector .frase.on{opacity:1;background:var(--glow-1);box-shadow:0 0 0 3px var(--glow-1)}
+.lector-btn{display:inline-flex;gap:8px;align-items:center;margin:-6px 0 16px;font-family:var(--font-mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--color-orbital);background:none;border:1px solid var(--accent-line);border-radius:999px;padding:7px 14px;cursor:pointer}
+@media(max-width:640px){.rt-top{gap:6px}.rt-bola{width:64px;height:64px}.rt-nodo{--x:0px!important}}
+@media(prefers-reduced-motion:reduce){.rt-nodo.sig .rt-bola{animation:none}.resp{transition:none}}
 </style></head>
 <body>
 <script>try{document.body.classList.toggle('lunar',localStorage.getItem('theme')==='lunar')}catch(e){}</script>
@@ -307,10 +369,21 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
     <p class="sp-lead" id="sub"></p>
     <div class="sp-telem font-mono text-xs tracking-widest text-text-muted"><span class="text-orbital/60">// </span><span id="telem"></span><span class="typewriter-cursor"></span></div>
     <div class="sp-cta">
-      <a class="btn-orbital" data-magnet href="#config">Configurar ronda ↓</a>
+      <button class="btn-orbital" data-magnet onclick="Ruta.siguiente()">Seguir la ruta →</button>
+      <a class="btn-ghost" data-magnet href="#config">Ronda libre ↓</a>
       <button class="btn-ghost" data-magnet onclick="vista('guia')">Guía de estudio</button>
     </div>
   </div>
+
+  <div class="sp-head" id="rutaHead">
+    <div class="hud-bracket section-badge relative inline-block" data-hud="16">
+      <span class="text-xs uppercase tracking-[0.3em] text-orbital" style="font-family:var(--font-mono);padding:.5rem 2rem;display:inline-block"><span data-scramble="MISSION.PATH">MISSION.PATH</span></span>
+    </div>
+    <h2 class="text-shimmer" data-stagger="Ruta al examen"></h2>
+    <p>Lecciones de 8 preguntas (unos 8 minutos). Gana XP, cuida tus 3 vidas y llena la meta del día.</p>
+    <div class="section-rule mx-auto mt-8 max-w-[220px]"></div>
+  </div>
+  <div id="ruta"></div>
 
   <div class="sp-head" id="config">
     <div class="hud-bracket section-badge relative inline-block" data-hud="16">
@@ -329,6 +402,10 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
     <span class="trace-border" aria-hidden="true"></span>
     <div class="relative z-10">
       <div class="sp-opts" style="margin-top:0">
+        <label class="sp-chk skill-orbit"><input type="checkbox" id="enfoqueOn" onchange="Enfoque.activar(this.checked)">
+          Modo enfoque: sin fondo animado, letra grande, lectura frase a frase y ayudas más rápidas</label>
+        <label class="sp-chk skill-orbit"><input type="checkbox" id="sonidoOn" onchange="Sonido.activar(this.checked)">
+          Sonidos al acertar y fallar</label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="stickersOn" onchange="Mascota.activar(this.checked)">
           Stickers de Hades: reacciones al responder <span class="n">32</span></label>
         <label class="sp-chk skill-orbit"><input type="checkbox" id="asistOn" onchange="Asistencia.activar(this.checked)">
@@ -351,6 +428,8 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
     <span class="skill-orbit" id="pillRonda"></span>
     <span class="skill-orbit" id="pillRacha"></span>
     <span class="skill-orbit" id="pillReloj" style="display:none"></span>
+    <span class="skill-orbit vidas" id="pillVidas" style="display:none"></span>
+    <span class="skill-orbit xp" id="pillXp" style="display:none"></span>
   </div>
   <div class="sp-bar"><i id="barra" style="width:0%"></i></div>
   <div class="glass-card fijo sp-q">
@@ -358,6 +437,7 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
       <div class="sp-meta" id="meta"></div>
       <div id="ctxHolder"></div>
       <p class="sp-enun" id="enunciado"></p>
+      <div id="lectorHolder"></div>
       <div id="enImg"></div>
       <div class="asist" id="asist" aria-live="polite"></div>
       <div id="pista"></div>
@@ -388,7 +468,7 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
       <p class="sp-fintxt" id="finTxt"></p>
       <div class="sp-rep" id="finRepaso"></div>
       <div class="sp-btns" style="margin-top:22px">
-        <button class="btn-orbital" data-magnet onclick="empezar()">Otra ronda ↻</button>
+        <button class="btn-orbital" data-magnet id="finOtra" onclick="empezar()">Otra ronda ↻</button>
         <button class="btn-ghost" data-magnet onclick="salir()">Menú</button>
       </div>
     </div>
@@ -415,15 +495,20 @@ body.lunar .opt{background:#fff;box-shadow:var(--lift-1)}
 <footer class="sp-foot" id="foot"></footer>
 <div class="masc" id="masc" aria-live="polite" onclick="Mascota.callar()"><img alt="" id="mascImg"><div class="burbuja" id="mascTxt"></div></div>
 <div class="sp-toast btn-orbital" id="toast"></div>
+<div class="pausa" id="pausa" role="dialog" aria-modal="true" aria-labelledby="pausaTit"><div class="caja">
+  <img alt="" id="pausaImg"><h3 id="pausaTit"></h3><p id="pausaTxt"></p>
+  <div class="resp" id="pausaResp"></div>
+  <button class="btn-orbital" id="pausaBtn" onclick="Ruta.cerrarPausa()">Seguir</button>
+</div></div>
 
 <script>
 const DATA = __DATOS__;
 const LS = 'saberpro-progreso-v1';
 const SEG_POR_PREGUNTA = DATA.config.segundos_por_pregunta || 120;
-let prog = {q:{}, rondas:0, mejorRacha:0};
+let prog = {q:{}, rondas:0, mejorRacha:0, xp:0, dias:{}, nodos:{}, hist:[]};
 try { prog = Object.assign(prog, JSON.parse(localStorage.getItem(LS) || '{}')); } catch(e) {}
 let cola = [], idx = 0, actual = null, racha = 0, examen = false, reloj = null, fin = 0;
-let sesion = null, areaGuia = 'general', areasOff = new Set(), fuentesOff = new Set();
+let leccion = null, sesion = null, areaGuia = 'general', areasOff = new Set(), fuentesOff = new Set();
 let especifico = ''; try { especifico = localStorage.getItem('saberpro-especifico') || ''; } catch(e) {}
 const esGenerico = a => DATA.genericos.includes(a);
 const ESPECIFICOS = Object.keys(DATA.areas).filter(a => !esGenerico(a)).sort((a, b) => DATA.areas[a].localeCompare(DATA.areas[b], 'es'));
@@ -466,7 +551,7 @@ function fxTema(){
   $('#fxSpot').style.display = (l || REDUCIDO) ? 'none' : '';
   document.querySelectorAll('[data-hud]').forEach(hud);
   document.querySelectorAll('.sp-mod').forEach(colorPatch);
-  stars.toggle(!l);
+  stars.toggle(!l && !Enfoque.activo());
 }
 
 function cambiarTema(){
@@ -776,7 +861,7 @@ const Mascota = (() => {
    estrategia), a los 50 s y 80 s descarta opciones malas con un glitch. Nunca toca
    la correcta y siempre deja dos en pie. El reloj se pausa si cambias de pestaña. */
 const Asistencia = (() => {
-  const LSK = 'saberpro-asistencia', PASOS = [25, 50, 80];
+  const LSK = 'saberpro-asistencia'; let PASOS = [25, 50, 80];
   let on = false; try { on = localStorage.getItem(LSK) === 'on'; } catch(e) {}
   let p = null, seg = 0, nivel = 0, intervalo = 0;
   const azar = a => a[Math.random()*a.length|0];
@@ -837,6 +922,7 @@ const Asistencia = (() => {
       if (on) Mascota.decir('coding_relajado', 'Si te quedas pensando, te ayudo: pistas y descartes 😉'); },
     iniciar(q){
       parar(); p = q; seg = 0; nivel = 0; $('#pista').innerHTML = '';
+      PASOS = Enfoque.activo() ? [12, 25, 40] : [25, 50, 80];   // en enfoque la ayuda llega antes
       const h = $('#asist');
       if (!on || examen || Object.keys(q.opciones).length < 3) { h.classList.remove('on'); p = null; return; }
       h.classList.add('on'); pintarHud();
@@ -848,6 +934,288 @@ const Asistencia = (() => {
     },
     ya(){ if (p && intervalo) subir(); },
     parar(){ parar(); const b = $('#asist button'); if (b) b.disabled = true; },
+  };
+})();
+
+/* ========================= sonidos =========================
+   Tonos cortos con WebAudio (sin archivos). Apagados por defecto. */
+const Sonido = (() => {
+  const LSK = 'saberpro-sonido'; let on = false, ac = null;
+  try { on = localStorage.getItem(LSK) === 'on'; } catch(e) {}
+  function tono(notas, tipo = 'sine', vol = .08){
+    if (!on) return;
+    try { ac ||= new (window.AudioContext || window.webkitAudioContext)(); if (ac.state === 'suspended') ac.resume(); } catch(e) { return; }
+    let t = ac.currentTime;
+    notas.forEach(([f, d]) => {
+      const o = ac.createOscillator(), g = ac.createGain();
+      o.type = tipo; o.frequency.value = f;
+      g.gain.setValueAtTime(vol, t); g.gain.exponentialRampToValueAtTime(.0001, t + d);
+      o.connect(g).connect(ac.destination); o.start(t); o.stop(t + d); t += d*.8;
+    });
+  }
+  return {
+    activo: () => on,
+    activar(v){ on = !!v; try { localStorage.setItem(LSK, on ? 'on' : 'off'); } catch(e) {} if (on) this.ok(); },
+    ok: () => tono([[660, .09], [990, .16]]),
+    mal: () => tono([[220, .18], [180, .22]], 'triangle', .07),
+    combo: () => tono([[660, .07], [880, .07], [1320, .18]]),
+    fin: () => tono([[523, .12], [659, .12], [784, .12], [1047, .32]]),
+  };
+})();
+
+/* ===================== modo enfoque (TDAH) =====================
+   Quita el fondo animado, agranda la letra, adelanta la asistencia y lee los
+   enunciados largos frase por frase (espacio o toque para avanzar). */
+const Enfoque = (() => {
+  const LSK = 'saberpro-enfoque'; let on = false, frases = 0, i = 0;
+  try { on = localStorage.getItem(LSK) === 'on'; } catch(e) {}
+  const aplicar = () => { document.body.classList.toggle('enfoque', on); stars.toggle(!on && !esLunar()); };
+  function marcar(){
+    document.querySelectorAll('#enunciado .frase').forEach((f, k) => { f.classList.toggle('on', k === i); f.classList.toggle('ya', k < i); });
+    const b = $('#lectorHolder button');
+    if (b) b.textContent = i + 1 < frases ? `Siguiente frase ↓ (${i + 1}/${frases}) · espacio` : 'Ver todo el enunciado';
+  }
+  return {
+    activo: () => on,
+    aplicar,
+    activar(v){
+      on = !!v; try { localStorage.setItem(LSK, on ? 'on' : 'off'); } catch(e) {}
+      aplicar();
+      if (on && !Asistencia.activo()){ Asistencia.activar(true); $('#asistOn').checked = true; }
+      if (on) Mascota.decir('coding_relajado', 'Modo enfoque: una cosa a la vez. Lee frase por frase con la barra espaciadora.');
+    },
+    // parte el enunciado en frases; los números decimales no se cortan porque exige espacio + mayúscula
+    lector(el, texto){
+      frases = 0; i = 0; $('#lectorHolder').innerHTML = ''; el.classList.remove('lector')
+      el.onclick = null;
+      if (!on || examen) return;
+      const fr = texto.split(/(?<=[.?!:;])\s+(?=[¿¡«"(A-ZÁÉÍÓÚÑ0-9])/);
+      if (fr.length < 3) return;
+      frases = fr.length;
+      el.innerHTML = fr.map(f => `<span class="frase">${esc(f)}</span>`).join(' ');
+      el.classList.add('lector');
+      $('#lectorHolder').innerHTML = '<button class="lector-btn" onclick="Enfoque.avanzar()"></button>';
+      el.onclick = () => Enfoque.avanzar();
+      marcar();
+    },
+    leyendo: () => frases > 0,
+    avanzar(){
+      if (!frases) return;
+      if (++i >= frases){ $('#enunciado').classList.remove('lector'); $('#lectorHolder').innerHTML = ''; $('#enunciado').onclick = null; frases = 0; return; }
+      marcar();
+    },
+  };
+})();
+
+/* ===================== ruta (estilo Duolingo) =====================
+   Lecciones de 8 preguntas por módulo, alternando módulos (intercalar ayuda a
+   no aburrirse y a recordar), con repasos relámpago de lo fallado. XP, combo,
+   3 vidas (al perderlas: pausa de respiración, nunca bloqueo), meta diaria y
+   racha de días. Todo se guarda en el mismo progreso del navegador. */
+const Ruta = (() => {
+  const LEC = 8, META = 300, VIDAS = 3, BLOQUE = 25*60000;
+  const S2_DEFECTO = ['formulacion_ingenieria', 'pensamiento_cientifico', 'diseno_software'];
+  const ZIG = [0, 46, 72, 46, 0, -46, -72, -46];
+  let mapa = {}, bloque0 = 0, pausaTipo = '', tPausa = 0;
+  prog.xp ||= 0; prog.dias ||= {}; prog.nodos ||= {}; prog.hist ||= [];
+  const dia = (d = new Date()) => d.toLocaleDateString('sv');
+  const xpHoy = () => prog.dias[dia()] || 0;
+  function rachaDias(){
+    const d = new Date(); let n = 0;
+    if (!prog.dias[dia(d)]) d.setDate(d.getDate() - 1);   // hoy aún no cuenta: la racha sigue viva
+    while (prog.dias[dia(d)] > 0){ n++; d.setDate(d.getDate() - 1); }
+    return n;
+  }
+  function nivelReciente(a){
+    const h = prog.hist.filter(x => x[0] === a).slice(-20);
+    return h.length ? {pct: Math.round(100*h.filter(x => x[1]).length/h.length), n: h.length} : null;
+  }
+  const deArea = a => DATA.preguntas.filter(p => p.area === a && !fuentesOff.has(p.fuente))
+    .sort((x, y) => x.fuente.localeCompare(y.fuente) || x.n - y.n);
+  function unidades(){
+    const s2 = especifico && especifico !== '*' ? [especifico] : S2_DEFECTO;
+    return [
+      {t:'Sesión 1 · 7:00 a. m.', s:'Genéricos: lo primero que te ponen', areas: DATA.genericos},
+      {t:'Sesión 2 · 1:30 p. m.', s: especifico && especifico !== '*' ? nombreArea(especifico)
+        : 'Específicos de Ingeniería de sistemas y afines (cámbialo abajo en «Módulo específico»)', areas: s2},
+    ].map(u => ({...u, areas: u.areas.filter(a => DATA.areas[a] && deArea(a).length)})).filter(u => u.areas.length);
+  }
+  // nodos: ronda a ronda, una lección de cada módulo y luego un repaso relámpago
+  function construir(){
+    mapa = {};
+    return unidades().map((u, ui) => {
+      const lotes = Object.fromEntries(u.areas.map(a => { const qs = deArea(a), r = [];
+        for (let k = 0; k < qs.length; k += LEC) r.push(qs.slice(k, k + LEC)); return [a, r]; }));
+      const nodos = [], rondas = Math.max(...Object.values(lotes).map(l => l.length));
+      for (let r = 0; r < rondas; r++){
+        u.areas.forEach(a => { if (!lotes[a][r]) return;
+          const n = {id:`${a}-${r + 1}`, area:a, titulo:`${nombreArea(a)} ${r + 1}`, ab:codigo(a), qs:() => lotes[a][r].slice()};
+          nodos.push(n); mapa[n.id] = n; });
+        const n = {id:`mix-${ui + 1}-${r + 1}`, mix:true, titulo:'Repaso relámpago', ab:'⚡', qs:() => relampago(u.areas)};
+        nodos.push(n); mapa[n.id] = n;
+      }
+      return {...u, nodos};
+    });
+  }
+  // lo que más fallas de la unidad; si aún no hay fallos, lo que menos has visto
+  function relampago(areas){
+    const pool = DATA.preguntas.filter(p => areas.includes(p.area) && !fuentesOff.has(p.fuente));
+    const vistas = pool.filter(p => prog.q[p.id]);
+    return ordenar(vistas.length >= LEC ? vistas : pool).slice(0, LEC);
+  }
+  const siguienteNodo = () => construir().flatMap(u => u.nodos).find(n => !prog.nodos[n.id]);
+
+  function pintarRuta(){
+    const us = construir(), sig = us.flatMap(u => u.nodos).find(n => !prog.nodos[n.id]);
+    const hoy = xpHoy(), racha = rachaDias();
+    const h0 = DATA.config.fecha_examen ? (new Date(DATA.config.fecha_examen + 'T07:00:00-05:00') - new Date())/3600000 : -1;
+    const falta = h0 > 0 && h0 < 72 ? `<div class="glass-card fijo rt-falta"><b>${Math.floor(h0)} h ${Math.floor(h0%1*60)} min</b> para la sesión 1 · dormir bien también es estudiar</div>` : '';
+    const fila = a => { const r = nivelReciente(a);
+      return `<div class="rt-fila"><span>${esc(nombreArea(a))}</span><div class="rt-barra"><i class="${r ? (r.pct < 40 ? 'bajo' : r.pct >= 60 ? 'ok' : '') : ''}" style="width:${r ? r.pct : 0}%"></i></div><span class="p">${r ? r.pct + '%' : '—'}</span></div>`; };
+    $('#ruta').innerHTML = `<div class="rt-top">${falta}
+        <div class="rt-kpi glass-card fijo"><div class="v">${hoy}<span style="font-size:.5em;opacity:.5">/${META}</span></div><div class="l">XP de hoy</div><div class="meta"><i style="width:${Math.min(100, hoy/META*100)}%"></i></div></div>
+        <div class="rt-kpi glass-card fijo"><div class="v">${racha}🔥</div><div class="l">días seguidos</div></div>
+        <div class="rt-kpi glass-card fijo"><div class="v">${prog.xp}</div><div class="l">XP total</div></div>
+      </div>
+      <div class="glass-card fijo rt-nivel"><h4>Tu nivel reciente (últimas 20) · la raya es la meta del 40 %</h4>${us.flatMap(u => u.areas).map(fila).join('')}</div>`
+      + us.map(u => `<div class="rt-unidad"><b>${esc(u.t)}</b><span>${esc(u.s)}</span></div><div class="rt-camino">`
+        + u.nodos.map((n, k) => { const c = prog.nodos[n.id] || 0, es = n === sig;
+          return `<button class="rt-nodo ${c ? 'hecho' : ''} ${es ? 'sig' : ''} ${n.mix ? 'mix' : ''}" style="--x:${ZIG[k % ZIG.length]}px" onclick="Ruta.empezar('${n.id}')" aria-label="${esc(n.titulo)}${c ? ', completada ' + c + ' veces' : ''}">
+            ${es ? '<span class="rt-empieza">EMPIEZA AQUÍ</span>' : ''}<span class="rt-bola">${c >= 3 ? '★' : n.ab}</span>
+            <span class="nm">${esc(n.titulo)}</span><span class="cor">${'◆'.repeat(Math.min(3, c))}</span></button>`; }).join('') + '</div>').join('');
+  }
+
+  function empezarNodo(id){
+    construir(); const n = mapa[id]; if (!n) return;
+    const qs = n.qs(); if (!qs.length) return toast('No hay preguntas con esas fuentes');
+    examen = false; clearInterval(reloj); $('#pillReloj').style.display = 'none';
+    leccion = {id, nodo:n, vidas:VIDAS, xp:0, total:qs.length, hechas:new Set(), fallos:{}, perfecta:true};
+    if (!bloque0) bloque0 = Date.now();
+    cola = qs; idx = 0; racha = 0;
+    sesion = {ok:0, mal:0, t0:Date.now(), areas:{}, fallos:[], total:qs.length, errSeg:0, aviso5:false};
+    $('#menu').style.display = 'none'; $('#fin').style.display = 'none'; $('#juego').style.display = 'block';
+    $('#pillVidas').style.display = ''; $('#pillXp').style.display = '';
+    Mascota.decir('coding', n.mix ? 'Repaso relámpago: lo que más te ha costado. ¡Tú puedes!' : `${n.titulo}: 8 preguntas y listo.`);
+    pintar(); window.scrollTo(0, 0);
+  }
+
+  function hud(){
+    if (!leccion) return;
+    $('#pillVidas').textContent = '♥'.repeat(leccion.vidas) + '♡'.repeat(VIDAS - leccion.vidas);
+    $('#pillXp').textContent = `+${leccion.xp} XP`;
+    $('#pillRonda').textContent = `LECCIÓN ${leccion.hechas.size}/${leccion.total}`;
+    $('#barra').style.width = (100*leccion.hechas.size/leccion.total) + '%';
+  }
+  function flotar(txt, el){
+    if (!el) return; const r = el.getBoundingClientRect(), f = document.createElement('div');
+    f.className = 'xp-flota'; f.textContent = txt; f.style.left = Math.min(innerWidth - 120, r.right - 110) + 'px'; f.style.top = (r.top - 6) + 'px';
+    document.body.appendChild(f);
+    f.animate([{transform:'translateY(0)', opacity:1}, {transform:'translateY(-46px)', opacity:0}], {duration: REDUCIDO ? 600 : 1100, easing:'cubic-bezier(.16,1,.3,1)'}).onfinish = () => f.remove();
+  }
+  // devuelve el texto extra para el recuadro de respuesta
+  function responder(bien, ayuda, L){
+    const p = actual, boton = document.querySelector(`.opt[data-k="${L}"]`);
+    let gana = 0, extra = '';
+    if (bien){
+      gana = 10 + (ayuda ? 0 : 2) + (racha >= 3 ? 5 : 0);
+      if (racha >= 3){ extra = `<span class="combo">COMBO ×${racha}</span>`; Sonido.combo(); } else Sonido.ok();
+      leccion.hechas.add(p.id);
+    } else {
+      Sonido.mal(); leccion.perfecta = false;
+      leccion.vidas = Math.max(0, leccion.vidas - 1);
+      leccion.fallos[p.id] = (leccion.fallos[p.id] || 0) + 1;
+      // vuelve al final de la lección (como en Duolingo); a la tercera se da por vista
+      if (leccion.fallos[p.id] < 3) cola.push(p); else leccion.hechas.add(p.id);
+    }
+    if (gana){ leccion.xp += gana; flotar(`+${gana} XP`, boton); }
+    hud();
+    return extra;
+  }
+  function sumarXp(n){ prog.xp += n; prog.dias[dia()] = (prog.dias[dia()] || 0) + n; }
+
+  function confeti(){
+    if (REDUCIDO) return;
+    const C = ['var(--color-orbital)', 'var(--color-sls)', 'var(--ok)', '#c08a5e', '#ffffff'];
+    for (let k = 0; k < 46; k++){
+      const c = document.createElement('i'); c.className = 'confeti';
+      c.style.left = (Math.random()*100) + 'vw'; c.style.background = C[k % C.length];
+      document.body.appendChild(c);
+      c.animate([{transform:'translateY(0) rotate(0)'}, {transform:`translateY(${innerHeight + 40}px) translateX(${(Math.random() - .5)*160}px) rotate(${Math.random()*720}deg)`}],
+        {duration:1600 + Math.random()*1400, delay:Math.random()*400, easing:'cubic-bezier(.3,.6,.5,1)'}).onfinish = () => c.remove();
+    }
+  }
+
+  function fin(){
+    const L = leccion, antes = xpHoy();
+    const bono = 10 + (L.perfecta ? 15 : 0);
+    L.xp += bono; sumarXp(L.xp);
+    prog.nodos[L.id] = (prog.nodos[L.id] || 0) + 1; prog.rondas++; guardar();
+    const tot = sesion.ok + sesion.mal, pct = tot ? Math.round(100*sesion.ok/tot) : 0;
+    $('#juego').style.display = 'none'; $('#fin').style.display = 'block';
+    $('#pillVidas').style.display = 'none'; $('#pillXp').style.display = 'none';
+    $('#finTit').textContent = L.perfecta ? '¡Lección perfecta!' : '¡Lección completa!';
+    const rf = Mascota.final(pct);
+    $('#finStats').innerHTML = (rf ? `<div style="grid-column:1/-1;text-align:center"><img class="stk-fin stk-in pop" src="${rf.img}" alt=""><div class="sp-fintxt" style="color:var(--color-lunar)"><i>${esc(rf.txt)}</i></div></div>` : '')
+      + `<div class="sp-stat"><div class="v" data-n="${L.xp}" data-suf="">0</div><div class="l">XP ganados</div></div>`
+      + `<div class="sp-stat"><div class="v">${pct}%</div><div class="l">acierto</div></div>`
+      + `<div class="sp-stat"><div class="v">${rachaDias()}🔥</div><div class="l">días seguidos</div></div>`;
+    contar($('#finStats [data-n]'));
+    const hoy = xpHoy();
+    $('#finTxt').innerHTML = `Meta del día: <b>${Math.min(hoy, META)}/${META} XP</b>`
+      + (antes < META && hoy >= META ? ' — <b style="color:var(--color-sls)">¡meta cumplida! 🎯</b>' : '')
+      + `<br>Bono: +10 por terminar${L.perfecta ? ', +15 por no fallar ninguna' : ''}.`
+      + (pct < 40 ? '<br>Hoy costó: repite esta lección; la segunda vez se ve el avance.' : '');
+    $('#finRepaso').innerHTML = '';
+    const sig = siguienteNodo();
+    $('#finOtra').textContent = sig ? 'Siguiente lección →' : 'Repaso relámpago →';
+    $('#finOtra').onclick = () => Ruta.siguiente();
+    leccion = null;
+    Sonido.fin(); confeti(); window.scrollTo(0, 0);
+    if (Date.now() - bloque0 >= BLOQUE) setTimeout(() => abrirPausa('descanso'), 1400);
+  }
+
+  function abrirPausa(tipo){
+    pausaTipo = tipo; clearInterval(tPausa);
+    const img = (DATA.stickers || {})[tipo === 'vidas' ? 'coding_relajado' : 'sleepy'];
+    $('#pausaImg').src = img ? img[0] : ''; $('#pausaImg').style.display = img ? '' : 'none';
+    const btn = $('#pausaBtn'), resp = $('#pausaResp');
+    if (tipo === 'vidas'){
+      $('#pausaTit').textContent = 'Sin vidas: respira';
+      $('#pausaTxt').textContent = 'No pasa nada. Tres respiraciones lentas y recuperas las 3 vidas. Fallar aquí es lo que te hace acertar mañana.';
+      btn.textContent = 'Recuperar vidas'; btn.disabled = true;
+      let s = 0; resp.style.display = '';
+      const ciclo = () => { const dentro = Math.floor(s/4) % 2 === 0;
+        resp.textContent = dentro ? 'Inhala' : 'Exhala'; resp.classList.toggle('in', dentro);
+        if (++s >= 24){ clearInterval(tPausa); resp.textContent = 'Listo'; btn.disabled = false; } else if (s >= 12) btn.disabled = false; };
+      ciclo(); tPausa = setInterval(ciclo, 1000);
+    } else {
+      $('#pausaTit').textContent = 'Pausa de 5 minutos';
+      $('#pausaTxt').textContent = 'Llevas 25 minutos. Toma agua, estírate y mira lejos de la pantalla: el cerebro guarda lo aprendido en la pausa.';
+      btn.disabled = false; btn.textContent = 'Ya volví'; resp.style.display = '';
+      const f = Date.now() + 5*60000;
+      const t = () => { const r = Math.max(0, f - Date.now()); resp.textContent = `${Math.floor(r/60000)}:${String(Math.floor(r/1000)%60).padStart(2, '0')}`; if (!r) clearInterval(tPausa); };
+      t(); tPausa = setInterval(t, 1000);
+    }
+    $('#pausa').classList.add('on'); btn.focus();
+  }
+
+  return {
+    pintar: pintarRuta,
+    empezar: empezarNodo,
+    // la primera pendiente; si ya hiciste todas, el repaso relámpago menos repetido
+    siguiente(){
+      const todos = construir().flatMap(u => u.nodos);
+      const n = todos.find(x => !prog.nodos[x.id]) || todos.filter(x => x.mix).sort((a, b) => (prog.nodos[a.id] || 0) - (prog.nodos[b.id] || 0))[0];
+      if (n) empezarNodo(n.id);
+    },
+    hud, responder, fin, sumarXp,
+    necesitaPausa: () => leccion && leccion.vidas <= 0,
+    pausa: () => abrirPausa('vidas'),
+    cerrarPausa(){
+      clearInterval(tPausa); $('#pausa').classList.remove('on');
+      if (pausaTipo === 'vidas' && leccion){ leccion.vidas = VIDAS; hud(); siguiente(); }
+      if (pausaTipo === 'descanso') bloque0 = Date.now();
+    },
   };
 })();
 
@@ -903,6 +1271,8 @@ function pintarMenu(){
     + 'Las que fallas vuelven a salir hasta que las domines.';
   $('#stickersOn').checked = Mascota.activo();
   $('#asistOn').checked = Asistencia.activo();
+  $('#enfoqueOn').checked = Enfoque.activo(); $('#sonidoOn').checked = Sonido.activo();
+  Ruta.pintar();
   const ok = Object.values(prog.q).reduce((s,q)=>s+q.ok,0), mal = Object.values(prog.q).reduce((s,q)=>s+q.mal,0);
   const dias = diasAlExamen();
   telemetria([
@@ -949,7 +1319,9 @@ function ordenExamen(qs){
 function empezar(){
   const qs = seleccion();
   if (!qs.length) return toast('Esa combinación no deja ninguna pregunta');
-  examen = $('#modoExamen').checked;
+  examen = $('#modoExamen').checked; leccion = null;
+  $('#pillVidas').style.display = 'none'; $('#pillXp').style.display = 'none';
+  $('#finOtra').textContent = 'Otra ronda ↻'; $('#finOtra').onclick = () => empezar();
   cola = examen ? ordenExamen(qs) : ordenar(qs);
   idx = 0; racha = 0;
   sesion = {ok:0, mal:0, t0:Date.now(), areas:{}, fallos:[], total:cola.length};
@@ -1001,6 +1373,7 @@ function pintar(){
 
   $('#enunciado').textContent = actual.enunciado;
   $('#enunciado').classList.toggle('largo', actual.enunciado.length > 220);
+  Enfoque.lector($('#enunciado'), actual.enunciado);
   $('#enImg').innerHTML = actual.imagen ? `<img class="sp-enimg" src="${actual.imagen}" alt="figura de la pregunta">` : '';
   const det = $('#ctxHolder details');
   if (det) det.addEventListener('toggle', () => det.open && Mascota.evento('leerTexto'), {once:true});
@@ -1016,6 +1389,7 @@ function pintar(){
     [{opacity:0, transform:'translateY(14px)'}, {opacity:1, transform:'none'}],
     {duration:550, delay:i*55, easing:'cubic-bezier(.16,1,.3,1)', fill:'backwards'}));
   Asistencia.iniciar(actual);
+  Ruta.hud();
 }
 
 function responder(L){
@@ -1031,6 +1405,7 @@ function responder(L){
   const q = prog.q[actual.id] || {ok:0,mal:0};
   bien ? q.ok++ : q.mal++;
   q.ult = Date.now(); prog.q[actual.id] = q;
+  prog.hist.push([actual.area, bien ? 1 : 0]); if (prog.hist.length > 600) prog.hist.splice(0, prog.hist.length - 600);
   bien ? sesion.ok++ : sesion.mal++;
   const a = sesion.areas[actual.area] || {ok:0,mal:0};
   bien ? a.ok++ : a.mal++; sesion.areas[actual.area] = a;
@@ -1039,18 +1414,19 @@ function responder(L){
   sesion.errSeg = bien ? 0 : (sesion.errSeg || 0) + 1;
   if (racha > prog.mejorRacha) prog.mejorRacha = racha;
   Mascota.parar();
+  const extra = leccion ? Ruta.responder(bien, ayuda, L) : (examen ? '' : (bien ? Sonido.ok() : Sonido.mal(), ''));
   $('#pillRacha').textContent = `RACHA ${racha}`;
   guardar();
 
   if (examen){ setTimeout(siguiente, 250); return; }
 
   // en repaso, la fallada vuelve a salir unas preguntas después
-  if (!bien) cola.splice(Math.min(idx+4, cola.length), 0, actual);
+  if (!bien && !leccion) cola.splice(Math.min(idx+4, cola.length), 0, actual);
   const fb = $('#fb');
   const reac = Mascota.reaccion(bien, racha, sesion.errSeg, actual);
   fb.className = 'fb ' + (bien ? 'ok' : 'bad') + (reac ? ' con-stk' : '');
   fb.innerHTML = (reac ? `<img class="stk-in pop" src="${reac.img}" alt="">` : '') + '<div>'
-    + `<span class="res">${bien ? '✓ Correcta' : '✕ Era la ' + actual.correcta}</span>`
+    + `<span class="res">${bien ? '✓ Correcta' : '✕ Era la ' + actual.correcta}${extra}</span>`
     + (reac ? `<div class="why" style="margin-bottom:6px;color:var(--color-lunar)"><i>${esc(reac.txt)}</i></div>` : '')
     + (actual.explicacion ? `<div class="why">${actual.explicacion}</div>` : '')
     + (actual.afirmacion ? `<div class="sp-eval"><b>QUÉ EVALÚA</b> · ${actual.afirmacion}</div>` : '')
@@ -1059,12 +1435,13 @@ function responder(L){
     + '</div>';
   fb.style.display='block';
   $('#nav').style.display='flex';
-  $('#btnSig').textContent = (idx+1 >= cola.length) ? 'Ver resultado →' : 'Siguiente →';
+  $('#btnSig').textContent = (idx+1 >= cola.length) ? (leccion ? 'Terminar lección →' : 'Ver resultado →') : 'Siguiente →';
   fb.scrollIntoView({block:'nearest', behavior: REDUCIDO ? 'auto' : 'smooth'});
 }
 
 function siguiente(){
   if (!sesion || $('#juego').style.display === 'none') return;
+  if (Ruta.necesitaPausa()) return Ruta.pausa();
   idx++;
   if (idx >= cola.length) return terminar();
   pintar(); $('#juego').scrollIntoView({block:'start'});
@@ -1072,6 +1449,7 @@ function siguiente(){
 
 function terminar(){
   if ($('#juego').style.display === 'none') return;
+  if (leccion){ Asistencia.parar(); Mascota.parar(); return Ruta.fin(); }
   clearInterval(reloj); $('#pillReloj').style.display='none'; Asistencia.parar();
   prog.rondas++; guardar();
   const tot = examen ? sesion.total : sesion.ok + sesion.mal;
@@ -1112,6 +1490,7 @@ function contar(el){
 }
 
 function salir(){ clearInterval(reloj); $('#pillReloj').style.display='none'; Mascota.parar(); Asistencia.parar();
+  leccion = null; $('#pillVidas').style.display = 'none'; $('#pillXp').style.display = 'none';
   $('#juego').style.display='none'; $('#fin').style.display='none';
   $('#menu').style.display='block'; pintarMenu(); window.scrollTo(0, 0); }
 
@@ -1171,7 +1550,8 @@ function practicarArea(a){
 }
 
 document.addEventListener('keydown', e=>{
-  if ($('#juego').style.display === 'none' || $('#vPracticar').style.display === 'none' || e.target.closest('summary,input')) return;
+  if ($('#pausa').classList.contains('on') || $('#juego').style.display === 'none' || $('#vPracticar').style.display === 'none' || e.target.closest('summary,input')) return;
+  if (e.key === ' ' && Enfoque.leyendo()){ e.preventDefault(); return Enfoque.avanzar(); }
   const k = e.key.toUpperCase();
   if ('ABCD'.includes(k) && k.length === 1){ const b=document.querySelector(`.opt[data-k="${k}"]`); if(b && !b.disabled) b.click(); }
   if (k === 'H' && $('#nav').style.display === 'none') Asistencia.ya();
@@ -1180,7 +1560,7 @@ document.addEventListener('keydown', e=>{
 
 $('#foot').innerHTML = DATA.config.pie + '<br>' + Object.values(DATA.fuentes).map(f => f.url
   ? `${esc(f.credito)} <a href="${f.url}" target="_blank" rel="noopener noreferrer">icfes.gov.co</a>` : esc(f.credito)).join('<br>');
-fxTema(); pintarMenu(); animar();
+Enfoque.aplicar(); fxTema(); pintarMenu(); animar();
 setTimeout(() => Mascota.saludo(), 1600);
 if (location.hash === '#guia') vista('guia');
 </script>
